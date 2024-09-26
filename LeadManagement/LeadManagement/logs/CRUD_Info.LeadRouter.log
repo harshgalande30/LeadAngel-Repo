@@ -1,0 +1,193 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:37 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:46 - Click on leadRouting is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:55 - Right click on leadRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:64 - Click on New Lead Router is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:70 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:74 - Enter Object name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:83 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:92 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:101 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:105 - Click on LeadRouter DropDown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:114 - RightClick On AutoTestObject PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:123 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:132 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:188 - Right Click on LeadRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:197 - Click on New Lead Router is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:206 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:215 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:224 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:237 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:242 - Displayed LeadRouter Overview page
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:247 - Click on Lead Router Dropdown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:256 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:270 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:280 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:287 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:291 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:300 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:308 - ***************************************Assignment Block 1 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:312 - Drag And Drop AssignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:321 - Connect Decision Block To assignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:328 - ***************************************DecisionBlock2 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:332 - Drag And Drop DecisionBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:341 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:347 - ***************************************Assignment Block 2 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:351 - Drag And Drop AssignmentBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:360 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:367 - ***************************************Assignment Block 3 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:371 - Drag And Drop AssignmentBlock3 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:380 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:387 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:391 - Click on Detail Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:400 - Click On DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:409 - Select Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:418 - Click On ClickOnCheckBox is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:427 - Display Success is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:436 - DataValueUpdate WhenRoutedToDefaultLeadOwner AddButton is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:445 - DataValueUpdate WhenRoutedToDefaultLeadOwner DropDown1 For LeadRouter is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:454 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:463 - DataValueUpdate WhenRoutedToDefaultLeadOwner DropDown2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:472 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:481 - CheckBox For DataValueUpdate WhenRoutedToDefaultLeadOwner For LeadRouter is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:490 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:499 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:502 - Enter description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:505 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:508 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:512 - Click On draftbox is Passed!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:522 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:531 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:540 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:549 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:558 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:559 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:568 - ***************************************Decision block2 Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:572 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:581 - Select Decision Block List Element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:590 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:599 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:608 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:609 - Decision Block2 Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:617 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:621 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:630 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:639 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:648 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:657 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:666 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:675 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:685 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:694 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:703 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:704 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:712 - *********************************************Assignment block2 Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:716 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:725 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:734 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:743 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:752 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:761 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:770 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:779 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:797 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:798 - AssignmentBlock2 Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:806 - *********************************************Assignment block3 Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:810 - Double Click On Assignment3 Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:819 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:828 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:838 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:847 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:856 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:865 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:874 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:883 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:892 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:893 - AssignmentBlock3 Border Color is Verified and Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:902 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:906 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:915 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:924 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:933 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:940 - //=================================================EDIT SCENARIO START=======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:944 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:953 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:960 - ***************************************Edit Decision block2 Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:964 - Double Click On DecisionBlock2 is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:973 - Select Edit DecisionBlock List Element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:982 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:991 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1000 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1001 - Decision Block2 Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1009 - *********************************************EditAssignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1013 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1022 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1031 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1040 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1049 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1058 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1067 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1068 - AssignmentBlock1 Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1077 - //===============================================After Edit,Then Approve the Object========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1081 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1090 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1099 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1108 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1116 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1120 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1129 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1138 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1147 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1155 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1158 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1162 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1171 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1180 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1318 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1327 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1336 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1345 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1358 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1366 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1450 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1459 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1468 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1477 - Display clocned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1485 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1489 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1498 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1507 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1516 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1523 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1527 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1536 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1545 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1554 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1562 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1566 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1576 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1585 - Select Folder to move the Autotest object is Passed !!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1635 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1642 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1646 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1655 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1664 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1673 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1680 - //=============================== Activate and DeActivate Operation ===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1727 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1736 - Click On Active Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1745 - Displayed Activated Success Message is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1753 - ************************** DeActivate Operation **************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1757 - Right Click On Activated Object is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1766 - Click On DeActive Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1775 - Click Again DeActive Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRouter:1784 - Displayed DeActivated Success Message is PASSED!!!

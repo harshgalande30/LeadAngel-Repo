@@ -1,0 +1,184 @@
+ContactManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-12 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:46 - Click on ContactManagement is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:55 - Right Click on OTSrouter is passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:63 - Click on New OTS Router is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:67 - Enter AutoTestObject Name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:76 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:84 - Click on Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:222 - Refreshing The Page!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:253 - Click On DNDdiagram DropDown is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:262 - Minimize the Panner is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:270 - *************************************** Decision block DND ****************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:274 - Drag And Drop Decision block is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:283 - Connect StartBlock To DecisionBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:291 - *************************************** Action Block DND ****************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:295 - Drag And Drop ActionBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:304 - Connect DecisionBlock(No) To Action Block is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:312 - *************************************** OTS Assignment Block DND And Random Split DND ****************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:316 - Drag And Drop OTS AssignmentBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:325 - Drag And Drop RandomSplit is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:334 - Connect ActionBlock To RandomSplitBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:343 - Connect RandomSlitB To ActionBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:352 - Connect RandomSlitA To OTSassignmentBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:361 - Connect DecisionBlock(YES) To OTSAssignmentBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:369 - ***************************************Decision block Operation***************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:373 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:382 - Enter Description is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:391 - Click On Data dictionary option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:400 - Click On AddButton is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:409 - Click On CustomFilter is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:418 - Enter CustomFilter is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:427 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:436 - true
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:437 - Decision Block Border Color is Verified and Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:446 - *********************************************ActionBlock Operation********************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:450 - Double Click On Action Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:459 - Enter Description is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:468 - Select Call Webhook Option is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:477 - Select On Second ListBox is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:486 - Select Webhook Option is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:495 - Click On Continue processing CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:504 - Click On Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:513 - true
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:514 - Action Block Border Color is Verified and Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:522 - *********************************************RandomSplit Operation****************************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:526 - Double Click On RandomSplit Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:535 - Click On Description Of Random Split Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:544 - Write Value Inside PercentageAllocation For A is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:553 - Write Value Inside PercentageAllocation For B is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:562 - Write Value Inside PercentageAllocation For C is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:571 - Click On Save Button For RandomSplit is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:580 - true
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:581 - Display Random Split Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:590 - ********************************************* Assignment block Operation ****************************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:591 - =========================== Details Page Operation in OTS assignment block ===========================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:595 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:604 - Click On Details Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:613 - Enter Description of OTS Assignment block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:620 - =========================== Assignment Options Page Operation  ===========================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:624 - Click On Assignment Options button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:633 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:642 - Select LiveClaim Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:651 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:660 - Select AssignBasedOnLookupFieldInTheParentAccount Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:669 - Click Assign Based Firstbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:678 - Select Assign Based Firstbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:687 - Click Assign Based Secondbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:696 - Select Assign Based Secondbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:705 - Click Prefer Historical Sales Person CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:714 - Click On Email Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:723 - Click On Email Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:732 - Select Email Notification Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:741 - Click On Text Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:750 - Click On Text Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:759 - Select Text Notification Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:765 - ********************************************* Assignment Setup Operation ****************************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:769 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:778 - Click On Add-Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:787 - Enter ReassignmentWaitTime is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:796 - Click ReassignmentWaitTime DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:805 - Select Minutes is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:814 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:823 - Select LiveClaim Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:832 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:841 - Click on AssignToSalesRep option is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:850 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:859 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:868 - Click On Salck Notification CheckBox AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:877 - Click SelectSlackTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:886 - Select Slack Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:895 - Click On CRMinApp Notification DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:904 - Click Select CRMInAppTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:913 - Select CRMinApp Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:922 - Clicked On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:931 - true
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:932 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:941 - //========================================ENTERING DETAILS PAGE======================================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:945 - Enter Details Page is passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:954 - Click On Default Contact Owner DropDown is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:963 - Select DefaultContactOwner Option is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:973 - Click On Save Button For details Page OTS is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:982 - Display Success For DefaultLeadOwner is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:990 - Click On Description Edit button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:993 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:996 - Click On Description Save button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:999 - //===============================================APPROVE SCENARIO START========================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1003 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1012 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1021 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1030 - Displayed Approved button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1039 - //=======================================EDIT SCENARIO START=========================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1042 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1051 - Click on Edit Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1057 - ***************************************Edit Decision block Operation***************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1061 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1070 - Select Edit DecisionBlock List Element is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1079 - Click On AddButton is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1088 - Enter EditCustomFilter is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1097 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1115 - ***************************************Edit OTS router Operation***************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1119 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1128 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1137 - Select Broadcast Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1146 - Click On Broadcast ViaEmail CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1155 - Click On Broadcast ViaEmail DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1164 - Select Broadcast ViaEmail  Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1173 - Click On Broadcast ViaText CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1182 - Click On Broadcast ViaText DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1191 - Select Broadcast ViaText  Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1200 - Clicked On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1209 - true
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1210 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1218 - //===============================================APPROVE Ater Edit========================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1222 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1231 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1240 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1249 - Display Approved button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1257 - //======================================RENAME SCENARIO START=============================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1261 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1270 - Click on Rename is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1279 - Input on Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1288 - Click Rename Button is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1296 - Duplicate Object Found, Deleting Object NOW
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1299 - Display RenameAutoTest Object
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1303 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1312 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1321 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1458 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1467 - Click On Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1476 - Input on Rename AutoTestObject is passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1485 - Click on Rename Button AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1498 - Renamed AutoTest Object is Displayed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1507 - //===================================CLONE SCENARIO START================================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1591 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1600 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1609 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1618 - Display cloned RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1626 - //===============================Approve Cloned Object========================================!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1630 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1639 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1648 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1657 - Displayed Approved Button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1664 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1668 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1677 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1686 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1695 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1703 - //===============================MOVE OBJECT SCENARIO START========================================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1707 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1717 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1726 - Select Folder to move the Autotest object is Passed !!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1776 - Click On Move Button is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1783 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1787 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1796 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1805 - Select Main Folder is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_OTSrouter_ContactManagement:1814 - Click On Move Button is Passed!!!

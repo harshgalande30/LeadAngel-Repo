@@ -1,0 +1,187 @@
+AccountManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+AccountManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+AccountManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+AccountManagement-2024-09-12 main INFO BaseClass:131 - 1667
+AccountManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+AccountManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+AccountManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+AccountManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+AccountManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:45 - Click on AccountManagement is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:53 - Right Click on Wait Condition is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:56 - Click on New Wait Condition is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:60 - Enter AutoTestObject Name is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:69 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:77 - Click on Save Button WaitCondition is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:81 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:85 - Click on WaitCondition DropDown is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:94 - RightClick On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:103 - Click On Delete button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:112 - Click Again Delete button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:168 - Right Click on Wait Condition is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:177 - Click on New Wait Condition is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:186 - Enter Object Name is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:195 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:204 - Click on Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:217 - Refreshing The Page!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:222 - Display WaitCondition Overview passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:226 - Click on WaitCondition DropDown is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:235 - Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:248 - Click on Wait Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:256 - //====================================== DRAG&DROP WAIT_FOR ATTRIBUTE===================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:260 - Drag And Drop Wait For is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:269 - Input on WaitFor is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:280 - Click on WaitForMinutes is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:286 - //========================================= DRAG&DROP WAIT TILL  ATTRIBUTE================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:290 - Drag and Drop WaitTill is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:299 - Click on CalendarButton is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:308 - Click On Date is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:317 - Click on Select Time is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:326 - Click On Time is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:335 - Click On Ok button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:341 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:345 - Drag And Drop Wait Filter is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:354 - Click On WaitTll Option is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:363 - Click On WaitTillvalue DropDown is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:372 - Click On WaitTillvalue Option is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:380 - //=========================================APPROVE SCENARIO START=======================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:384 - RightClick On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:393 - Click on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:402 - Click on again Approve button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:411 - Displayed Approved button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:419 - //===============================ENTERING DETAILS PAGE===========================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:422 - Click on Details Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:425 - Click On Description Edit button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:428 - Enter Decription is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:431 - Click On Description Save button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:435 - Display 'No Record Found' is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:444 - //*************************************** Make Use of this Object in Account Router *******************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:448 - Right Click On AccountRouter is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:457 - Click on New AccountRouter is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:463 - //===============================CREATE OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:467 - Enter AutoTestName is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:476 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:485 - Click on Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:630 - Refreshing The Page!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:663 - Click On DNDdiagram DropDown is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:673 - Minimize the Panner is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:679 - *************************************** Decision Block DND ****************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:683 - Drag And Drop Decision block is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:692 - Connect StartBlock To DecisionBlock is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:699 - *************************************** Action Block DND ****************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:703 - Drag And Drop ActionBlock is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:712 - Connect DecisionBlock(No) To Action Block is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:720 - ***************************************Assignment Block DND****************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:724 - Drag And Drop AssignmentBlock is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:733 - Connect DecisionBlock(YES) To AssignmentBlock is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:739 - ***************************************Decision block Operation***************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:743 - Double Click On DecisionBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:752 - Click On Data dictionary option is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:761 - Click On AddButton is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:770 - Click On Save Button For DecisionBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:779 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:780 - Decision Block Border Color is Verified and Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:787 - *********************************************Assignment block1 Operation********************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:791 - Double Click On Assignment Block is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:800 - Click On DropDown AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:809 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:818 - Click On DropDown2 AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:827 - Select Option from the dropdown is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:837 - Click On Save Button For AssignmentBlock is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:846 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:847 - AssignmentBlock Border Colour is Verified and Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:855 - *********************************************ActionBlock Operation********************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:859 - Double Click On Action Block is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:868 - Select On Wait Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:877 - Select the Second ListBox dropdown is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:886 - Select AutoTestObject is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:895 - Click On Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:904 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:905 - Action Block Border Color is Verified and Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:913 - //========================================ENTERING DETAILS PAGE======================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:916 - Click on Details Button is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:920 - Click On Default Account Owner DropDown is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:929 - Select Default Account Owner Option is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:938 - CheckBox For Default Account Owner is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:947 - Display Success For Default Account Owner is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:954 - //===============================================APPROVE SCENARIO START========================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:958 - Click On draft box is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:966 - Click on Approve Button After EDIT is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:969 - Click Again Approve button is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:973 - Display Approved button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:981 - ======================================= Go back To Main Object ==================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:985 - Click on WaitCondition DropDown is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:994 - Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1000 - ===================== Used By Operation in Details Page =====================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1004 - ClickOn Detail button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1013 - Click On UsedBy Dropdown is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1024 - Fetch used by router name is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1030 - ********************** Verifying whether Used object can delete or not *********************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1034 - Click On Approved Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1043 - Click On Delete button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1052 - Click Again Delete Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1061 - Get Text From Error Message is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1070 - Displayed 'Cannot delete,It is Used' Error message is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1078 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1082 - Click On details button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1094 - Get Menu Title From Left tree Menu is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1103 - Click Used By Router Name is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1113 - Get Menu Title From Left tree Menu is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1122 - Account Management
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1123 - Account Management
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1124 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1136 - Get Object Name From Details tab : AutoTestObject
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1145 - AutoTest Object Name matched with the name from Details tab is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1154 - ======================================= Go back To Main Object ==================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1156 - //===========================================EDIT SCENARIO START==================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1160 - RightClick On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1169 - Click on Edit Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1178 - Click On WaitTllOption Is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1187 - Click On WaitTillvalue DropDown is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1196 - Click On WaitTillvalue Option is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1205 - Displayed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1225 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1241 - ===========================================Approve After Edit===================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1244 - Click on Approve Button After EDIT is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1247 - Click Again Approve button is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1251 - Display Approved button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1258 - //======================================RENAME SCENARIO START=============================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1262 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1271 - Click on Rename Object is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1280 - Input on Rename AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1289 - Click Rename Button is  PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1297 - Duplicate Object Found, Deleting Object NOW
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1300 - Display RenameAutoTest Object
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1304 - Right Click On RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1313 - Click On Delete Button in AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1322 - Click On Delete Button in AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1460 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1469 - Click On Rename AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1478 - Input on Rename AutoTestObject is passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1487 - Click on Rename Button AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1500 - Renamed AutoTest Object is Displayed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1509 - //===================================CLONE SCENARIO START================================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1593 - Right Click On RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1602 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1611 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1620 - Display clocned RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1628 - //===============================Approve Cloned Object========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1632 - Right Click On ClonedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1641 - Click on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1650 - Click again Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1659 - Displayed Approve button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1666 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1670 - Right Click On ClonedAutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1679 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1688 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1697 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1705 - //===============================MOVE OBJECT SCENARIO START========================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1710 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1719 - Click On Move Renamed AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1728 - Select Folder to move the Autotest object is Passed !!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1778 - Click On Move Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1785 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1790 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1799 - Click On Move Renamed AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1808 - Select Main Folder is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_AccountManagement:1817 - Click On Move Button is Passed!!!

@@ -1,0 +1,13 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_Maintenance_Administration:24 - Clicked on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_Maintenance_Administration:33 - Click On Maintenance is Passed
+Administration-2024-09-14 INFO TC_Sanity_Maintenance_Administration:42 - Click On Refresh Labels Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Maintenance_Administration:52 - Displayed Success Message For Maintenance is Passed

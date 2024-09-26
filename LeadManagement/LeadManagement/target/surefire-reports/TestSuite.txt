@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 19.894 sec <<< FAILURE! - in TestSuite
+LeadManagement(com.leadAngel.testCases.TC_Sanity_SRandGroupMapping_LeadManagement)  Time elapsed: 10.653 sec  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	expected [true] but found [false]
+	at com.leadAngel.testCases.TC_Sanity_SRandGroupMapping_LeadManagement.LeadManagement(TC_Sanity_SRandGroupMapping_LeadManagement.java:54)
+

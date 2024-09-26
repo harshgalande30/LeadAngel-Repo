@@ -1,0 +1,92 @@
+LeadManagement-2024-09-19 main INFO BaseClass:104 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-19 main INFO BaseClass:111 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-19 main INFO BaseClass:112 - https://stage.leadangel.com/index.html#/
+LeadManagement-2024-09-19 main INFO BaseClass:113 - 1667
+LeadManagement-2024-09-19 main INFO BaseClass:114 - ganesh@leadangel.com
+LeadManagement-2024-09-19 main INFO BaseClass:116 - Entered ClientID
+LeadManagement-2024-09-19 main INFO BaseClass:118 - Entered Email
+LeadManagement-2024-09-19 main INFO BaseClass:120 - Entered Password
+LeadManagement-2024-09-19 main INFO BaseClass:122 - Click on Submit
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:34 - Click on Lead Management is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:43 - Click on Data Dictionary is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:52 - Right Click on AccountList is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:61 - Click on New Account list is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:69 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:72 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:81 - Enter Description is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:90 - Clicked on Save Button is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:99 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:103 - Click on Account list dropdown is passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:112 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:121 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:130 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:186 - Right Click on AccountList is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:195 - Click on New AccountList is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:204 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:213 - Enter Description is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:222 - Click on Save Button is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:234 - Refreshing The Page!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:239 - Display Account List OverView
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:244 - Click on Account list dropdown is passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:253 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:267 - Click On AccountList Attribute is passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:275 - //================================================DND  Account List Operation===============================================
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:279 - Drag and Drop AccountList is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:290 - Select In option in Account Name is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:299 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:308 - Select One Account is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:316 - Click on Save button is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:323 - //=======================================APPROVE SCENARIO START======================================//
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:327 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:336 - Click On Approve Button AutoTestObject is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:344 - Click agian Approve button is passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:348 - Display Approved button is PASSED!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:355 - //================================================ENTERING DETAILS PAGE===============================================
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:359 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:367 - Click On Description Edit button is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:370 - Enter Description is passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:373 - Click On Description Save button is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:377 - Display 'No Record Found' is PASSED!!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:385 - //*********************************************** Make Use of this Object In LeadRouter(LeadManagement) *******************************************
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:389 - Click on leadRouting is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:398 - Right click on leadRouter is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:407 - Click on New Lead Router is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:414 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:418 - Enter Object name is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:427 - Enter data in Description is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:436 - Click on Save Button is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:581 - Refreshing The Page!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:614 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:624 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:631 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:635 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:644 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:650 - ***************************************Assignment Block DND****************************************
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:654 - Drag And Drop AssignmentBlock1 is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:663 - Connect Decision Block To assignmentBlock1 is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:669 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:673 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:682 - Select AutoTestObject is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:691 - Click On AddButton is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:700 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:709 - true
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:710 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:717 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:721 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:730 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:739 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:748 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:757 - Select SalesRepValue In AssignmentBlock is Passed !!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:766 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:775 - true
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:776 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:783 - //==============================  ENTERING DETAILS PAGE ==============================
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:787 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:796 - Click On DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:805 - Select Option is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:814 - Click On ClickOnCheckBox is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:823 - Display Success is Passed!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:830 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:834 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:843 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-19 main INFO TC_CrudOperation_AccountList:852 - Click again Approve Button is PASSED!!

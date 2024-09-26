@@ -1,0 +1,145 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:53 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:59 - //===============================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:63 - Right Click on AutoConversion is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:72 - Click On NewAutoConversion is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:79 - Only upto 3 auto conversion rules can be created message is displayed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:83 - Click on AutoConversion dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:129 - Click on Approved Object is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:138 - Click On Edit Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:165 - Click On Clear Icon is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:165 - Click On Clear Icon is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:176 - Click On Auto Preference Folder is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:183 - //================================================MergeLeadsWithContact DND Operation===============================================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:187 - Drag and Drop Merge Leads with Contact is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:196 - Select Merge Leads with Contact is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:204 - //================================================ConvertLeadToContact DND Operation===============================================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:208 - Drag and Drop Convert Lead To Contact is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:217 - Select Convert Lead to Contact Option is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:223 - //================================================ConvertLeadToContactAndAccount DND Operation===============================================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:227 - Drag and Drop Convert Lead To Contact And Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:236 - Select Convert Lead to Contact and Account Option is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:242 - //================================================CreateOppWhileMerging DND Operation===============================================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:246 - Drag and Drop Create Opp While Merging is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:255 - Select Create Opp While Merging Option is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:262 - //========================================ENTERING DETAILS PAGE======================================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:265 - Entering Details Page is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:268 - Click On Description Edit button is passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:271 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:274 - Click On Description Save button is passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:276 - //======================================APPROVE SCENARIO START===================================//
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:280 - Click On Draft Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:289 - Approve The Object is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:298 - Click on Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:307 - Display Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:314 - //============================================EDIT SCENARIO START======================================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:318 - Click On Edit is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:327 - Delete one Drag and Drop container is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:336 - Approve The Object After Edit is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:345 - Click on Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:355 - AutoTestObject_Rename
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:362 - Right click an object is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:371 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:382 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:391 - Click on Rename button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:402 - //======================================= RENAME SCENARIO START ================================//
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:411 - Right click the object is passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:421 - Click On RenameAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:430 - Input on RenameAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:439 - Click on Rename Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:498 - //==================================== OverView Page Opeartion Before Used  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:502 - Click On AutoConversion Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:511 - Display AutoConversion OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:521 - ***************** Column Header Check Box Operation ******************
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:522 - Displayed Column Header Checkbox Is Not Disabled 
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:527 - Click On ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:536 - Displayed ColumnHeader CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:561 - Displayed Delete Button is Enabled is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:571 - Uncheck the ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:595 - Displayed Delete Button is Disable is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:602 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:606 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:649 - Clear Test From The FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:725 - //*********************************************** Make Use of this Object In LeadRouter(LeadManagement) *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:729 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:738 - Click On LeadManagement from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:747 - Click on leadRouting is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:756 - Right click on leadRouter is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:765 - Click on New Lead Router is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:772 - //===============================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:776 - Enter Object name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:785 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:794 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:803 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:807 - Click on LeadRouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:816 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:825 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:834 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:891 - Right Click on LeadRouter is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:900 - Click on New Lead Router is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:909 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:918 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:927 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:940 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:945 - Displayed LeadRouter Overview page
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:950 - Click on Lead Router Dropdown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:959 - Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:973 - Click On DNDdiagram DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:980 - *************************************** Decision Block DND ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:984 - Drag And Drop Decision Block is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:993 - Connect StartBlock To DecisionBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:999 - ***************************************Assignment Block DND****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1003 - Drag And Drop AssignmentBlock1 is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1012 - Connect Decision Block To assignmentBlock1 is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1018 - ***************************************Decision block Operation***************************************
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1022 - Double Click On DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1031 - Click On Data dictionary option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1040 - Click On AddButton is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1049 - Click On Save Button For DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1058 - true
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1059 - Decision Block Border Color is Verified and Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1066 - *********************************************Assignment block1 Operation********************************************
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1070 - Double Click On Assignment Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1079 - Click On DropDown AssignmentBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1088 - Select SalesTeam In AssignmentBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1097 - Click On DropDown2 AssignmentBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1106 - Select Option From the Dropdown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1115 - Click AutoConvertLeadsIntoContact CheckBox is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1124 - Displayed Auto Convert Leads Into Contact And or Accounts CheckBox Is Checked!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1134 - Click AutoConvertLeadsIntoContact DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1143 - Select AutoTestObject_Rename is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1152 - Click On Save Button For AssignmentBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1161 - true
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1162 - AssignmentBlock Border Colour is Verified and Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1169 - //==============================  ENTERING DETAILS PAGE ==============================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1173 - Entering Details Page is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1182 - Click On DefaultLeadOwner DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1191 - Select Option is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1200 - Click On ClickOnCheckBox is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1209 - Display Success is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1216 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1220 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1229 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1238 - Click again Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1247 - Displayed Success Message is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1253 - ********************* Go back to AutoConversion In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1257 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1266 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1275 - Click on Auto Conversion dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1282 - //========================== Verifying Delete operaion Once after Used =======================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1286 - Click on RenameAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1295 - Click On Delete Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1304 - Click again Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1313 - Displayed 'Cannot delete,It is Used' Error message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1321 - //========================================Delete Craft scenario=======================================
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1325 - Click On Edit button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1334 - Click On DeleteCraft buton is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_AutoConversion_Administration:1344 - Dispalying Verified Sign is PASSED!!!

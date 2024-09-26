@@ -1,0 +1,280 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:45 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:53 - Click on Lead Routing is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:56 - Right Click on Escalation Condition is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:59 - Click on New object is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:63 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:72 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:80 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:222 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:253 - Click on Lead Attribute is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:260 - //===================================== DRAG&DROP FirstName ATTRIBUTE =====================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:264 - Drag And Drop First Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:273 - Click on DropDown FirstName is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:289 - Select contains is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:298 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:311 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:320 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:289 - Select does not contain is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:298 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:311 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:320 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:289 - Select starts with is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:298 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:311 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:320 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:289 - Select does not start with is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:298 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:311 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:320 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:289 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:298 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:289 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:298 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:289 - Select in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:298 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:336 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:345 - Select One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:353 - Click on Save button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:362 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:289 - Select not in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:298 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:336 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:345 - Select One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:353 - Click on Save button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:362 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:373 - //======================================= DRAG&DROP LONGITUDE ATTRIBUTE ==================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:377 - Drag and Drop Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:388 - Click on DropDown Longitude is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:425 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:442 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:451 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select not in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:425 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:442 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:451 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select is greater than is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:466 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:475 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select is smaller than is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:466 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:475 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select between is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:489 - Longitude Input Box For Between Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:498 - Dispalyed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:509 - Longitude Input Box For Between Box2 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:518 - Dispalyed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select is at least is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:466 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:475 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:402 - Select is at most is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:411 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:466 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:475 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:529 - //========================================= DRAG&DROP Converted ATTRIBUTE===================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:533 - Drag And Drop Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:544 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:560 - Select is is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:569 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:581 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:597 - Select True is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:606 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:597 - Select False is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:606 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:560 - Select is not is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:569 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:581 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:597 - Select True is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:606 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:597 - Select False is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:606 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:617 - //======================================== DRAG&DROP CRETED DATE ATTRIBUTE ==================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:621 - Drag and Drop Created Date is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:632 - Click on DropDown CreateDateFirstBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:669 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:678 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:687 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:669 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:678 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:687 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select on or before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:669 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:678 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:687 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select on or after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:669 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:678 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:687 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select in past is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:701 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:710 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:720 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select in past before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:701 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:710 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:720 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select in future is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:701 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:710 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:720 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select in future after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:701 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:710 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:720 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:737 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:746 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select between is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:760 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:769 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:778 - Dispalyed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:788 - Click On CreatedDate Calendar Button Box2 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:797 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:806 - Dispalyed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select in time frame is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:821 - Click on DropDown CreateDate for InTimeFrame is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select Today is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select Yesterday is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select This Week S S is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select This Week M F is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select Last Week S S is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select Last Week M F is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select This Month is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select Last Month is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select This Calendar Quarter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select Last Calendar Quarter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select This Calendar Year is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:838 - Select Last Calendar Year is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:847 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select is is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:669 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:678 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:687 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select is today is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select is not is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:669 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:678 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:687 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:647 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:656 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:863 - *********************** Search Box and refresh Button Operation **************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:868 - Get Text from first drag and drop box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:877 - Enter Text in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:886 - Displayed text in toolist, which is entered in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:895 - Click On Close Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:904 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:913 - Click on Lead attribute is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:923 - Click on DefaultFilter Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:932 - Select Custom Filter Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:941 - Input For CutomFilter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:950 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:959 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:967 - //================================================ENTERING DETAILS PAGE===============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:971 - Click on Details Button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:979 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:982 - Enter Decription is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:985 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:989 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:998 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1007 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1011 - Click On draftbox is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1019 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1022 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1026 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1033 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1037 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1046 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1055 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1065 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1073 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1077 - Click On EscalationCondition Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1086 - Display EscalationCondition OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1095 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1096 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1101 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1110 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1121 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1134 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1144 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1154 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1167 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1174 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1178 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1187 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1196 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1199 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1221 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1228 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1232 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1241 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1251 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1260 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationCondition_LeadManagement:1269 - Display Deleted success message is Passed

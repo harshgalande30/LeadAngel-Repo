@@ -1,0 +1,196 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:39 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:48 - Right Click on LeadProcessingWithoutRouting is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:57 - Click on New LeadProcessingWithoutRouting is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:64 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:68 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:77 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:86 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:221 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:254 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:263 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:270 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:274 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:283 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:291 - ***************************************Assignment Block 1 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:295 - Drag And Drop AssignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:304 - Connect Decision Block To assignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:311 - ***************************************DecisionBlock2 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:315 - Drag And Drop DecisionBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:324 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:330 - ***************************************Assignment Block 2 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:334 - Drag And Drop AssignmentBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:343 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:350 - ***************************************Assignment Block 3 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:354 - Drag And Drop AssignmentBlock3 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:363 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:370 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:373 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:377 - Click On DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:386 - Click On Default LeadOwner Select Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:395 - Click On CheckBox is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:404 - DisplaySuccess is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:414 - Click on Lead Processing Feeder Filter DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:423 - Select Lead Processing Feeder Filter Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:432 - CheckBox For Lead ProcessingFeeder Filter is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:441 - Display Success For LeadProcessingFeederFilter is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:450 - Click on Default Lead Owner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:459 - Select Default Lead Owner Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:468 - Check Box For Default Lead Owner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:477 - Display Success For DefaultLeadOwner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:486 - DataValueUpdate WhenRoutedToDefaultLeadOwner AddButton is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:495 - Data Value Update When Routed To Default Lead Owner DropDown1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:504 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:513 - DataValueUpdate WhenRoutedToDefaultLeadOwner DropDown2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:522 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:531 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:540 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:549 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:552 - Enter text in TextArea is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:556 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:559 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:563 - Click On draftbox is Passed!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:573 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:582 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:591 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:600 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:609 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:610 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:618 - ***************************************Decision block2 Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:622 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:631 - Select Decision Block List Element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:640 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:649 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:658 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:659 - Decision Block2 Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:668 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:672 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:681 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:690 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:699 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:708 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:717 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:726 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:735 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:744 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:753 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:754 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:762 - *********************************************Assignment block2 Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:766 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:775 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:784 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:793 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:802 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:811 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:820 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:829 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:838 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:847 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:848 - AssignmentBlock2 Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:857 - *********************************************Assignment block3 Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:861 - Double Click On Assignment3 Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:870 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:879 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:888 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:897 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:906 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:915 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:924 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:933 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:942 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:943 - AssignmentBlock3 Border Color is Verified and Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:952 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:957 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:966 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:975 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:984 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:991 - //=================================================EDIT SCENARIO START=======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:995 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1004 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1011 - ***************************************Edit Decision block2 Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1015 - Double Click On DecisionBlock2 is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1024 - Select Edit DecisionBlock List Element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1033 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1042 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1051 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1052 - Decision Block2 Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1060 - *********************************************EditAssignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1064 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1073 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1082 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1091 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1100 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1109 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1118 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1119 - AssignmentBlock1 Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1128 - //===============================================After Edit Approve Object========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1133 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1142 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1151 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1160 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1168 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1172 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1181 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1190 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1199 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1207 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1210 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1214 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1223 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1232 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1242 - Displayed 'Cannot Delete' Error Message
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1246 - Right Click On RenameAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1255 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1266 - Enter Rename is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1275 - Click Rename Button is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1370 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1379 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1388 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1397 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1410 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1419 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1503 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1512 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1521 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1530 - Display clocned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1538 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1542 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1551 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1560 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1569 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1576 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1580 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1589 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1598 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1607 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1615 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1620 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1629 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1638 - Select Folder to move the Autotest object is Passed !!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1688 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1695 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1699 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1708 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1717 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1726 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1733 - //=============================== Activate and DeActivate Operation ===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1739 - Right Click On Activated Object is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1748 - Click On DeActive Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1757 - Click Again DeActive Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1766 - Displayed DeActivated Success Message is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1780 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1789 - Click On Active Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1798 - Displayed Activated Success Message is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1806 - ************************** DeActivate Operation **************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1810 - Right Click On Activated Object is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1819 - Click On DeActive Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1828 - Click Again DeActive Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadProcessingWithoutRouting:1837 - Displayed DeActivated Success Message is PASSED!!!

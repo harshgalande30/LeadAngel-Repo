@@ -1,0 +1,142 @@
+AccountManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+AccountManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+AccountManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+AccountManagement-2024-09-12 main INFO BaseClass:131 - 1667
+AccountManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+AccountManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+AccountManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+AccountManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+AccountManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:45 - Click on AccountManagement is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:53 - Right Click on Wait Filter is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:56 - Click on New Wait Filter is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:60 - Enter object name is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:69 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:77 - Click on Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:217 - Refreshing The Page!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:248 - Click on AccountAttribute is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:255 - //================================== AccounttId_DND====================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:259 - Drag and Drop AccounttId is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:270 - Click on AccounttId Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:279 - Enter AccountID is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:286 - //================================== Deleted_DND====================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:290 - Drag and Drop Deleted is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:301 - Select Deleted Option1 is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:312 - Select Deleted Option2 is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:319 - //================================== BillingLatitude_DND====================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:323 - Drag and Drop BillingLatitude is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:334 - Select BillingLatitude Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:343 - Enter BillingLatitude is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:350 - //================================== CreadtedDate_DND====================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:354 - Drag and Drop CreadtedDate is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:365 - Select CreadtedDate Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:374 - Click on CalenderIcon is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:383 - Select Date is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:390 - //=========================================APPROVE SCENARIO START======================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:394 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:403 - Click on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:412 - Click again Approve button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:421 - Displayed Approved button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:429 - //=======================================ENTERING DETAILS PAGE=========================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:432 - Enter Details Page is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:435 - Click On Description Edit button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:438 - Input on Details TextArea is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:441 - Clicked On Description Save button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:445 - Display 'No Record Found' is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:453 - //*********************************************** Make Use of this Object in Wait Condition *******************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:457 - Right Click on Wait Condition is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:466 - Clicked on New Object is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:473 - //===============================CREATE OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:477 - Entered AutoTestName is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:486 - Enter data in Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:495 - Clicked on Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:641 - Refreshing The Page!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:672 - Clicked on WaitAttribute is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:678 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:682 - Drag And Drop WAIT FILTER is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:691 - Click On WaitTllOption Is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:700 - Click On WaitFilter dropdown is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:709 - Select AutoTestObject is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:717 - //===============================================APPROVE SCENARIO START========================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:720 - Clicked on Approve Button After EDIT is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:723 - Clicked Again Approve button is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:727 - Display Approved is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:734 - ======================================= Go back To Main Object ==================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:738 - Wait Filter DropDown is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:747 - Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:753 - ===================== Used By Operation in Details Page =====================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:757 - ClickOn Detail button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:766 - Click On UsedBy Dropdown is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:777 - Fetch used by router name is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:783 - ********************** Verifying whether Used object can delete or not *********************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:787 - Click On Approved Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:796 - Click On Delete button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:805 - Click Again Delete Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:814 - Get Text From Error Message is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:823 - Displayed 'Cannot delete,It is Used' Error message is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:831 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:835 - Click On details button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:847 - Get Menu Title From Left tree Menu is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:856 - Click Used By Router Name is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:866 - Get Menu Title From Left tree Menu is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:875 - Account Management
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:876 - Account Management
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:877 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:889 - Get Object Name From Details tab : AutoTestObject
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:898 - AutoTest Object Name matched with the name from Details tab is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:907 - ======================================= Go back To Main Object ==================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:910 - //=======================================EDIT SCENARIO START=========================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:913 - RightClick On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:922 - Clicked on Edit Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:931 - Select AccounttId Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:940 - Enter AccountID is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:949 - Select Deleted Option2 is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:956 - ===========================================Approve After Edit===================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:959 - Clicked on Approve Button After EDIT is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:962 - Clicked Again Approve button is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:966 - Display Approved is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:973 - //======================================RENAME SCENARIO START=============================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:977 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:986 - Clicked on Rename Object is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:995 - Input on Rename AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1004 - Clicked Rename Button is  PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1012 - Duplicate Object Found, Deleting Object NOW
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1015 - Display RenameAutoTest Object
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1019 - Right Click On RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1028 - Click On Delete Button in AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1037 - Click On Delete Button in AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1047 - Displayed 'Cannot Delete' Error Message
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1051 - Right Click On RenameAutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1060 - Clicked on Rename Object is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1071 - Enter Rename is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1080 - Clicked Rename Button is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1175 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1184 - Click On Rename AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1193 - Input on Rename AutoTestObject is passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1202 - Click on Rename Button AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1215 - Renamed AutoTest Object is Displayed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1224 - //===================================CLONE SCENARIO START================================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1308 - Right Click On RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1317 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1326 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1335 - Display clocned RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1343 - //===============================Approve Cloned Object========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1347 - Right Click On ClonedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1356 - Clicked on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1365 - Clicked again Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1374 - Displayed Success Message is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1381 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1385 - Right Click On ClonedAutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1394 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1403 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1412 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1420 - //===============================MOVE OBJECT SCENARIO START========================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1425 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1434 - Click On Move Renamed AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1443 - Select Folder to move the Autotest object is Passed !!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1493 - Click On Move Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1500 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1505 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1514 - Click On Move Renamed AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1523 - Select Main Folder is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_AccountManagement:1532 - Click On Move Button is Passed!!!

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LeadAngelV1">
+	
+	<listeners>
+	
+		 <listener class-name="com.leadAngel.utilities.TestAllureListener" />
+		 
+	</listeners>
+<!-- ================================================= FOR CHROME ================================================== -->
+	<test name="LA_chrome">
+	 
+		<parameter name="browser" value="chrome" />	
+		<parameter name="roleName" value="admin" />		
+		
+		 <classes>
+		 	           
+	     <class name ="com.leadAngel.testCases.TC_Sanity_OTSrouter_ContactManagement"/>
+		
+ 
+ <!-- ********************************************* ContactManagement Crud Operation ********************************************-->
+
+	<!--
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_ContactRoutingTerritory_ContactManagement"/>*
+		<class name ="com.leadAngel.testCases.TC_CrudOperation_WaitFilter_ContactManagement"/> *
+		<class name ="com.leadAngel.testCases.TC_CrudOperation_CRMcontactFilter_ContactManagement"/>*
+		<class name ="com.leadAngel.testCases.TC_CrudOperation_ContactRouter_ContactManagement"/>*
+		<class name ="com.leadAngel.testCases.TC_CrudOperation_WaitCondition_ContactManagement"/>*
+		<class name ="com.leadAngel.testCases.TC_CrudOperation_OTSrouter_ContactManagement"/>*-->
+		
+		
+ <!-- ********************************************* ContactManagement Sanity Test cases ********************************************-->
+		
+	<!--      <class name ="com.leadAngel.testCases.TC_Sanity_ContactProcessingWithoutRouting_ContactManagement"/>*
+		      <class name ="com.leadAngel.testCases.TC_Sanity_CRMcontactFilter_ContactManagement"/>*
+		      <class name ="com.leadAngel.testCases.TC_Sanity_ContactRoutingTerritory_ContactManagement"/>*
+		      <class name ="com.leadAngel.testCases.TC_Sanity_WaitFilter_ContactManagement"/>*
+		      <class name ="com.leadAngel.testCases.TC_Sanity_WaitCondition_ContactManagement"/>*
+		      <class name ="com.leadAngel.testCases.TC_Sanity_OTSrouter_ContactManagement"/>*
+		      <class name ="com.leadAngel.testCases.TC_Sanity_ContactRouter_ContactManagement"/>*-->
+		
+
+		</classes>
+		</test>	
+</suite> 

@@ -1,0 +1,81 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:35 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:44 - Click on NotificationsDropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:53 - Click On OTSnotifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:62 - Click On AcceptanceConfirmationEmail is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:68 - =========================================  LeadAcceptanceConfirmationEmail Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:73 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:136 - ******************************************* Subject snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:140 - Click On InsertSnippet Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:149 - Click On SelectObject DropDown For InsertValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:186 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:195 - Click On InsertValue SelectField DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:204 - Click On InsertValue SelectField Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:213 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:164 - Click On InsertSnippet Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:173 - Click On SelectObject DropDown For InsertValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:186 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:195 - Click On InsertValue SelectField DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:204 - Click On InsertValue SelectField Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:213 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:222 - ******************************************* Message Body snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:227 - Click On InsertSnippet Button For Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:236 - Click On SelectObject DropDown For InsertValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:273 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:282 - Click On InsertValue SelectField DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:291 - Click On InsertValue SelectField Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:300 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:251 - Click On InsertSnippetButton For Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:260 - Click On SelectObject DropDown For InsertValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:273 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:282 - Click On InsertValue SelectField DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:291 - Click On InsertValue SelectField Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:300 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:307 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:311 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:320 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:328 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:332 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:95 - =========================================  ContactAcceptanceConfirmationEmail Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:100 - Click On Contact AcceptanceConfirmationEmail Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:109 - Click On Continue Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:118 - Click On RestoreDefault Button for Contact AcceptanceConfirmationEmail is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:136 - ******************************************* Subject snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:140 - Click On InsertSnippet Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:149 - Click On SelectObject DropDown For InsertValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:186 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:195 - Click On InsertValue SelectField DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:204 - Click On InsertValue SelectField Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:213 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:164 - Click On InsertSnippet Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:173 - Click On SelectObject DropDown For InsertValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:186 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:195 - Click On InsertValue SelectField DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:204 - Click On InsertValue SelectField Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:213 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:222 - ******************************************* Message Body snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:227 - Click On InsertSnippet Button For Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:236 - Click On SelectObject DropDown For InsertValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:273 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:282 - Click On InsertValue SelectField DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:291 - Click On InsertValue SelectField Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:300 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:251 - Click On InsertSnippetButton For Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:260 - Click On SelectObject DropDown For InsertValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:273 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:282 - Click On InsertValue SelectField DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:291 - Click On InsertValue SelectField Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:300 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:307 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:311 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:320 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:328 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationEmail_Administration:332 - Click On RestoreDefault Button is Passed

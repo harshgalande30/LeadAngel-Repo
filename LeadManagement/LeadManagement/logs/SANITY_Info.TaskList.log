@@ -1,0 +1,80 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:45 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:48 - Right Click on TaskList is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:51 - Click on New object is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:55 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:64 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:72 - Clicked on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:212 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:246 - Input on TaskList is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:255 - Not Displayed 'Subject Required' ErrorNote
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:265 - Click on CalendarButton is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:274 - Click On Date is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:283 - Not Displayed 'Due by date required' ErrorNote
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:293 - Click On DueWithinDays Radio Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:302 - Enter DueWithinDays is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:311 - Not Displayed 'Due With-In Days Required' ErrorNote
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:326 - Select High is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:326 - Select Normal is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:326 - Select Low is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:336 - Dispalyed SelectBox is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:351 - Select Not Started is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:360 - Dispalyed SelectBox is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:351 - Select In Progress is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:360 - Dispalyed SelectBox is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:351 - Select Completed is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:360 - Dispalyed SelectBox is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:351 - Select Waiting for someone else is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:360 - Dispalyed SelectBox is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:351 - Select Deferred is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:360 - Dispalyed SelectBox is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:371 - Input  on Comment Box is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:379 - //================================================ENTERING DETAILS PAGE===============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:383 - Click on Details Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:391 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:394 - Enter Discription is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:397 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:401 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:410 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:418 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:422 - Click On draftbox is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:430 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:433 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:437 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:443 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:447 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:456 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:465 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:475 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:483 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:487 - Click On TaskLists Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:496 - Click on TaskList DropDown is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:504 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:505 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:510 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:519 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:530 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:543 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:553 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:563 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:576 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:583 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:587 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:596 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:605 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:608 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:630 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:637 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:641 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:650 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:660 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:669 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_TaskList_Leadmanagement:678 - Display Deleted success message is Passed

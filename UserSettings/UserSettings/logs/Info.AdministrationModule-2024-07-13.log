@@ -1,0 +1,47 @@
+Administration-2024-07-13 00:42:59:000164 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-07-13 00:42:59:000201 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-07-13 00:42:59:000201 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-07-13 00:42:59:000201 main INFO BaseClass:132 - 1002
+Administration-2024-07-13 00:42:59:000202 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-07-13 00:42:59:000468 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-07-13 00:42:59:000703 main INFO BaseClass:137 - Entered Email
+Administration-2024-07-13 00:42:59:000909 main INFO BaseClass:139 - Entered Password
+Administration-2024-07-13 00:43:00:000029 main INFO BaseClass:141 - Click on Submit
+Administration-2024-07-13 00:43:00:000151 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-07-13 01:19:17:000368 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 01:29:47:000998 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 01:38:40:000048 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 01:38:48:000483 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-07-13 01:38:48:000706 main INFO TestClass:18 - Drag and Drop 
+Administration-2024-07-13 01:38:48:000761 main INFO BaseClassImplimentaion:71 - Close Browser
+Administration-2024-07-13 01:41:05:000580 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 01:41:13:000241 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-07-13 01:41:17:000606 main INFO TestClass:18 - Drag and Drop 
+Administration-2024-07-13 01:43:00:000627 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 01:43:08:000584 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-07-13 01:43:12:000948 main INFO TestClass:18 - Drag and Drop 
+Administration-2024-07-13 01:59:10:000781 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 01:59:18:000125 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-07-13 01:59:20:000216 main INFO BaseClassImplimentaion:65 - Displayed Colour Is Highlited Once DragAndDrop
+Administration-2024-07-13 01:59:22:000297 main INFO BaseClassImplimentaion:74 - Displayed Dropped Text is Passed
+Administration-2024-07-13 01:59:26:000674 main INFO TestClass:18 - Drag and Drop 
+Administration-2024-07-13 02:02:32:000671 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 02:02:42:000502 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-07-13 02:02:44:000595 main INFO BaseClassImplimentaion:65 - Displayed Colour Is Highlited Once DragAndDrop
+Administration-2024-07-13 02:02:46:000670 main INFO BaseClassImplimentaion:74 - Displayed Dropped Text is Passed
+Administration-2024-07-13 02:02:51:000043 main INFO TestClass:18 - Drag and Drop 
+Administration-2024-07-13 02:04:23:000577 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 02:04:31:000487 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-07-13 02:04:33:000602 main INFO BaseClassImplimentaion:65 - Displayed Colour Is Highlited Once DragAndDrop
+Administration-2024-07-13 02:04:35:000714 main INFO BaseClassImplimentaion:74 - Displayed Dropped Text is Passed
+Administration-2024-07-13 02:04:40:000126 main INFO TestClass:18 - Drag and Drop 
+Administration-2024-07-13 02:07:00:000097 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 02:07:08:000949 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-07-13 02:07:11:000051 main INFO BaseClassImplimentaion:65 - Displayed Colour Is Highlited Once DragAndDrop
+Administration-2024-07-13 02:07:13:000119 main INFO BaseClassImplimentaion:74 - Displayed Dropped Text is Passed
+Administration-2024-07-13 02:07:17:000534 main INFO TestClass:18 - Drag and Drop 
+Administration-2024-07-13 02:08:51:000571 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-07-13 02:09:01:000867 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-07-13 02:09:03:000942 main INFO BaseClassImplimentaion:65 - Displayed Colour Is Highlited Once DragAndDrop
+Administration-2024-07-13 02:09:05:000992 main INFO BaseClassImplimentaion:74 - Displayed Dropped Text is Passed
+Administration-2024-07-13 02:09:10:000339 main INFO TestClass:18 - Drag and Drop 

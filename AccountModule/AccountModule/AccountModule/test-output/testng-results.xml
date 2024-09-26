@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="1" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-22T18:56:05 IST" name="LeadAngelV1" finished-at="2023-11-22T19:04:39 IST" duration-ms="514084">
+    <groups>
+    </groups>
+    <test started-at="2023-11-22T18:56:05 IST" name="LA_chrome" finished-at="2023-11-22T19:04:39 IST" duration-ms="514084">
+      <class name="com.leadAngel.testCases.TC_CrudOperation_AEtoSDRMaping_AccountManagement">
+        <test-method is-config="true" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_AEtoSDRMaping_AccountManagement@54acff7d]" started-at="2023-11-22T18:56:05 IST" name="setup" finished-at="2023-11-22T18:56:12 IST" duration-ms="6952" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="crud_AE_to_SDR()[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_AEtoSDRMaping_AccountManagement@54acff7d]" started-at="2023-11-22T18:56:12 IST" name="crud_AE_to_SDR" finished-at="2023-11-22T18:58:01 IST" duration-ms="109146" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [true] but found [false],
+expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [true] but found [false],
+expected [true] but found [false]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)
+at com.leadAngel.testCases.TC_CrudOperation_AEtoSDRMaping_AccountManagement.handleException(TC_CrudOperation_AEtoSDRMaping_AccountManagement.java:24)
+at com.leadAngel.testCases.TC_CrudOperation_AEtoSDRMaping_AccountManagement.crud_AE_to_SDR(TC_CrudOperation_AEtoSDRMaping_AccountManagement.java:514)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crud_AE_to_SDR -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_AEtoSDRMaping_AccountManagement@54acff7d]" started-at="2023-11-22T18:58:02 IST" name="tearDown" finished-at="2023-11-22T18:58:02 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.leadAngel.testCases.TC_CrudOperation_AEtoSDRMaping_AccountManagement -->
+      <class name="com.leadAngel.testCases.TC_CrudOperation_WST_AccountManagement">
+        <test-method is-config="true" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_WST_AccountManagement@5488b5c5]" started-at="2023-11-22T19:01:48 IST" name="setup" finished-at="2023-11-22T19:01:54 IST" duration-ms="5840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LeadManagementTest()[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_WST_AccountManagement@5488b5c5]" started-at="2023-11-22T19:01:54 IST" name="LeadManagementTest" description="AccountManagement_WeightedSalesTeam _Section" finished-at="2023-11-22T19:04:38 IST" duration-ms="163833" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [true] but found [false]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:47)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:31)
+at com.leadAngel.testCases.TC_CrudOperation_WST_AccountManagement.LeadManagementTest(TC_CrudOperation_WST_AccountManagement.java:533)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LeadManagementTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_WST_AccountManagement@5488b5c5]" started-at="2023-11-22T19:04:39 IST" name="tearDown" finished-at="2023-11-22T19:04:39 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.leadAngel.testCases.TC_CrudOperation_WST_AccountManagement -->
+      <class name="com.leadAngel.testCases.TC_CrudOperation_RoundRobinTeam_AccountManagement">
+        <test-method is-config="true" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_RoundRobinTeam_AccountManagement@7bc9e6ab]" started-at="2023-11-22T18:58:02 IST" name="setup" finished-at="2023-11-22T18:58:08 IST" duration-ms="5930" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LeadManagementTest()[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_RoundRobinTeam_AccountManagement@7bc9e6ab]" started-at="2023-11-22T18:58:08 IST" name="LeadManagementTest" description="AccouuntManagement_RRT Section" finished-at="2023-11-22T19:01:48 IST" duration-ms="220186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LeadManagementTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.leadAngel.testCases.TC_CrudOperation_RoundRobinTeam_AccountManagement@7bc9e6ab]" started-at="2023-11-22T19:01:48 IST" name="tearDown" finished-at="2023-11-22T19:01:48 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.leadAngel.testCases.TC_CrudOperation_RoundRobinTeam_AccountManagement -->
+    </test> <!-- LA_chrome -->
+  </suite> <!-- LeadAngelV1 -->
+</testng-results>

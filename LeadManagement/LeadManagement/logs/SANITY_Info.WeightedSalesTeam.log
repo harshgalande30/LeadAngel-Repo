@@ -1,0 +1,219 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:50 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:59 - Click on Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:68 - Right Click on Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:76 - Clicked on New object is Passed 
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:78 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:82 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:91 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:99 - Click on Save is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:104 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:108 - Click On WeightedSalesTeam DropDown is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:116 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:125 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:134 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:190 - Right Click on Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:199 - Click on New button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:208 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:217 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:226 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:238 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:243 - Display WeightedSalesTeam Overview 
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:248 - Click On WeightedSalesTeam DropDown is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:256 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:269 - //-----------------------------First Time Drag And Drop SalesRep-------------------------------//
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:273 - Drag And Drop SalesRep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:282 - Click on SalesRep Inputbox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:299 - Select SalesRep option is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:308 - Enter value for Weight is PASSED
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:315 - //-----------------------------Second Time Drag And Drop SalesRep-------------------------------//
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:319 - Drag And Drop SalesRep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:328 - Click on SalesRep Inputbox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:346 - Select SalesRep option is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:355 - Enter value for Weight is PASSED
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:365 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:374 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:381 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:384 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:387 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:391 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:399 - //=====================================ENTERING DETAILS PAGE============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:403 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:412 - Click On QueOwner DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:421 - Select On QueOwner Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:430 - Displayed AssignToQueueOwnerIrrespectiveOfCalendarAvailability CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:441 - Click On DoNotAssignToDefaultOwner CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:450 - Displayed DoNotAssignToDefaultOwner CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:461 - Click On AssignToTheSalesTeamOwnerIfNoOneAcceptsWithin CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:470 - Displayed AssignToTheSalesTeamOwnerIfNoOneAcceptsWithin CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:481 - Enter Duration In Numbers For AssignToTheSalesTeamOwnerIfNoOneAcceptsWithinCheckBox Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:490 - Click On Dropdown For Units is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:517 - Select Second(s) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:504 - Click On Dropdown For Units is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:517 - Select Minute(s) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:504 - Click On Dropdown For Units is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:517 - Select Hour(s) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:504 - Click On Dropdown For Units is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:517 - Select Day(s) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:528 - Click On Refresh Button For_Recipient_TO_SlackChannels is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:537 - Displayed Success message is  PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:547 - Click Select DropDown For_Recipient_TO_SlackChannels is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:556 - Select FirstOption For_RecipientTO is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:566 - Click On WhenQueueOwnerIsBusyOnCalendar CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:575 - Displayed WhenQueueOwnerIsBusyOnCalendar CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:585 - Click On WhenQueueOwnerIsBusyIsAwayOnVacation CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:594 - Displayed WhenQueueOwnerIsBusyIsAwayOnVacation CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:604 - Click On Always CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:613 - Displayed Always CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:623 - Click On Save Button For QueOwner In DetailsPage is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:632 - Dislay Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:641 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:650 - Input on Details TextArea passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:659 - Click On Description Save buttonis passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:668 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:677 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:685 - //=========================================== QUEUE MANAGEMENT PAGE=============================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:688 - Click On Queue Management Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:692 - Click on Prefer assignment to sales people with most Accrued Lead Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:701 - Displayed Prefer assignment to sales people with most Accrued Lead RadioButton Is Checked
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:711 - Enter Maximum LeadAccrual is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:719 - Click on Assign Leads only to currently available sales rep CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:723 - Displayed Assign Leads only to currently available sales rep RadioButton Is Checked
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:732 - Click on Calendar Based Availabilty Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:735 - Click on Makes Sales People Unavailable check box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:738 - Select Minutes Before Meeting is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:741 - Select Minutes after Meeting is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:744 - Select If no one is available, hold the Lead till someone is available is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:747 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:752 - Display Success Message is PASSED
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:769 - ************************* Arrow Button Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:775 - Get Second SalesRepName is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:785 - Click On UpwordArrow Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:794 - Get First SalesRepName is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:813 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:822 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:832 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:842 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:849 - ************************* Radio Button Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:853 - Click On Status Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:862 - Displayed Status is InActive is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:873 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:882 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:892 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:903 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:914 - Click On Status Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:923 - Displayed Status is Active is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:934 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:943 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:953 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:963 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:970 - ************************* Lead Accured Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:974 - Enter Lead Accrued is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:983 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:992 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1002 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1012 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1023 - Enter Value more than the Maximum Lead Accrual is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1033 - Displayed LeadAccured Inputbox Border Is Red is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1044 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1054 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1061 - ************************* Refresh Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1065 - Click On Status Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1074 - Displayed Status is InActive is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1084 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1093 - Displayed Status is Active is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1103 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1113 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1120 - ************************* Reset Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1124 - Click On Status Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1133 - Displayed Status is InActive is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1143 - Click On Reset Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1152 - Displayed Status is Active is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1162 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1172 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1179 - ************************* Assignment History Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1183 - Click On AssignmentHistory Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1192 - Click On First CalendarButton is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1201 - Choose an Active Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1210 - Click On Second Calendar Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1219 - Choose an End Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1228 - Click On Search Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1237 - Displayed History Details is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1244 - ---------- Filter Operation ----------
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1247 - 'Data.com Clean'
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1251 - Enter Text in Filterbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1263 - Displayed Details which is Entered in Filterbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1273 - Click On clear Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1282 - Close AssignmentHistory Popup is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1290 - //======================================== ASSIGNMENT LIMIT PAGE================================// 
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1294 - Enter Assignment Limit Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1303 - Displayed CheckBox IsDisabled is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1314 - Click on Add Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1325 - Enter Input '20' on TextArea is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1334 - Enter '3' on Leads Every Inputbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1343 - Click On dropdown for select box is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1352 - Select 'Hour' option from the Selectbox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1361 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1370 - Displayed Success message is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1380 - Displayed Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1314 - Click on Add Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1314 - Click on Add Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1314 - Click on Add Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1392 - Displayed Add Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1403 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1403 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1403 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1414 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1423 - Displayed Success message is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1439 - Enter '24' on Leads Every Inputbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1480 - Displayed LeadEvery Inputbox Border Color Red is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1490 - Displayed Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1450 - Enter '31' on Leads Every Inputbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1459 - Click On dropdown for select box is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1468 - Select 'Day' option from the Selectbox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1480 - Displayed LeadEvery Inputbox Border Color Red is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1490 - Displayed Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1502 - Enter '3' on Leads Every Inputbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1511 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1520 - Displayed Success message is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1530 - Click On CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1539 - Displayed CheckBox Is Unchecked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1549 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1558 - Displayed Success message is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1567 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1571 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1580 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1589 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1599 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1607 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1611 - Click On WeightedSalesTeam Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1620 - Display WeightedSalesTeam OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1629 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1630 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1635 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1644 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1655 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1668 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1678 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1688 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1701 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1708 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1712 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1721 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1730 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1733 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1755 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1762 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1766 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1775 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1785 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1794 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WST_LeadManagement:1803 - Display Deleted success message is Passed

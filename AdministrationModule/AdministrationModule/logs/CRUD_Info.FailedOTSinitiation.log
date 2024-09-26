@@ -1,0 +1,120 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:39 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:48 - Click on Notifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:57 - Click On OTSnotifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:66 - Click On FailedOTSInitiation is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:73 - =========================================  LeadFailedOTSInitiationTab Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:77 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:86 - 'CRM validation failed!' is perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:95 - 'The <<Object Type>>  information does not align with our validation criteria' is perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:159 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:163 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:172 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:209 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:218 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:227 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:236 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:187 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:196 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:209 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:218 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:227 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:236 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:246 - Enter Text Inside FailedOTSinitiation Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:259 - Selected all the text from the FailedOTSinitiation Message body
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:261 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:265 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:274 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:284 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:293 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:303 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:312 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:322 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:331 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:342 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:351 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:361 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:370 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:380 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:389 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:399 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:408 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:418 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:427 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:437 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:446 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:457 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:466 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:476 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:485 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:492 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:496 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:505 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:513 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:517 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:526 - 'CRM validation failed!' is perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:535 - 'The <<Object Type>>  information does not align with our validation criteria' is perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:549 - Displayed hasPopup FailedOTSInitiation is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:104 - =========================================  ContactFailedOTSInitiationTab Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:109 - Move the mouse cursor to ContactFailedOTSInitiation is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:114 - Click On Contact FailedOTSInitiation Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:123 - Click On Continue Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:132 - Click On RestoreDefault Button for Contact FailedOTSinitiation is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:142 - 'CRM validation failed!' is perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:151 - 'The <<Object Type>>  information does not align with our validation criteria' is perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:159 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:163 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:172 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:209 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:218 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:227 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:236 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:187 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:196 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:209 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:218 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:227 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:236 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:246 - Enter Text Inside FailedOTSinitiation Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:259 - Selected all the text from the FailedOTSinitiation Message body
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:261 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:265 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:274 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:284 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:293 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:303 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:312 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:322 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:331 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:342 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:351 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:361 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:370 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:380 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:389 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:399 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:408 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:418 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:427 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:437 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:446 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:457 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:466 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:476 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:485 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:492 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:496 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:505 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:513 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:517 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:526 - 'CRM validation failed!' is perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:535 - 'The <<Object Type>>  information does not align with our validation criteria' is perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_FailedOTSinitiation_Administration:549 - Displayed hasPopup FailedOTSInitiation is Passed

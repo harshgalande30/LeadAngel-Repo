@@ -1,0 +1,118 @@
+OpportunityManagement-2024-09-12 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+OpportunityManagement-2024-09-12 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+OpportunityManagement-2024-09-12 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+OpportunityManagement-2024-09-12 main INFO BaseClass:133 - 1667
+OpportunityManagement-2024-09-12 main INFO BaseClass:134 - ganesh@leadangel.com
+OpportunityManagement-2024-09-12 main INFO BaseClass:136 - Entered ClientID
+OpportunityManagement-2024-09-12 main INFO BaseClass:138 - Entered Email
+OpportunityManagement-2024-09-12 main INFO BaseClass:140 - Entered Password
+OpportunityManagement-2024-09-12 main INFO BaseClass:142 - Click on Submit
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:49 - Click on OpportunityManagement is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:57 - Right Click on Wait Condition is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:60 - Click on New Wait Condition is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:64 - Enter AutoTestObject Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:73 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:81 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:87 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:91 - Click on WaitCondition DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:100 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:109 - Click On Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:118 - Click Again Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:174 - Right Click on Wait Condition is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:183 - Click on New Wait Condition is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:192 - Enter Object Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:201 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:210 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:223 - Refreshing The Page!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:228 - Display WaitCondition Overview passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:232 - Click on WaitCondition DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:241 - Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:254 - Click on Wait Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:263 - //====================================== DRAG&DROP WAIT_FOR ATTRIBUTE===================================//
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:267 - Drag And Drop Wait For is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:276 - Input on WaitFor is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:285 - Displayed Input Box is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:302 - Select Minutes is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:311 - Displayed Select Box is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:302 - Select Hours is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:311 - Displayed Select Box is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:302 - Select Days is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:311 - Displayed Select Box is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:320 - //========================================= DRAG&DROP WAIT TILL  ATTRIBUTE================================//
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:324 - Drag and Drop WaitTill is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:333 - Click on CalendarButton is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:342 - Click On Date is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:351 - Displayed Input Box1 is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:361 - Click on Select Time is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:370 - Click On Time is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:379 - Click On Ok button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:388 - Displayed Input Box2 is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:396 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:400 - Drag And Drop WAIT FILTER is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:414 - Click On WaitFilter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:426 - Select Wait filter returns true is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:435 - Displayed Select Box is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:445 - Click On WaitFilterSelect is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:456 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:460 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:478 - Object Name After Click NewTab Link: AutoTestObject_Rename
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:482 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:496 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:519 - Displayed NgSelect Box is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:414 - Click On WaitFilter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:426 - Select Wait filter returns false is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:435 - Displayed Select Box is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:445 - Click On WaitFilterSelect is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:509 - Click On WaitFilterOption is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:519 - Displayed NgSelect Box is not red
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:527 - *********************** Search Box and refresh Button Operation **************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:532 - Get Text from first drag and drop box is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:541 - Enter Text in search box is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:550 - Displayed text in toolist, which is entered in search box is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:559 - Click On Close Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:568 - Click On Refresh Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:577 - Click on Wait Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:587 - Click on DefaultFilter Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:596 - Select Custom FilterOption is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:605 - Input For CutomFilter Wait Condition is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:614 - Click on CollapseAll is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:623 - Click on ExpandAll is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:630 - //========================================ENTERING DETAILS PAGE======================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:633 - Click on Details Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:636 - Click On Description Edit button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:639 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:642 - Click On Description Save button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:646 - Click On Copy Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:655 - Displayed Copied Success Message is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:663 - ==================================== Approve ==================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:667 - Click On draftbox is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:675 - Click on Approve Button After EDIT is passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:678 - Click Again Approve button is passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:682 - Display Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:689 - //========================================Delete Craft scenario=======================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:693 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:702 - Click On Edit AutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:711 - Click On DeleteCraft buton is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:721 - Dispalying Verified Sign is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:730 - //==================================== OverView Page Opeartion  ==================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:734 - Click On WaitCondition Feature is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:743 - Display WaitCondition OverView Page is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:751 - ***************** Column Header Check Box Operation ******************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:755 - Click On ColumnHeader CheckBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:764 - Displayed ColumnHeader CheckBox Is Checked is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:775 - Displayed AutTestObject CheckBox Is Checked is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:788 - Displayed Delete Button is Enabled is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:798 - Click On ColumnHeader CheckBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:808 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:821 - Displayed Delete Button is Disable is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:829 - ********************** Filter Operation *************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:833 - Enter Text In FilterBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:842 - Displayed AutoTestObject is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:853 - Displayed AutoTestObject is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:874 - Clear Test From The FilterBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:883 - ********************** Delete AutoTestObject Operation *************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:887 - Click On AutTestObject CheckBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:896 - Displayed AutTestObject CheckBox Is Checked is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:906 - Click On Delete Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:915 - Click Again Delete Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_OpportunityManagement:924 - Display Deleted success message is Passed

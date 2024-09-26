@@ -1,0 +1,201 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:43 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:52 - Click on Lead Routing is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:61 - Right Click on OTSrouter is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:70 - Click on New OTS Router is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:76 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:80 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:89 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:98 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:106 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:110 - Click on OTSrouter DropDown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:119 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:128 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:137 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:193 - Right Click on OTSrouter is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:202 - Click on New OTS Router is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:211 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:220 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:229 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:242 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:247 - Display OTS router Overview
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:251 - Click on OTSrouter DropDown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:260 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:274 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:283 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:291 - *************************************** Decision block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:295 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:304 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:312 - *************************************** Action Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:316 - Drag And Drop ActionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:325 - Connect DecisionBlock(No) To Action Block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:333 - *************************************** OTS Assignment Block DND And Random Split DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:337 - Drag And Drop OTS AssignmentBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:346 - Drag And Drop RandomSplit is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:355 - Connect ActionBlock To RandomSplitBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:364 - Connect RandomSlitB To ActionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:373 - Connect RandomSlitA To OTSassignmentBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:382 - Connect DecisionBlock(YES) To OTSAssignmentBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:390 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:394 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:403 - Enter Description is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:412 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:421 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:430 - Click On CustomFilter is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:439 - Enter CustomFilter is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:448 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:457 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:458 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:467 - *********************************************ActionBlock Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:471 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:480 - Enter Description is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:489 - Select Call Webhook Option is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:498 - Select On Second ListBox is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:507 - Select Webhook Option is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:516 - Click On Continue processing CheckBox is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:525 - Click On Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:534 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:535 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:543 - *********************************************RandomSplit Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:547 - Double Click On RandomSplit Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:556 - Click On Description Of Random Split Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:565 - Write Value Inside PercentageAllocation For A is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:574 - Write Value Inside PercentageAllocation For B is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:583 - Write Value Inside PercentageAllocation For C is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:592 - Click On Save Button For RandomSplit is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:601 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:602 - Display Random Split Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:611 - ********************************************* Assignment block Operation ****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:612 - =========================== Details Page Operation in OTS assignment block ===========================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:616 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:625 - Click On Details Button is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:634 - Enter Description of OTS Assignment block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:641 - =========================== Assignment Options Page Operation  ===========================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:645 - Click On Assignment Options button is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:654 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:663 - Select LiveClaim Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:672 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:681 - Select AssignBasedOnLookupFieldInTheParentAccount Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:690 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:699 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:708 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:717 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:726 - Click Prefer Historical Sales Person CheckBox is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:735 - Click On Email Notification CheckBox is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:744 - Click On Email Notification DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:753 - Select Email Notification Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:762 - Click On Text Notification CheckBox is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:771 - Click On Text Notification DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:780 - Select Text Notification Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:786 - ********************************************* Assignment Setup Operation ****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:790 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:799 - Click On Add-Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:808 - Enter ReassignmentWaitTime is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:817 - Click ReassignmentWaitTime DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:826 - Select Minutes is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:835 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:844 - Select LiveClaim Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:853 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:862 - Click on AssignToSalesRep option is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:871 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:880 - Select Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:889 - Click On Salck Notification CheckBox AssignmentSetup is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:898 - Click SelectSlackTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:907 - Select Slack Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:916 - Click On CRMinApp Notification CheckBox AssignmentSetup is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:925 - Click Select CRMInAppTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:934 - Select CRMinApp Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:943 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:952 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:953 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:963 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:967 - Enter Details Page is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:976 - Default LeadOwner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:985 - Select Default LeadOwner Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:995 - Click On Save Button For details Page OTS is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1004 - Display Success is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1012 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1015 - Enter Text in TextArea is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1018 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1021 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1025 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1034 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1043 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1052 - Displayed Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1060 - //=======================================EDIT SCENARIO START=========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1064 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1073 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1079 - ***************************************Edit Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1083 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1092 - Select Decision Block List element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1101 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1110 - Enter EditCustomFilter is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1119 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1128 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1129 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1138 - ***************************************Edit OTS router Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1142 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1151 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1160 - Select Broadcast Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1169 - Click On Broadcast ViaEmail CheckBox is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1178 - Click On Broadcast ViaEmail DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1187 - Select Broadcast ViaEmail  Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1196 - Click On Broadcast ViaText CheckBox is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1205 - Click On Broadcast ViaText  DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1214 - Select Broadcast ViaText  Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1223 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1232 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1233 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1241 - //===============================================APPROVE Ater Edit========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1245 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1254 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1263 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1272 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1280 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1284 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1293 - Click on Rename is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1302 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1311 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1319 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1322 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1326 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1335 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1344 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1481 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1490 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1499 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1508 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1521 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1530 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1614 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1623 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1632 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1641 - Display cloned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1649 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1653 - Right Click On Cloned AutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1662 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1671 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1680 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1687 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1691 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1700 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1709 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1718 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1726 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1730 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1740 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1749 - Select Folder to move the Autotest object is Passed !!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1799 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1806 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1810 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1819 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1828 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_OTS_Router_LeadManagement:1837 - Click On Move Button is Passed!!!

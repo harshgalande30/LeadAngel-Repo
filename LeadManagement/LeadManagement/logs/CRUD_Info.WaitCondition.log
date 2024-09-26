@@ -1,0 +1,206 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:42 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:45 - Click on Lead Routing is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:48 - Right Click on Wait Condition is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:51 - Click on New Wait Condition is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:55 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:64 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:72 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:77 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:81 - WaitCondition DropDown is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:90 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:99 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:108 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:164 - Right Click on Wait Condition is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:173 - Click on New Wait Condition is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:182 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:191 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:200 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:213 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:218 - Display WaitCondition Overview passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:222 - Click On WaitCondition DropDown is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:231 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:244 - Click on Wait Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:252 - //====================================== DRAG&DROP WAIT_FOR ATTRIBUTE===================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:256 - Drag And Drop Wait For is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:265 - Input on WaitFor is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:276 - Click on WaitForMinutes is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:282 - //========================================= DRAG&DROP WAIT TILL  ATTRIBUTE================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:286 - Drag And Drop WaitTill is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:295 - Click on Calendar Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:304 - Click On Date is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:313 - Click on Select Time is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:322 - Click On Time is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:331 - Click On Ok Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:338 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:342 - Drag And Drop WAIT FILTER is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:351 - Click On WaitTllOption Is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:360 - Click On WaitFilterSelect is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:369 - Click On WaitFilter Option is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:376 - //=========================================APPROVE SCENARIO START======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:380 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:389 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:398 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:407 - Displayed Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:414 - //===============================ENTERING DETAILS PAGE===========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:417 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:420 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:423 - Enter text in TextArea is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:426 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:430 - Display 'No Record Found' is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:439 - //**************************************** Make Use of this Object Lead Router *******************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:443 - Right click on leadRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:452 - Click on New Lead Router is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:459 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:463 - Enter Object name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:472 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:481 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:490 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:494 - Click on Lead Router Dropdown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:503 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:512 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:521 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:578 - Right Click on LeadRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:587 - Click on New Lead Router is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:596 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:605 - Enter in Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:614 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:627 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:632 - Displayed LeadRouter Overview page
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:637 - Click on Lead Router Dropdown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:646 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:660 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:670 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:676 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:680 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:689 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:696 - *************************************** Action Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:700 - Drag And Drop ActionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:709 - Connect DecisionBlock(No) To Action Block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:717 - ***************************************Assignment Block DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:721 - Drag And Drop AssignmentBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:730 - Connect DecisionBlock(YES) To AssignmentBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:736 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:740 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:749 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:758 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:767 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:776 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:777 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:784 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:788 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:797 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:806 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:815 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:824 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:834 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:843 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:844 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:852 - *********************************************ActionBlock Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:856 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:865 - Select On Wait Option is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:874 - Select the Second ListBox dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:883 - Select AutoTestObject is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:892 - Click On Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:901 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:902 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:909 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:912 - Entering Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:916 - Click On DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:925 - Select Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:934 - Click On CheckBox is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:943 - Display Success is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:950 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:954 - Click On draft box is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:962 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:965 - Click Again Approve button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:969 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:976 - ======================================= Go back To Main Object ==================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:980 - Click on WaitCondition DropDown is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:989 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:995 - ===================== Used By Operation in Details Page =====================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:999 - Click on Detail button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1008 - Click On UsedBy Dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1019 - Fetch used by router name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1025 - ********************** Verifying whether Used object can delete or not *********************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1029 - Click On Approved Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1038 - Click On Delete button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1047 - Click Again Delete Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1056 - Get Text From Error Message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1065 - Displayed 'Cannot delete,It is Used' Error message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1073 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1077 - Click On details button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1089 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1098 - Click Used By Router Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1108 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1117 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1118 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1119 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1131 - Get Object Name From Details tab : AutoTestObject
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1140 - AutoTest Object Name matched with the name from Details tab is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1149 - ======================================= Go back To Main Object ==================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1152 - //===========================================EDIT SCENARIO START==================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1155 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1164 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1173 - Click On WaitTllOption Is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1182 - Click On WaitFilterSelect Is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1191 - Click On WaitFilter Option Is  PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1200 - Displayed Input Box is not red
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1220 - Displayed Select Box is not red
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1236 - ===========================================Approve After Edit===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1239 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1242 - Click Again Approve button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1246 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1253 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1257 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1266 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1275 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1284 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1292 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1295 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1299 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1308 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1317 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1327 - Displayed 'Cannot Delete' Error Message
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1331 - Right Click On RenameAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1340 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1351 - Enter Rename is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1360 - Click Rename Button is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1455 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1464 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1473 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1482 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1495 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1504 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1588 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1597 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1606 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1615 - Display cloned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1623 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1627 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1636 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1645 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1654 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1661 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1665 - Right Click On ClonedAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1674 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1683 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1692 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1700 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1705 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1714 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1723 - Select Folder to move the Autotest object is Passed !!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1773 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1780 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1785 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1794 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1803 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitCondition:1812 - Click On Move Button is Passed!!!

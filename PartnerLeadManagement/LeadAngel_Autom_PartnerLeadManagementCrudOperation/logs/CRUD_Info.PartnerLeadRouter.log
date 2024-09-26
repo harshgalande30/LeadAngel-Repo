@@ -1,0 +1,193 @@
+PartnerLead-2024-09-14 INFO BaseClass:124 - ======================================= INFORMATION ======================================
+PartnerLead-2024-09-14 INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+PartnerLead-2024-09-14 INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+PartnerLead-2024-09-14 INFO BaseClass:133 - 1002
+PartnerLead-2024-09-14 INFO BaseClass:134 - ganesh@leadangel.com
+PartnerLead-2024-09-14 INFO BaseClass:136 - Entered ClientID
+PartnerLead-2024-09-14 INFO BaseClass:138 - Entered Email
+PartnerLead-2024-09-14 INFO BaseClass:140 - Entered Password
+PartnerLead-2024-09-14 INFO BaseClass:142 - Click on Submit
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:41 - Click on PartnerLeadManagement is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:50 - Click on PartnerLeadRouting DropDown is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:59 - Right Click On PartnerLeadRouter is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:68 - Click on New PartnerLeadRouter is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:74 - //===============================CREATE OBJECT SCENARIO START========================================!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:78 - Enter AutoTestObject Name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:87 - Enter Description is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:96 - Click on Save Button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:105 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:109 - Click on PartnerLeadRouter DropDown is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:118 - RightClick On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:126 - Click On Delete button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:135 - Click Again Delete button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:191 - Right Click On PartnerLeadRouter is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:200 - Click on New PartnerLeadRouter is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:209 - Enter AutoTestObject Name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:218 - Enter Description is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:227 - Click on Save Button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:240 - Refreshing The Page!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:245 - Display PartnerLeadRouter Overview Page
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:250 - Click on PartnerLeadRouter DropDown is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:259 - Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:273 - Click On DNDdiagram DropDown is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:282 - Minimize the Panner is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:290 - *************************************** Decision Block DND ****************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:294 - Drag And Drop Decision block is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:303 - Connect StartBlock To DecisionBlock is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:311 - ***************************************Assignment Block 1 DND****************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:315 - Drag And Drop AssignmentBlock1 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:324 - Connect Decision Block To assignmentBlock1 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:331 - ***************************************DecisionBlock2 DND****************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:335 - Drag And Drop DecisionBlock2 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:344 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:350 - ***************************************Assignment Block 2 DND****************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:354 - Drag And Drop AssignmentBlock2 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:363 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:370 - ***************************************Assignment Block 3 DND****************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:374 - Drag And Drop AssignmentBlock3 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:383 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:390 - //========================================ENTERING DETAILS PAGE======================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:394 - Click on Detail Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:403 - Click On DefaultLeadOwner DropDown is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:412 - Select Option is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:421 - Click On ClickOnCheckBox is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:430 - Display Success is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:439 - DataValueUpdate WhenRoutedToDefaultLeadOwner AddButton is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:448 - DataValueUpdate WhenRoutedToDefaultLeadOwner DropDown1 For LeadRouter is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:457 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option1 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:466 - DataValueUpdate WhenRoutedToDefaultLeadOwner DropDown2 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:475 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option2 is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:484 - CheckBox For DataValueUpdate WhenRoutedToDefaultLeadOwner For LeadRouter is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:493 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:502 - Click On Description Edit button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:505 - Enter description is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:508 - Click On Description Save button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:511 - ***************************************Decision block Operation***************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:515 - Click On draftbox is Passed!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:525 - Double Click On DecisionBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:534 - Click On Data dictionary option is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:543 - Click On AddButton is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:552 - Click On Save Button For DecisionBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:561 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:562 - Decision Block Border Color is Verified and Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:570 - ***************************************Decision block2 Operation***************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:574 - Double Click On DecisionBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:583 - Select Decision Block List Element is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:592 - Click On AddButton is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:601 - Click On Save Button For DecisionBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:610 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:611 - Decision Block2 Border Color is Verified and Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:619 - *********************************************Assignment block1 Operation********************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:623 - Double Click On Assignment Block is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:632 - Click On DropDown AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:641 - Select SalesRep In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:650 - Click On DropDown2 AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:659 - Select SalesRep Value In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:668 - Click On CheckBox For AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:677 - Click On SelectMappedSDR is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:687 - Click On SelectMappedSDR Option is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:696 - Click On Save Button For AssignmentBlock is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:705 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:706 - AssignmentBlock Border Colour is Verified and Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:714 - *********************************************Assignment block2 Operation****************************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:718 - Double Click On Assignment Block is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:727 - Click On DropDown AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:736 - Select SalesRep In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:745 - Click On DropDown2 AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:754 - Select SalesRep Value In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:763 - Click On CheckBox For AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:772 - Click On SelectMappedSDR is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:781 - Click On SelectMappedSDR Option is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:790 - Click On Save Button For AssignmentBlock is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:799 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:800 - AssignmentBlock2 Border Colour is Verified and Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:808 - *********************************************Assignment block3 Operation****************************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:812 - Double Click On Assignment3 Block is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:821 - Click On DropDown AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:830 - Select SalesRep In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:840 - Click On DropDown2 AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:849 - Select SalesRep Value In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:858 - Click On CheckBox For AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:867 - Click On SelectMappedSDR is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:876 - Click On SelectMappedSDR Option is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:885 - Click On Save Button For AssignmentBlock is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:894 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:895 - AssignmentBlock3 Border Color is Verified and Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:904 - //===============================================APPROVE SCENARIO START========================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:908 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:917 - Click on Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:926 - Click again Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:935 - Displayed Approved Object is PASSED!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:942 - //=================================================EDIT SCENARIO START=======================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:946 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:955 - Click on Edit Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:962 - ***************************************Edit Decision block2 Operation***************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:966 - Double Click On DecisionBlock2 is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:975 - Select Edit DecisionBlock List Element is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:984 - Click On AddButton is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:993 - Click On Save Button For DecisionBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1002 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1003 - Decision Block2 Border Color is Verified and Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1011 - *********************************************EditAssignment block1 Operation********************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1015 - Double Click On Assignment Block is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1024 - Click On DropDown AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1033 - Select SalesRep In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1042 - Click On DropDown2 AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1051 - Select SalesRep Value In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1060 - Click On Save Button For AssignmentBlock is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1069 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1070 - AssignmentBlock1 Border Colour is Verified and Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1079 - //===============================================After Edit,Then Approve the Object========================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1083 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1092 - Click on Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1101 - Click again Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1110 - Displayed Approved Button is PASSED!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1118 - //======================================RENAME SCENARIO START=============================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1122 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1131 - Click on Rename Object is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1140 - Input on Rename AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1149 - Click Rename Button is  PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1157 - Duplicate Object Found, Deleting Object NOW
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1160 - Display RenameAutoTest Object
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1164 - Right Click On RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1173 - Click On Delete Button in AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1182 - Click On Delete Button in AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1320 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1329 - Click On Rename AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1338 - Input on Rename AutoTestObject is passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1347 - Click on Rename Button AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1360 - Renamed AutoTest Object is Displayed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1368 - //===================================CLONE SCENARIO START================================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1452 - Right Click On RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1461 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1470 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1479 - Display cloned RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1487 - //===============================Approve Cloned Object========================================!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1491 - Right Click On ClonedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1500 - Click on Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1509 - Click again Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1518 - Displayed Approved Object is PASSED!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1525 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1529 - Right Click On ClonedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1538 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1547 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1556 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1564 - //===============================MOVE OBJECT SCENARIO START========================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1568 - Right Click On RenamedAutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1578 - Click On Move Renamed AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1587 - Select Folder to move the Autotest object is Passed !!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1637 - Click On Move Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1644 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1648 - Right Click On RenamedAutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1657 - Click On Move Renamed AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1666 - Select Main Folder is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1675 - Click On Move Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1682 - //=============================== Activate and DeActivate Operation ===================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1729 - Right Click On RenamedAutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1738 - Click On Active Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1747 - Displayed Activated Success Message is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1755 - ************************** DeActivate Operation **************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1759 - Right Click On Activated Object is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1768 - Click On DeActive Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1777 - Click Again DeActive Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement:1786 - Displayed DeActivated Success Message is PASSED!!!

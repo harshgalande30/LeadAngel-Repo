@@ -1,0 +1,180 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:51 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:60 - Click On Integrations DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:69 - Click On WebhookIntegration DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:76 - //=====================================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:80 - Context Click On CustomHeader is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:89 - Click On NewCustomHeader is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:98 - Enter AutoTestObject name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:107 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:242 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:270 - ===============================CustomHeader1_DND Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:274 - Drag and Drop Custom Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:285 - Enter Header Name1 is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:294 - Enter Header Value1 is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:301 - ========================================CustomHeader2_DND Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:305 - Drag and Drop Custom Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:316 - Enter Header Name2 is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:325 - Enter Header Value2 is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:332 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:336 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:345 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:354 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:363 - Display Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:370 - //===============================================Details page operation========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:374 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:383 - Click On Edit Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:392 - Enter Description is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:401 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:410 - Display 'No Record Found' is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:419 - //==================================== OverView Page Opeartion Before Used  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:423 - Click On CustomHeader Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:432 - Display CustomHeader OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:442 - ***************** Column Header Check Box Operation ******************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:443 - Displayed Column Header Checkbox Is Not Disabled 
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:448 - Click On ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:457 - Displayed ColumnHeader CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:482 - Displayed Delete Button is Enabled is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:492 - Uncheck the ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:516 - Displayed Delete Button is Disable is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:523 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:527 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:570 - Clear Test From The FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:647 - //*********************************************** Make Use of this Object In Webhook(Administration) *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:651 - Right Click on Webhook is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:660 - Click On NewObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:669 - Enter AutoTestObject name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:678 - Select Router Type Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:687 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:696 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:700 - Click on Webhook Dropdown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:709 - RightClick On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:718 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:727 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:783 - Right Click on Webhook DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:792 - Click on New Webhook is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:801 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:810 - Select Router Type is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:819 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:831 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:836 - Display Webhook Overview is passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:840 - Click on Webhook Dropdown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:849 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:861 - ========================== URL Operation =============================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:865 - Enter URL insideURL textarea is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:872 - ========================= Request Type  Operation ===============================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:876 - select Option In RequestType is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:882 - ==================== Response Mapping  Operation =========================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:886 - select DropDown Of Response Mapping is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:895 - select Option From Response Mapping is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:902 - =========================  Custom Header  Operation  =============================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:906 - select DropDown Of Custom Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:915 - Select AutoTestObject is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:921 - ********************* Save Operation ********************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:925 - Click On Approve Button is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:934 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:943 - Display Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:950 - ********************* Go back to Custom Header Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:954 - Click on Webhook DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:963 - Click on Custom Header DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:972 - Click On AutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:979 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:981 - //===============================================Details page operation after Used this object in Webhook========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:985 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:994 - Click On UsedBy Dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1005 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1011 - ********************** Verifying whether Used object can delete or not *********************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1015 - Click On Approved Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1024 - Click On Delete button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1033 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1042 - Get Text From Error Message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1051 - Displayed 'Cannot delete,It is Used' Error message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1059 - ********* Verify that the 'Used By' object name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1063 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1075 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1084 - Click Used By Router Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1094 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1103 - Administration
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1104 - Administration
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1105 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1117 - Get Text From Details tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1126 - AutoTest Object Name matched with the name from Details tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1134 - ********************* Go back to Custom Header Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1138 - Click on Webhook DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1146 - //===============================================Crud Operation========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1147 - ***************************************  Edit Scenario Start **********************************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1151 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1160 - Click on Edit Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1167 - *************************************** Edit Value ******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1171 - Drag and Drop Custom Header is  PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1182 - Enter Header Name3 is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1191 - Enter Header Value3 is  PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1198 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1201 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1210 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1220 - Click on Collapse All is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1229 - Click on Expand All is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1236 - //========================================Delete Craft scenario=======================================
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1240 - Click On Edit Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1249 - Click On Delete Craft buton is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1258 - Dispalying Verified Sign is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1267 - //======================================RENAME SCENARIO START=============================================//
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1271 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1280 - Click on Rename Object is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1289 - Input on Rename AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1298 - Click Rename Button is  PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1306 - Duplicate Object Found, Deleting Object NOW
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1309 - Display RenameAutoTest Object
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1313 - Right Click On RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1322 - Click On Delete Button in AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1331 - Click On Delete Button in AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1341 - Displayed 'Cannot Delete' Error Message
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1345 - Right Click On RenameAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1354 - Click on Rename Object is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1365 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1374 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1469 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1478 - Click On Rename AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1487 - Input on Rename AutoTestObject is passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1496 - Click on Rename Button AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1509 - Renamed AutoTest Object is Displayed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1518 - //===================================CLONE SCENARIO START================================================//
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1602 - Right Click On RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1611 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1620 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1629 - Display cloned RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1637 - //===============================Approve Cloned Object========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1641 - Right Click On ClonedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1650 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1659 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1668 - Displayed Approved Button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1675 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1679 - Right Click On ClonedAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1688 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1697 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1706 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1714 - //===============================MOVE OBJECT SCENARIO START========================================
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1719 - Right Click On RenamedAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1728 - Click On Move Renamed AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1737 - Select Folder to move the Autotest object is Passed !!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1787 - Click On Move Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1794 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1798 - Right Click On RenamedAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1807 - Click On Move Renamed AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1816 - Select Main Folder is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1825 - Click On Move Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1833 - //==================================== OverView Page Opeartion After approved  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1837 - Click On CustomHeader Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1846 - Display CustomHeader OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1855 - *****************Verifying Column Header Check Is Disabled******************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1867 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1872 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CustomHeader:1914 - Clear Test From The FilterBox is Passed

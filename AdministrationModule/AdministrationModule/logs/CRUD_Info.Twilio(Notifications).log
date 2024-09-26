@@ -1,0 +1,227 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:46 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:55 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:61 - //===============================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:65 - Right Click on Twilio is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:74 - Click on New Twilio is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:83 - Enter AutoTestObject name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:92 - Select Router Type Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:101 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:248 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:256 - ===================================================Recipient_TO_  Operation===================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:260 - Click On CheckBox OTSBroadcastNotificationRecipients Twilio is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:269 - Enter Input For NotificationRecipients Twilio is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:276 - =======================================================Message Body====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:280 - Enter Message Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:289 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:299 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:335 - Select Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:344 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:353 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:362 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:313 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:322 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:335 - Select Account Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:344 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:353 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:362 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:313 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:322 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:335 - Select Latest Campaign is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:344 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:353 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:362 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:313 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:322 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:335 - Select Latest Campaign Member is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:344 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:353 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:362 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:313 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:322 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:335 - Select Lead is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:344 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:353 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:362 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:313 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:322 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:335 - Select Lead Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:344 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:353 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:362 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:313 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:322 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:335 - Select URL is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:344 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:353 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:362 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:372 - =======================================================Save====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:376 - Save Button For Twilio is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:385 - Saving Verification Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:392 - ====================================================Refresh==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:394 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:397 - *************************************Verification OTSBroadcastNotificationRecipients ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:401 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:402 - Verify Checkbox OTSBroadcastNotificationRecipients Twilio is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:412 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:413 - Verify Border OTSBroadcastNotificationRecipients Twilio is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:421 - *************************************Verification Message Body ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:425 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:426 - Verify Border Message Body Twilio is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:433 - //*********************************************** Detail Tab *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:439 - Click On Detail Tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:448 - Click On Copy Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:457 - Displayed 'Id copied to clipboard' maessage is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:472 - Not showing 'Undefined' for Last Updated
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:483 - Not showing 'Undefined' for Last Updated By
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:490 - Display 'No Record Found' is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:499 - //*********************************************** Detail Tab *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:503 - Click On Detail Tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:512 - Click On Copy Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:521 - Displayed 'Id copied to clipboard' maessage is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:536 - Not showing 'Undefined' for Last Updated
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:547 - Not showing 'Undefined' for Last Updated By
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:554 - Display 'No Record Found' is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:562 - //==================================== OverView Page Opeartion Before approve  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:566 - Click On Twilio Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:575 - Display Twilio OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:585 - ***************** Column Header Check Box Operation ******************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:586 - Displayed Column Header Checkbox Is Not Disabled 
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:591 - Click On ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:600 - Displayed ColumnHeader CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:609 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:612 - Displayed LeadAutTestObject CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:625 - Displayed Delete Button is Enabled is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:635 - Uncheck the ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:643 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:646 - Displayed LeadAutTestObject CheckBox Is Not Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:659 - Displayed Delete Button is Disable is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:666 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:670 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:679 - Displayed LeadAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:688 - Displayed LeadAutoTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:691 - Displayed LeadAutoTestObject Is Not Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:713 - Clear Test From The FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:790 - //*********************************************** Make Use of this Object In OTS Router(LeadManagement) *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:794 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:803 - Click On LeadManagement from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:812 - Click On dropdown for lead Routing is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:821 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:830 - Click on New OTSrouter is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:839 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:848 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:857 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:866 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:870 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:879 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:888 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:897 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:953 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:962 - Click on New OTS Router is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:971 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:980 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:989 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1002 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1007 - Display OTS router Overview
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1011 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1020 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1034 - Click On DNDdiagram DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1040 - ******************** Decision Block DND************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1044 - Drag And Drop Decision Block is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1053 - Connect StartBlock_To_DecisionBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1062 - Double Click On DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1071 - Click On NewCustomerAccountListOption is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1080 - Click On AddButton is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1089 - Click On Save Button For DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1095 - ******************** OTS Assignment Block DND ***************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1099 - Drag And Drop AssignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1108 - Connect RandomSlitA_To_OTSassignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1117 - Double Click On OTS Assignment Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1127 - Click On Assignment Type DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1136 - Select LiveClaim Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1145 - Click On Assignment Option DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1154 - Select Option From Assignment Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1163 - Click On Text Notification CheckBox is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1172 - Click On Text Notification DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1181 - Select AutotestSlack Object is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1190 - Click On Save Button For AssignmentBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1199 - Enter Details Page is passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1208 - Default Lead Owner DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1217 - SelectDefaultLeadOwnerOption is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1226 - Click On Save Button For details Page OTS is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1235 - Display Success is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1242 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1246 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1255 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1264 - Click again Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1273 - Displayed Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1279 - ********************* Go back to Twilio Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1283 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1292 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1301 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1310 - Click on Twilio DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1319 - Click On LeadAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1328 - Click On Detail Tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1338 - Click On UsedBy Dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1347 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1356 - Click On Delete Button from the detail tab	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1365 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1374 - Get Text From Error Message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1383 - Displayed 'Cannot delete,It is Used' Error message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1392 - ===================== Used By Operation in Details Page =====================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1398 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1405 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1413 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1422 - Click Used By Router Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1432 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1455 - Get Object Name From Details tab : AutoTestObject
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1464 - AutoTest Object Name matched with the name from Details tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1472 - ********************* Go back to Twilio Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1476 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1485 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1494 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1503 - Clicked on Twilio DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1513 - ====================================================Crud operation==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1514 - ====================================================Rename Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1518 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1527 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1536 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1545 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1554 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1558 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1567 - Click On Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1576 - Click again Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1631 - *******************************************Rename*********************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1635 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1644 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1653 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1662 - Click on Rename button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1673 - ====================================================Clone Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1759 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1768 - Click On Clone option is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1777 - Click On Clone button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1786 - Displayed Cloned LeadRenameAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1793 - =======================================================Save CLONED OBJECT====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1797 - Save Button For Twilio is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1806 - Saving Verification Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1812 - ********************************DELETE CLONED OBJECT SCENARIO*********************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1816 - Click On Delete Button from the detail tab	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1825 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1834 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1844 - //==================================== OverView Page Opeartion After Used  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1848 - Click On Twilio Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1857 - Display Twilio OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1866 - *****************Verifying Column Header Check Is Disabled******************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1878 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1882 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1891 - Displayed LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1913 - Displayed LeadAutoTestObjectRename Is Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Twilio_Administration:1924 - Clear Test From The FilterBox is Passed

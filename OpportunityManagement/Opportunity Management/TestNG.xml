@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LeadAngelV1">
+	
+	<listeners>
+	
+		 <listener class-name="com.leadAngel.utilities.TestAllureListener" />
+	</listeners>
+<!-- ================================================= FOR CHROME ================================================== -->
+	<test name="LA_chrome">
+	 
+		<parameter name="browser" value="chrome" />	
+		<parameter name="roleName" value="admin" />		
+		
+		 <classes>
+		 
+		
+	  
+	      <class name ="com.leadAngel.testCases.TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement"/>
+	   
+	  
+		
+<!--********************************************* OpportunityManagement Crud Operation ********************************************-->
+	<!--    
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_CRMopportunityFilter_OpportunityManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_WaitFilter_OpportunityModule"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_WaitCondition_OpportunityModule"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_OpportunityRouter_OpportunityManagement"/>*-->
+	    
+	 <!--********************************************* OpportunityManagement Sanity Test Cases ********************************************-->
+ <!--
+        <class name ="com.leadAngel.testCases.TC_Sanity_CRMopportunityFilter_OpportunityManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement"/> remaining to run
+	    <class name ="com.leadAngel.testCases.TC_Sanity_WaitFilter_OpportunityManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_WaitCondition_OpportunityManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_OpportunityRouter_OpportunityManagement"/>*-->
+
+	
+		</classes>
+		</test>	
+</suite> 

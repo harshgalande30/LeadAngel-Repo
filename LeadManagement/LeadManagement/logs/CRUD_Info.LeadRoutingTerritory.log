@@ -1,0 +1,97 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:41 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:50 - Right Click on Lead routing territory is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:58 - Click on New object is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:62 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:71 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:79 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:219 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:252 - Click on Data Dictionary is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:260 - *************************************************AccountList_DND**************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:264 - Drag and drop AccountList is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:275 - Select Account list Option from  box1 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:284 - Click on Account list Box2 dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:293 - Select on Account list Option from box2 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:301 - *******************************************CRMAccountFilter_DND*********************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:305 - Drag and drop CRMAccFilter is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:316 - Select CRMAccFilter Option from box1 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:325 - Click on CRMAccFilter Box2 dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:334 - Select CRMAccFilter Option from box2 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:341 - *******************************************CRM_LeadFilter_DND*********************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:345 - Drag and drop CRMLeadFilter is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:356 - Select CRMLeadFilter Option from box1 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:365 - Click on CRMLeadFilter Box2 dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:374 - Select CRMLeadFilter Option from box2 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:381 - *******************************************SystemDataDictionary_DND*********************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:385 - Drag and drop System Data Dictionary is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:396 - Select System Data Dictionary Option from box1 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:405 - Click on System Data Dictionary Box2 dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:414 - Select System Data Dictionary Option from box2 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:421 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:424 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:427 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:430 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:433 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:436 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:440 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:449 - Click On Approve AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:458 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:467 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:474 - //=================================================EDIT SCENARIO START=======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:478 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:487 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:494 - *******************************************Edit_AccountList_DND*********************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:500 - Select Is not option from thr account list box1 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:509 - Click on Account list Box2 dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:518 - Select on Account list Option from box2 is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:526 - ===========================================Approve After Edit===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:529 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:532 - Click Again Approve button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:536 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:544 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:548 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:557 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:566 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:575 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:786 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:795 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:879 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:888 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:897 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:906 - Display cloned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:914 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:918 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:927 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:936 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:945 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:952 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:956 - Right Click On ClonedAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:965 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:974 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:983 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:991 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:995 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1004 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1015 - Folder Not Found!! Craeting New Folder.
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1017 - Click On Cancel button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1020 - Right Click on Lead routing territory is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1023 - Click on New Lead routing territory is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1026 - Enter Folder Name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1029 - click On Save is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1033 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1042 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1051 - Select Folder to move the Autotest object is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1062 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1069 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1073 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1082 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1091 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadRoutingTerritory:1100 - Click On Move Button is Passed!!!

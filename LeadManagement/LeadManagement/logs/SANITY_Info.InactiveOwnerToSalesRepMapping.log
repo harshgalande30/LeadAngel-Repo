@@ -1,0 +1,146 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:44 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:53 - Click on InActiveLeadOwnerManagement is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:62 - Right Click On InActiveOwnertoSalesRepMapping is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:71 - Click on New InActiveOwnertoSalesRep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:77 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:81 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:90 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:99 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:109 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:113 - Click On InActiveLeadManagement DropDown is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:122 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:131 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:140 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:196 - Right Click On InActiveOwnertoSalesRepMapping is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:205 - Click on New InActiveOwnertoSalesRepMapping is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:214 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:223 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:232 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:244 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:249 - Display InactiveOwnerToSalesRepMapping Overview is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:253 - Click On InActiveLeadManagement DropDown is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:262 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:273 - ================================================= Drag And Drop SalesRep ===============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:277 - Drag and Drop SalesRep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:286 - Click Dropdown InactiveUserBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:315 - Select Jay Dewangan is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:324 - Displayed Inactive Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:334 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Vyakar Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Tarkeshwar Rao is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Integration User is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Automated Process is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Platform Integration User is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Test-3 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Security User is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Data.com Clean is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select priyanka gond is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Paras Sahu is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Satyam shukla is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select LA-Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Nisha Dewangan is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select tara sitara is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Mayank Dhakate is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Nisha Dewangan is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Test user is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Nisha Test is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select n d is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select Test user is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select nisha01 dewangan01 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:347 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:360 - Select New_Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:369 - Displayed Active Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:383 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:392 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:398 - //===============================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:402 - Click On Detail is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:411 - Click On Edit Button On DetailsPage is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:418 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:421 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:424 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:428 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:437 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:446 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:450 - Click On draftbox is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:458 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:461 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:465 - Display Approved Button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:473 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:477 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:486 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:495 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:505 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:515 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:519 - Click On InactiveOwnerToSalesRepMapping Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:528 - Display InactiveOwnerToSalesRepMapping OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:537 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:538 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:543 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:552 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:563 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:576 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:586 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:596 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:609 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:616 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:620 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:629 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:638 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:641 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:663 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:670 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:674 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:683 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:693 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:702 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement:711 - Display Deleted success message is Passed

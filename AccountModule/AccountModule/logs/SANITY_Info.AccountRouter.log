@@ -1,0 +1,9 @@
+AccountManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+AccountManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+AccountManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+AccountManagement-2024-09-12 main INFO BaseClass:131 - 1667
+AccountManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+AccountManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+AccountManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+AccountManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+AccountManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit

@@ -1,0 +1,143 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:40 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:49 - Click on NotificationsDropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:58 - Click On OTSnotifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:67 - Click On AcceptanceConfirmationSlack is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:74 - ========================================= Lead AcceptanceConfirmationCRM Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:78 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:91 - Name: {!LeadOwner.Name} is perfectly located in Lead Acceptance Confirmation Slack Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:105 - Email: {!LeadOwner.Email} is perfectly located in Lead Acceptance Confirmation Slack Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:175 - =======================================================Header====================================================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:179 - Enter Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:188 - Click On Braces Button For Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:197 - Click On Select Object DropDown For Insert Value In Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:234 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:243 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:252 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:261 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:211 - Click On Braces Button For Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:220 - Click On Select Object DropDown For Insert Value In Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:234 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:243 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:252 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:261 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:269 - =======================================================EmailBody====================================================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:273 - Enter Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:282 - Click On Braces Button For Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:292 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:328 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:337 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:346 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:355 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:306 - Click On Braces Button For Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:315 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:328 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:337 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:346 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:355 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:370 - Selected all the text from the message body input box
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:374 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:383 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:394 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:403 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:414 - Click On Strikethrough Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:423 - Displayed Selected Text Is Strikethrough is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:434 - Click On Blockquote Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:443 - Displayed Selected Text Is Blockquote is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:454 - Click On ListNumbers Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:463 - Displayed Selected Text Is ListNumbers is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:473 - Click On UnorderList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:482 - Displayed Selected Text Is UnorderList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:490 - ******************** Link Operation ********************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:494 - Click On Link Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:503 - Enter URL is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:512 - Click On Braces For URL is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:521 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:530 - Click On Select Object Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:539 - Click On Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:548 - Click On Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:557 - Click On Merge Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:566 - Click On AddURL Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:573 - ******************** Footer  ********************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:577 - Enter Footer is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:585 - =======================================================Save====================================================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:589 - Save Button For slack is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:598 - Saving Verification Message is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:605 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:609 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:622 - Name: {!LeadOwner.Name} is perfectly located in Lead Acceptance Confirmation Slack Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:636 - Email: {!LeadOwner.Email} is perfectly located in Lead Acceptance Confirmation Slack Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:117 - ========================================= Contact AcceptanceConfirmationSlack Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:121 - Click On Contact AcceptanceConfirmationSlack Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:130 - Click On Continue Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:139 - Click On RestoreDefault Button for Contact AcceptanceConfirmationSlack is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:152 - Name: {!ContactOwner.Name} is perfectly located in Contact AcceptanceConfirmationSlack Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:166 - Email: {!ContactOwner.Email} is perfectly located in Contact AcceptanceConfirmationSlack Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:175 - =======================================================Header====================================================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:179 - Enter Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:188 - Click On Braces Button For Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:197 - Click On Select Object DropDown For Insert Value In Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:234 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:243 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:252 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:261 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:211 - Click On Braces Button For Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:220 - Click On Select Object DropDown For Insert Value In Header is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:234 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:243 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:252 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:261 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:269 - =======================================================EmailBody====================================================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:273 - Enter Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:282 - Click On Braces Button For Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:292 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:328 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:337 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:346 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:355 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:306 - Click On Braces Button For Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:315 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:328 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:337 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:346 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:355 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:370 - Selected all the text from the message body input box
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:374 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:383 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:394 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:403 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:414 - Click On Strikethrough Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:423 - Displayed Selected Text Is Strikethrough is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:434 - Click On Blockquote Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:443 - Displayed Selected Text Is Blockquote is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:454 - Click On ListNumbers Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:463 - Displayed Selected Text Is ListNumbers is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:473 - Click On UnorderList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:482 - Displayed Selected Text Is UnorderList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:490 - ******************** Link Operation ********************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:494 - Click On Link Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:503 - Enter URL is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:512 - Click On Braces For URL is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:521 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:530 - Click On Select Object Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:539 - Click On Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:548 - Click On Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:557 - Click On Merge Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:566 - Click On AddURL Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:573 - ******************** Footer  ********************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:577 - Enter Footer is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:585 - =======================================================Save====================================================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:589 - Save Button For slack is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:598 - Saving Verification Message is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:605 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:609 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:652 - Name: {!ContactOwner.Name} is perfectly located in Contact AcceptanceConfirmationSlack Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationSlack_Administration:666 - Email: {!ContactOwner.Email} is perfectly located in Contact AcceptanceConfirmationSlack Message Body

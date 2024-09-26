@@ -1,0 +1,50 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:30 - Clicked on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:39 - Click On Holiday is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:48 - Click On Drodown To Change Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:57 - Choose Year Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:66 - Click On Drodown To Change Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:75 - Select The Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:82 - //===============================Create New Holiday========================================!
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:86 - Click On Add Holiday Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:95 - Enter Holiday Title is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:104 - Enter Holiday Description is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:113 - Click On First CalendarButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:122 - Click On Year Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:131 - Choose An Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:140 - Choose A Month is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:149 - Choose A Date is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:158 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:302 - //===============================Edit Opration Holiday========================================!
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:306 - Click On Edit Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:315 - Edit Holiday Description is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:324 - Click On Update Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:333 - Displayed Update Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:341 - //===============================Verification created New Holiday by changing the year========================================!
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:345 - Click On Drodown To Change Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:354 - Choose Year Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:368 - Not displayed holiday object,In this case holiday object should not displayed,So Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:374 - Click On Drodown To Change Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:383 - Select The Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:391 - Holiday object is displayed,In this case holiday object should be displayed,So passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:400 - //===============================Verification created New Holiday by changing the Month========================================!
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:404 - Click On Drodown To Change Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:413 - Choose Year Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:427 - Not displayed holiday object,In this case holiday object should not displayed,So Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:433 - Click On Drodown To Change Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:442 - Choose Year Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:451 - Click On Drodown To Change Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:460 - Select The Year is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:468 - Holiday object is displayed,In this case holiday object should be displayed,So passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:477 - //===============================Delete Operation Holiday ========================================!
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:481 - Click On Delete Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:490 - Click On Delete button is Passed!!!
+Administration-2024-09-14 INFO TC_Sanity_Holiday_Administration:499 - Holiday object successfully deleted is PASSED!!!

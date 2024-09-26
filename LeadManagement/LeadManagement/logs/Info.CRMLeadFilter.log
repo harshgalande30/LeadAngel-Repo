@@ -1,0 +1,176 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:41 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:50 - Click on Data Dictionary is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:59 - Right Click on CRM Lead Filter is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:68 - Click on New CRM Lead Filter is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:74 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:78 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:87 - Enter Description is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:96 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:240 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:271 - Click on lead Attribute is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:278 - //======================================= DRAG&DROP FIRST_NAME ATTRIBUTE===============================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:281 - Drag And Drop First Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:292 - Click on First Name DoesNotContains is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:301 - Input onFirst Name DoesNotContains is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:308 - //=================================== DRAG&DROP ANNUAL REVENUE  ATTRIBUTE================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:312 - Drag and Drop AnnualRevenue is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:323 - Click on AnnualRevenue IsGreaterThan is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:332 - Input on AnnualRevenue IsGreaterThan is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:339 - //======================================APPROVE SCENARIO START===================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:343 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:352 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:361 - Click Again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:370 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:378 - //======================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:381 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:384 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:387 - Input on Details TextArea is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:390 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:394 - Display 'No Record Found' is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:402 - //*********************************************** Make Use of this Object In LeadRouter(LeadManagement) *******************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:406 - Click on leadRouting is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:415 - Right click on leadRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:424 - Click on New Lead Router is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:431 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:435 - Enter Object name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:444 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:453 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:462 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:466 - Click on LeadRouter DropDown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:475 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:483 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:492 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:549 - Right Click on LeadRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:558 - Click on New Lead Router is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:567 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:576 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:585 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:598 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:603 - Displayed LeadRouter Overview page
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:608 - Click on Lead Router Dropdown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:617 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:631 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:641 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:648 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:652 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:661 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:667 - ***************************************Assignment Block DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:671 - Drag And Drop AssignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:680 - Connect Decision Block To assignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:686 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:690 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:699 - Select AutoTestObject is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:708 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:717 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:726 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:727 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:734 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:738 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:747 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:756 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:765 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:774 - Select SalesRepValue In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:783 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:792 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:793 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:800 - //==============================  ENTERING DETAILS PAGE ==============================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:804 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:813 - Click On DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:822 - Select Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:831 - Click On CheckBox is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:840 - Display Success is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:847 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:851 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:860 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:869 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:878 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:884 - ======================================= Go back To CRM LeadFilter Object ==================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:888 - Click on Data Dictionary is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:897 - Click on CRMLeedFilter DropDown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:906 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:912 - ===================== Used By Operation in Details Page =====================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:916 - Click On Detail button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:925 - Click On UsedBy Dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:936 - Fetch used by router name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:942 - ********************** Verifying whether Used object can delete or not *********************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:946 - Click On Approved Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:955 - Click On Delete button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:964 - Click Again Delete Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:973 - Get Text From Error Message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:982 - Displayed 'Cannot delete,It is Used' Error message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:990 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:994 - Click On details button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1006 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1015 - Click Used By Router Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1025 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1034 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1035 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1036 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1048 - Get Object Name From Details tab : AutoTestObject
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1057 - AutoTest Object Name matched with the name from Details tab is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1065 - //=========================================== Go Back to Main Object ===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1067 - //============================================EDIT SCENARIO START=================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1071 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1080 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1091 - Click on First Name IN is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1100 - Click on FirstName In Add Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1109 - Click on FirstName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1117 - Click on Save Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1123 - ===========================================Approve After Edit===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1126 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1129 - Click Again Approve button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1133 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1140 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1144 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1153 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1162 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1171 - Click Rename Button is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1179 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1182 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1186 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1195 - Click On Delete Button in RenameAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1204 - Click On Delete Button in RenameAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1214 - Displayed 'Cannot Delete' Error Message
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1218 - Right Click On RenameAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1227 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1238 - Enter Rename is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1247 - Click Rename Button is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1342 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1351 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1360 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1369 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1382 - Renamed AutoTestObject is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1391 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1475 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1484 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1493 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1502 - Display clocned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1510 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1514 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1523 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1532 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1541 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1548 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1552 - Right Click On ClonedAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1561 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1570 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1579 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1587 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1592 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1601 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1610 - Select Folder to move the Autotest object is Passed !!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1660 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1667 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1671 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1680 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1689 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_LeadFilter:1698 - Click On Move Button is Passed!!!

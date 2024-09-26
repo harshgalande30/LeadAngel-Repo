@@ -1,0 +1,776 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:47 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:56 - Right Click on LeadProcessingWithoutRouting is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:65 - Click on New LeadProcessingWithoutRouting is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:72 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:76 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:85 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:94 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:229 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:263 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:272 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:279 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:283 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:292 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:299 - *************************************** Action Block DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:303 - Drag And Drop ActionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:312 - Connect DecisionBlock(No) To Action Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:319 - ********************************************* Update Data Value DND ****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:323 - Drag And Drop Update Data Value is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:332 - Connect ActionBlock To UpdateDataValue Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:340 - *************************************** UpdateToCRM DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:344 - Drag And Drop UpdateToCRM is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:353 - Connect Update Data Value Block To Update To CRM Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:360 - *************************************** Assignment Block DND And Random Split DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:364 - Drag And Drop AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:373 - Drag And Drop RandomSplit is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:383 - Connect UpdateToCRM To RandomSplit is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:392 - Connect RandomSlitA To AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:401 - Connect RandomSlitB To ActionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:410 - ConnectionRandomSlitC_To_UpdateDataValue is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:419 - Connect DecisionBlock(YES) To AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:427 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:431 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:440 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:449 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:458 - Click On AddButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:467 - Click On CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:476 - Enter CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:486 - Object Name Before Click NewTab Link: Test@18May24
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:490 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:506 - Object Name After Click NewTab Link: Test@18May24
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:510 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:524 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:534 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:543 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:544 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:553 - *********************************************ActionBlock Operation********************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:557 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:566 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:575 - Select On Call Webhook Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:584 - Select On Second ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:593 - Object Name Before Click NewTab Link: AutoTestObject
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:597 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:613 - Object Name After Click NewTab Link: AutoTestObject
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:617 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:631 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:641 - Click On Continue Processing radio button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:650 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:659 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:660 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:670 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:679 - Click On StopProcessing radio button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:689 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:698 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:699 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:709 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:718 - Select On Wait Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:727 - Select the Second ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:736 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:740 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:756 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:760 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:774 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:784 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:793 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:794 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:802 - *********************************************Update Data Value  Operation****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:806 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:815 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:824 - Click On AddField Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:837 - First ListBox Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:849 - Select Latitude is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:907 - Enter Number For Latitude is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:916 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:925 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:926 - UpdateDataValue BorderColor is Verified and Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:936 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Email is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1116 - Select Account In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1127 - Select Lead In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1138 - Select Lead Owner In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:837 - First ListBox Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:860 - Select FirstName is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:947 - Enter Number For FirstName is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:956 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:965 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:966 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:976 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Email is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1116 - Select Account In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1127 - Select Lead In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1138 - Select Lead Owner In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:837 - First ListBox Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:871 - Select ConvertedDate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:988 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:997 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1006 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1015 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1016 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1026 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Account Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1040 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1052 - Select Email is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1062 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1071 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1072 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1082 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:883 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:895 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1116 - Select Account In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1127 - Select Lead In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1096 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1105 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1138 - Select Lead Owner In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1148 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1157 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1166 - Click On Incert Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1175 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1184 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1185 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1195 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:837 - First ListBox Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1210 - Select Deleted is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1219 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1228 - Select True For Deleted Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1237 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1246 - Select False For Deleted Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1255 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1264 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1265 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1275 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1286 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1295 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1304 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1313 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1314 - UpdateDataValue BorderColor is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1322 - ********************************************* Assignment block Operation ****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1326 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1335 - Enter Description of Assignment block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1344 - Click RouteToLatestOwnerInTheCustomGroup CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1353 - Displayed Route To Latest Owner In The Custom Group CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1363 - Click AutoConvertLeadsIntoContact CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1373 - Displayed Auto Convert Leads Into Contact And or Accounts CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1383 - Click AutoConvertLeadsIntoContact DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1392 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1396 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1412 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1416 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1430 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1440 - Click TriggerProcessOrFlowBuilder CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1449 - Displayed Trigger Process Or Flow Builder CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1459 - Enter TextTriggerProcessOrFlowBuilder is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1468 - Click SendNotificationEmail CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1477 - Displayed Send Notification Email CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1487 - Click SendNotificationEmail DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1496 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1500 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1517 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1525 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1543 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1554 - Click Slack Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1563 - Displayed Slack Notification CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1573 - Click Slack Notification Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1582 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1586 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1603 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1611 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1629 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1639 - Click CreateTaskForTheNewSuggestedOwner CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1648 - Displayed Create Task For The New Suggested Owner CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1658 - Click CreateTaskForTheNewSuggestedOwner DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1667 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1671 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1687 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1691 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1705 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1715 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1764 - Click Assign Based First DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1773 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1782 - Click Assign Based Second DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1791 - Select Option is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1800 - Click Prefer Historical Sales Person CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1809 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1823 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1834 - Email DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1843 - Click On Email Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1855 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1865 - Select SetToText For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1874 - Enter Text For SetToText Option ForAddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1883 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1892 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1893 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1903 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1855 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1914 - Select SetToAccountOwner For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1923 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1932 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1933 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1943 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1855 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1954 - Select SetToOpportunityOwner For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1963 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1972 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1973 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1983 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1855 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1994 - Select Set ToOwner Mapped SDR's ID For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2003 - Click On Select Box2 For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2012 - Select Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2021 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2030 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2031 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2041 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1823 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2056 - Deleted DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2065 - Click On Deleted Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2074 - Click On Select Box for Deleted In AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2083 - Select True For Deleted Option UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2092 - Click On Select Box for Deleted In AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2101 - Select False For Deleted Option UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2110 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2119 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2120 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2130 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1823 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2142 - Click on Latitude DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2151 - Click On Latitude Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2160 - Enter Number For Latitude UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2169 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2178 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2179 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2189 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign Based on Account ID Lookup Field in Lead Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1764 - Click Assign Based First DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1773 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1782 - Click Assign Based Second DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1791 - Select Option is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1800 - Click Prefer Historical Sales Person CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1809 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2209 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2218 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2227 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2237 - Object Name Before Click NewTab Link: AEtoSDR-1
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2241 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2257 - Object Name After Click NewTab Link: AEtoSDR-1
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2261 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2275 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2298 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Account Owners Manager is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2311 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2320 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2332 - Click On Cross Mark Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2341 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2350 - CreatedDate DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2359 - Click On Created date Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2368 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2377 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Opportunity Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2209 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2218 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2227 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2288 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2298 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Parent Accounts Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2395 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2458 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2468 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2478 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2395 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2458 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2468 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2519 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2528 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2537 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2546 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2555 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2564 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2573 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Sales Rep Email Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2519 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2528 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2537 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2546 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2555 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2564 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2573 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Sales Rep ID Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2519 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2528 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2537 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2546 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2555 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2564 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2573 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2519 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2528 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2537 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2546 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2555 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2564 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2573 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2395 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2406 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2410 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2426 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2430 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2444 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2468 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2491 - Click AssignToPeopleWithCurrentlyActiveWorkingHours CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2500 - Click IfNoOneIsAvailableHoldTheLead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2395 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2406 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2410 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2426 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2430 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2444 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2468 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Do Not Assign is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2586 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Route Based on the Lookup on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2519 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2528 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2537 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2546 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2555 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2564 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2573 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Route Leads Based on Custom Object Lookup is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2598 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2607 - Select main second Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2616 - Select Sub Select Box DropDown For LookUp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2652 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2663 - Click Skip Calendar Availability CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2725 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2734 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2735 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2630 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2639 - Select Sub Select Box DropDown For LookUp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2652 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2675 - Select Sub AssignToSalesRep Option dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2684 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2693 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2725 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2734 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2735 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2630 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2639 - Select Sub Select Box DropDown For LookUp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2652 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2706 - Select Sub AssignToSalesRep Option dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2715 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2725 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2734 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2735 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2630 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2639 - Select Sub Select Box DropDown For LookUp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2652 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2706 - Select Sub AssignToSalesRep Option dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2715 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2725 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2734 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2735 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1730 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1739 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:1752 - Select Route to the Owner on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2209 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2218 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2227 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2288 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2298 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2748 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2757 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2758 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2767 - *********************************************UpdateToCRM Operation********************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2771 - Double Click On UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2780 - Click On Description Of UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2789 - Click On SaveBtton Of UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2798 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2799 - UpdateToCRM Block Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2807 - *********************************************RandomSplit Operation****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2811 - Double Click On RandomSplit Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2820 - Click On Description Of Random Split Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2829 - Write Value Inside PercentageAllocation For A is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2838 - Write Value Inside PercentageAllocation For B is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2847 - Write Value Inside PercentageAllocation For C is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2856 - Click On Save Button For RandomSplit is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2865 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2866 - Display Random Split Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2878 - Click On Maximize Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2887 - Maximize the Panner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2896 - Move Blocks In Console is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2905 - Click On Manimize Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2913 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2916 - Enter Details Page!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2920 - Click On SuggestedNewOwner DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2929 - Select SuggestedNewOwner Option is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2938 - Check Box For SuggestedNewOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2947 - Display Success For SuggestedNewOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2956 - Lead Processing Feeder Filter DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2965 - Select Lead Processing Feeder Filter Option is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2974 - CheckBox For Lead ProcessingFeeder Filter is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2983 - Display Success For LeadProcessingFeederFilter is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:2992 - Default Lead Owner DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3001 - Select Default Lead Owner Option is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3010 - Check Box For Default Lead Owner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3019 - Display Success For DefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3028 - Data Value Update When Routed To Default Lead Owner AddButton is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3039 - Data Value Update When Routed To Default Lead Owner DropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3050 - Click On LeadID option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3061 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3071 - Select SetToText For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3080 - Enter Text For SetToText Option For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3089 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3098 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3061 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3109 - Select SetToAccountOwner For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3118 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3127 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3061 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3138 - Select SetToOpportunityOwner For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3147 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3156 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3061 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3167 - Select Set ToOwner Mapped SDR's ID For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3176 - Click On Select Box3 For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3185 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3194 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3203 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3039 - Data Value Update When Routed To Default Lead Owner DropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3217 - Click On Deleted option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3226 - Click On SecondListBox DropDown Deleted Option DetailsPage is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3235 - Select True For Deleted Option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3244 - Click On SecondListBox DropDown Deleted Option DetailsPage is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3253 - Select False For Deleted Option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3262 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3271 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3039 - Data Value Update When Routed To Default Lead Owner DropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3283 - Click On Latitude Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3292 - Enter Number For Latitude Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3301 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3310 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3039 - Data Value Update When Routed To Default Lead Owner DropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3322 - Click On ConvertedDate Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3331 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3340 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3349 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3358 - Displayed Previuos Selected Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3368 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3377 - Click On ConvertedDate Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3386 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3395 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3404 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3413 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3423 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3426 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3429 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3433 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3442 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3451 - //==================================== OverView Page Opeartion Before approve  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3455 - Click On LeadProcessingWithoutRouting Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3464 - Display LeadProcessingWithoutRouting OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3474 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3475 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3480 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3489 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3500 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3513 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3523 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3533 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3546 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3553 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3557 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3566 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3575 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3578 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3600 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3673 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3677 - Click On LeadProcessingWithoutRouting DropDown is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3686 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3695 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3698 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3702 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3709 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3713 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3722 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3731 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3741 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3750 - //==================================== OverView Page Opeartion After approved  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3754 - Click On LeadProcessingWithoutRouting Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3763 - Display LeadProcessingWithoutRouting OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3772 - *****************Verifying Column Header Check Is Disabled******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3784 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3789 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3798 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3819 - Displayed AutoTestObject Is Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_LeadProcessingWithoutRouting_LeadManagement:3830 - Clear Test From The FilterBox is Passed

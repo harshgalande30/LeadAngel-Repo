@@ -1,0 +1,14 @@
+LoginModule-2024-07-12 18:12:04:000486 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+LoginModule-2024-07-12 18:12:04:000523 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+LoginModule-2024-07-12 18:12:04:000523 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+LoginModule-2024-07-12 18:12:04:000525 main INFO BaseClass:133 - 1002
+LoginModule-2024-07-12 18:12:04:000530 main INFO BaseClass:134 - ganesh@leadangel.com
+LoginModule-2024-07-12 18:12:04:000702 main INFO BaseClass:136 - Entered ClientID
+LoginModule-2024-07-12 18:12:04:000861 main INFO BaseClass:138 - Entered Email
+LoginModule-2024-07-12 18:12:04:000982 main INFO BaseClass:140 - Entered Password
+LoginModule-2024-07-12 18:12:05:000094 main INFO BaseClass:142 - Click on Submit
+LoginModule-2024-07-12 18:12:05:000177 main INFO TC_SANITY_LoginTest:35 - URL is Opened
+LoginModule-2024-07-12 18:12:11:000411 main INFO TC_SANITY_LoginTest:39 - ==========Forgot Password Scenario Started=============
+LoginModule-2024-07-12 18:12:12:000716 main INFO TC_SANITY_LoginTest:43 - Clicked in Forgot Password Button
+LoginModule-2024-07-12 18:12:13:000731 main INFO TC_SANITY_LoginTest:51 - Entered Correct Client ID
+LoginModule-2024-07-12 18:12:14:000808 main INFO TC_SANITY_LoginTest:54 - Entered Correct Email ID

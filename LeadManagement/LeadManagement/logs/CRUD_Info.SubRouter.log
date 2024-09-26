@@ -1,0 +1,180 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:35 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:45 - Click on leadRouting is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:54 - Right click on SubRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:63 - Click on New SubRouter is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:69 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:73 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:82 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:91 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:234 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:267 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:276 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:283 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:287 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:296 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:304 - ***************************************Assignment Block 1 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:308 - Drag And Drop AssignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:317 - Connect Decision Block To assignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:324 - ***************************************DecisionBlock2 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:328 - Drag And Drop DecisionBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:337 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:343 - ***************************************Assignment Block 2 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:347 - Drag And Drop AssignmentBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:356 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:363 - ***************************************Assignment Block 3 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:367 - Drag And Drop AssignmentBlock3 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:376 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:384 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:387 - Enter Details Page!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:391 - Click On DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:400 - Click On Default LeadOwner Select AllaLebedeva Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:409 - Click On CheckBox is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:418 - Display Success is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:427 - DataValueUpdate WhenRoutedToDefaultLeadOwner AddButton is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:436 - DataValueUpdate WhenRoutedToDefaultLeadOwner DropDown1 For LeadRouter is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:445 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:454 - DataValueUpdate WhenRoutedToDefaultLeadOwner DropDown2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:463 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:472 - CheckBox For DataValueUpdate WhenRoutedToDefaultLeadOwner For LeadRouter is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:481 - Display Success For DataValueUpdate WhenRoutedToDefault LeadOwner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:489 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:492 - Enter text in TextArea is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:495 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:499 - Click On draftbox is Passed!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:508 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:512 - Click On draftbox is Passed!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:522 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:531 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:540 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:549 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:558 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:559 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:567 - ***************************************Decision block2 Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:571 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:580 - Select Decision Block List Element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:589 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:598 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:607 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:608 - Decision Block2 Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:616 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:620 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:629 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:638 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:647 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:656 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:665 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:674 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:684 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:693 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:702 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:703 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:711 - *********************************************Assignment block2 Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:715 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:724 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:733 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:742 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:751 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:760 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:769 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:778 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:787 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:796 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:797 - AssignmentBlock2 Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:806 - *********************************************Assignment block3 Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:810 - Double Click On Assignment3 Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:819 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:828 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:837 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:846 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:855 - Click On CheckBox For AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:864 - Click On MappedSDR is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:873 - Click On MappedSDR Option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:882 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:891 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:892 - AssignmentBlock3 Border Color is Verified and Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:901 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:906 - Right Click On AutoTestObject PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:915 - Click on Approve Button PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:924 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:933 - Displayed Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:940 - //=================================================EDIT SCENARIO START=======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:945 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:954 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:961 - ***************************************Edit Decision block2 Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:965 - Double Click On DecisionBlock2 is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:974 - Select Edit DecisionBlock List Element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:983 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:992 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1001 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1002 - Decision Block2 Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1010 - *********************************************EditAssignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1014 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1023 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1032 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1041 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1050 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1059 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1068 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1069 - AssignmentBlock1 Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1077 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1081 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1090 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1099 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1108 - Displayed Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1116 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1120 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1129 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1138 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1147 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1155 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1158 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1162 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1171 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1180 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1318 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1327 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1336 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1345 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1358 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1366 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1450 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1459 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1468 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1477 - Display cloned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1485 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1489 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1498 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1507 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1516 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1523 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1527 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1536 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1545 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1554 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1562 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1567 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1577 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1588 - Folder Not Found!! Craeting New Folder.
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1591 - Click On Cancel button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1594 - Right click on SubRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1597 - Click on New SubRouter is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1600 - Enter Folder Name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1603 - Click On Save is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1607 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1616 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1625 - Select Folder to move the Autotest object is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1636 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1643 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1647 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1656 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1665 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_SubRouter:1674 - Click On Move Button is Passed!!!

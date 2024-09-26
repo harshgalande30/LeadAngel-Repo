@@ -1,0 +1,122 @@
+OpportunityManagement-2024-09-16 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+OpportunityManagement-2024-09-16 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+OpportunityManagement-2024-09-16 main INFO BaseClass:132 - https://stage.leadangel.com/index.html#/
+OpportunityManagement-2024-09-16 main INFO BaseClass:133 - 1667
+OpportunityManagement-2024-09-16 main INFO BaseClass:134 - ganesh@leadangel.com
+OpportunityManagement-2024-09-16 main INFO BaseClass:136 - Entered ClientID
+OpportunityManagement-2024-09-16 main INFO BaseClass:138 - Entered Email
+OpportunityManagement-2024-09-16 main INFO BaseClass:140 - Entered Password
+OpportunityManagement-2024-09-16 main INFO BaseClass:142 - Click on Submit
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:46 - Click on OpportunityManagement is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:55 - Right Click On OpportunityRoutingTerritory is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:64 - Click on New OpportunityRoutingTerritory is PASSED!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:71 - //===============================CREATE OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:75 - Enter AutoTestObject Name is PASSED!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:84 - Enter Descriptionn is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:93 - Click on Save Button is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:237 - Refreshing The Page!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:270 - Click on DataDictionary is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:277 - *************************************************AccountList_DND**************************************
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:282 - Drag and Drop AccountList is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:293 - Click on AccountList SelectBox dropdown is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:310 - Select is is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:319 - Displayed Select Box is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:330 - Click on AccList Dropdown2 is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:341 - Object Name Before Click NewTab Link: 18newAL
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:345 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:361 - Object Name After Click NewTab Link: 18newAL
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:365 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:379 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:402 - Displayed NgSelect Box is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:310 - Select is not is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:319 - Displayed Select Box is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:330 - Click on AccList Dropdown2 is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:392 - Select Option from the dropdown2 is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:402 - Displayed NgSelect Box is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:412 - *******************************************CRMAccountFilter_DND*********************************
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:416 - Drag and Drop CRMAccFilter is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:427 - Click on CRMaccountFilter ListBox dropdown is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:444 - Select is is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:453 - Displayed Select Box is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:463 - Click on CRMAccFilterSelectOptionDropdown is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:473 - Object Name Before Click NewTab Link: acc 3
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:477 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:493 - Object Name After Click NewTab Link: acc 3
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:497 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:511 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:533 - Displayed NgSelect Box is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:444 - Select is not is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:453 - Displayed Select Box is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:463 - Click on CRMAccFilterSelectOptionDropdown is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:523 - Select Option from the dropdown2 is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:533 - Displayed NgSelect Box is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:542 - *******************************************CRM_OpportunityFilter_DND*********************************
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:546 - Drag and Drop CRMopportunityFilter is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:557 - Click on CRMOppFilter ListBoxx is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:574 - Select is is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:583 - Displayed Select Box1 is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:593 - Click on CRMOppFilter OptionDropdown2 is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:603 - Object Name Before Click NewTab Link: farheen
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:607 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:623 - Object Name After Click NewTab Link: farheen
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:627 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:641 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:664 - Displayed NgSelect Box2 is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:574 - Select is not is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:583 - Displayed Select Box1 is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:593 - Click on CRMOppFilter OptionDropdown2 is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:654 - Click on CRMOppFilterSelectOption is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:664 - Displayed NgSelect Box2 is not red
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:673 - *********************** Search Box and refresh Button Operation **************************
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:678 - Get Text from first drag and drop box is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:687 - Enter Text in search box is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:696 - Displayed text in toolist, which is entered in search box is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:705 - Click On Close Button is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:714 - Click On Refresh Button is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:723 - Click on Data Dictionary is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:733 - Click on DefaultFilter Button is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:742 - Select Custom FilterOption is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:751 - Input For CutomFilter is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:760 - Click on CollapseAll is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:769 - Click on ExpandAll is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:776 - //========================================ENTERING DETAILS PAGE======================================
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:779 - Click on Details Button is Passed!!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:782 - Click On Description Edit button is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:785 - Enter Description is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:788 - Click On Description Save button is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:792 - Click On Copy Button is PASSED!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:801 - Displayed Copied Success Message is PASSED!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:809 - ==================================== Approve ==================================
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:813 - Click On draftbox is PASSED!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:821 - Click on Approve Button After EDIT is passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:824 - Click Again Approve button is passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:828 - Display Approved button is PASSED!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:835 - //========================================Delete Craft scenario=======================================
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:839 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:848 - Click On Edit AutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:857 - Click On DeleteCraft buton is PASSED!!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:867 - Dispalying Verified Sign is PASSED!!!
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:875 - //==================================== OverView Page Opeartion  ==================================
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:879 - Click On OpportunityRoutingTerritory Feature is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:888 - Display OpportunityRoutingTerritory OverView Page is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:897 - ***************** Column Header Check Box Operation ******************
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:898 - Displayed Column Header Checkbox Is Not Disabled 
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:903 - Click On ColumnHeader CheckBox is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:912 - Displayed ColumnHeader CheckBox Is Checked is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:923 - Displayed AutTestObject CheckBox Is Checked is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:936 - Displayed Delete Button is Enabled is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:946 - Uncheck the ColumnHeader CheckBox is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:956 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:969 - Displayed Delete Button is Disable is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:976 - ********************** Filter Operation *************************
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:980 - Enter Text In FilterBox is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:989 - Displayed AutoTestObject is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:998 - Displayed AutoTestObject CheckBox
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:1001 - Displayed AutoTestObject Is Not Used is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:1023 - Clear Test From The FilterBox is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:1030 - ********************** Delete AutoTestObject Operation *************************
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:1034 - Click On AutTestObject CheckBox is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:1043 - Displayed AutTestObject CheckBox Is Checked is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:1053 - Click On Delete Button is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:1062 - Click Again Delete Button is Passed
+OpportunityManagement-2024-09-16 main INFO TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement:1071 - Display Deleted success message is Passed

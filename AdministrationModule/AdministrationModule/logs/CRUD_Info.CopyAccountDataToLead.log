@@ -1,0 +1,53 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:28 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:37 - Click On Copy Account Data To Lead Fearure is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:48 - Unchecked the Update Only Blank Fields CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:57 - Click On Confirm is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:66 - Displayed 'Native Enable Updated' Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:75 - Click on Update Only Blank Fields CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:84 - Click On Confirm is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:93 - Displayed 'Native Enable Updated' Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:130 - ************************* Delete Operation ********************
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:138 - Click On Delete Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:147 - Click On Delete Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:156 - Displayed 'DeletedSuccessfuly' is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:178 - Click On Add Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:187 - Click On CRM lead DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:196 - Select An Option for CRM lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:205 - Click On CRM Account DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:214 - Select An Option for CRM Account is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:223 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:232 - Displayed Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:238 - ********************************** Edit Operation **********************************
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:242 - Click On Edit Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:251 - Click On CRM lead DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:260 - Select Edit Option for CRM lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:269 - Click On CRM Account DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:278 - Select Edit Option for CRM Account is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:287 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:296 - Displayed Updated Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:303 - //*************** Verifying 'Data type must be match' Error message ******************
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:307 - Click On Add Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:316 - Click On CRM lead DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:325 - Select Lead Option for CRM Account is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:334 - Click On CRM Account DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:343 - Select Deleted Option for CRM Account is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:352 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:361 - Display Data Type MissMatch Warning Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:367 - //*************** Verifying 'Maping Already Present' Error message ******************
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:371 - Click On CRM Lead DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:380 - Select an Option which is alredy selected before operation for CRM Account is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:389 - Click On CRM Account DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:398 - Select an Option which is alredy selected before operation for CRM Account is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:407 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:416 - Displayed 'Mapping Already Present' Error Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:423 - //*********************************************** Detail Tab *******************************************
+Administration-2024-09-14 INFO TC_Sanity_CopyAccountDataToLead_Administration:427 - Click On Detail Tab is Passed

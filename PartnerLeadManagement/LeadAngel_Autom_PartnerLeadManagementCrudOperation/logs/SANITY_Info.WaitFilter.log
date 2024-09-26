@@ -1,0 +1,282 @@
+PartnerLead-2024-09-14 INFO BaseClass:124 - ======================================= INFORMATION ======================================
+PartnerLead-2024-09-14 INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+PartnerLead-2024-09-14 INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+PartnerLead-2024-09-14 INFO BaseClass:133 - 1002
+PartnerLead-2024-09-14 INFO BaseClass:134 - ganesh@leadangel.com
+PartnerLead-2024-09-14 INFO BaseClass:136 - Entered ClientID
+PartnerLead-2024-09-14 INFO BaseClass:138 - Entered Email
+PartnerLead-2024-09-14 INFO BaseClass:140 - Entered Password
+PartnerLead-2024-09-14 INFO BaseClass:142 - Click on Submit
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:45 - Click on PartnerLeadManagement is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:54 - Click on PartnerLeadRouting DropDown is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:62 - Right Click on Wait filter is Passed 
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:65 - Click on New Wait filter is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:69 - Enter AutoTestObject Name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:78 - Enter Description is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:86 - Click on Save Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:228 - Refreshing The Page!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:259 - Click on LeadAttribute is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:267 - //===================================== DRAG&DROP FirstName ATTRIBUTE =====================================//
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:271 - Drag And Drop First Name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:280 - Click on DropDown FirstName is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:296 - Select contains is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:305 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:318 - Input on FirstName is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:327 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:296 - Select does not contain is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:305 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:318 - Input on FirstName is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:327 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:296 - Select starts with is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:305 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:318 - Input on FirstName is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:327 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:296 - Select does not start with is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:305 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:318 - Input on FirstName is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:327 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:296 - Select is empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:305 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:296 - Select is not empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:305 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:296 - Select in is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:305 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:343 - Click on Add Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:352 - Selected One Account is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:360 - Click on Save button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:369 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:296 - Select not in is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:305 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:343 - Click on Add Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:352 - Selected One Account is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:360 - Click on Save button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:369 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:380 - //======================================= DRAG&DROP LONGITUDE ATTRIBUTE ==================================//
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:384 - Drag and Drop Longitude is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:395 - Click on DropDown Longitude is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select is empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select is not empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select in is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:432 - Click on Add Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:441 - Enter free text Longitude is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:449 - Click on Save button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:458 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select not in is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:432 - Click on Add Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:441 - Enter free text Longitude is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:449 - Click on Save button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:458 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select is greater than is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:473 - Input on Longitude is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:482 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select is smaller than is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:473 - Input on Longitude is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:482 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select between is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:496 - Longitude Input Box For Between Box1 is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:505 - Dispalyed Input Box1 is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:516 - Longitude Input Box For Between Box2 is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:525 - Dispalyed Input Box2 is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select is at least is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:473 - Input on Longitude is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:482 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:409 - Select is at most is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:418 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:473 - Input on Longitude is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:482 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:536 - //========================================= DRAG&DROP Converted ATTRIBUTE===================================//
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:540 - Drag And Drop Converted is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:551 - Click on DropDown Convertedbox1 is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:567 - Select is is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:576 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:588 - Click on DropDown Convertedbox1 is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:604 - Select True is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:613 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:604 - Select False is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:613 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:567 - Select is not is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:576 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:588 - Click on DropDown Convertedbox1 is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:604 - Select True is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:613 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:604 - Select False is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:613 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:624 - //======================================== DRAG&DROP CREATED DATE ATTRIBUTE ==================================//
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:628 - Drag and Drop Created Date is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:639 - Click on DropDown CreateDateFirstBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select before is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:676 - Click On Calendar CreatedDate Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:685 - Click On Date is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:694 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select after is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:676 - Click On Calendar CreatedDate Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:685 - Click On Date is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:694 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select on or before is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:676 - Click On Calendar CreatedDate Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:685 - Click On Date is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:694 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select on or after is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:676 - Click On Calendar CreatedDate Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:685 - Click On Date is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:694 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select in past is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:708 - CreatedDate Input Box For Box2 is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:717 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:727 - Click on DropDown CreateDate2forInPast is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Hours is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Days is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Weeks is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select in past before is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:708 - CreatedDate Input Box For Box2 is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:717 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:727 - Click on DropDown CreateDate2forInPast is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Hours is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Days is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Weeks is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select in future is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:708 - CreatedDate Input Box For Box2 is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:717 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:727 - Click on DropDown CreateDate2forInPast is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Hours is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Days is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Weeks is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select in future after is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:708 - CreatedDate Input Box For Box2 is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:717 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:727 - Click on DropDown CreateDate2forInPast is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Hours is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Days is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:744 - Select Weeks is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:753 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select between is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:767 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:776 - Click On Date is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:785 - Dispalyed Input Box1 is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:795 - Click On CreatedDate Calendar Button Box2 is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:804 - Click On Date is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:813 - Dispalyed Input Box2 is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select in time frame is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:828 - Click on DropDown CreateDate for InTimeFrame is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select Today is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select Yesterday is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select This Week S S is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select This Week M F is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select Last Week S S is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select Last Week M F is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select This Month is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select Last Month is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select This Calendar Quarter is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select Last Calendar Quarter is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select This Calendar Year is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:845 - Select Last Calendar Year is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:854 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select is is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:676 - Click On Calendar CreatedDate Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:685 - Click On Date is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:694 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select is today is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select is not is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:676 - Click On Calendar CreatedDate Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:685 - Click On Date is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:694 - Dispalyed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select is empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:654 - Select is not empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:663 - Dispalyed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:870 - *********************** Search Box and refresh Button Operation **************************
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:875 - Get Text from first drag and drop box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:884 - Enter Text in search box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:893 - Displayed text in toolist, which is entered in search box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:902 - Click On Close Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:911 - Click On Refresh Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:920 - Click on LeadAttribute is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:930 - Click on DefaultFilter Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:939 - Select Custom FilterOption is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:948 - Input For CutomFilter Wait Filter is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:957 - Click on CollapseAll is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:966 - Click on ExpandAll is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:973 - //================================================ENTERING DETAILS PAGE===============================================
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:977 - Click on Details Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:985 - Click On Description Edit button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:988 - Enter Decription is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:991 - Click On Description Save button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:995 - Click On Copy Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1004 - Displayed Copied Success Message is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1013 - ==================================== Approve ==================================
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1017 - Click On draftbox is PASSED!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1025 - Click on Approve Button After EDIT is passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1028 - Click Again Approve button is passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1032 - Display Approved button is PASSED!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1039 - //========================================Delete Craft scenario=======================================
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1043 - RightClick On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1052 - Click On Edit AutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1061 - Click On DeleteCraft buton is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1071 - Dispalying Verified Sign is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1079 - //==================================== OverView Page Opeartion  ==================================
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1083 - Click On WaitFilter Feature is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1092 - Display WaitFilter OverView Page is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1101 - ***************** Column Header Check Box Operation ******************
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1102 - Displayed Column Header Checkbox Is Not Disabled 
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1107 - Click On ColumnHeader CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1116 - Displayed ColumnHeader CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1127 - Displayed AutTestObject CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1140 - Displayed Delete Button is Enabled is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1150 - Uncheck the ColumnHeader CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1160 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1173 - Displayed Delete Button is Disable is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1180 - ********************** Filter Operation *************************
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1184 - Enter Text In FilterBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1193 - Displayed AutoTestObject is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1202 - Displayed AutoTestObject CheckBox
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1205 - Displayed AutoTestObject Is Not Used is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1227 - Clear Test From The FilterBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1234 - ********************** Delete AutoTestObject Operation *************************
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1238 - Click On AutTestObject CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1247 - Displayed AutTestObject CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1257 - Click On Delete Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1266 - Click Again Delete Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitFilter_PartnerLeadmanagement:1275 - Display Deleted success message is Passed

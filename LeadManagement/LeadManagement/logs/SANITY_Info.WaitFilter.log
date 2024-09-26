@@ -1,0 +1,280 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:44 - Click on Lead Management is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:52 - Click on Lead Routing is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:55 - Right Click on Wait filter is Passed 
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:58 - Click on New Wait filter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:62 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:71 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:79 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:221 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:252 - Click on LeadAttribute is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:259 - //===================================== DRAG&DROP FirstName ATTRIBUTE =====================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:263 - Drag And Drop First Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:272 - Click on DropDown FirstName is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:288 - Select contains is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:297 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:310 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:319 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:288 - Select does not contain is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:297 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:310 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:319 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:288 - Select starts with is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:297 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:310 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:319 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:288 - Select does not start with is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:297 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:310 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:319 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:288 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:297 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:288 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:297 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:288 - Select in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:297 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:335 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:344 - Selected One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:352 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:361 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:288 - Select not in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:297 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:335 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:344 - Selected One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:352 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:361 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:372 - //======================================= DRAG&DROP LONGITUDE ATTRIBUTE ==================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:376 - Drag and Drop Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:387 - Click on DropDown Longitude is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:424 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:441 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:450 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select not in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:424 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:441 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:450 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select is greater than is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:465 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:474 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select is smaller than is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:465 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:474 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select between is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:488 - Longitude Input Box For Between Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:497 - Dispalyed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:508 - Longitude Input Box For Between Box2 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:517 - Dispalyed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select is at least is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:465 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:474 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:401 - Select is at most is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:410 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:465 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:474 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:528 - //========================================= DRAG&DROP Converted ATTRIBUTE===================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:532 - Drag And Drop Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:543 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:559 - Select is is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:568 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:580 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:596 - Select True is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:605 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:596 - Select False is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:605 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:559 - Select is not is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:568 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:580 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:596 - Select True is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:605 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:596 - Select False is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:605 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:616 - //======================================== DRAG&DROP CRETED DATE ATTRIBUTE ==================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:620 - Drag and Drop Created Date is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:631 - Click on DropDown CreateDateFirstBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:668 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:677 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:686 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:668 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:677 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:686 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select on or before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:668 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:677 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:686 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select on or after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:668 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:677 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:686 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select in past is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:700 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:709 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:719 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select in past before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:700 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:709 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:719 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select in future is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:700 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:709 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:719 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select in future after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:700 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:709 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:719 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:736 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:745 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select between is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:759 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:768 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:777 - Dispalyed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:787 - Click On CreatedDate Calendar Button Box2 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:796 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:805 - Dispalyed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select in time frame is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:820 - Click on DropDown CreateDate for InTimeFrame is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select Today is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select Yesterday is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select This Week S S is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select This Week M F is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select Last Week S S is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select Last Week M F is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select This Month is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select Last Month is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select This Calendar Quarter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select Last Calendar Quarter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select This Calendar Year is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:837 - Select Last Calendar Year is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:846 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select is is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:668 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:677 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:686 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select is today is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select is not is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:668 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:677 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:686 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:646 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:655 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:862 - *********************** Search Box and refresh Button Operation **************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:867 - Get Text from first drag and drop box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:876 - Enter Text in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:885 - Displayed text in toolist, which is entered in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:894 - Click On Close Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:903 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:912 - Click on LeadAttribute is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:922 - Click on DefaultFilter Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:931 - Select Custom FilterOption is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:940 - Input For CutomFilter Wait Filter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:949 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:958 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:965 - //================================================ENTERING DETAILS PAGE===============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:969 - Click on Details Button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:977 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:980 - Enter Decription is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:983 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:987 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:996 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1005 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1009 - Click On draftbox is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1017 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1020 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1024 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1031 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1035 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1044 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1053 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1063 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1071 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1075 - Click On WaitFilter Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1084 - Display WaitFilter OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1093 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1094 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1099 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1108 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1119 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1132 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1142 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1152 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1165 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1172 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1176 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1185 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1194 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1197 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1219 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1226 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1230 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1239 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1249 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1258 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_WaitFilter_LeadManagement:1267 - Display Deleted success message is Passed

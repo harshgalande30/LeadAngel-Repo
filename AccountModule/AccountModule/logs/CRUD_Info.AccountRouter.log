@@ -1,0 +1,195 @@
+AccountManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+AccountManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+AccountManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+AccountManagement-2024-09-12 main INFO BaseClass:131 - 1667
+AccountManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+AccountManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+AccountManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+AccountManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+AccountManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:44 - Click on AccountManagement is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:53 - Right Click On AccountRouter is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:62 - Click on New AccountRouter is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:68 - //===============================CREATE OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:72 - Enter AutoTestName is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:81 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:90 - Click on Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:99 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:103 - Click on AccountRouter DropDown is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:112 - RightClick On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:120 - Click On Delete button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:129 - Click Again Delete button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:185 - Right Click on AccountRouter is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:194 - Click on New Account Router is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:203 - Enter Object Name is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:212 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:221 - Click on Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:234 - Refreshing The Page!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:239 - Displayed AccountRouter Overview page
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:244 - Click on AccountRouter DropDown is passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:253 - Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:267 - Click On DNDdiagram DropDown is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:277 - Minimize the Panner is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:284 - *************************************** Decision Block DND ****************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:288 - Drag And Drop Decision block is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:297 - Connect StartBlock To DecisionBlock is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:305 - ***************************************Assignment Block 1 DND****************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:309 - Drag And Drop AssignmentBlock1 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:318 - Connect Decision Block To assignmentBlock1 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:325 - ***************************************DecisionBlock2 DND****************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:329 - Drag And Drop DecisionBlock2 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:338 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:344 - ***************************************Assignment Block 2 DND****************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:348 - Drag And Drop AssignmentBlock2 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:357 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:364 - ***************************************Assignment Block 3 DND****************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:368 - Drag And Drop AssignmentBlock3 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:377 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:385 - //========================================ENTERING DETAILS PAGE======================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:389 - Click on Detail Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:398 - Click On AccountRouterFeeder DropDown is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:407 - Select AccountRouterFeeder Option is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:416 - Click on CheckBox For AccountRouterFeeder is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:425 - Display Success For AccountRouterFeeder is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:434 - Click on DefaultAccountOwner DropDown is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:443 - Select DefaultAccountOwner Option is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:452 - Click on CheckBox For DefaultAccountOwner is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:461 - Display Success For DefaultAccountOwner is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:470 - Click on DataValueUpdateWhenRoutedToDefaultAccountOwner AddButton is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:479 - Click on DataValueUpdateWhenRoutedToDefaultAccountOwner DropDown1 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:488 - Select DataValueUpdateWhenRoutedToDefaultAccountOwner Option1 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:497 - Click on DataValueUpdateWhenRoutedToDefaultAccountOwner DropDown2 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:506 - Select DataValueUpdateWhenRoutedToDefaultAccountOwner Option2 is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:515 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultAccountOwner is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:524 - Display Success For DataValueUpdateWhenRoutedToDefaultAccountOwner is Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:532 - Click On Description Edit button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:535 - Enter description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:538 - Click On Description Save button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:540 - ***************************************Decision block Operation***************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:544 - Click On draftbox is Passed!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:554 - Double Click On DecisionBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:563 - Click On Data dictionary option is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:572 - Click On AddButton is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:581 - Click On Save Button For DecisionBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:590 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:591 - Decision Block Border Color is Verified and Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:599 - ***************************************Decision block2 Operation***************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:603 - Double Click On DecisionBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:612 - Select Decision Block List Element is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:621 - Click On AddButton is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:630 - Click On Save Button For DecisionBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:639 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:640 - Decision Block2 Border Color is Verified and Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:648 - *********************************************Assignment block1 Operation********************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:652 - Double Click On Assignment Block is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:661 - Click On DropDown AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:670 - Select SalesRep In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:679 - Click On DropDown2 AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:688 - Select SalesRep Value In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:697 - Click On CheckBox For AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:706 - Click On SelectMappedSDR is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:716 - Click On SelectMappedSDR Option is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:725 - Click On Save Button For AssignmentBlock is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:734 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:735 - AssignmentBlock Border Colour is Verified and Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:743 - *********************************************Assignment block2 Operation****************************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:747 - Double Click On Assignment Block is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:756 - Click On DropDown AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:765 - Select SalesRep In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:774 - Click On DropDown2 AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:783 - Select SalesRep Value In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:792 - Click On CheckBox For AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:801 - Click On SelectMappedSDR is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:810 - Click On SelectMappedSDR Option is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:819 - Click On Save Button For AssignmentBlock is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:828 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:829 - AssignmentBlock2 Border Colour is Verified and Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:837 - *********************************************Assignment block3 Operation****************************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:841 - Double Click On Assignment3 Block is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:850 - Click On DropDown AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:859 - Select SalesRep In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:869 - Click On DropDown2 AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:878 - Select SalesRep Value In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:887 - Click On CheckBox For AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:896 - Click On SelectMappedSDR is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:905 - Click On SelectMappedSDR Option is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:914 - Click On Save Button For AssignmentBlock is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:923 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:924 - AssignmentBlock3 Border Color is Verified and Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:932 - //===============================================APPROVE SCENARIO START========================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:936 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:945 - Click on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:954 - Click again Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:963 - Displayed Approved Button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:970 - //=================================================EDIT SCENARIO START=======================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:974 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:983 - Click on Edit Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:990 - ***************************************Edit Decision block2 Operation***************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:994 - Double Click On DecisionBlock2 is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1003 - Select Edit DecisionBlock List Element is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1012 - Click On AddButton is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1021 - Click On Save Button For DecisionBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1030 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1031 - Decision Block2 Border Color is Verified and Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1039 - *********************************************EditAssignment block1 Operation********************************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1043 - Double Click On Assignment Block is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1052 - Click On DropDown AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1061 - Select SalesRep In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1070 - Click On DropDown2 AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1079 - Select SalesRep Value In AssignmentBlock is Passed !!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1088 - Click On Save Button For AssignmentBlock is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1097 - true
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1098 - AssignmentBlock1 Border Colour is Verified and Passed!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1106 - //===============================================After Edit,Then Approve the Object========================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1110 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1119 - Click on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1128 - Click again Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1137 - Displayed Approved Button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1144 - //======================================RENAME SCENARIO START=============================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1148 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1157 - Click on Rename Object is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1166 - Input on Rename AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1175 - Click Rename Button is  PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1183 - Duplicate Object Found, Deleting Object NOW
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1186 - Display RenameAutoTest Object
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1190 - Right Click On RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1199 - Click On Delete Button in AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1208 - Click On Delete Button in AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1346 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1355 - Click On Rename AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1364 - Input on Rename AutoTestObject is passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1373 - Click on Rename Button AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1386 - Renamed AutoTest Object is Displayed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1394 - //===================================CLONE SCENARIO START================================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1478 - Right Click On RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1487 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1496 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1505 - Display cloned RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1513 - //===============================Approve Cloned Object========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1517 - Right Click On ClonedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1526 - Click on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1535 - Click again Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1544 - Displayed Approved button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1551 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1555 - Right Click On ClonedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1564 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1573 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1582 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1590 - //===============================MOVE OBJECT SCENARIO START========================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1594 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1604 - Click On Move Renamed AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1613 - Select Folder to move the Autotest object is Passed !!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1663 - Click On Move Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1670 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1674 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1683 - Click On Move Renamed AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1692 - Select Main Folder is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1701 - Click On Move Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1708 - //=============================== Activate and DeActivate Operation ===================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1712 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1721 - Click On Active Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1902 - ************************** DeActivate Operation **************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1906 - Right Click On Activated Object is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1915 - Click On DeActive Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1924 - Click Again DeActive Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_AccountRouter_AccountManagement:1934 - Displayed DeActivated Success Message is PASSED!!!

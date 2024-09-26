@@ -1,0 +1,136 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://stage.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1320
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:48 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:57 - Click on InActiveLeadOwnerManagement is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:66 - Right Click On InActiveOwnertoSalesRepMapping is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:75 - Click on New InActiveOwnertoSalesRep is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:81 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:85 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:94 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:103 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:248 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:278 - ================================================= Drag And Drop SalesRep ===============================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:282 - Drag and Drop SalesRep is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:291 - Click Dropdown InactiveUserBox is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:300 - Select Option from the InactiveUserBox is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:308 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:316 - Select Option from the InactiveUserBox is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:325 - //========================================APPROVE SCENARIO START=========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:329 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:338 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:347 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:356 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:363 - //===========================================ENTERING DETAILS PAGE=====================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:366 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:369 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:372 - Input on Details TextArea is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:375 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:379 - Display 'No Record Found' is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:387 - //*********************************************** Make Use of this Object In Re-Assignment Scedule *******************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:391 - Click On ReassignmentSchedule is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:400 - Click On Reset Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:409 - Click On RerouteToNewOwnerBasedOnMapping is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:418 - Displayed RerouteToNewOwnerBasedOnMapping Radio Button Is Checked is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:428 - Click On RerouteToNewOwnerBasedOnMapping Dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:437 - Select AutoTestObject Option is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:446 - Click On IntervalType is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:455 - Click On IntervalTime Inputbox is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:464 - Select Time In Hours is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:473 - Click On OK Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:482 - Click On Start Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:491 - Displayed Success Message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:500 - ======================================= Go back To Inactive Owner to Sales Rep Mapping  Object ==================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:504 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:510 - ===================== Used By Operation in Details Page =====================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:514 - Click On Detail button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:524 - Click On UsedBy Dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:535 - Fetch used by router name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:541 - ********************** Verifying whether Used object can delete or not *********************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:545 - Click On Approved Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:554 - Click On Delete button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:563 - Click Again Delete Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:572 - Get Text From Error Message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:581 - Displayed 'Cannot delete,It is Used' Error message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:589 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:593 - Click On details button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:605 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:614 - Click Used By Router Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:624 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:633 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:634 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:635 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:647 - Get Object Name : Re-assignment Schedule
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:665 - //=========================================== Go Back to Main Object ===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:666 - ================================================= EDIT SCENARIO START ===============================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:670 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:679 - Click On Edit AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:688 - Clear DragAndDrop Box is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:695 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:700 - Drag and Drop SalesRep is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:709 - Click Dropdown InactiveUserBox is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:718 - Select Option from the InactiveUserBox is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:726 - Click Dropdown ActiveUserBox is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:734 - Select Option from the InactiveUserBox is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:741 - ===========================================Approve After Edit===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:744 - Clicked on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:747 - Click Again Approve button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:751 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:759 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:763 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:772 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:781 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:790 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:798 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:801 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:805 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:814 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:823 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:961 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:970 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:979 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:988 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1001 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1010 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1013 - Displayed AutoTestObjectRenameCopy Object,So Delete that Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1017 - Right Click On AutoTestObjectRenameCopy Object is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1026 - Click On Delete Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1035 - Click again Delete Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1094 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1103 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1112 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1121 - Display clocned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1129 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1133 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1142 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1151 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1160 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1167 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1171 - Right Click On ClonedAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1180 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1189 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1198 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1206 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1211 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1220 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1231 - Folder Not Found!! Craeting New Folder.
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1234 - Click On Cancel button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1237 - Right Click On InActiveOwnertoSalesRepMapping is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1240 - Click on New InActiveOwnertoSalesRepMapping is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1243 - Enter Folder Name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1246 - Click On Save is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1250 - Right Click On RenamedAutoTestObject is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1259 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1268 - Select Folder to move the Autotest object is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1279 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1286 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1290 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1299 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1308 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_InActiveOwnertoSalesRepMapping:1317 - Click On Move Button is Passed!!!

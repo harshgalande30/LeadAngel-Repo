@@ -1,0 +1,107 @@
+ContactManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-12 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:46 - Click on ContactManagement is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:54 - Right Click on Wait Condition is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:57 - Click on New Wait Condition is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:61 - Enter AutoTestObject name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:70 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:78 - Click on Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:218 - Refreshing The Page!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:249 - Click on Wait Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:257 - //====================================== DRAG&DROP WAIT_FOR ATTRIBUTE===================================//
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:261 - Drag And Drop Wait For is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:270 - Input on WaitFor is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:279 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:296 - Select Minutes is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:305 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:296 - Select Hours is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:305 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:296 - Select Days is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:305 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:314 - //========================================= DRAG&DROP WAIT TILL ATTRIBUTE================================//
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:318 - Drag and Drop WaitTill is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:327 - Click on Calendar Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:336 - Click On Date is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:345 - Displayed Input Box1 is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:355 - Click on Select Time is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:364 - Click On Time is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:373 - Click On Ok button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:382 - Displayed Input Box2 is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:390 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:394 - Drag And Drop WAIT FILTER is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:408 - Click On WaitFilter DropDown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:420 - Select Wait filter returns true is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:429 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:439 - Click On WaitFilterSelect dropdown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:451 - Object Name Before Click NewTab Link: asdfasd
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:455 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:473 - Object Name After Click NewTab Link: asdfasd
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:477 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:491 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:514 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:408 - Click On WaitFilter DropDown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:420 - Select Wait filter returns false is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:429 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:439 - Click On WaitFilterSelect dropdown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:504 - Click On WaitFilterOption is  PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:514 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:522 - *********************** Search Box and refresh Button Operation **************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:527 - Get Text from first drag and drop box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:536 - Enter Text in search box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:545 - Displayed text in toolist, which is entered in search box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:554 - Click On Close Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:563 - Click On Refresh Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:572 - Click on Wait Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:582 - Click on DefaultFilter Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:591 - Select Custom FilterOption is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:600 - Input For CutomFilter Wait Condition is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:609 - Click on CollapseAll is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:618 - Click on ExpandAll is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:625 - //========================================ENTERING DETAILS PAGE======================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:628 - Click on Details Button is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:631 - Click On Description Edit button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:634 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:637 - Click On Description Save button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:641 - Click On Copy Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:650 - Displayed Copied Success Message is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:658 - ==================================== Approve ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:662 - Click On draftbox is PASSED!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:670 - Click on Approve Button After EDIT is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:673 - Click Again Approve button is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:677 - Display Approved button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:684 - //========================================Delete Craft scenario=======================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:688 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:697 - Click On Edit AutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:706 - Click On DeleteCraft buton is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:716 - Dispalying Verified Sign is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:724 - //==================================== OverView Page Opeartion  ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:728 - Click On WaitCondition Feature is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:737 - Display WaitCondition OverView Page is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:745 - ***************** Column Header Check Box Operation ******************
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:746 - Displayed Column Header Checkbox Is Not Disabled 
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:751 - Click On ColumnHeader CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:760 - Displayed ColumnHeader CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:771 - Displayed AutTestObject CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:784 - Displayed Delete Button is Enabled is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:794 - Uncheck the ColumnHeader CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:804 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:817 - Displayed Delete Button is Disable is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:824 - ********************** Filter Operation *************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:828 - Enter Text In FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:837 - Displayed AutoTestObject is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:846 - Displayed AutoTestObject CheckBox
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:849 - Displayed AutoTestObject Is Not Used is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:871 - Clear Test From The FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:878 - ********************** Delete AutoTestObject Operation *************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:882 - Click On AutTestObject CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:891 - Displayed AutTestObject CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:901 - Click On Delete Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:910 - Click Again Delete Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitCondition_ContactManagement:919 - Display Deleted success message is Passed

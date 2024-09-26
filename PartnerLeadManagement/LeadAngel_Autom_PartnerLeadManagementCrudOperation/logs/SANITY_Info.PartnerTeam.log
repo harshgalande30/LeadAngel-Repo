@@ -1,0 +1,147 @@
+PartnerLead-2024-09-14 INFO BaseClass:124 - ======================================= INFORMATION ======================================
+PartnerLead-2024-09-14 INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+PartnerLead-2024-09-14 INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+PartnerLead-2024-09-14 INFO BaseClass:133 - 1002
+PartnerLead-2024-09-14 INFO BaseClass:134 - ganesh@leadangel.com
+PartnerLead-2024-09-14 INFO BaseClass:136 - Entered ClientID
+PartnerLead-2024-09-14 INFO BaseClass:138 - Entered Email
+PartnerLead-2024-09-14 INFO BaseClass:140 - Entered Password
+PartnerLead-2024-09-14 INFO BaseClass:142 - Click on Submit
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:45 - Click on PartnerLeadManagement is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:54 - Click on Sales Team Dropdown is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:63 - RightClick On PartnerTeam is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:72 - Click on New PartnerTeam is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:80 - //===============================CREATE OBJECT SCENARIO START========================================!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:84 - Enter AutoTestObject Name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:93 - Enter Description is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:102 - Click on Save Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:247 - Refreshing The Page!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:280 - Click On PartnerGroup is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:290 - //===================================== DRAG&DROP PartnerName ATTRIBUTE =====================================//
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:294 - Drag and Drop PartnerName is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:303 - Click on DropDown PartnerName is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:319 - Select contains is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:328 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:341 - Input on PartnerName is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:350 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:319 - Select does not contain is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:328 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:341 - Input on PartnerName is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:350 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:319 - Select starts with is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:328 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:341 - Input on PartnerName is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:350 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:319 - Select does not start with is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:328 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:341 - Input on PartnerName is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:350 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:319 - Select is empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:328 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:319 - Select is not empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:328 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:319 - Select in is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:328 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:367 - Click on Add Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:376 - Selected One Account is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:385 - Click on Save button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:394 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:319 - Select not in is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:328 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:367 - Click on Add Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:376 - Selected One Account is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:385 - Click on Save button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:394 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:405 - //======================================= DRAG&DROP PartnerId ATTRIBUTE ==================================//
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:409 - Drag and Drop PartnerID is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:420 - Click on DropDown Partner Id is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select is empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select is not empty is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select in is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:457 - Click on Add Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:466 - Selected One Account is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:474 - Click on Save button PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:483 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select not in is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:457 - Click on Add Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:466 - Selected One Account is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:474 - Click on Save button PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:483 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select is greater than is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:498 - Input on Partner ID is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:507 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select is smaller than is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:498 - Input on Partner ID is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:507 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select between is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:521 - Partner ID Input Box For Between Box1 is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:531 - Partner ID Input Box For Between Box2 is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:540 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select is at least is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:498 - Input on Partner ID is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:507 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:434 - Select is at most is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:443 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:498 - Input on Partner ID is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:507 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:552 - *********************** Search Box and refresh Button Operation **************************
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:557 - Get Text from first drag and drop box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:566 - Enter Text in search box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:575 - Displayed text in toolist, which is entered in search box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:584 - Click On Close Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:593 - Click On Refresh Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:602 - Click On PartnerGroup is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:612 - Click on DefaultFilter Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:621 - Select Custom Filter Option is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:630 - Input For CutomFilter  is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:639 - Click on CollapseAll is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:648 - Click on ExpandAll is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:655 - //================================================ENTERING DETAILS PAGE===============================================
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:659 - Click on Details Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:667 - Click On Description Edit button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:670 - Enter Decription is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:673 - Click On Description Save button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:677 - Click On Copy Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:686 - Displayed Copied Success Message is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:695 - ==================================== Approve ==================================
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:699 - Click On draftbox is PASSED!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:707 - Click on Approve Button After EDIT is passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:710 - Click Again Approve button is passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:714 - Display Approved button is PASSED!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:721 - //========================================Delete Craft scenario=======================================
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:725 - RightClick On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:734 - Click On Edit AutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:743 - Click On DeleteCraft buton is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:753 - Dispalying Verified Sign is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:761 - //==================================== OverView Page Opeartion  ==================================
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:765 - Click On PartnerTeam Feature is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:774 - Display PartnerTeam OverView Page is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:783 - ***************** Column Header Check Box Operation ******************
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:784 - Displayed Column Header Checkbox Is Not Disabled 
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:789 - Click On ColumnHeader CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:798 - Displayed ColumnHeader CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:809 - Displayed AutTestObject CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:822 - Displayed Delete Button is Enabled is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:832 - Uncheck the ColumnHeader CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:842 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:855 - Displayed Delete Button is Disable is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:862 - ********************** Filter Operation *************************
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:866 - Enter Text In FilterBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:875 - Displayed AutoTestObject is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:884 - Displayed AutoTestObject CheckBox
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:887 - Displayed AutoTestObject Is Not Used is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:909 - Clear Test From The FilterBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:916 - ********************** Delete AutoTestObject Operation *************************
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:920 - Click On AutTestObject CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:929 - Displayed AutTestObject CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:939 - Click On Delete Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:948 - Click Again Delete Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_PartnerTeam_PartnerLeadManagement:957 - Display Deleted success message is Passed

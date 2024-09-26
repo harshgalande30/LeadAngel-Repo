@@ -1,0 +1,284 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:46 - Click on Lead Management is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:55 - Click on Lead Routing is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:64 - Right Click On CappingLevelingCondition is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:73 - Click on New CappingLeveling is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:82 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:91 - Enter Description is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:99 - Click on Save Button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:239 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:270 - Click on Lead attribute is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:277 - //===================================== DRAG&DROP FirstName ATTRIBUTE =====================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:281 - Drag And Drop First Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:290 - Click on DropDown FirstName is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:306 - Select contains is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:315 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:328 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:337 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:306 - Select does not contain is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:315 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:328 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:337 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:306 - Select starts with is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:315 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:328 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:337 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:306 - Select does not start with is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:315 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:328 - Input on FirstName is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:337 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:306 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:315 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:306 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:315 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:306 - Select in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:315 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:353 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:362 - Selected One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:370 - Enter free text lattitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:378 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:387 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:306 - Select not in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:315 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:353 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:362 - Selected One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:370 - Enter free text lattitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:378 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:387 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:398 - //======================================= DRAG&DROP LONGITUDE ATTRIBUTE ==================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:402 - Drag and Drop Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:413 - Click on DropDown Longitude is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:450 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:459 - Enter free text Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:467 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:476 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select not in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:450 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:459 - Enter free text Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:467 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:476 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select is greater than is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:491 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:500 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select is smaller than is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:491 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:500 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select between is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:514 - Longitude Input Box For Between Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:523 - Dispalyed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:534 - Longitude Input Box For Between Box2 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:543 - Dispalyed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select is at least is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:491 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:500 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:427 - Select is at most is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:436 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:491 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:500 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:554 - //========================================= DRAG&DROP Converted ATTRIBUTE===================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:558 - Drag And Drop Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:569 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:585 - Select is is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:594 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:606 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:622 - Select True is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:631 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:622 - Select False is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:631 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:585 - Select is not is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:594 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:606 - Click on DropDown Convertedbox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:622 - Select True is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:631 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:622 - Select False is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:631 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:642 - //======================================== DRAG&DROP CRETED DATE ATTRIBUTE ==================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:646 - Drag and Drop Created Date is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:657 - Click on DropDown CreateDateFirstBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:694 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:703 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:712 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:694 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:703 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:712 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select on or before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:694 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:703 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:712 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select on or after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:694 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:703 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:712 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select in past is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:726 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:735 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:745 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select in past before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:726 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:735 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:745 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select in future is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:726 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:735 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:745 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select in future after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:726 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:735 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:745 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:762 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:771 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select between is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:785 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:794 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:803 - Dispalyed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:813 - Click On CreatedDate Calendar Button Box2 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:822 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:831 - Dispalyed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select in time frame is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:846 - Click on DropDown CreateDate for InTimeFrame is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select Today is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select Yesterday is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select This Week S S is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select This Week M F is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select Last Week S S is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select Last Week M F is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select This Month is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select Last Month is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select This Calendar Quarter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select Last Calendar Quarter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select This Calendar Year is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:863 - Select Last Calendar Year is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:872 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select is is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:694 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:703 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:712 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select is today is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select is not is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:694 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:703 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:712 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:672 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:681 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:889 - *********************** Search Box and refresh Button Operation **************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:894 - Get Text from first drag and drop box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:903 - Enter Text in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:912 - Displayed text in toolist, which is entered in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:921 - Click On Close Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:930 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:939 - Click on Lead attribute is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:949 - Click on DefaultFilter Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:958 - Select Custom FilterOption is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:967 - Input For CutomFilter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:976 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:985 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:993 - //================================================ENTERING DETAILS PAGE===============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:997 - Click on Details Button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1005 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1008 - Enter Decription is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1011 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1015 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1024 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1032 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1036 - Click On draftbox is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1044 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1047 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1051 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1059 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1063 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1072 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1081 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1091 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1099 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1103 - Click On CappingLevelingCondition Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1112 - Display CappingLevelingCondition OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1121 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1122 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1127 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1136 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1147 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1160 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1170 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1180 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1193 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1200 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1204 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1213 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1222 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1225 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1247 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1254 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1258 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1267 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1277 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1286 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_CappingLevelingCondition_LeadManagement:1295 - Display Deleted success message is Passed

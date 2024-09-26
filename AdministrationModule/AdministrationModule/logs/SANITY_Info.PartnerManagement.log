@@ -1,0 +1,84 @@
+Administration-2024-09-16 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-16 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-16 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-16 INFO BaseClass:132 - 1667
+Administration-2024-09-16 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-16 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-16 INFO BaseClass:137 - Entered Email
+Administration-2024-09-16 INFO BaseClass:139 - Entered Password
+Administration-2024-09-16 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:31 - Click on Administration is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:40 - Click On Partner Management is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:48 - *********************************** Create New Partner *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:52 - Click On New Partner Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:63 - Enter PartnerName is Passed!!!
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:74 - Enter Partner Email Id is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:83 - Enter Partner Location is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:92 - Enter Partner Speciality is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:101 - Enter Partner Customfield1 is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:110 - Enter Partner Customfield1 notes is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:119 - Enter Partner Customfield2 is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:128 - Enter Partner Customfield2 notes is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:137 - Click On Via Email CheckBox is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:146 - Enter Via Email is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:155 - Click On Add Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:164 - Displayed 'New Partner has been Added' message is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:172 - *********************************** Edit Operation *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:176 - Click On Edit Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:185 - Displayed PartnerName Textbox Is Disabled is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:195 - Displayed EmailId Textbox Is Disabled is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:205 - Click On Update Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:214 - Displayed 'Partner has been updated successfully' message is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:221 - *********************************** Filter Operation *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:226 - Fetch Partner Id Text is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:235 - Enter Partner Id in filter box is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:246 - The partner ID entered in the filter box is displayed in the console is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:256 - Clear Filter Box is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:263 - *********************************** Verification data in Visibility popup *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:271 - Fetch Partner Name from console is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:280 - Fetch Partner Admin EmailID from console is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:289 - Fetch Location from console is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:298 - Fetch Speciality from console is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:308 - Click On Visibility Icon is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:319 - Partner Name Is Displayed In The Visibility Popup As Similar To Console Output is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:328 - 'ganesh+3DDLlpkwNM@leadangel.com'
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:331 - Partner Admin Email Id Is Displayed In The Visibility Popup As Similar To Console Output is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:342 - Location Is Displayed In The Visibility Popup As Similar To Console Output is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:353 - Speciality Is Displayed In The Visibility Popup As Similar To Console Output is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:364 - Click On Close Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:372 - *********************************** Use Partner Management Object In User & Access *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:376 - Click on User And Acces is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:383 - ************************ Delete If Already AutomationTest User Role Is Present *************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:386 - Displayed Already AutomationTest User Role Is Present
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:390 - Click On Delete Button For UserAndAccess is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:399 - Click On Delete Button For Confirmation Popup is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:408 - Displayed Success Message is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:419 - ******************************** Create New User Role *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:423 - Click On AddButton is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:432 - Click On Dropdown For Role is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:441 - Select Partner Admin As a Role is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:450 - Select PartnerId Dropdown is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:459 - Select PartnerId option is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:468 - Enter First Name is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:477 - Enter Last Name is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:486 - Enter Email Id is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:495 - Click On Save Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:504 - Displayed 'New user has been added successfully' message is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:512 - ************************ Go back to Partner Management *************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:516 - Click On Partner Management is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:523 - *********************************** Delete Operation after Used *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:527 - Click On Delete Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:536 - Click again Delete Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:546 - Displayed 'Can not delete Partner,It is used' Error Message is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:555 - *********************************** UnUsed Recaptcha in Forms and Perform delete Operation************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:559 - Click on User And Acces is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:565 - ************************************** Delete Operation *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:569 - Click On Delete Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:578 - Click On Delete Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:587 - Displayed 'Deleted successfully' message is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:596 - ************************ Go back to Partner Management *************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:600 - Click On Partner Management is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:607 - *********************************** Delete Operation after Used *************************************
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:611 - Click On Delete Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:620 - Click again Delete Button is Passed
+Administration-2024-09-16 INFO TC_Sanity_PartnerManagement_Administration:629 - Displayed 'Partner has been deleted successfully' message is Passed

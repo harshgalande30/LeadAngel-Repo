@@ -1,0 +1,120 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:40 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:49 - Click on Notifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:58 - Click On OTSnotifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:67 - Click On OTSScreenAssignmentConfirmation is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:74 - ========================================= Lead OTS Screen Assignment Confirmation Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:78 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:90 - Name : {!LeadOwner.Name} is perfectly located in Lead Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:105 - Email: {!LeadOwner.Email} is perfectly located in Lead Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:181 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:185 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:194 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:231 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:240 - Click On Insert Value Select Field DropDown UpdateDataValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:249 - Click On Insert Value Select Field Option UpdateDataValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:258 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:209 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:218 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:231 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:240 - Click On Insert Value Select Field DropDown UpdateDataValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:249 - Click On Insert Value Select Field Option UpdateDataValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:258 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:268 - Enter Text Inside the OTS Screen Assignment Confirmation message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:281 - Selected all the text from the OTS Screen Assignment Confirmation message body
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:283 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:287 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:296 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:306 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:315 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:325 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:334 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:344 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:353 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:364 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:373 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:383 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:392 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:402 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:411 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:421 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:430 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:440 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:449 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:459 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:468 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:479 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:488 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:498 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:507 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:514 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:518 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:527 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:535 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:539 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:553 - Name : {!LeadOwner.Name} is perfectly located in Lead Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:568 - Email: {!LeadOwner.Email} is perfectly located in Lead Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:614 - Displayed hasPopup OTS Screen Assignment Confirmation is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:117 - =========================================  Contact OTS Screen Assignment Confirmation Operation =========================================
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:122 - Move the mouse cursor to ContactOTSScreenAssignmentConfirmation is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:126 - Click On Contact OTSScreenAssignmentConfirmation Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:135 - Click On Continue Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:144 - Click On RestoreDefault Button for Contact OTSScreenAssignmentConfirmation is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:157 - Name : {!ContactOwner.Name} is perfectly located in Contact OTS Screen Assignment Confirmation
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:172 - Email: {!ContactOwner.Email} is perfectly located in Contact OTS Screen Assignment Confirmation
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:181 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:185 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:194 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:231 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:240 - Click On Insert Value Select Field DropDown UpdateDataValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:249 - Click On Insert Value Select Field Option UpdateDataValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:258 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:209 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:218 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:231 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:240 - Click On Insert Value Select Field DropDown UpdateDataValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:249 - Click On Insert Value Select Field Option UpdateDataValue is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:258 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:268 - Enter Text Inside the OTS Screen Assignment Confirmation message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:281 - Selected all the text from the OTS Screen Assignment Confirmation message body
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:283 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:287 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:296 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:306 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:315 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:325 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:334 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:344 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:353 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:364 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:373 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:383 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:392 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:402 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:411 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:421 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:430 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:440 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:449 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:459 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:468 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:479 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:488 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:498 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:507 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:514 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:518 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:527 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:535 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:539 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:584 - Name : {!ContactOwner.Name} is perfectly located in Contact OTS Screen Assignment Confirmation
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:599 - Email: {!ContactOwner.Email} is perfectly located in Contact OTS Screen Assignment Confirmation
+Administration-2024-09-14 INFO TC_Sanity_OTSScreenAssignmentConfirmation_Administration:614 - Displayed hasPopup OTS Screen Assignment Confirmation is Passed

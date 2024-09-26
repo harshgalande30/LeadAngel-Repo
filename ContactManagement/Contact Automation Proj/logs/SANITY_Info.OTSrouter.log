@@ -1,0 +1,773 @@
+ContactManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-12 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:50 - Click on ContactManagement is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:59 - Right Click on OTSrouter is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:67 - Click on New OTS Router is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:71 - Enter Object Name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:80 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:88 - Click on Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:226 - Refreshing The Page!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:257 - Click On DNDdiagram DropDown is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:266 - Minimize the Panner is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:274 - *************************************** Decision block DND ****************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:278 - Drag And Drop Decision block is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:287 - Connect StartBlock To DecisionBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:295 - *************************************** Action Block DND ****************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:299 - Drag And Drop ActionBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:308 - Connect DecisionBlock(No) To Action Block is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:316 - *************************************** OTS Assignment Block DND And Random Split DND ****************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:320 - Drag And Drop OTS AssignmentBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:329 - Drag And Drop RandomSplit is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:338 - Connect ActionBlock To RandomSplitBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:347 - Connect RandomSlitB To ActionBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:356 - Connect RandomSlitA To OTSassignmentBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:365 - Connect DecisionBlock(YES) To OTSAssignmentBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:373 - ***************************************Decision block Operation***************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:377 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:386 - Enter Description is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:395 - Click On Data dictionary option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:404 - Click On AddButton is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:413 - Click On CustomFilter is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:422 - Enter CustomFilter is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:432 - Object Name Before Click NewTab Link: Test@18May24
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:436 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:452 - Object Name After Click NewTab Link: Test@18May24
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:456 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:470 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:480 - Click On Save Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:489 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:490 - Decision Block Border Color is Verified and Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:499 - *********************************************ActionBlock Operation********************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:503 - Double Click On Action Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:512 - Enter Description is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:521 - Select Call Webhook Option is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:530 - Click On Second ListBox dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:539 - Object Name Before Click NewTab Link: Webhook-Contact
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:543 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:559 - Object Name After Click NewTab Link: Webhook-Contact
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:563 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:577 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:587 - Click On Continue processing Radio button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:596 - Click On Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:605 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:606 - Action Block Border Color is Verified and Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:615 - *********************************************RandomSplit Operation****************************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:619 - Double Click On RandomSplit Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:628 - Click On Description Of Random Split Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:637 - Write Value Inside PercentageAllocation For A is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:646 - Write Value Inside PercentageAllocation For B is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:655 - Write Value Inside PercentageAllocation For C is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:664 - Click On Save Button For RandomSplit is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:673 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:674 - Display Random Split Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:683 - ********************************************* Assignment block Operation ****************************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:685 - =========================== Details Page Operation in OTS assignment block ===========================
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:689 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:698 - Click On Details Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:707 - Enter Description of OTS Assignment block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:714 - ===========================  Assignment Options Page Operation  ===========================
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:718 - Click On Assignment Options button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:727 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:763 - Select Live Claim is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:775 - Click Prefer Historical Sales Person CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:784 - Click On Email Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:793 - Click On Email Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:802 - Object Name Before Click NewTab Link: FContact
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:806 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:823 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:831 - Object Name After Click NewTab Link: Contact: FContact
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:849 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:859 - Click On Salck Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:868 - Click On Slack Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:877 - Object Name Before Click NewTab Link: Contact check prod issue
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:881 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:898 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:906 - Object Name After Click NewTab Link: Contact: Contact check prod issue
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:924 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:934 - Click On Text Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:943 - Click On Text Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:952 - Object Name Before Click NewTab Link: ContactTwilio
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:956 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:973 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:981 - Object Name After Click NewTab Link: Contact: ContactTwilio
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:999 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1009 - Click On CRMinApp Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1018 - Click On CRMinApp Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1027 - Object Name Before Click NewTab Link: ContactInApp
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1031 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1048 - Object Name After Click NewTab Link: Contact: ContactInApp
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1052 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1066 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1105 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1238 - Click Assign Based Firstbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1247 - Select Assign Based Firstbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1256 - Click Assign Based Secondbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1265 - Select Assign Based Secondbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Account Owner is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1154 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1163 - Click On SelectMappedSDR DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1173 - Object Name Before Click NewTab Link: AEtoSDR-1
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1177 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1193 - Object Name After Click NewTab Link: AEtoSDR-1
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1197 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1211 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Parent Accounts Owner is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Rep is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1154 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1163 - Click On SelectMappedSDR DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1224 - Select Mapped SDR Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Rep Email Lookup on Contact is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Rep ID Lookup on Contact is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1295 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1299 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1315 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1319 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1333 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Weighted Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1295 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1299 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1315 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1319 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1333 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Route to the Owner on Master Record is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1154 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1163 - Click On SelectMappedSDR DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1224 - Select Mapped SDR Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1389 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1398 - Click On AcceptLead DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1407 - Select AcceptLead In AnyoneWithTheLinkCanAccept Option is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1416 - Click On RejectLead DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1425 - Select MemberOfSalesTeam Option is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1434 - Click On SelectSalesTeamType DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1471 - Select Round Robin Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1484 - Click On SelectSalesTeam DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1493 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1497 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1513 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1517 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1531 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1542 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1551 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1552 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1448 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1457 - Click On SelectSalesTeamType DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1471 - Select Weighted Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1484 - Click On SelectSalesTeam DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1493 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1497 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1513 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1517 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1531 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1542 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1551 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1552 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:741 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:750 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:763 - Select Broadcast is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1568 - Click On BroadcastToSalesTeam CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1577 - Click On SelectSalesTeam DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1586 - Select SelectSalesTeam Option is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1595 - Click On Email CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1604 - Click On Email DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1613 - Select Email Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1622 - Click On Salck CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1631 - Click On Slack DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1640 - Select Slack Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1649 - Click On Text CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1658 - Click On Text DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1667 - Select Text Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1676 - Click On InApp CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1685 - Click On CRMinApp DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1694 - Select CRMinApp Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1703 - Click On BroadcastViaEmail CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1712 - Click On BroadcastViaEmail DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1721 - Select BroadcastViaEmail Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1730 - Click On BroadcastViaSlack CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1739 - Click On BroadcastViaSlack DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1748 - Select BroadcastViaSlack Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1757 - Click On BroadcastViaText CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1766 - Click On BroadcastViaText DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1775 - Select BroadcastViaText Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1784 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1793 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1794 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:741 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:750 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:763 - Select Direct Assignment is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:775 - Click Prefer Historical Sales Person CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:784 - Click On Email Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:793 - Click On Email Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:802 - Object Name Before Click NewTab Link: FContact
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:806 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:823 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:831 - Object Name After Click NewTab Link: Contact: FContact
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:849 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:859 - Click On Salck Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:868 - Click On Slack Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:877 - Object Name Before Click NewTab Link: Contact check prod issue
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:881 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:898 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:906 - Object Name After Click NewTab Link: Contact: Contact check prod issue
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:924 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:934 - Click On Text Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:943 - Click On Text Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:952 - Object Name Before Click NewTab Link: ContactTwilio
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:956 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:973 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:981 - Object Name After Click NewTab Link: Contact: ContactTwilio
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:999 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1009 - Click On CRMinApp Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1018 - Click On CRMinApp Notification DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1027 - Object Name Before Click NewTab Link: ContactInApp
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1031 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1048 - Object Name After Click NewTab Link: Contact: ContactInApp
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1052 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1066 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1077 - Click On Create Task For The NewOwner CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1086 - Click Create Task For The NewOwner DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1095 - Select Create Task For The NewOwner Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1105 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1238 - Click Assign Based Firstbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1247 - Select Assign Based Firstbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1256 - Click Assign Based Secondbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1265 - Select Assign Based Secondbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Account Owner is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1154 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1163 - Click On SelectMappedSDR DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1173 - Object Name Before Click NewTab Link: AEtoSDR-1
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1177 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1193 - Object Name After Click NewTab Link: AEtoSDR-1
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1197 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1211 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Parent Accounts Owner is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Rep is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1154 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1163 - Click On SelectMappedSDR DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1224 - Select Mapped SDR Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Rep Email Lookup on Contact is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Rep ID Lookup on Contact is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1351 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1295 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1299 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1315 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1319 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1333 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Assign to Weighted Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1284 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1295 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1299 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1315 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1319 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1333 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1118 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1127 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1140 - Select Route to the Owner on Master Record is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1154 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1163 - Click On SelectMappedSDR DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1224 - Select Mapped SDR Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1366 - Clicked On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1375 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1376 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1804 - ********************************************* Assignment Setup Operation ****************************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1808 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1817 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1826 - Click On Add-Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1835 - Enter ReassignmentWaitTime is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1844 - Click ReassignmentWaitTime DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1853 - Select Minutes is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1862 - Click ReassignmentWaitTime DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1871 - Select Seconds is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1880 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1925 - Select Live Claim is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1938 - Click On Email Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1947 - Click SelectEmailTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1956 - Select Email Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1965 - Click On Salck Notification CheckBox AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1974 - Click SelectSlackTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1983 - Select Slack Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1992 - Click On Text Notification CheckBox AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2001 - Click SelectTextTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2010 - Select Text Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2019 - Click On CRMinApp Notification DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2028 - Click SelectCRMInAppTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2037 - Select CRMinApp Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2114 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2171 - Click Assign Based Firstbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2180 - Select Assign Based Firstbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2189 - Click Assign Based Secondbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2198 - Select Assign Based Secondbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Account Owner is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Parent Accounts Owner is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Rep is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Rep Email Lookup on Contact is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Rep ID Lookup on Contact is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Weighted Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Route to the Owner on Master Record is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2258 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2267 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2276 - Click On AcceptLead DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2285 - Select AcceptLead In AnyoneWithTheLinkCanAccept Option is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2294 - Click On RejectLead DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2303 - Select MemberOfSalesTeam Option is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2312 - Click On SelectSalesTeamType DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2357 - Select Round Robin Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2370 - Click On SelectSalesTeam DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2379 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2383 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2399 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2403 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2417 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2428 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2437 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2438 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2326 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2335 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2344 - Click On SelectSalesTeamType DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2357 - Select Weighted Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2370 - Click On SelectSalesTeam DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2379 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2383 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2399 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2403 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2417 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2428 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2437 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2438 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1894 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1903 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1912 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1925 - Select Broadcast is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2454 - Click On BroadcastToSalesTeam CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2463 - Click On SelectSalesTeam DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2472 - Select SelectSalesTeam Option is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2481 - Click On Email CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2490 - Click On Email DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2499 - Select Email Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2508 - Click On Salck CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2517 - Click On Slack DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2526 - Select Slack Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2535 - Click On Text CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2544 - Click On Text DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2553 - Select Text Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2562 - Click On InApp CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2571 - Click On CRMinApp DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2580 - Select CRMinApp Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2589 - Click On BroadcastViaEmail CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2598 - Click On BroadcastViaEmail DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2607 - Select BroadcastViaEmail Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2616 - Click On BroadcastViaSlack CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2625 - Click On BroadcastViaSlack DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2634 - Select BroadcastViaSlack Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2643 - Click On BroadcastViaText CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2652 - Click On BroadcastViaText DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2661 - Select BroadcastViaText Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2670 - Click on CollapseAll For OTS assignment is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2679 - Click on ExpandAll is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2688 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2697 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2698 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1894 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1903 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1912 - Click On Assignment Type DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1925 - Select Direct Assignment is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1938 - Click On Email Notification CheckBox is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1947 - Click SelectEmailTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1956 - Select Email Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1965 - Click On Salck Notification CheckBox AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1974 - Click SelectSlackTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1983 - Select Slack Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:1992 - Click On Text Notification CheckBox AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2001 - Click SelectTextTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2010 - Select Text Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2019 - Click On CRMinApp Notification DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2028 - Click SelectCRMInAppTemplate DropDown AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2037 - Select CRMinApp Notification Option AssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2047 - Click On Create Task For The NewOwner CheckBox ReAssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2056 - Click Create Task For The NewOwner DropDown ReAssignmentSetup is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2065 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2069 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2085 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2089 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2103 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2114 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2171 - Click Assign Based Firstbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2180 - Select Assign Based Firstbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2189 - Click Assign Based Secondbox DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2198 - Select Assign Based Secondbox Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Account Owner is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Parent Accounts Owner is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Rep is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Rep Email Lookup on Contact is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Rep ID Lookup on Contact is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Assign to Weighted Sales Team is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2216 - Click on main second Select DropDown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2225 - Select Option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2127 - Double Click On OTS Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2136 - Click On Reassignment Setup Button is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2145 - Click On Assignment Option DropDown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2158 - Select Route to the Owner on Master Record is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2235 - Click On Save Button For OTSAssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2244 - true
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2245 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2712 - Click On Maximize Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2721 - Maximize the Panner is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2730 - Move Blocks In Console is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2739 - Click On Manimize Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2746 - //========================================ENTERING DETAILS PAGE======================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2750 - Enter Details Page is passed!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2759 - Default ContactOwner DropDown is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2768 - Select Default ContactOwner Option is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2774 - ******************************* Wait Time *****************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2778 - Click On Wait Time Radio Button OTSDetailsPage is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2787 - Enter Wait Time OTSDetailsPage is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2796 - Click On DropDown For WaitTime OTSDetailsPage is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2805 - Click On Option For WaitTime OTSDetailsPage is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2811 - *********************** Default owner notification setup ************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2816 - Click on NotificationTemplate Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2833 - Displayed 'NotificationToggle' after redirect to new tab is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2847 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2854 - *********************** Email notification ************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2858 - Click On EmailNotification Dropdown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2867 - Object Name Before Click NewTab Link: FContact
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2871 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2888 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2896 - Object Name After Click NewTab Link: Contact: FContact
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2914 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2922 - *********************** Slack notification ************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2926 - Click On SlackNotification Dropdown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2935 - Object Name Before Click NewTab Link: Contact check prod issue
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2939 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2956 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2964 - Object Name After Click NewTab Link: Contact: Contact check prod issue
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2982 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2990 - *********************** Text notification ************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:2994 - Click On TextNotification Dropdown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3003 - Object Name Before Click NewTab Link: ContactTwilio
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3007 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3024 - Click On Detail Page is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3032 - Object Name After Click NewTab Link: Contact: ContactTwilio
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3050 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3058 - *********************** OTS Initiation Validation ************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3062 - Click On Radio Button Start OTS when member of this is a filter OTSDetailsPage is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3071 - Click On DropDown for OTS when member of this is a filter OTSDetailsPage is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3080 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3084 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3100 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3104 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3118 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3129 - Click On Checkbox For Reassignment Notification is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3138 - Displayed Reassignment Notification CheckBox Is Checked!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3149 - Click Notification Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3166 - Displayed 'OTSnotifications' Feature after redirect to new tab is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3180 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3190 - Click On Save Button For details Page OTS is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3199 - Display Success For DefaultLeadOwner is Passed!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3207 - Click On Description Edit button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3210 - Enter Discription is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3213 - Click On Description Save button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3218 - Click On Copy Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3227 - Displayed Copied Success Message is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3235 - //==================================== OverView Page Opeartion Before approve  ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3239 - Click On OTS Router Feature is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3248 - Display OTSRouter OverView Page is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3257 - ***************** Column Header Check Box Operation ******************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3258 - Displayed Column Header Checkbox Is Not Disabled 
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3263 - Click On ColumnHeader CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3272 - Displayed ColumnHeader CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3283 - Displayed AutTestObject CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3296 - Displayed Delete Button is Enabled is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3306 - Uncheck the ColumnHeader CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3316 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3329 - Displayed Delete Button is Disable is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3336 - ********************** Filter Operation *************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3340 - Enter Text In FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3349 - Displayed AutoTestObject is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3358 - Displayed AutoTestObject CheckBox
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3361 - Displayed AutoTestObject Is Not Used is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3383 - Clear Test From The FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3456 - ==================================== Approve ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3460 - Click on OTSrouter DropDown is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3469 - Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3478 - Click on Approve Button After EDIT is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3481 - Click Again Approve button is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3485 - Display Approved button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3492 - //========================================Delete Craft scenario=======================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3496 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3505 - Click On Edit AutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3514 - Click On DeleteCraft buton is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3524 - Dispalying Verified Sign is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3533 - //==================================== OverView Page Opeartion After approved  ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3537 - Click On OTS Router Feature is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3546 - Display OTSRouter OverView Page is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3554 - *****************Verifying Column Header Check Is Disabled******************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3566 - ********************** Filter Operation *************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3571 - Enter Text In FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3580 - Displayed AutoTestObject is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3591 - Displayed AutoTestObject is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_OTSrouter_ContactManagement:3612 - Clear Test From The FilterBox is Passed

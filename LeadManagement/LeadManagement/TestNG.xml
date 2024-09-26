@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LeadAngelV1">
+	
+	<listeners>
+
+		 <listener class-name="com.leadAngel.utilities.TestAllureListener" />
+		 
+	</listeners>
+<!-- ================================================= FOR CHROME ================================================== -->
+	<test name="LA_chrome"> 
+	 
+		<parameter name="browser" value="chrome" />	
+		<parameter name="roleName" value="admin" />		
+		
+		 <classes>
+	    
+	    	
+	   	  <!--  <class name ="com.leadAngel.testCases.TC_CrudOperation_CappingLevelingCondtion"/>
+	   	    <!- <class name ="com.leadAngel.testCases.TC_Sanity_SRandGroupMapping_LeadManagement"/>-->   
+	  
+	    
+		    <class name ="com.leadAngel.testCases.TC_CrudOperation_AccountList"/>
+	    
+  <!--  ***********************************Lead Management Crud Operation Test Cases ***********************************-->   
+   
+      <!--   <class name ="com.leadAngel.testCases.TC_CrudOperation_AEtoSDR"/>-->
+	   <!--  <class name ="com.leadAngel.testCases.TC_CrudOperation_RRT"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_WST"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_CRM_AccFilter"/>*     
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_LeadFilter"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_InActiveOwnertoSalesRepMapping"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_CappingLevelingCondtion"/>*   
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_EscalationCondition"/>*
+		<class name ="com.leadAngel.testCases.TC_CrudOperation_WaitFilter"/>*
+		<class name ="com.leadAngel.testCases.TC_CrudOperation_WaitCondition"/>* 
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_LeadRouter"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_LeadProcessingWithoutRouting"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_EscalationRouter"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_LeadRoutingTerritory"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_TaskList"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_SubRouter"/>*
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_OTS_Router_LeadManagement"/>*--> 
+	    
+  <!--  ********************************* Lead Management Sanity TestCases *******************************-->   
+	      
+   <!-- <class name ="com.leadAngel.testCases.TC_Sanity_AEtoSDR_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_RRT_LeadManagement"/> *
+	    <class name ="com.leadAngel.testCases.TC_Sanity_WST_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_AccountList_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_CRMaccountFilter_Leadamanagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_CRMleadFilter_LeadManagement"/>*
+      	<class name ="com.leadAngel.testCases.TC_Sanity_InactiveOwnerToSalesRepMapping_Leadamangement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_LeadRoutingTerritory_Leadamanagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_LeadProcessingWithoutRouting_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_CappingLevelingCondition_LeadManagement"/> * 
+	    <class name ="com.leadAngel.testCases.TC_Sanity_EscalationCondition_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_WaitFilter_LeadManagement"/>*   
+	    <class name ="com.leadAngel.testCases.TC_Sanity_WaitCondition_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_OTSrouter_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_TaskList_Leadmanagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_EscalationRouter_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_LeadRouter_LeadManagement"/>*
+	    <class name ="com.leadAngel.testCases.TC_Sanity_SubRouter_LeadManagement"/>*--> 
+	    
+	   
+	    <!--<class name ="com.leadAngel.testCases.SRandAccountMapping_LeadManagement"/> need to check
+	    <class name ="com.leadAngel.testCases.TC_Sanity_SRandGroupMapping_LeadManagement"/> need to check
+     	<class name ="com.leadAngel.testCases.TC_Sanity_ReassignmentSchedule_LeadManagement"/>  need to check-->  
+	
+	
+		 </classes>
+		</test>	
+		
+</suite> 

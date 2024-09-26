@@ -1,0 +1,150 @@
+ContactManagement-2024-09-11 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-11 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-11 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-11 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-11 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-11 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-11 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-11 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-11 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:44 - Click on ContactManagement is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:52 - Right Click on Wait Filter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:55 - Click on New Wait Filter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:59 - Enter AutoTestObject name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:68 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:76 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:80 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:84 - Wait Filter DropDown is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:93 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:102 - Click On Delete button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:111 - Click Again Delete button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:167 - Right Click on Wait filter is Passed 
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:176 - Click on New Wait filter is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:185 - Enter AutoTestObject Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:194 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:203 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:216 - Refreshing The Page!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:221 - Display WaitFilter Overview passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:225 - Wait Filter DropDown is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:234 - Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:248 - Click on ContactAttribute is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:256 - //================================== ContactId_DND ====================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:260 - Drag and Drop ContactId is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:271 - Click on ContactId Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:280 - Enter value for ContactId is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:287 - //================================== Deleted_DND====================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:291 - Drag and Drop Deleted is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:302 - Select Deleted Option1 is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:313 - Select Deleted Option2 is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:320 - //================================== OtherLattitude_DND====================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:324 - Drag and Drop OtherLatitude is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:335 - Select OtherLatitude Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:344 - Enter OtherLatitude Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:351 - //================================== CreadtedDate_DND====================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:355 - Drag and Drop CreadtedDate is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:366 - select CreadtedDate Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:375 - Click on CalenderIcon is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:384 - Select Date is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:391 - //=========================================APPROVE SCENARIO START======================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:395 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:404 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:413 - Click again Approve button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:422 - Displayed Approved button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:430 - //=======================================ENTERING DETAILS PAGE=========================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:433 - Enter Details Page is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:436 - Click On Description Edit button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:439 - Enter text in TextArea is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:442 - Click On Description Save button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:446 - Display 'No Record Found' is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:454 - //*********************************************** Make Use of this Object in Wait Condition *******************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:458 - Right Click on Wait Condition is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:467 - Click on New Object is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:474 - //===============================CREATE OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:478 - Enter AutoTestName is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:487 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:496 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:641 - Refreshing The Page!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:672 - Click on WaitAttribute is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:678 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:682 - Drag And Drop WAIT FILTER is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:691 - Click On WaitTllOption Is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:700 - Click On WaitFilter dropdown is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:709 - Select AutoTestObject is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:717 - //===============================================APPROVE SCENARIO START========================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:720 - Click on Approve Button After EDIT is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:723 - Click Again Approve button is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:727 - Display Approved button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:734 - ======================================= Go back To Main Object ==================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:738 - Wait Filter DropDown is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:747 - Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:753 - ===================== Used By Operation in Details Page =====================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:757 - Click On Detail button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:766 - Click On UsedBy Dropdown is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:777 - Fetch used by router name is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:783 - ********************** Verifying whether Used object can delete or not *********************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:787 - Click On Approved Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:796 - Click On Delete button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:805 - Click Again Delete Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:814 - Get Text From Error Message is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:823 - Displayed 'Cannot delete,It is Used' Error message is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:831 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:835 - Click On details button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:847 - Get Menu Title From Left tree Menu is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:856 - Click Used By Router Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:866 - Get Menu Title From Left tree Menu is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:875 - Contact Management
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:876 - Contact Management
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:877 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:889 - Get Object Name From Details tab : AutoTestObject
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:898 - AutoTest Object Name matched with the name from Details tab is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:907 - ======================================= Go back To Main Object ==================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:910 - //=======================================EDIT SCENARIO START=========================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:914 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:923 - Click on Edit Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:932 - Select AccounttId Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:941 - Enter AccountID is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:950 - Select Deleted Option2 is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:957 - ===========================================Approve After Edit===================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:960 - Click on Approve Button After EDIT is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:963 - Click Again Approve button is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:967 - Display Approved button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:974 - //======================================RENAME SCENARIO START=============================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:978 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:987 - Click on Rename Object is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:996 - Input on Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1005 - Click Rename Button is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1013 - Duplicate Object Found, Deleting Object NOW
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1016 - Display RenameAutoTest Object
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1020 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1029 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1038 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1176 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1185 - Click On Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1194 - Input on Rename AutoTestObject is passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1203 - Click on Rename Button AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1216 - Renamed AutoTest Object is Displayed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1225 - //===================================CLONE SCENARIO START================================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1309 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1318 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1327 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1336 - Display clocned RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1344 - //===============================Approve Cloned Object========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1348 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1357 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1366 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1375 - Displayed Success Message is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1382 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1386 - Right Click On ClonedAutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1395 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1404 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1413 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1421 - //===============================MOVE OBJECT SCENARIO START========================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1426 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1435 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1444 - Select Folder to move the Autotest object is Passed !!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1494 - Click On Move Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1501 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1506 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1515 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1524 - Select Main Folder is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_WaitFilter_ContactManagement:1533 - Click On Move Button is Passed!!!

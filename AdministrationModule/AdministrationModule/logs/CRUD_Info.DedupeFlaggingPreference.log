@@ -1,0 +1,107 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:25 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:34 - Click On Preference is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:43 - Displyed Dedupe Flagging Preference Icon is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:53 - Click On Dedupe Flagging Preference Icon is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:62 - Displayed Dedupe Flagging Preference In Tabs Row is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:72 - Displayed Dedupe Flagging Preference In Left Side Menu is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:80 - ***************************Operation on Flag Duplicate Leads ********************************
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:86 - UnChecked the Flag Duplicate Leads CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:95 - Click On Flag Duplicate Leads CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:104 - Displayed Flag Duplicate Leads CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:152 - Click On Email Only CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:161 - Displayed Email Only CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:173 - Click On Company Name Only CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:182 - Displayed Company Name Only CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:193 - Click On Email And Company Name CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:202 - Displayed Email And Company Name CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:214 - Click On First Name Last Name And Company Name CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:223 - Displayed First Name Last Name And Company Name CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:234 - Click On First Name Last Name And Phone Number CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:243 - Displayed First Name Last Name And Phone Number CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:254 - Click On First Name Last Name Email CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:263 - Displayed First Name Last Name Email CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:275 - Click On All These Conditions Must Satisfy To Identify Duplicate RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:284 - Displayed All These Conditions Must Satisfy To Identify Duplicate RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:295 - Click On Create Dedupe Group By Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:304 - Click On Create Dedupe Group By Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:315 - Click On Newest Lead Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:324 - Displayed Newest Lead Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:336 - Click On Oldest Lead Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:345 - Displayed Oldest Lead Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:357 - Click On Lead With Most Recent Activity Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:366 - Displayed Lead With Most Recent Activity Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:378 - Click On Newest Lead Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:387 - Displayed Newest Lead Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:399 - Click On Oldest Lead Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:408 - Displayed Oldest Lead Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:420 - Click On Upload Dedupe Master Group ID To CRM is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:429 - Click On Upload Dedupe Master Group ID To CRM Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:440 - Click On Save Button For Flag Duplicate Leads is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:449 - Displayed Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:457 - ***************************Operation on Flag Duplicate Contacts ********************************
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:463 - UnChecked the Flag Duplicate Contacts CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:472 - Click On Flag Duplicate Contacts CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:481 - Displayed Flag Duplicate Contacts CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:530 - Click On Email Only CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:539 - Displayed Email Only CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:550 - Click On Email And Account Name CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:559 - Displayed Email And Account Name CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:570 - Click On First Name, Last Name And Account Name CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:579 - Displayed First Name, Last Name And Account Name CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:590 - Click On Account Name Only CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:599 - Displayed Account Name Only CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:611 - Click On First Name, Last Name And Phone Number CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:620 - Displayed First Name, Last Name And Phone Number CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:631 - Click On First Name, Last Name And Email CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:640 - Displayed First Name, Last Name And Email CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:651 - Click On All These Conditions Must Satisfy To Identify Duplicate RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:660 - Displayed All These Conditions Must Satisfy To Identify Duplicate RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:672 - Click On Create Dedupe Group By DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:681 - Click On Create Dedupe Group By Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:692 - Click On Newest Contact Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:701 - Displayed Newest Contact Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:713 - Click On Oldest Contact Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:722 - Displayed Oldest Contact Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:734 - Click On Contact With most Recent Activity Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:743 - Displayed Contact With most Recent Activity Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:754 - Click On Newest Contact Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:763 - Displayed Newest Contact Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:775 - Click On oldest Contact Is The Master Record RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:784 - Displayed oldest Contact Is The Master Record RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:795 - Click On Upload Dedupe Master Group ID To CRM is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:804 - Click On Upload Dedupe Master Group ID To CRM Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:814 - Click On Save Button For Flag Duplicate Contacts is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:823 - Displayed Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:832 - ***************************Flag duplicate leads against matching contact records  ********************************
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:870 - Click On Flag Duplicate Leads Against Matching Contact Records CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:879 - Displayed Flag Duplicate Leads Against Matching Contact Records CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:894 - Click On Flag Duplicate Contacts Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:905 - Click On Email Only CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:914 - Displayed Email Only CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:925 - Click On Email And Company Or Account Name CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:934 - Displayed Email And Company Or Account Name CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:946 - Click On FirstName, LastName And Company Or AccountName CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:955 - Displayed FirstName, LastName And Company Or AccountName CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:966 - Click On Account Name Only CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:975 - Displayed Account Name Only CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:987 - Click On FirstName, LastName And PhoneNumber CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:996 - Displayed FirstName, LastName And PhoneNumber CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1007 - Click On FirstName, LastName And Email CheckBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1016 - Displayed FirstName, LastName And Email CheckBox is Checked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1027 - Click On All These Conditions Must Satisfy To Identify Duplicate RadioButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1036 - Displayed All These Conditions Must Satisfy To Identify Duplicate RadioButton Is Clicked
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1047 - Click On Upload Dedupe Master Group ID To CRM is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1056 - Click On Upload Dedupe Master Group ID To CRM Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1066 - Click On Save Button For Merge Leads Against Matching Contacts is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1075 - Displayed Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1084 - //*******************************Detail Tab ************************
+Administration-2024-09-14 INFO TC_Sanity_DedupeFlaggingPreference_Administration:1088 - Click On Detail Tab is Passed

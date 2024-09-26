@@ -1,0 +1,443 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:51 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:60 - Click on Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:69 - Right Click on RoundRobinTeam is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:78 - Click on New RoundRobinTeam is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:85 - ===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:89 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:98 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:107 - Click on Save Button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:248 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:279 - Click on Sales RepAttribute is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:286 - //===================================== DRAG&DROP ABOUTME ATTRIBUTE =====================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:290 - DragAndDrop AboutMe is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:299 - Click on DropDown AboutMe is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:315 - Select contains is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:324 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:337 - Input on AboutMe is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:346 - Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:315 - Select does not contain is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:324 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:337 - Input on AboutMe is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:346 - Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:315 - Select starts with is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:324 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:337 - Input on AboutMe is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:346 - Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:315 - Select does not start with is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:324 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:337 - Input on AboutMe is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:346 - Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:315 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:324 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:315 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:324 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:315 - Select in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:324 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:363 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:372 - Select One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:380 - Enter free text lattitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:388 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:397 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:315 - Select not in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:324 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:363 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:372 - Select One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:380 - Enter free text lattitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:388 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:397 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:409 - //======================================= DRAG&DROP LONGITUDE ATTRIBUTE==================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:413 - Drag and Drop Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:424 - Click on DropDown Longitude is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:463 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:472 - Enter free text lattitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:480 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:489 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select not in is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:463 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:472 - Enter free text lattitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:480 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:489 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select is greater than is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:504 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:513 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select is smaller than is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:504 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:513 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select between is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:527 - Longitude Input Box For Between Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:536 - Dispalyed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:547 - Longitude Input Box For Between Box2 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:556 - Dispalyed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select is at least is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:504 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:513 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:438 - Select is at most is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:447 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:504 - Input on Longitude is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:513 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:566 - //========================================= DRAG&DROP ACTIVE ATTRIBUTE===================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:570 - Drag And Drop Active is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:581 - Click on DropDown ActiveBox1 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:597 - Select is is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:606 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:618 - Click on DropDown ActiveBox2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:634 - Select True is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:643 - Dispalyed Select Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:634 - Select False is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:643 - Dispalyed Select Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:597 - Select is not is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:606 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:618 - Click on DropDown ActiveBox2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:634 - Select True is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:643 - Dispalyed Select Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:634 - Select False is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:643 - Dispalyed Select Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:653 - //======================================== DRAG&DROP CRETED DATE ATTRIBUTE ==================================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:657 - Drag and Drop Created Date is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:668 - Click on DropDown CreateDateFirstBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:705 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:714 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:723 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:705 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:714 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:723 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select on or before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:705 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:714 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:723 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select on or after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:705 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:714 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:723 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select in past is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:737 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:746 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:756 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select in past before is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:737 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:746 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:756 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select in future is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:737 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:746 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:756 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select in future after is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:737 - CreatedDate Input Box For Box2 is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:746 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:756 - Click on DropDown CreateDate2forInPast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:773 - Select Weeks is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:782 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select between is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:796 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:805 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:814 - Dispalyed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:824 - Click On CreatedDate Calendar Button Box2 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:833 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:842 - Dispalyed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select in time frame is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:857 - Click on DropDown CreateDate for InTimeFrame is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select Today is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select Yesterday is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select This Week S S is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select This Week M F is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select Last Week S S is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select Last Week M F is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select This Month is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select Last Month is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select This Calendar Quarter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select Last Calendar Quarter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select This Calendar Year is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:874 - Select Last Calendar Year is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:883 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select is is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:705 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:714 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:723 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select is today is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select is not is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:705 - Click On Calendar CreatedDate Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:714 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:723 - Dispalyed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select is empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:683 - Select is not empty is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:692 - Dispalyed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:899 - //========================= DRAG&DROP Firstname ATTRIBUTE ==========================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:903 - DragAndDrop Firstname is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:914 - Click on Is Not Empty option is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:923 - Click on DefaultFilter Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:932 - Select Custom Filter Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:941 - Input For CutomFilter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:950 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:959 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:965 - *********************** Search Box and refresh Button Operation **************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:970 - Get Text from first drag and drop box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:979 - Enter Text in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:988 - Displayed text in toolist, which is entered in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:997 - Click On Close Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1006 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1015 - Clicked on Sales RepAttribute is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1023 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1026 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1029 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1033 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1042 - Click On Edit Button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1051 - Click On CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1060 - Select DefaultFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1073 - Click On Clear Icon is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1073 - Click On Clear Icon is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1073 - Click On Clear Icon is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1073 - Click On Clear Icon is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1086 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1089 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1092 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1096 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1103 - //=========================================== QUEUE MANAGEMENT PAGE=============================//
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1106 - Click On Queue Management Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1110 - Click on Prefer assignment to sales people with most Accrued Lead Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1119 - Displayed Prefer assignment to sales people with most Accrued Lead RadioButton Is Checked
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1129 - Enter Maximum LeadAccrual is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1137 - Click on Assign Leads only to currently available sales rep CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1141 - Displayed Assign Leads only to currently available sales rep RadioButton Is Checked
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1150 - Click on Calendar Based Availabilty Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1153 - Clicked on Makes Sales People Unavailable check box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1156 - Select Minutes Before Meeting is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1159 - Select Minutes after Meeting is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1162 - Select If no one is available, hold the Lead till someone is available is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1165 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1170 - Display Success Message is PASSED
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1180 - Displayed SalesRep Data In QueueManagement
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1187 - ************************* Arrow Button Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1193 - Get First SalesRepName is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1202 - Click On DownArrow Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1211 - Get First SalesRepName is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1220 - When the Down Arrow button is clicked, the SalesRep row should move properly from the first place to the second place is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1231 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1240 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1250 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1261 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1274 - Click On UpwordArrow Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1283 - Get First SalesRepName is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1292 - When the Upword Arrow button is clicked, the SalesRep row should move properly from the Second place to the First place is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1302 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1311 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1321 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1331 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1339 - ************************* Radio Button Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1343 - Click On Status Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1352 - Displayed Status is InActive is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1363 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1372 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1382 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1393 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1404 - Click On Status Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1413 - Displayed Status is Active is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1424 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1433 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1443 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1453 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1460 - ************************* Lead Accured Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1465 - Enter Lead Accrued is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1474 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1483 - Display Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1493 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1503 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1514 - Enter Value more than the Maximum Lead Accrual is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1524 - Displayed LeadAccured Inputbox Border Is Red is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1535 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1546 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1554 - ************************* Refresh Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1558 - Click On Status Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1567 - Displayed Status is InActive is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1577 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1586 - Displayed Status is Active is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1596 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1606 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1613 - ************************* Reset Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1617 - Click On Status Radio Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1626 - Displayed Status is InActive is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1636 - Click On Reset Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1645 - Displayed Status is Active is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1655 - Display Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1665 - Display Reset Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1672 - ************************* Assignment History Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1676 - Click On AssignmentHistory Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1685 - Click On First CalendarButton is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1694 - Choose an Active Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1703 - Click On Second Calendar Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1712 - Choose an End Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1721 - Click On Search Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1730 - Displayed History Details is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1737 - ---------- Filter Operation ----------
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1740 - 'Integration User'
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1744 - Enter Text in Filterbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1756 - Displayed Details which is Entered in Filterbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1766 - Click On clear Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1775 - Close AssignmentHistory Popup is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1783 - //======================================== ASSIGNMENT LIMIT PAGE================================// 
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1787 - Enter Assignment Limit Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1796 - Displayed CheckBox IsDisabled is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1807 - Click on Add Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1818 - Enter Input '20' on TextArea is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1827 - Enter '3' on Leads Every Inputbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1836 - Click On dropdown for select box is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1845 - Select 'Hour' option from the Selectbox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1854 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1863 - Displayed Success message is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1873 - Displayed Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1807 - Click on Add Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1807 - Click on Add Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1807 - Click on Add Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1885 - Displayed Add Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1896 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1896 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1896 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1907 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1916 - Displayed Success message is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1932 - Enter '24' on Leads Every Inputbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1973 - Displayed LeadEvery Inputbox Border Color Red is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1983 - Displayed Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1943 - Enter '31' on Leads Every Inputbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1952 - Click On dropdown for select box is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1961 - Select 'Day' option from the Selectbox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1973 - Displayed LeadEvery Inputbox Border Color Red is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1983 - Displayed Save Button Is Disabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:1995 - Enter '3' on Leads Every Inputbox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2004 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2013 - Displayed Success message is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2023 - Click On CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2032 - Displayed CheckBox Is Unchecked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2042 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2051 - Displayed Success message is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2059 - //=====================================ENTERING DETAILS PAGE============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2063 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2072 - Click On QueOwner DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2081 - Select On QueOwner Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2090 - Displayed AssignToQueueOwnerIrrespectiveOfCalendarAvailability CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2101 - Click On DoNotAssignToDefaultOwner CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2110 - Displayed DoNotAssignToDefaultOwner CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2121 - Click On AssignToTheSalesTeamOwnerIfNoOneAcceptsWithin CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2130 - Displayed AssignToTheSalesTeamOwnerIfNoOneAcceptsWithin CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2141 - Enter Duration In Numbers For AssignToTheSalesTeamOwnerIfNoOneAcceptsWithinCheckBox Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2150 - Click On Dropdown For Units is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2177 - Select Second(s) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2164 - Click On Dropdown For Units is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2177 - Select Minute(s) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2164 - Click On Dropdown For Units is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2177 - Select Hour(s) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2164 - Click On Dropdown For Units is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2177 - Select Day(s) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2188 - Click On Refresh Button For_Recipient_TO_SlackChannels is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2197 - Displayed Success message is  PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2207 - Click Select DropDown For_Recipient_TO_SlackChannels is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2216 - Select FirstOption For_RecipientTO is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2227 - Click On WhenQueueOwnerIsBusyOnCalendar CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2236 - Displayed WhenQueueOwnerIsBusyOnCalendar CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2246 - Click On WhenQueueOwnerIsBusyIsAwayOnVacation CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2255 - Displayed WhenQueueOwnerIsBusyIsAwayOnVacation CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2265 - Click On Always CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2274 - Displayed Always CheckBox Is Checked is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2284 - Click On Save Button For QueOwner In DetailsPage is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2293 - Dislay Success Message is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2302 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2311 - Input on Details TextArea passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2320 - Click On Description Save buttonis passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2329 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2338 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2346 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2350 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2359 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2368 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2378 - Display Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2387 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2391 - Click On RoundRobinTeam Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2400 - Display RoundRobinTeam OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2409 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2410 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2415 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2424 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2435 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2448 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2458 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2468 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2481 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2488 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2492 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2501 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2510 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2513 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2535 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2542 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2546 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2555 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2565 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2574 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_RRT_LeadManagement:2583 - Display Deleted success message is Passed

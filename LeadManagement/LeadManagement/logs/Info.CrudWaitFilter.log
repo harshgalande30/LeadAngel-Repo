@@ -1,0 +1,130 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:44 - Click on Lead Management is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:52 - Click on Lead Routing is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:55 - Right Click on Wait filter is Passed 
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:58 - Click on New Wait filter is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:62 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:71 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:79 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:221 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:251 - Click on LeadAttribute is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:253 - //================================== DRAG&DROP FIRST_NAME ATTRIBUTE ====================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:257 - Drag And Drop First Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:268 - Click on First Name DoesNotContains is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:277 - Input on First Name DoesNotContains is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:284 - //=================================== DRAG&DROP ANNUAL REVENUE  ATTRIBUTE====================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:288 - Drag And Drop AnnualRevenue is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:299 - Click on AnnualRevenue IsGreaterThan is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:308 - Input on AnnualRevenue IsGreaterThan is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:315 - //=========================================APPROVE SCENARIO START======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:319 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:328 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:337 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:346 - Displayed Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:354 - //=======================================ENTERING DETAILS PAGE=========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:357 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:360 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:363 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:366 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:370 - Display 'No Record Found' is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:378 - //*********************************************** Make Use of this Object in Wait Condition *******************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:382 - Right Click on Wait Condition is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:391 - Click on New Object is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:397 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:401 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:410 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:419 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:564 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:595 - Click on WaitAttribute is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:603 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:607 - Drag And Drop WAIT FILTER is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:616 - Click On WaitTllOption Is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:625 - Click On WaitFilter dropdown is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:634 - Select AutoTestObject is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:642 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:645 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:648 - Click Again Approve button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:652 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:659 - ======================================= Go back To Main Object ==================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:663 - Click on Wait Filter DropDown is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:672 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:678 - ===================== Used By Operation in Details Page =====================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:682 - Click On Detail button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:691 - Click On UsedBy Dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:702 - Fetch used by router name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:708 - ********************** Verifying whether Used object can delete or not *********************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:712 - Click On Approved Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:721 - Click On Delete button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:730 - Click Again Delete Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:739 - Get Text From Error Message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:748 - Displayed 'Cannot delete,It is Used' Error message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:756 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:760 - Click On details button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:772 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:781 - Click Used By Router Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:791 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:800 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:801 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:802 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:814 - Get Object Name From Details tab : AutoTestObject
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:823 - AutoTest Object Name matched with the name from Details tab is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:832 - ======================================= Go back To Main Object ==================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:834 - //=======================================EDIT SCENARIO START=========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:837 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:846 - click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:857 - Click on First Name IN is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:866 - Click on FirstName In Add Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:875 - Click on FirstName Intro is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:883 - Click on Save button in FirstName In PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:891 - ===========================================Approve After Edit===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:894 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:897 - Click Again Approve button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:901 - Display Approved is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:909 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:913 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:922 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:931 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:940 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:948 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:951 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:955 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:964 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:973 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1111 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1120 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1129 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1138 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1151 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1160 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1244 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1253 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1262 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1271 - Display clocned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1279 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1283 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1292 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1301 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1310 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1317 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1321 - Right Click On ClonedAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1330 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1339 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1348 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1356 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1361 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1370 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1379 - Select Folder to move the Autotest object is Passed !!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1429 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1436 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1441 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1450 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1459 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_WaitFilter:1468 - Click On Move Button is Passed!!!

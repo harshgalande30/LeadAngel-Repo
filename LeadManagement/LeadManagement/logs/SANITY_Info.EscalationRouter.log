@@ -1,0 +1,716 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:46 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:55 - Click on leadRouting is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:64 - Right Click On EscalationRouter is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:73 - Click on New Escalation Router is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:79 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:82 - Enter Object name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:91 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:100 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:244 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:277 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:286 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:294 - *************************************** Lead Filter DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:298 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:307 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:314 - *************************************** Action Block DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:318 - Drag And Drop ActionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:327 - Connect DecisionBlock(No) To Action Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:334 - ********************************************* Update Data Value DND ****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:338 - Drag And Drop Update Data Value is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:347 - Connect ActionBlock To UpdateDataValue Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:354 - *************************************** UpdateToCRM DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:358 - Drag And Drop UpdateToCRM is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:367 - Connect Update Data Value Block To Update To CRM Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:374 - *************************************** Assignment Block DND And Random Split DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:378 - Drag And Drop AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:387 - Drag And Drop RandomSplit is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:396 - Connect UpdateToCRM To RandomSplit is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:405 - Connect RandomSlitA To AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:414 - Connect RandomSlitB To ActionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:423 - ConnectionRandomSlitC_To_UpdateDataValue is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:432 - Connect DecisionBlock(YES) To AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:440 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:444 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:453 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:462 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:471 - Click On AddButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:480 - Click On CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:489 - Enter CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:500 - Object Name Before Click NewTab Link: Test@18May24
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:504 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:520 - Object Name After Click NewTab Link: Test@18May24
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:524 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:538 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:548 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:557 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:558 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:567 - *********************************************ActionBlock Operation********************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:571 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:580 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:589 - Select On Call Webhook Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:598 - Select On Second ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:607 - Object Name Before Click NewTab Link: AutoTestObject
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:611 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:627 - Object Name After Click NewTab Link: AutoTestObject
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:631 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:645 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:655 - Click On Continue Processing radio button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:664 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:673 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:674 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:684 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:693 - Click On StopProcessing radio button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:703 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:712 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:713 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:723 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:732 - Select On Wait Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:741 - Select the Second ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:750 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:754 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:770 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:774 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:788 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:798 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:807 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:808 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:817 - *********************************************Update Data Value  Operation****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:821 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:830 - Enter Description of ActionBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:839 - Click On AddField Button UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:851 - First ListBox Dropdown For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:863 - Select Latitude For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:921 - Enter Number For Latitude UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:930 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:939 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:940 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:950 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1129 - Select Account In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1141 - Select Lead In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1152 - Select Lead Owner In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:851 - First ListBox Dropdown For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:874 - Select FirstName For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:961 - Enter Number For FirstName UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:970 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:979 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:980 - UpdateDataValue BorderColor is Verified and Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:990 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1129 - Select Account In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1141 - Select Lead In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1152 - Select Lead Owner In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:851 - First ListBox Dropdown For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:885 - Select ConvertedDate For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1001 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1010 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1019 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1028 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1029 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1039 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1053 - Select Third ListBox dropdown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1065 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1074 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1083 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1084 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1094 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:897 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:909 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1129 - Select Account In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1141 - Select Lead In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1109 - Click On Insert Button Third ListBox For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1118 - Click On Select Object DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1152 - Select Lead Owner In Object DropDown UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1162 - Click On SelectField DropDown For UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1171 - Click User Name In SelectField UpdateDataValue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1180 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1189 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1198 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1199 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1209 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:851 - First ListBox Dropdown For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1224 - Select Deleted For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1233 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1242 - Select True For Deleted Option UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1251 - Select Second ListBox For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1260 - Select False For Deleted Option UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1269 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1278 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1279 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1289 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1300 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1309 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1318 - Click On Save Button For UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1327 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1328 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1337 - ********************************************* Assignment block Operation ****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1341 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1350 - Enter Description of Assignment block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1359 - Click Route To Latest Owner In The Custom Group CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1368 - Displayed Route To Latest Owner In The Custom Group CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1378 - Click AutoConvertLeadsIntoContact CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1387 - Displayed Auto Convert Leads Into Contact And or Accounts CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1397 - Click AutoConvertLeadsIntoContact DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1406 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1410 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1426 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1430 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1444 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1454 - Click TriggerProcessOrFlowBuilder CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1463 - Displayed Trigger Process Or Flow Builder CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1473 - Enter TextTriggerProcessOrFlowBuilder is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1482 - Click Create Task For The New Owner CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1491 - Displayed Create Task For The New Owner CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1501 - Click CreateTaskForTheNewOwner DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1510 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1514 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1530 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1534 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1548 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1558 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1607 - Click Assign Based First DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1616 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1625 - Click Assign Based Second DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1634 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1643 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1658 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1669 - Email DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1678 - Click On Email Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1689 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1699 - Select SetToText For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1708 - Enter Text For SetToText Option ForAddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1717 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1726 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1727 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1737 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1689 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1748 - Select SetToAccountOwner For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1757 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1766 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1767 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1777 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1689 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1788 - Select SetToOpportunityOwner For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1797 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1806 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1807 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1817 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1689 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1828 - Select Set ToOwner Mapped SDR's ID For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1837 - Click On Select Box2 For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1846 - Select Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1855 - Clicked On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1864 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1865 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1875 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1658 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1890 - Deleted DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1899 - Click On Deleted Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1908 - Click On Select Box for Deleted In AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1917 - Select True For Deleted Option UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1926 - Click On Select Box for Deleted In AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1935 - Select False For Deleted Option UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1944 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1953 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1954 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1964 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1658 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1976 - Latitude DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1985 - Click On Latitude Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1994 - Enter Number For Latitude UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2003 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2012 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2013 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2023 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign Based on Account ID Lookup Field in Lead Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1607 - Click Assign Based First DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1616 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1625 - Click Assign Based Second DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1634 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1643 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2042 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Account Owners Manager is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2055 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2067 - Click On Cross Mark Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2076 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2085 - CreatedDate DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2094 - Click On Created date Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2103 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2112 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Current Owner Manager is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Opportunity Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2042 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Parent Accounts Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2130 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2193 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2204 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2130 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2193 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2327 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2336 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2345 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Sales Rep Email Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2327 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2336 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2345 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Sales Rep ID Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2327 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2336 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2345 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2327 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2336 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2345 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2130 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2141 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2145 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2161 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2165 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2179 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2215 - Click CappingCondition CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2224 - Displayed Capping Condition CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2234 - Click CappingCondition DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2243 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2247 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2263 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2267 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2281 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2291 - Input for CappingCondition Box is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2301 - Click AssignToPeopleWithCurrentlyActiveWorkingHours CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2310 - Click IfNoOneIsAvailableHoldTheLead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2130 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2141 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2145 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2161 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2165 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2179 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Do Not Assign is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Route Based on the Lookup on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2327 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2336 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2345 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1573 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1582 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:1595 - Select Route to the Owner on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2042 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2355 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2364 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2365 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2374 - *********************************************UpdateToCRM Operation********************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2378 - Double Click On UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2387 - Click On Description Of UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2396 - Click On SaveBtton Of UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2405 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2406 - UpdateToCRM Block Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2415 - *********************************************RandomSplit Operation****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2419 - Double Click On RandomSplit Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2428 - Click On Description Of Random Split Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2437 - Write Value Inside PercentageAllocation For A is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2446 - Write Value Inside PercentageAllocation For B is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2455 - Write Value Inside PercentageAllocation For C is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2464 - Click On Save Button For RandomSplit is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2473 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2474 - Display Random Split Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2486 - Click On Maximize Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2495 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2504 - Move Blocks In Console is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2513 - Click On Manimize Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2520 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2523 - Enter Details Page!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2527 - Click On Escalation Condition DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2536 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2540 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2556 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2560 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2574 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2584 - Click on CheckBox For Escalation condition is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2593 - Display Success For Escalation condition is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2602 - Click on Default Lead Owner DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2611 - Select DefaultLeadOwner Option is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2620 - Click on CheckBox For DefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2629 - Display Success For DefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2638 - Click 0n DataValueUpdateWhenRoutedToDefaultLeadOwner AddButton is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2649 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2660 - Click On LeadID option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2671 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2681 - Select SetToText For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2690 - Enter Text For SetToText Option For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2699 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2708 - Display Success ForDataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2671 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2719 - Select SetToAccountOwner For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2728 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2737 - Display Success ForDataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2671 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2748 - Select SetToOpportunityOwner For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2757 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2766 - Display Success ForDataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2671 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2777 - Select Set ToOwner Mapped SDR's ID For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2786 - Click On Select Box3 For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2795 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2804 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2813 - Display Success ForDataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2649 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2827 - Click On Deleted option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2836 - Click On SecondListBox DropDown Deleted Option DetailsPage is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2845 - Select True For Deleted Option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2854 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2863 - Display Success ForDataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2872 - Click On SecondListBox DropDown Deleted Option DetailsPage is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2881 - Select False For Deleted Option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2890 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2899 - Display Success ForDataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2649 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2911 - Click On Latitude Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2920 - Enter Number For Latitude Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2929 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2938 - Display Success ForDataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2649 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2950 - Click On ConvertedDate Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2959 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2968 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2977 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2986 - Displayed Previuos Selected Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:2996 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3005 - Click On ConvertedDate Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3014 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3023 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3032 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3041 - Display Success ForDataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3052 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3055 - Enter Text TextArea is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3058 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3062 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3071 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3080 - //==================================== OverView Page Opeartion Before approve  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3084 - Click On Escalation Router Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3093 - Display EscalationRouter OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3103 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3104 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3109 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3118 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3129 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3142 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3152 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3162 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3175 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3182 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3186 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3195 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3204 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3207 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3229 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3302 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3306 - Click on Escalation Router DropDown is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3315 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3324 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3327 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3331 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3338 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3342 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3351 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3360 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3370 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3379 - //==================================== OverView Page Opeartion After approved  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3383 - Click On Escalation Router Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3392 - Display EscalationRouter OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3401 - *****************Verifying Column Header Check Is Disabled******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3413 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3418 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3427 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3448 - Displayed AutoTestObject Is Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_EscalationRouter_LeadManagement:3459 - Clear Test From The FilterBox is Passed

@@ -1,0 +1,106 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:47 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:50 - Click on Lead Routing is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:53 - Right Click on Wait Condition is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:56 - Click on New Object is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:60 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:69 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:77 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:218 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:249 - Click on Wait Button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:256 - //====================================== DRAG&DROP WAIT_FOR ATTRIBUTE===================================//
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:260 - Drag And Drop Wait For is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:269 - Input on WaitFor is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:278 - Displayed Input Box is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:295 - Select Minutes is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:304 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:295 - Select Hours is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:304 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:295 - Select Days is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:304 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:313 - //========================================= DRAG&DROP WAIT TILL  ATTRIBUTE================================//
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:317 - Drag and Drop WaitTill is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:326 - Click on CalendarButton is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:335 - Click On Date is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:344 - Displayed Input Box1 is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:354 - Click on Select Time is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:363 - Click On Time is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:372 - Click On Ok button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:381 - Displayed Input Box2 is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:389 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:393 - Drag And Drop WAIT FILTER is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:407 - Click On WaitFilter DropDown is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:419 - Select Wait filter returns true is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:428 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:438 - Click On WaitFilterSelect is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:450 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:454 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:472 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:476 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:490 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:513 - Displayed NgSelect Box is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:407 - Click On WaitFilter DropDown is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:419 - Select Wait filter returns false is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:428 - Displayed Select Box is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:438 - Click On WaitFilterSelect is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:503 - Click On WaitFilterOption is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:513 - Displayed NgSelect Box is not red
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:521 - *********************** Search Box and refresh Button Operation **************************
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:526 - Get Text from first drag and drop box is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:535 - Enter Text in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:544 - Displayed text in toolist, which is entered in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:553 - Click On Close Button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:562 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:571 - Click on Wait Button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:581 - Click on DefaultFilter Button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:590 - Select Custom FilterOption is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:599 - Input For CutomFilter Wait Condition is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:608 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:617 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:624 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:627 - Click on Details Button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:630 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:633 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:636 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:640 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:649 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:657 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:661 - Click On draftbox is PASSED!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:669 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:672 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:676 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:683 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:687 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:696 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:705 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:715 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:724 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:728 - Click On WaitCondition Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:737 - Display WaitCondition OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:745 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:749 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:758 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:769 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:782 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:792 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:802 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:815 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:823 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:827 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:836 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:847 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:868 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:877 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:881 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:890 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:900 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:909 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_CrudOperation_WaitCondition:918 - Display Deleted success message is Passed

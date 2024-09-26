@@ -1,0 +1,177 @@
+ContactManagement-2024-09-11 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-11 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-11 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-11 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-11 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-11 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-11 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-11 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-11 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:48 - Click on ContactManagement is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:57 - RightClick On ContactProcessingWithoutRouting is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:66 - Click on New ContactProcessingWithoutRouting is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:73 - //===============================CREATE OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:77 - Enter AutoTestObject Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:86 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:95 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:240 - Refreshing The Page!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:273 - Click On DNDdiagram DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:283 - Minimize the Panner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:290 - *************************************** Decision Block DND ****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:294 - Drag And Drop Decision block is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:303 - Connect StartBlock To DecisionBlock is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:311 - ***************************************Assignment Block 1 DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:315 - Drag And Drop AssignmentBlock1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:324 - Connect Decision Block To assignmentBlock1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:331 - ***************************************DecisionBlock2 DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:335 - Drag And Drop DecisionBlock2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:344 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:351 - ***************************************Assignment Block 2 DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:355 - Drag And Drop AssignmentBlock2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:364 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:371 - ***************************************Assignment Block 3 DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:375 - Drag And Drop AssignmentBlock3 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:384 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:392 - //========================================ENTERING DETAILS PAGE======================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:395 - Enter Details Page is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:399 - Click On SuggestedNewOwner DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:408 - Select SuggestedNewOwner Option is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:417 - Check Box For SuggestedNewOwner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:426 - Display Success For SuggestedNewOwner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:435 - Contact Processing Feeder Filter DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:444 - Select Contact Processing Feeder Filter Option is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:453 - CheckBox For Contact ProcessingFeeder Filter is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:462 - Display Success For ContactProcessingFeederFilter is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:471 - Click on Default Contact Owner DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:480 - Select Default Contact Owner Option is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:489 - CheckBox For Default Contact Owner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:498 - Display Success For Default Contact Owner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:507 - Click on DataValueUpdateWhenRoutedToDefaultContactOwner AddButton is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:516 - Click on DataValueUpdateWhenRoutedToDefaultContactOwner DropDown1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:525 - Select DataValueUpdateWhenRoutedToDefaultContactOwner Option1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:534 - Click on DataValueUpdateWhenRoutedToDefaultContactOwner DropDown2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:543 - Select DataValueUpdateWhenRoutedToDefaultContactOwner Option2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:552 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultContactOwner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:561 - Display Success For DataValueUpdateWhenRoutedToDefaultContactOwner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:569 - Click On Description Edit button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:572 - Enter description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:575 - Click On Description Save button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:578 - ***************************************Decision block Operation***************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:582 - Click On draftbox is Passed!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:592 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:601 - Click On Data dictionary option is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:610 - Click On AddButton is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:619 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:628 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:629 - Decision Block Border Color is Verified and Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:637 - ***************************************Decision block2 Operation***************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:641 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:650 - Select Decision Block List Element is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:659 - Click On AddButton is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:668 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:677 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:678 - Decision Block2 Border Color is Verified and Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:686 - *********************************************Assignment block1 Operation********************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:690 - Double Click On Assignment Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:699 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:708 - Select SalesRep In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:717 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:726 - Select SalesRep Value In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:735 - Click On CheckBox For AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:744 - Click On SelectMappedSDR is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:754 - Click On SelectMappedSDR Option is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:763 - Clicked On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:772 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:773 - AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:781 - *********************************************Assignment block2 Operation****************************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:785 - Double Click On Assignment Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:794 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:803 - Select SalesRep In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:812 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:821 - Select SalesRep Value In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:830 - Click On CheckBox For AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:839 - Click On SelectMappedSDR is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:848 - Click On SelectMappedSDR Option is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:857 - Click On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:866 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:867 - AssignmentBlock2 Border Colour is Verified and Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:875 - *********************************************Assignment block3 Operation****************************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:879 - Double Click On Assignment3 Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:888 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:897 - Select SalesRep In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:907 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:916 - Select SalesRep Value In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:925 - Click On CheckBox For AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:934 - Click On SelectMappedSDR is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:943 - Click On SelectMappedSDR Option is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:952 - Clicked On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:961 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:962 - AssignmentBlock3 Border Color is Verified and Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:970 - //===============================================APPROVE SCENARIO START========================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:974 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:983 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:992 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1001 - Displayed Success Message is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1008 - //=================================================EDIT SCENARIO START=======================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1012 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1021 - Click on Edit Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1028 - ***************************************Edit Decision block2 Operation***************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1032 - Double Click On DecisionBlock2 is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1041 - Select Edit DecisionBlock List Element is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1050 - Click On AddButton is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1059 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1068 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1069 - Decision Block2 Border Color is Verified and Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1077 - *********************************************EditAssignment block1 Operation********************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1081 - Double Click On Assignment Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1090 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1099 - Select SalesRep In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1108 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1117 - Select SalesRep Value In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1126 - Click On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1135 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1136 - AssignmentBlock1 Border Colour is Verified and Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1144 - //===============================================After Edit,Then Approve the Object========================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1148 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1157 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1166 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1175 - Displayed Success Message is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1183 - //======================================RENAME SCENARIO START=============================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1187 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1196 - Click on Rename Object is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1205 - Input on Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1214 - Click Rename Button is  PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1425 - Renamed AutoTest Object is Displayed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1433 - //===================================CLONE SCENARIO START================================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1517 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1526 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1535 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1544 - Display clocned RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1552 - //===============================Approve Cloned Object========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1556 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1565 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1574 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1583 - Displayed Success Message is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1590 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1594 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1603 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1612 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1621 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1629 - //===============================MOVE OBJECT SCENARIO START========================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1633 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1643 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1652 - Select Folder to move the Autotest object is Passed !!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1702 - Click On Move Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1709 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1713 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1722 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1731 - Select Main Folder is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1740 - Click On Move Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1748 - //=============================== Activate and DeActivate Operation ===================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1799 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:1808 - Click On Active Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:2059 - ************************** DeActivate Operation **************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:2063 - Right Click On Activated Object is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:2072 - Click On DeActive Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:2081 - Click Again DeActive Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactProcessingWithoutRouting_ContactManagement:2091 - Displayed DeActivated Success Message is PASSED!!!

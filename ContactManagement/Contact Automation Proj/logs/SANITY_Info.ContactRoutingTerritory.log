@@ -1,0 +1,151 @@
+ContactManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-12 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:46 - Click on ContactManagement is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:55 - Right Click On ContactRoutingTeritory is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:61 - //===============================CREATE OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:65 - Click on New ContactRoutingTeritory is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:74 - Enter Object Name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:83 - Enter data in Description is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:92 - Click on Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:236 - Refreshing The Page!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:269 - Click on Data Dictionary is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:277 - *************************************************AccountList_DND**************************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:282 - AccountList DND is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:293 - Click on AccountList SelectBox dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:310 - Select is is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:319 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:330 - Click On AccountList Selectbox2 dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:342 - Object Name Before Click NewTab Link: AccList-1
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:346 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:363 - Object Name After Click NewTab Link: AccList-1
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:367 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:381 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:404 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:310 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:319 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:330 - Click On AccountList Selectbox2 dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:394 - Select Option from the dropdown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:404 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:414 - *******************************************CRMAccountFilter_DND*********************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:418 - CRMAccFilter DND is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:429 - Click on CRMaccountFilter ListBox dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:446 - Select is is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:455 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:465 - CRMAccFilter Select Option Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:476 - Object Name Before Click NewTab Link: AccFilter-1tyutyu
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:480 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:497 - Object Name After Click NewTab Link: AccFilter-1tyutyu
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:501 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:515 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:537 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:446 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:455 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:465 - CRMAccFilter Select Option Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:527 - Select Option from the dropdown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:537 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:547 - *******************************************CRM_ContactFilter_DND*********************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:551 - CRMcontactFilter DND is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:562 - Click on CRMcontactFilter ListBox dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:579 - Select is is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:588 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:598 - CRMContactFilter Selectbox2 Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:611 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:615 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:632 - Object Name After Click NewTab Link: AutoTestObject_Rename
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:636 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:650 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:672 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:579 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:588 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:598 - CRMContactFilter Selectbox2 Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:662 - CRMcontactFilter Selectbox2 Option is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:672 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:681 - *******************************************SystemDataDictionary_DND*********************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:685 - SystemDataDictionary DND is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:696 - Click on SystemDataDictionary ListBox dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:713 - Select is is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:722 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:732 - SystemDataDictionary Select Option Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:759 - Object Name Before Click NewTab Link: All Contacts
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:763 - Click On Open In New Tab Link is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:781 - Object Name After Click NewTab Link: All Contacts
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:785 - Open in New tab link is properly redirected is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:799 - Swicth back to parent window is Passed !!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:826 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:747 - SystemDataDictionary Select Box Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:816 - Select is is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:826 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:747 - SystemDataDictionary Select Box Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:816 - Select is is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:826 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:713 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:722 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:732 - SystemDataDictionary Select Option Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:816 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:826 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:747 - SystemDataDictionary Select Box Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:816 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:826 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:747 - SystemDataDictionary Select Box Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:816 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:826 - Displayed NgSelect Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:838 - *********************** Search Box and refresh Button Operation **************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:843 - Get Text from first drag and drop box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:852 - Enter Text in search box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:861 - Displayed text in toolist, which is entered in search box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:870 - Click On Close Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:879 - Click On Refresh Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:888 - Click on Data Dictionary is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:898 - Click on DefaultFilter Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:907 - Select Custom FilterOption is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:917 - Input For CutomFilter is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:926 - Click on CollapseAll is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:935 - Click on ExpandAll is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:942 - //========================================ENTERING DETAILS PAGE======================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:945 - Click on Details Button is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:948 - Clicked On Description Edit button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:951 - Enter data in Description is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:954 - Clicked On Description Save button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:958 - Click On Copy Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:967 - Displayed Copied Success Message is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:975 - ==================================== Approve ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:979 - Click On draftbox is PASSED!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:987 - Clicked on Approve Button After EDIT is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:990 - Clicked Again Approve button is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:994 - Display Approved is PASSED!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1001 - //========================================Delete Craft scenario=======================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1005 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1014 - Click On Edit AutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1023 - Click On DeleteCraft buton is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1033 - Dispalying Verified Sign is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1042 - //==================================== OverView Page Opeartion  ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1046 - Click On ContactRoutingTerritory Feature is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1055 - Display ContactRoutingTerritory OverView Page is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1063 - ***************** Column Header Check Box Operation ******************
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1064 - Displayed Column Header Checkbox Is Not Disabled 
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1069 - Click On ColumnHeader CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1078 - Displayed ColumnHeader CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1089 - Displayed AutTestObject CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1102 - Displayed Delete Button is Enabled is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1112 - Uncheck the ColumnHeader CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1122 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1135 - Displayed Delete Button is Disable is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1142 - ********************** Filter Operation *************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1146 - Enter Text In FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1155 - Displayed AutoTestObject is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1164 - Displayed AutoTestObject CheckBox
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1167 - Displayed AutoTestObject Is Not Used is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1189 - Clear Test From The FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1196 - ********************** Delete AutoTestObject Operation *************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1200 - Click On AutTestObject CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1209 - Displayed AutTestObject CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1219 - Click On Delete Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1228 - Click Again Delete Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_ContactRoutingTerritory_ContactManagement:1237 - Display Deleted success message is Passed

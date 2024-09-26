@@ -1,0 +1,27 @@
+LeadManagement-2024-09-17 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-17 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-17 main INFO BaseClass:126 - https://stage.leadangel.com/index.html#/
+LeadManagement-2024-09-17 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-17 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-17 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-17 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-17 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-17 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:26 - Click on Lead Management is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:35 - Click On Sales Team Dropdown is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:44 - Click On SR and Group Mapping is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:62 - Click On Download Button is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:70 - Displayed File Is Downloaded is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:78 - ************************************ Filter Operation **************************************
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:83 - Fetch the SalesRep Name Text From Console is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:84 - SalesRep Name Is: Tara sitara
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:93 - Enter Fetched salesRep name in filter box is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:102 - Displayed Fetched SalesRep name in console is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:106 - Clear Filter Box is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:119 - ************************************ Edit Senasrio **************************************
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:127 - Click On Edit Button is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:136 - Click On Dropdown For SalesRep Name is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:145 - Click On Option From SalesRep Name DropDown is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:155 - Click On Save Button is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:164 - Displayed Update Success Message is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:176 - SalesRep Name has not changed Once after Edit

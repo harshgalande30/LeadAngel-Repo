@@ -1,0 +1,282 @@
+Administration-2024-09-06 12:07:28:000394 main INFO BaseClassImplimentaion:32 - Open Brower
+Administration-2024-09-06 12:07:35:000372 main INFO BaseClassImplimentaion:57 - Drag and Drop 
+Administration-2024-09-06 12:15:11:000442 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 12:15:11:000470 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 12:15:11:000470 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 12:15:11:000470 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 12:15:11:000470 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 12:15:11:000644 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 12:15:11:000802 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 12:15:11:000929 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 12:15:12:000011 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 12:15:12:000079 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-09-06 12:15:14:000695 main INFO TC_Sanity_Availability_UserSettings:19 - Click On User Settings Module is Passed
+Administration-2024-09-06 12:15:17:000296 main INFO TC_Sanity_Availability_UserSettings:28 - Click On Preference Dropdown is Passed
+Administration-2024-09-06 12:15:19:000905 main INFO TC_Sanity_Availability_UserSettings:37 - Click On Availability Feature is Passed
+Administration-2024-09-06 12:15:19:000905 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-09-06 12:15:19:000905 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-09-06 12:15:22:000536 main INFO TC_Sanity_Availability_UserSettings:49 - Click On First Clock Icon is Passed
+Administration-2024-09-06 12:15:25:000154 main INFO TC_Sanity_Availability_UserSettings:58 - Select Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-09-06 12:15:27:000745 main INFO TC_Sanity_Availability_UserSettings:67 - Click on 'OK' button for First Clock is Passed
+Administration-2024-09-06 12:15:27:000745 main INFO TC_Sanity_Availability_UserSettings:73 - -------Select End Available Hours-------
+Administration-2024-09-06 12:15:30:000342 main INFO TC_Sanity_Availability_UserSettings:77 - Click On Second Clock Icon is Passed
+Administration-2024-09-06 12:15:32:000937 main INFO TC_Sanity_Availability_UserSettings:86 - Select Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-09-06 12:15:35:000544 main INFO TC_Sanity_Availability_UserSettings:95 - Click on 'OK' button for First Clock is Passed
+Administration-2024-09-06 12:15:35:000544 main INFO TC_Sanity_Availability_UserSettings:102 - ********************************** Vacation date Operation **********************************
+Administration-2024-09-06 12:31:13:000632 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 12:31:13:000663 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 12:31:13:000664 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 12:31:13:000664 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 12:31:13:000664 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 12:31:18:000323 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 12:31:18:000484 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 12:31:18:000612 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 12:31:18:000705 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 12:31:18:000778 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-09-06 12:31:21:000401 main INFO TC_Sanity_Availability_UserSettings:19 - Click On User Settings Module is Passed
+Administration-2024-09-06 12:31:24:000015 main INFO TC_Sanity_Availability_UserSettings:28 - Click On Preference Dropdown is Passed
+Administration-2024-09-06 12:31:26:000637 main INFO TC_Sanity_Availability_UserSettings:37 - Click On Availability Feature is Passed
+Administration-2024-09-06 12:31:26:000637 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-09-06 12:31:26:000637 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-09-06 12:31:29:000245 main INFO TC_Sanity_Availability_UserSettings:49 - Click On First Clock Icon is Passed
+Administration-2024-09-06 12:31:31:000854 main INFO TC_Sanity_Availability_UserSettings:58 - Select Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-09-06 12:31:34:000465 main INFO TC_Sanity_Availability_UserSettings:67 - Click on 'OK' button for First Clock is Passed
+Administration-2024-09-06 12:31:34:000468 main INFO TC_Sanity_Availability_UserSettings:73 - -------Select End Available Hours-------
+Administration-2024-09-06 12:31:37:000075 main INFO TC_Sanity_Availability_UserSettings:77 - Click On Second Clock Icon is Passed
+Administration-2024-09-06 12:31:39:000679 main INFO TC_Sanity_Availability_UserSettings:86 - Select Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-09-06 12:31:42:000281 main INFO TC_Sanity_Availability_UserSettings:95 - Click on 'OK' button for First Clock is Passed
+Administration-2024-09-06 12:31:42:000283 main INFO TC_Sanity_Availability_UserSettings:102 - ********************************** Vacation date Operation **********************************
+Administration-2024-09-06 12:31:44:000929 main INFO TC_Sanity_Availability_UserSettings:107 - Clear StartDate And EndDate is Passed
+Administration-2024-09-06 12:31:47:000556 main INFO TC_Sanity_Availability_UserSettings:121 - Click on Vacation First Calendar Button is Passed
+Administration-2024-09-06 12:31:50:000160 main INFO TC_Sanity_Availability_UserSettings:130 - Select vacation start date is Passed
+Administration-2024-09-06 12:31:52:000774 main INFO TC_Sanity_Availability_UserSettings:139 - Click on Vacation Second Calendar Button is Passed
+Administration-2024-09-06 12:31:55:000421 main INFO TC_Sanity_Availability_UserSettings:149 - Select vacation End date is Passed
+Administration-2024-09-06 12:31:55:000421 main INFO TC_Sanity_Availability_UserSettings:168 - *************************************** Save Operation **************************************
+Administration-2024-09-06 12:31:58:000028 main INFO TC_Sanity_Availability_UserSettings:172 - Click On Save Button is Passed
+Administration-2024-09-06 12:32:00:000610 main INFO TC_Sanity_Availability_UserSettings:181 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-09-06 12:32:00:000610 main INFO TC_Sanity_Availability_UserSettings:189 - ========== Verifying when selecting start and End available hours are same,Error message Displayed Or Not =========
+Administration-2024-09-06 12:32:00:000611 main INFO TC_Sanity_Availability_UserSettings:190 - -------Select Start Available Hours-------
+Administration-2024-09-06 12:32:03:000255 main INFO TC_Sanity_Availability_UserSettings:194 - Click On First Clock Icon is Passed
+Administration-2024-09-06 12:32:05:000863 main INFO TC_Sanity_Availability_UserSettings:203 - Select Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-09-06 12:32:08:000458 main INFO TC_Sanity_Availability_UserSettings:212 - Select 'AM' mode is Passed
+Administration-2024-09-06 12:32:11:000062 main INFO TC_Sanity_Availability_UserSettings:222 - Click on 'OK' button for First Clock is Passed
+Administration-2024-09-06 12:32:11:000063 main INFO TC_Sanity_Availability_UserSettings:228 - -------Select End Available Hours-------
+Administration-2024-09-06 12:32:13:000660 main INFO TC_Sanity_Availability_UserSettings:232 - Click On Second Clock Icon is Passed
+Administration-2024-09-06 12:32:16:000269 main INFO TC_Sanity_Availability_UserSettings:241 - Select Required Time(hours) from the second Clock Icon is Passed
+Administration-2024-09-06 12:32:18:000878 main INFO TC_Sanity_Availability_UserSettings:250 - Select 'AM' mode is Passed
+Administration-2024-09-06 12:32:21:000469 main INFO TC_Sanity_Availability_UserSettings:259 - Click on 'OK' button for First Clock is Passed
+Administration-2024-09-06 12:32:21:000469 main INFO TC_Sanity_Availability_UserSettings:265 - *************************************** Save Operation **************************************
+Administration-2024-09-06 12:32:24:000089 main INFO TC_Sanity_Availability_UserSettings:269 - Click On Save Button is Passed
+Administration-2024-09-06 12:32:26:000659 main INFO TC_Sanity_Availability_UserSettings:278 - Displayed 'Ending time should be greater' Error message is Passed
+Administration-2024-09-06 12:32:26:000659 main INFO TC_Sanity_Availability_UserSettings:286 - -------Select End Available Hours-------
+Administration-2024-09-06 12:32:29:000279 main INFO TC_Sanity_Availability_UserSettings:290 - Click On Second Clock Icon is Passed
+Administration-2024-09-06 12:32:31:000892 main INFO TC_Sanity_Availability_UserSettings:299 - Select Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-09-06 12:32:34:000478 main INFO TC_Sanity_Availability_UserSettings:308 - Click on 'OK' button for First Clock is Passed
+Administration-2024-09-06 12:32:34:000715 main INFO TC_Sanity_Availability_UserSettings:316 - Click On Save Button is Passed
+Administration-2024-09-06 12:32:37:000277 main INFO TC_Sanity_Availability_UserSettings:325 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-09-06 12:37:54:000036 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 12:37:54:000067 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 12:37:54:000067 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 12:37:54:000067 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 12:37:54:000068 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 12:37:54:000220 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 12:37:54:000387 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 12:37:54:000505 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 12:37:54:000605 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 12:37:54:000704 main INFO TC_Sanity_FallbackAssignee_UserSettings:15 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-09-06 12:37:57:000314 main INFO TC_Sanity_FallbackAssignee_UserSettings:19 - Click On User Settings Module is Passed
+Administration-2024-09-06 12:37:59:000927 main INFO TC_Sanity_FallbackAssignee_UserSettings:28 - Click On Preference Dropdown is Passed
+Administration-2024-09-06 12:38:02:000567 main INFO TC_Sanity_FallbackAssignee_UserSettings:37 - Click On Fallback Assignee Feature is Passed
+Administration-2024-09-06 12:38:02:000567 main INFO TC_Sanity_FallbackAssignee_UserSettings:43 - ***************************** Clear Fallback Assignee list box Operation ********************************
+Administration-2024-09-06 12:38:05:000171 main INFO TC_Sanity_FallbackAssignee_UserSettings:47 - Click On Cancel Button is Passed
+Administration-2024-09-06 12:38:07:000731 main INFO TC_Sanity_FallbackAssignee_UserSettings:56 - Displayed Fallback Assignee ListBox Is Empty is Passed
+Administration-2024-09-06 12:38:07:000731 main INFO TC_Sanity_FallbackAssignee_UserSettings:63 - ********************** Selecting the Fallback Assignee list box Options Operation ************************
+Administration-2024-09-06 12:38:10:000341 main INFO TC_Sanity_FallbackAssignee_UserSettings:67 - Click On Fallback Assignee Dropdown is Passed
+Administration-2024-09-06 12:38:12:000954 main INFO TC_Sanity_FallbackAssignee_UserSettings:76 - Select an option from the Fallback Assignee listbox is Passed
+Administration-2024-09-06 12:38:12:000954 main INFO TC_Sanity_FallbackAssignee_UserSettings:82 - ******************************************* Save Operation **********************************************
+Administration-2024-09-06 12:38:15:000555 main INFO TC_Sanity_FallbackAssignee_UserSettings:86 - Click On Save Button is Passed
+Administration-2024-09-06 12:38:18:000169 main INFO TC_Sanity_FallbackAssignee_UserSettings:95 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-09-06 14:52:27:000426 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 14:52:27:000481 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 14:52:27:000481 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 14:52:27:000486 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 14:52:27:000486 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 14:52:27:000740 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 14:52:27:000967 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 14:52:28:000145 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 14:52:28:000253 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 14:52:28:000368 main INFO TC_Profile_UserSettings:27 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-09-06 14:52:34:000208 main INFO TC_Profile_UserSettings:31 - Clicked On User Settings Module is Passed
+Administration-2024-09-06 14:52:36:000820 main INFO TC_Profile_UserSettings:40 - Clicked On Preference Dropdown is Passed
+Administration-2024-09-06 14:52:39:000448 main INFO TC_Profile_UserSettings:49 - Clicked On Profile Feature is Passed
+Administration-2024-09-06 14:52:39:000449 main INFO TC_Profile_UserSettings:56 - ***************************************** Upload Profile Picture Operation *******************************************
+Administration-2024-09-06 14:53:12:000328 main INFO TC_Profile_UserSettings:104 - Clicked On Change Button is Passed
+Administration-2024-09-06 14:53:24:000275 main INFO TC_Profile_UserSettings:136 - Clicked On again upload Button is Passed
+Administration-2024-09-06 14:53:26:000959 main INFO TC_Profile_UserSettings:147 - Displayed 'File Uploaded Successfully' message is Passed
+Administration-2024-09-06 14:53:31:000968 main INFO TC_Profile_UserSettings:159 - Current Password :@Tech4Lead
+Administration-2024-09-06 14:53:34:000613 main INFO TC_Profile_UserSettings:163 - Clicked On Change Password Tab row is Passed
+Administration-2024-09-06 14:53:37:000310 main INFO TC_Profile_UserSettings:173 - Entered Current Password is Passed
+Administration-2024-09-06 14:53:37:000310 main INFO TC_Profile_UserSettings:180 - *****************Verifying Last Update Error Message When we change password**********************
+Administration-2024-09-06 14:53:40:000076 main INFO TC_Profile_UserSettings:184 - Entered New Password is Passed
+Administration-2024-09-06 14:53:42:000830 main INFO TC_Profile_UserSettings:193 - Entered Confirmed Password is Passed
+Administration-2024-09-06 14:58:40:000811 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 14:58:40:000838 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 14:58:40:000838 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 14:58:40:000839 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 14:58:40:000840 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 14:58:47:000921 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 14:58:48:000141 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 14:58:48:000345 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 14:58:48:000460 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 14:58:48:000580 main INFO TC_Profile_UserSettings:27 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-09-06 14:58:51:000276 main INFO TC_Profile_UserSettings:31 - Clicked On User Settings Module is Passed
+Administration-2024-09-06 14:58:53:000909 main INFO TC_Profile_UserSettings:40 - Clicked On Preference Dropdown is Passed
+Administration-2024-09-06 14:58:56:000539 main INFO TC_Profile_UserSettings:49 - Clicked On Profile Feature is Passed
+Administration-2024-09-06 14:58:56:000539 main INFO TC_Profile_UserSettings:56 - ***************************************** Upload Profile Picture Operation *******************************************
+Administration-2024-09-06 14:59:29:000480 main INFO TC_Profile_UserSettings:104 - Clicked On Change Button is Passed
+Administration-2024-09-06 14:59:41:000407 main INFO TC_Profile_UserSettings:136 - Clicked On again upload Button is Passed
+Administration-2024-09-06 14:59:43:000492 main INFO TC_Profile_UserSettings:147 - Displayed 'File Uploaded Successfully' message is Passed
+Administration-2024-09-06 14:59:48:000503 main INFO TC_Profile_UserSettings:159 - Current Password :@Tech4Lead
+Administration-2024-09-06 14:59:51:000161 main INFO TC_Profile_UserSettings:163 - Clicked On Change Password Tab row is Passed
+Administration-2024-09-06 14:59:53:000858 main INFO TC_Profile_UserSettings:173 - Entered Current Password is Passed
+Administration-2024-09-06 14:59:53:000860 main INFO TC_Profile_UserSettings:180 - *****************Verifying Last Update Error Message When we change password**********************
+Administration-2024-09-06 14:59:56:000615 main INFO TC_Profile_UserSettings:184 - Entered New Password is Passed
+Administration-2024-09-06 14:59:59:000348 main INFO TC_Profile_UserSettings:193 - Entered Confirmed Password is Passed
+Administration-2024-09-06 15:23:47:000274 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 15:23:47:000320 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 15:23:47:000326 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 15:23:47:000329 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 15:23:47:000329 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 15:23:47:000619 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 15:23:47:000829 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 15:23:48:000013 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 15:23:48:000133 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 15:23:48:000233 main INFO TC_Profile_UserSettings:27 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-09-06 15:23:50:000919 main INFO TC_Profile_UserSettings:31 - Clicked On User Settings Module is Passed
+Administration-2024-09-06 15:23:53:000574 main INFO TC_Profile_UserSettings:40 - Clicked On Preference Dropdown is Passed
+Administration-2024-09-06 15:23:56:000244 main INFO TC_Profile_UserSettings:49 - Clicked On Profile Feature is Passed
+Administration-2024-09-06 15:23:56:000247 main INFO TC_Profile_UserSettings:56 - ***************************************** Upload Profile Picture Operation *******************************************
+Administration-2024-09-06 15:24:29:000201 main INFO TC_Profile_UserSettings:104 - Clicked On Change Button is Passed
+Administration-2024-09-06 15:24:41:000125 main INFO TC_Profile_UserSettings:136 - Clicked On again upload Button is Passed
+Administration-2024-09-06 15:24:43:000275 main INFO TC_Profile_UserSettings:147 - Displayed 'File Uploaded Successfully' message is Passed
+Administration-2024-09-06 15:24:43:000279 main INFO TC_Profile_UserSettings:156 - *****************Enter Description**********************
+Administration-2024-09-06 15:24:46:000012 main INFO TC_Profile_UserSettings:160 - Enter Description is Passed
+Administration-2024-09-06 15:24:46:000012 main INFO TC_Profile_UserSettings:166 - *****************Change Password Operation**********************
+Administration-2024-09-06 15:24:51:000024 main INFO TC_Profile_UserSettings:172 - Current Password :@Tech4Lead
+Administration-2024-09-06 15:24:53:000684 main INFO TC_Profile_UserSettings:176 - Clicked On Change Password Tab row is Passed
+Administration-2024-09-06 15:24:56:000380 main INFO TC_Profile_UserSettings:186 - Entered Current Password is Passed
+Administration-2024-09-06 15:24:56:000380 main INFO TC_Profile_UserSettings:193 - *****************Verifying Last Update Error Message When we change password**********************
+Administration-2024-09-06 15:24:59:000143 main INFO TC_Profile_UserSettings:197 - Entered New Password is Passed
+Administration-2024-09-06 15:25:01:000912 main INFO TC_Profile_UserSettings:206 - Entered Confirmed Password is Passed
+Administration-2024-09-06 15:25:04:000582 main INFO TC_Profile_UserSettings:215 - Clicked On Save Button is Passed
+Administration-2024-09-06 15:25:05:000488 main INFO TC_Profile_UserSettings:224 - Displayed 'Please verify your current password before proceeding with the password change' Error message is Passed
+Administration-2024-09-06 15:25:05:000488 main INFO TC_Profile_UserSettings:231 - ************************************** Change Password Operation ***************************************
+Administration-2024-09-06 15:25:08:000238 main INFO TC_Profile_UserSettings:236 - Entered New Password is Passed
+Administration-2024-09-06 15:25:11:000027 main INFO TC_Profile_UserSettings:245 - Entered Confirmed Password is Passed
+Administration-2024-09-06 15:25:13:000666 main INFO TC_Profile_UserSettings:254 - Clicked On Save Button is Passed
+Administration-2024-09-06 15:25:14:000584 main INFO TC_Profile_UserSettings:263 - Displayed 'Your password has been changed successfully' message is Passed
+Administration-2024-09-06 15:25:14:000584 main INFO TC_Profile_UserSettings:270 - Changed Password is :@Tech4Vyakar
+Administration-2024-09-06 15:25:14:000584 main INFO TC_Profile_UserSettings:272 - ***************************************** Remove Profile Picture Operation *******************************************
+Administration-2024-09-06 15:25:17:000261 main INFO TC_Profile_UserSettings:276 - Clicked On Remove Button is Passed
+Administration-2024-09-06 15:25:19:000900 main INFO TC_Profile_UserSettings:285 - Clicked On Delete Button is Passed
+Administration-2024-09-06 15:25:20:000868 main INFO TC_Profile_UserSettings:294 - Displayed 'File Deleted Successfully' message is Passed
+Administration-2024-09-06 15:25:20:000869 main INFO TC_Profile_UserSettings:301 - ************************************** Logout and Login Scenario ***************************************
+Administration-2024-09-06 15:25:25:000532 main INFO TC_Profile_UserSettings:305 - Clicked On Profile Picture is Passed
+Administration-2024-09-06 15:25:38:000302 main INFO TC_Profile_UserSettings:314 - Clicked On LogOut button is Passed
+Administration-2024-09-06 15:25:43:000435 main INFO TC_Profile_UserSettings:323 - Entered Client ID is Passed
+Administration-2024-09-06 15:25:46:000111 main INFO TC_Profile_UserSettings:332 - Entered Email is Passed
+Administration-2024-09-06 15:25:48:000717 main INFO TC_Profile_UserSettings:341 - Entered Password is Passed
+Administration-2024-09-06 15:25:51:000393 main INFO TC_Profile_UserSettings:350 - Entered Password is Passed
+Administration-2024-09-06 15:25:57:000035 main INFO TC_Profile_UserSettings:545 - Clicked On Profile Picture is Passed
+Administration-2024-09-06 15:26:13:000393 main INFO TC_Profile_UserSettings:554 - Clicked On User Profile link is Passed
+Administration-2024-09-06 15:26:19:000994 main INFO TC_Profile_UserSettings:563 - Displayed 'User Profile' page is Passed
+Administration-2024-09-06 15:26:19:000994 main INFO TC_Profile_UserSettings:570 - *****************Verifying Status**********************
+Administration-2024-09-06 15:26:22:000591 main INFO TC_Profile_UserSettings:574 - Displayed 'Active' status is Passed
+Administration-2024-09-06 15:26:22:000591 main INFO TC_Profile_UserSettings:581 - *****************Verifying Last Login Date and Time**********************
+Administration-2024-09-06 15:26:25:000158 main INFO TC_Profile_UserSettings:586 - Get Last Login date is Passed
+Administration-2024-09-06 15:26:27:000661 main INFO TC_Profile_UserSettings:600 - Not Displayed 'Invalid Date' in Last Login Date and Time section
+Administration-2024-09-06 15:26:27:000661 main INFO TC_Profile_UserSettings:601 - Get Last Login date and Time is: Sep 06 2024 at 03:25:51 PM
+Administration-2024-09-06 15:26:27:000661 main INFO TC_Profile_UserSettings:604 - ************************************** Send Reset Password Link ***************************************
+Administration-2024-09-06 15:26:30:000820 main INFO TC_Profile_UserSettings:608 - Clicked On Profile Picture is Passed
+Administration-2024-09-06 15:26:33:000480 main INFO TC_Profile_UserSettings:617 - Clicked On Send Reset Password Link is Passed
+Administration-2024-09-06 15:26:36:000124 main INFO TC_Profile_UserSettings:626 - Clicked On Send Link Button is Passed
+Administration-2024-09-06 15:26:37:000201 main INFO TC_Profile_UserSettings:635 - Displayed 'Active' status is Passed
+Administration-2024-09-06 15:33:50:000744 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 15:33:50:000825 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 15:33:50:000826 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 15:33:50:000826 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 15:33:50:000826 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 15:33:51:000066 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 15:33:51:000287 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 15:33:51:000491 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 15:33:51:000596 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 15:33:51:000730 main INFO TC_Profile_UserSettings:27 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-09-06 15:42:32:000357 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 15:42:32:000411 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 15:42:32:000411 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 15:42:32:000411 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 15:42:32:000411 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 15:42:32:000611 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 15:42:32:000796 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 15:42:32:000953 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 15:42:33:000047 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 15:42:33:000210 main INFO TC_Profile_UserSettings:27 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-09-06 15:43:30:000332 main INFO BaseClass:102 - ======================================= INFORMATION ======================================
+Administration-2024-09-06 15:43:30:000383 main INFO BaseClass:108 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-06 15:43:30:000388 main INFO BaseClass:109 - https://app.leadangel.com/index.html#/
+Administration-2024-09-06 15:43:30:000388 main INFO BaseClass:110 - 1667
+Administration-2024-09-06 15:43:30:000388 main INFO BaseClass:111 - ganesh@leadangel.com
+Administration-2024-09-06 15:43:30:000638 main INFO BaseClass:113 - Entered ClientID
+Administration-2024-09-06 15:43:30:000829 main INFO BaseClass:115 - Entered Email
+Administration-2024-09-06 15:43:31:000013 main INFO BaseClass:117 - Entered Password
+Administration-2024-09-06 15:43:31:000111 main INFO BaseClass:119 - Click on Submit
+Administration-2024-09-06 15:43:31:000211 main INFO TC_Profile_UserSettings:27 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-09-06 15:43:34:000878 main INFO TC_Profile_UserSettings:31 - Click On User Settings Module is Passed
+Administration-2024-09-06 15:43:37:000503 main INFO TC_Profile_UserSettings:40 - Click On Preference Dropdown is Passed
+Administration-2024-09-06 15:43:40:000143 main INFO TC_Profile_UserSettings:49 - Click On Profile Feature is Passed
+Administration-2024-09-06 15:43:40:000146 main INFO TC_Profile_UserSettings:56 - ***************************************** Upload Profile Picture Operation *******************************************
+Administration-2024-09-06 15:43:45:000428 main INFO TC_Profile_UserSettings:62 - Click On Upload Button is Passed
+Administration-2024-09-06 15:43:57:000404 main INFO TC_Profile_UserSettings:94 - Click On again upload Button is Passed
+Administration-2024-09-06 15:43:59:000498 main INFO TC_Profile_UserSettings:147 - Displayed 'File Uploaded Successfully' message is Passed
+Administration-2024-09-06 15:43:59:000506 main INFO TC_Profile_UserSettings:156 - *****************Enter Description**********************
+Administration-2024-09-06 15:44:02:000264 main INFO TC_Profile_UserSettings:160 - Enter Description is Passed
+Administration-2024-09-06 15:44:02:000264 main INFO TC_Profile_UserSettings:166 - *****************Change Password Operation**********************
+Administration-2024-09-06 15:44:07:000286 main INFO TC_Profile_UserSettings:357 - Current Password :@Tech4Vyakar
+Administration-2024-09-06 15:44:09:000955 main INFO TC_Profile_UserSettings:361 - Click On Change Password Tab row is Passed
+Administration-2024-09-06 15:44:12:000600 main INFO TC_Profile_UserSettings:370 - Enter Current Password is Passed
+Administration-2024-09-06 15:44:12:000600 main INFO TC_Profile_UserSettings:376 - *****************Verifying Last Update Error Message When we change password**********************
+Administration-2024-09-06 15:44:15:000346 main INFO TC_Profile_UserSettings:380 - Enter New Password is Passed
+Administration-2024-09-06 15:44:18:000113 main INFO TC_Profile_UserSettings:389 - Enter Confirmed Password is Passed
+Administration-2024-09-06 15:44:20:000771 main INFO TC_Profile_UserSettings:398 - Click On Save Button is Passed
+Administration-2024-09-06 15:44:21:000704 main INFO TC_Profile_UserSettings:408 - Displayed 'Please verify your current password before proceeding with the password change' Error message is Passed
+Administration-2024-09-06 15:44:21:000704 main INFO TC_Profile_UserSettings:416 - ************************************** Change Password Operation ***************************************
+Administration-2024-09-06 15:44:24:000420 main INFO TC_Profile_UserSettings:420 - Enter New Password is Passed
+Administration-2024-09-06 15:44:27:000194 main INFO TC_Profile_UserSettings:429 - Enter Confirmed Password is Passed
+Administration-2024-09-06 15:44:29:000829 main INFO TC_Profile_UserSettings:438 - Click On Save Button is Passed
+Administration-2024-09-06 15:44:30:000768 main INFO TC_Profile_UserSettings:447 - Displayed 'Your password has been changed successfully' message is Passed
+Administration-2024-09-06 15:44:30:000768 main INFO TC_Profile_UserSettings:454 - Changed Password is :@Tech4Lead
+Administration-2024-09-06 15:44:30:000768 main INFO TC_Profile_UserSettings:456 - ***************************************** Remove Profile Picture Operation *******************************************
+Administration-2024-09-06 15:44:33:000456 main INFO TC_Profile_UserSettings:460 - Click On Remove Button is Passed
+Administration-2024-09-06 15:44:36:000071 main INFO TC_Profile_UserSettings:469 - Click On Delete Button is Passed
+Administration-2024-09-06 15:44:37:000002 main INFO TC_Profile_UserSettings:478 - Displayed 'File Deleted Successfully' message is Passed
+Administration-2024-09-06 15:44:37:000002 main INFO TC_Profile_UserSettings:485 - ************************************** Logout and Login Scenario ***************************************
+Administration-2024-09-06 15:44:41:000654 main INFO TC_Profile_UserSettings:489 - Click On Profile Picture is Passed
+Administration-2024-09-06 15:44:48:000378 main INFO TC_Profile_UserSettings:498 - Click On LogOut button is Passed
+Administration-2024-09-06 15:44:53:000493 main INFO TC_Profile_UserSettings:507 - Enter Client ID is Passed
+Administration-2024-09-06 15:44:56:000113 main INFO TC_Profile_UserSettings:516 - Enter Email is Passed
+Administration-2024-09-06 15:44:58:000749 main INFO TC_Profile_UserSettings:525 - Enter Password is Passed
+Administration-2024-09-06 15:45:01:000413 main INFO TC_Profile_UserSettings:534 - Click On Login Button is Passed
+Administration-2024-09-06 15:45:07:000085 main INFO TC_Profile_UserSettings:545 - Click On Profile Picture is Passed
+Administration-2024-09-06 15:45:13:000604 main INFO TC_Profile_UserSettings:554 - Click On User Profile link is Passed
+Administration-2024-09-06 15:45:20:000171 main INFO TC_Profile_UserSettings:563 - Displayed 'User Profile' page is Passed
+Administration-2024-09-06 15:45:20:000181 main INFO TC_Profile_UserSettings:570 - *****************Verifying Status**********************
+Administration-2024-09-06 15:45:22:000783 main INFO TC_Profile_UserSettings:574 - Displayed 'Active' status is Passed
+Administration-2024-09-06 15:45:22:000783 main INFO TC_Profile_UserSettings:581 - *****************Verifying Last Login Date and Time**********************
+Administration-2024-09-06 15:45:25:000343 main INFO TC_Profile_UserSettings:586 - Get Last Login date is Passed
+Administration-2024-09-06 15:45:27:000862 main INFO TC_Profile_UserSettings:600 - Not Displayed 'Invalid Date' in Last Login Date and Time section
+Administration-2024-09-06 15:45:27:000862 main INFO TC_Profile_UserSettings:601 - Get Last Login date and Time is: Sep 06 2024 at 06:15:01 PM
+Administration-2024-09-06 15:45:27:000862 main INFO TC_Profile_UserSettings:604 - ************************************** Send Reset Password Link ***************************************
+Administration-2024-09-06 15:45:31:000018 main INFO TC_Profile_UserSettings:608 - Click On Profile Picture is Passed
+Administration-2024-09-06 15:45:33:000704 main INFO TC_Profile_UserSettings:617 - Click On Send Reset Password Link is Passed
+Administration-2024-09-06 15:45:36:000359 main INFO TC_Profile_UserSettings:626 - Click On Send Link Button is Passed
+Administration-2024-09-06 15:45:37:000432 main INFO TC_Profile_UserSettings:635 - Displayed 'Active' status is Passed

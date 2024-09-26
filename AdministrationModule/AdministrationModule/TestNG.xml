@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LeadAngelV1">
+	
+	<listeners>
+	
+		 <listener class-name="com.leadAngel.utilities.TestAllureListener" />
+	</listeners>
+<!-- ================================================= FOR CHROME ================================================== -->
+	<test name="LA_chrome">
+	 
+<parameter name="browser" value="chrome" />	
+		<parameter name="roleName" value="admin" />		
+	 	
+		 <classes> 
+		 
+	       
+	       <class name ="com.leadAngel.testCases.TC_Sanity_ObjectExplorer_Administration"/>
+	       	  
+		   
+<!--********************************************* Administration Crud Operation *******************************************-->           
+ 
+ <!-- 	 <class name ="com.leadAngel.testCases.TC_CrudOperation_Email_Administration"/>*
+         <class name ="com.leadAngel.testCases.TC_CrudOperation_AutoConversion_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_CrudOperation_CRMinApp_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_CrudOperation_Slack_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_CrudOperation_Twilio_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_CrudOperation_Webhook"/>*
+	     <class name ="com.leadAngel.testCases.TC_CrudOperationOn_ResponseMapping"/>*
+	     <class name ="com.leadAngel.testCases.TC_CrudOperation_CustomHeader"/>*
+	     <class name ="com.leadAngel.testCases.TC_CrudOperation_Forms"/>
+ -->
+	
+	
+	  
+	  <!--********************************************* Administration Sanity Operation *******************************************-->
+	  
+<!--     <class name ="com.leadAngel.testCases.TC_Sanity_AuditLog_Administration"/>*
+         <class name ="com.leadAngel.testCases.TC_Sanity_CopyAccountDataToLead_Administration"/>*
+         <class name ="com.leadAngel.testCases.TC_Sanity_Account_DataDictionaryIndex_Administration"/>*
+         <class name ="com.leadAngel.testCases.TC_Sanity_Contact_DataDictionaryIndex_Administration"/>*
+         <class name ="com.leadAngel.testCases.TC_Sanity_Lead_DataDictionaryIndex_Administration"/>  *
+         <class name ="com.leadAngel.testCases.TC_Sanity_Opportunity_DataDictionaryIndex_Administration"/>*
+         <class name ="com.leadAngel.testCases.TC_Sanity_OwnerAttributes_DataDictionaryIndex_Administration"/>*
+         <class name ="com.leadAngel.testCases.TC_Sanity_ObjectExplorer_Administration"/> Here Lead Id is Old data 
+	     <class name ="com.leadAngel.testCases.TC_Sanity_Holiday_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_AcceptConfirmationOTSnotifications_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_RejectConfirmation_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_OTSScreenAssignmentConfirmation_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_FailedOTSinitiation_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_AcceptanceConfirmationEmail_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_AcceptanceConfirmationSlack_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_AcceptanceConfirmationCRM_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_CompanyPreference_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_DataCleanupPreference_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_DedupeFlaggingPreference_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_RoutingPreference_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_UploadCSVtoCRM_Analytics"/>  *
+	     <class name ="com.leadAngel.testCases.TC_Sanity_Maintenance_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_ManagePlan_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_Recaptcha_Administartion"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_ReferralDomains_Administration"/>*
+	     <class name ="com.leadAngel.testCases.TC_Sanity_UserAndAccess_Administration"/>need to be Update
+	     <class name ="com.leadAngel.testCases.TC_Sanity_PartnerManagement_Administration"/>*--> 
+	       
+	       
+	       
+	  <!--   /////////************************ Integrations **********************/////////////
+	     <class name ="com.leadAngel.testCases.TC_Sanity_CRMactivation_Administration"/>*No need to run
+	     <class name ="com.leadAngel.testCases.TC_Sanity_CRMcustomObjectSync_Administration"/>Freezed so no need to run
+	     <class name ="com.leadAngel.testCases.TC_Sanity_Slack_Administration"/>No need to run
+	     <class name ="com.leadAngel.testCases.TC_Sanity_Twilio_Administration"/>No need to run
+	     <class name ="com.leadAngel.testCases.TC_Sanity_SAMLConfiguration_Administration"/>No need to run
+	     -->  
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+	       
+		</classes>
+		</test>	
+</suite> 

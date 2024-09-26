@@ -1,0 +1,94 @@
+AccountManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+AccountManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+AccountManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+AccountManagement-2024-09-12 main INFO BaseClass:131 - 1667
+AccountManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+AccountManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+AccountManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+AccountManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+AccountManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:36 - Click on Account Management is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:45 - Right Click On Account Routing Territory is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:54 - Click on New Account Routing Territory is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:62 - //===============================CREATE OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:65 - Entered AutoTestName is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:74 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:83 - Click on Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:227 - Refreshing The Page!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:259 - //================================================AccoutList_DND Operation===============================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:263 - Click On DataDictionary is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:272 - Drag and Drop AccoutList is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:283 - Select AccountList Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:292 - Select AccountListValue DropDown is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:301 - Select AccountListValue Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:307 - //================================================CRMaccountFilter_DND Operation===============================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:311 - Drag and Drop CRMaccountFilter is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:322 - Select CRMaccountFilter Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:331 - Select CRMaccountFilterValue DropDown is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:340 - Select CRMaccountFilterValue Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:347 - //========================================ENTERING DETAILS PAGE======================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:350 - Enter Details Page is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:353 - Click On Description Edit button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:356 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:359 - Click On Description Save button is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:363 - //===============================================APPROVE SCENARIO START========================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:367 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:376 - Click On Approve AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:385 - Clicked again Approve button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:394 - Display Approved button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:401 - //========================================EDIT SCENARIO START=======================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:405 - RightClick On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:414 - Click On Edit AutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:423 - Select AccountList Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:432 - Select AccountListValue DropDown is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:441 - Select AccountListValue Option is Passed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:448 - //===============================================After Edit,Then Approve the Object========================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:452 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:461 - Click on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:470 - Click again Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:479 - Displayed Approved Button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:487 - //======================================RENAME SCENARIO START=============================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:491 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:500 - Click on Rename Object is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:509 - Input on Rename AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:518 - Click Rename Button is  PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:526 - Duplicate Object Found, Deleting Object NOW
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:529 - Display RenameAutoTest Object
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:533 - Right Click On RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:542 - Click On Delete Button in AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:551 - Click On Delete Button in AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:561 - Displayed 'Cannot Delete' Error Message
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:565 - Right Click On RenameAutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:574 - Click on Rename Object is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:585 - Enter Rename is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:594 - Click Rename Button is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:689 - Right Click On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:698 - Click On Rename AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:707 - Input on Rename AutoTestObject is passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:716 - Click on Rename Button AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:729 - Renamed AutoTest Object is Displayed
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:738 - //===================================CLONE SCENARIO START================================================//
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:822 - Right Click On RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:831 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:840 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:849 - Display cloned RenamedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:857 - //===============================Approve Cloned Object========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:861 - Right Click On ClonedAutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:870 - Click on Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:879 - Click again Approve Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:888 - Displayed Approved Button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:895 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:899 - Right Click On ClonedAutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:908 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:917 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:926 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:934 - //===============================MOVE OBJECT SCENARIO START========================================
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:938 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:947 - Click On Move Renamed AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:956 - Select Folder to move the Autotest object is Passed !!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:1005 - Click On Move Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:1012 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:1016 - Right Click On RenamedAutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:1025 - Click On Move Renamed AutoTestObject is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:1034 - Select Main Folder is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:1043 - Click On Move Button is Passed!!!

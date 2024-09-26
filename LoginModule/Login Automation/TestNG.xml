@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LeadAngelV1">
+	
+	<listeners>
+	
+		 <listener class-name="com.leadAngel.utilities.TestAllureListener" />
+	</listeners>
+<!-- ================================================= FOR CHROME ================================================== -->
+	<test name="LA_chrome">
+	 
+		<parameter name="browser" value="chrome" />	
+		<parameter name="roleName" value="admin" />		
+		
+		 <classes>
+             <class name="com.leadAngel.testCases.TC_SANITY_LoginTest" />
+ <!-- ********************************************* Login Crud Operation ********************************************-->
+   
+           <class name="com.leadAngel.testCases.TC_SANITY_LoginTest" />
+	      
+	            <class name="com.leadAngel.testCases.TC_REGRESSION_Login" />
+	    
+
+	
+		</classes>
+		</test>	
+</suite> 

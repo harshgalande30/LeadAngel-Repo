@@ -1,0 +1,93 @@
+OpportunityManagement-2024-09-12 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+OpportunityManagement-2024-09-12 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+OpportunityManagement-2024-09-12 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+OpportunityManagement-2024-09-12 main INFO BaseClass:133 - 1667
+OpportunityManagement-2024-09-12 main INFO BaseClass:134 - ganesh@leadangel.com
+OpportunityManagement-2024-09-12 main INFO BaseClass:136 - Entered ClientID
+OpportunityManagement-2024-09-12 main INFO BaseClass:138 - Entered Email
+OpportunityManagement-2024-09-12 main INFO BaseClass:140 - Entered Password
+OpportunityManagement-2024-09-12 main INFO BaseClass:142 - Click on Submit
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:41 - Click on OpportunityManagement is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:50 - Right Click On OpportunityRoutingTerritory is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:59 - Click on New OpportunityRoutingTerritory is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:66 - //===============================CREATE OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:70 - Enter AutoTestObject Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:79 - Enter Descriptionn is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:88 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:232 - Refreshing The Page!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:265 - Click on DataDictionary is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:272 - //================================================AccoutList_DND Operation===============================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:276 - Drag And Drop AccoutList is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:287 - Select AccountList Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:296 - Select AccountListValue DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:305 - Select AccountListValue Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:312 - //================================================CRMaccountFilter_DND Operation===============================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:316 - Drag And Drop CRMaccountFilter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:327 - Select CRMaccountFilter Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:336 - Select CRMaccountFilterValue DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:345 - Select CRMaccountFilterValue Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:352 - //================================================CRMOpportunityFilter_DND Operation===============================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:356 - Drag And Drop CRMopportunityFilter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:365 - Click on CRMopportunityFilter Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:374 - Click on CRMopportunityFilterValue DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:383 - Click on CRMopportunityFilterValue Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:391 - //================================================ENTERING DETAILS PAGE===============================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:395 - Enter Details Page is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:403 - Click On Description Edit button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:406 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:409 - Click On Description Save button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:411 - //=======================================APPROVE SCENARIO START======================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:415 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:424 - Click On Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:432 - Click again Approve button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:436 - Display Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:443 - //========================================EDIT SCENARIO START=======================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:447 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:456 - Click On Edit AutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:465 - Change AccountList Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:474 - Click on AccountListValue DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:483 - Select AccountListValue Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:490 - //=======================================APPROVE SCENARIO START======================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:494 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:503 - Click On Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:511 - Click again Approve button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:515 - Display Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:522 - //======================================RENAME SCENARIO START=============================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:526 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:535 - Click on Rename Object is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:544 - Input on Rename AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:553 - Click Rename Button is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:764 - Renamed AutoTest Object is Displayed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:773 - //===================================CLONE SCENARIO START================================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:857 - Right Click On RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:866 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:875 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:884 - Display cloned RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:892 - //===============================Approve Cloned Object========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:896 - Right Click On ClonedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:905 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:914 - Click again Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:923 - Displayed Approved Button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:930 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:934 - Right Click On ClonedAutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:943 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:952 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:961 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:969 - //===============================MOVE OBJECT SCENARIO START========================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:973 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:982 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:993 - Folder Not Found!! Craeting New Folder.
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:995 - Click On Cancel button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:998 - Right Click On OpportunityRoutingTerritory is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1001 - Click on New OpportunityRoutingTerritory is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1004 - Enter Folder Name is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1007 - Click On Save is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1011 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1020 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1029 - Select Folder to move the Autotest object is passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1040 - Click On Move Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1047 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1051 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1060 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1069 - Select Main Folder is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRoutingTerritory_OpportunityManagement:1078 - Click On Move Button is Passed!!!

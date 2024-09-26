@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Dec 25 12:37:32 IST 2022","Sun Dec 25 12:38:19 IST 2022","46622","LeadAngelV1","LALogin_Chrome","com.leadAngel.testCases.TC_REGRESSION_Login","com.leadAngel.testCases.TC_REGRESSION_Login","loginTest","loginTest",""
+"broken","Sun Dec 25 12:18:36 IST 2022","Sun Dec 25 12:18:52 IST 2022","16330","LeadAngelV1","LALogin_Firefox","com.leadAngel.testCases.TC_SANITY_LoginTest","com.leadAngel.testCases.TC_SANITY_LoginTest","loginTest","loginTest",""
+"broken","Sun Dec 25 12:19:03 IST 2022","Sun Dec 25 12:19:38 IST 2022","35372","LeadAngelV1","LALogin_Firefox","com.leadAngel.testCases.TC_REGRESSION_Login","com.leadAngel.testCases.TC_REGRESSION_Login","loginTest","loginTest",""
+"failed","Sun Dec 25 12:37:10 IST 2022","Sun Dec 25 12:37:26 IST 2022","15751","LeadAngelV1","LALogin_Chrome","com.leadAngel.testCases.TC_SANITY_LoginTest","com.leadAngel.testCases.TC_SANITY_LoginTest","loginTest","loginTest",""

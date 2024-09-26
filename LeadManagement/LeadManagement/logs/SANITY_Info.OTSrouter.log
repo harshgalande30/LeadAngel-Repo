@@ -1,0 +1,862 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:51 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:60 - Click on Lead Routing is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:69 - Right Click on OTSrouter is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:78 - Click on New OTS Router is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:84 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:88 - Enter Object name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:97 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:106 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:250 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:281 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:290 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:298 - *************************************** Decision block DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:302 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:311 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:319 - *************************************** Action Block DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:323 - Drag And Drop ActionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:332 - Connect DecisionBlock(No) To Action Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:340 - *************************************** OTS Assignment Block DND And Random Split DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:344 - Drag And Drop OTS AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:353 - Drag And Drop RandomSplit is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:362 - Connect ActionBlock To RandomSplitBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:371 - Connect RandomSlitB To ActionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:380 - Connect RandomSlitA To OTSassignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:389 - Connect DecisionBlock(YES) To OTSAssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:396 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:400 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:409 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:418 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:427 - Click On AddButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:436 - Click On CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:445 - Enter CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:455 - Object Name Before Click NewTab Link: Test@18May24
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:459 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:475 - Object Name After Click NewTab Link: Test@18May24
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:479 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:493 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:503 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:512 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:513 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:522 - *********************************************ActionBlock Operation********************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:526 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:535 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:544 - Select Call Webhook Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:553 - Select On Second ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:562 - Object Name Before Click NewTab Link: AutoTestObject
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:566 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:582 - Object Name After Click NewTab Link: AutoTestObject
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:586 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:600 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:610 - Click On Continue processing Radio button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:619 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:628 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:629 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:638 - *********************************************RandomSplit Operation****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:642 - Double Click On RandomSplit Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:651 - Click On Description Of Random Split Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:660 - Write Value Inside PercentageAllocation For A is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:669 - Write Value Inside PercentageAllocation For B is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:678 - Write Value Inside PercentageAllocation For C is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:687 - Click On Save Button For RandomSplit is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:696 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:697 - Display Random Split Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:706 - ********************************************* Assignment block Operation ****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:708 - =========================== Details Page Operation in OTS assignment block ===========================
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:712 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:721 - Click On Details Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:730 - Enter Description of OTS Assignment block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:737 - ===========================  Assignment Options Page Operation  ===========================
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:741 - Click On Assignment Options button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:750 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:786 - Select Live Claim is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:798 - Click Prefer Historical Sales Person CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:807 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:816 - Displayed AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:828 - Click On Email Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:837 - Click On Email Notification DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:846 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:850 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:867 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:875 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:893 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:903 - Click On Salck Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:912 - Click On Slack Notification DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:921 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:925 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:942 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:950 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:968 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:978 - Click On Text Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:987 - Click On Text Notification DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:996 - Object Name Before Click NewTab Link: abc
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1000 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1017 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1025 - Object Name After Click NewTab Link: Lead: abc
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1043 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1053 - Click On CRMinApp Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1062 - Click On CRMinApp Notification DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1071 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1075 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1092 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1096 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1110 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1149 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1283 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1292 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1301 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1310 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign Based on Account ID Lookup Field in Lead Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1283 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1292 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1301 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1310 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1198 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1207 - Click On SelectMappedSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1217 - Object Name Before Click NewTab Link: AEtoSDR-1
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1221 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1237 - Object Name After Click NewTab Link: AEtoSDR-1
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1241 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1255 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Account Owners Manager is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Parent Accounts Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1411 - Click On SelectSalesTeamType DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1450 - Select Round Robin Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1464 - Click On SelectSalesTeam DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1473 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1477 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1493 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1497 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1511 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1523 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1532 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1533 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1426 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1435 - Click On SelectSalesTeamType DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1450 - Select Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1464 - Click On SelectSalesTeam DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1473 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1477 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1493 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1497 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1511 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1198 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1207 - Click On SelectMappedSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1268 - Select Mapped SDR Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Rep Email Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Rep ID Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1341 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1345 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1361 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1365 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1379 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1341 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1345 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1361 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1365 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1379 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Route to the Owner on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1198 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1207 - Click On SelectMappedSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1268 - Select Mapped SDR Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:764 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:773 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:786 - Select Broadcast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1577 - Click On BroadcastToSalesTeam CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1586 - Click On SelectSalesTeam DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1595 - Select SelectSalesTeam Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1604 - Click On Email CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1613 - Click On Email DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1622 - Select Email Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1631 - Click On Salck CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1640 - Click On Slack DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1649 - Select Slack Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1658 - Click On Text CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1667 - Click On Text DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1676 - Select Text Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1685 - Click On InApp CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1694 - Click On CRMinApp DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1703 - Select CRMinApp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1712 - Click On BroadcastViaEmail CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1721 - Click On BroadcastViaEmail DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1730 - Select BroadcastViaEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1739 - Click On BroadcastViaSlack CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1748 - Click On BroadcastViaSlack DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1757 - Select BroadcastViaSlack Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1766 - Click On BroadcastViaText CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1775 - Click On BroadcastViaText DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1784 - Select BroadcastViaText Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1793 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1802 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1803 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:764 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:773 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:786 - Select Direct Assignment is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:798 - Click Prefer Historical Sales Person CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:807 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:816 - Displayed AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:828 - Click On Email Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:837 - Click On Email Notification DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:846 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:850 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:867 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:875 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:893 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:903 - Click On Salck Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:912 - Click On Slack Notification DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:921 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:925 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:942 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:950 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:968 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:978 - Click On Text Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:987 - Click On Text Notification DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:996 - Object Name Before Click NewTab Link: abc
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1000 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1017 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1025 - Object Name After Click NewTab Link: Lead: abc
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1043 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1053 - Click On CRMinApp Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1062 - Click On CRMinApp Notification DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1071 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1075 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1092 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1096 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1110 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1121 - Click On Create Task For The NewOwner CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1130 - Click Create Task For The NewOwner DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1139 - Select Create Task For The NewOwner Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1149 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1283 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1292 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1301 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1310 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign Based on Account ID Lookup Field in Lead Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1283 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1292 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1301 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1310 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1198 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1207 - Click On SelectMappedSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1217 - Object Name Before Click NewTab Link: AEtoSDR-1
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1221 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1237 - Object Name After Click NewTab Link: AEtoSDR-1
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1241 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1255 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Account Owners Manager is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Parent Accounts Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1198 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1207 - Click On SelectMappedSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1268 - Select Mapped SDR Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Rep Email Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Rep ID Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1397 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1341 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1345 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1361 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1365 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1379 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1330 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1341 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1345 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1361 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1365 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1379 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1162 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1171 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1184 - Select Route to the Owner on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1198 - Click On AssignToAEmappedSDR CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1207 - Click On SelectMappedSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1268 - Select Mapped SDR Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1552 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1561 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1562 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1814 - ********************************************* ReAssignment Setup Operation ****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1818 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1827 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1836 - Click On Add-Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1845 - Enter ReassignmentWaitTime is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1854 - Click ReassignmentWaitTime DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1863 - Select Minutes is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1872 - Click ReassignmentWaitTime DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1881 - Select Seconds is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1890 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1935 - Select Live Claim is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1948 - Click On Email Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1957 - Click SelectEmailTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1966 - Select Email Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1975 - Click On Salck Notification CheckBox AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1984 - Click SelectSlackTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1993 - Select Slack Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2002 - Click On Text Notification CheckBox AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2011 - Click SelectTextTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2020 - Select Text Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2029 - Click On CRMinApp Notification checkbox AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2038 - Click SelectCRMInAppTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2048 - Select CRMinApp Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2126 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2183 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2192 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2201 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2210 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign Based on Account ID Lookup Field in Lead Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2183 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2192 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2201 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2210 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Account Owners Manager is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Parent Accounts Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2252 - Click On SelectSalesTeamType DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2299 - Select Round Robin Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2310 - Click On SelectSalesTeam DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2319 - Object Name Before Click NewTab Link: open_in_new
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2323 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2339 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2357 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2369 - Clicked On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2378 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2379 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2267 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2276 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2285 - Click On SelectSalesTeamType DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2299 - Select Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2310 - Click On SelectSalesTeam DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2319 - Object Name Before Click NewTab Link: open_in_new
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2323 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2339 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2357 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Rep Email Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Rep ID Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Route to the Owner on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1904 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1913 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1922 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1935 - Select Broadcast is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2421 - Click On BroadcastToSalesTeam CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2430 - Click On SelectSalesTeam DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2439 - Select SelectSalesTeam Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2448 - Click On Email CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2457 - Click On Email DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2466 - Select Email Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2475 - Click On Salck CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2484 - Click On Slack DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2493 - Select Slack Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2502 - Click On Text CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2511 - Click On Text DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2520 - Select Text Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2529 - Click On InApp CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2538 - Click On CRMinApp DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2547 - Select CRMinApp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2556 - Click On BroadcastViaEmail CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2565 - Click On BroadcastViaEmail DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2574 - Select BroadcastViaEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2583 - Click On BroadcastViaSlack CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2592 - Click On BroadcastViaSlack DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2601 - Select BroadcastViaSlack Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2610 - Click On BroadcastViaText CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2619 - Click On BroadcastViaText DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2628 - Select BroadcastViaText Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2637 - Click on CollapseAllFor OTS assignment is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2646 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2655 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2664 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2665 - OTS AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1904 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1913 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1922 - Click On Assignment Type DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1935 - Select Direct Assignment is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1948 - Click On Email Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1957 - Click SelectEmailTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1966 - Select Email Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1975 - Click On Salck Notification CheckBox AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1984 - Click SelectSlackTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:1993 - Select Slack Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2002 - Click On Text Notification CheckBox AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2011 - Click SelectTextTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2020 - Select Text Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2029 - Click On CRMinApp Notification checkbox AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2038 - Click SelectCRMInAppTemplate DropDown AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2048 - Select CRMinApp Notification Option AssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2059 - Click On Create Task For The NewOwner CheckBox ReAssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2068 - Click Create Task For The NewOwner DropDown ReAssignmentSetup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2077 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2081 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2097 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2101 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2115 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2126 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2183 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2192 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2201 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2210 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign Based on Account ID Lookup Field in Lead Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2183 - Click Assign Based Firstbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2192 - Select Assign Based Firstbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2201 - Click Assign Based Secondbox DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2210 - Select Assign Based Secondbox Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Account Owners Manager is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Parent Accounts Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Rep Email Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Rep ID Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2229 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2239 - Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2139 - Double Click On OTS Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2148 - Click On Reassignment Setup Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2157 - Click On Assignment Option DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2170 - Select Route to the Owner on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2395 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2404 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2405 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2680 - Click On Maximize Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2689 - Maximize the Panner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2698 - Move Blocks In Console is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2707 - Click On Manimize Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2715 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2719 - Enter Details Page is passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2728 - Default Lead Owner DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2737 - Select Default Lead Owner Option is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2743 - ******************************* Wait Time *****************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2747 - Click On Wait Time Radio Button OTSDetailsPage is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2756 - Enter Wait Time OTSDetailsPage is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2765 - Click On DropDown For WaitTime OTSDetailsPage is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2774 - Click On Option For WaitTime OTSDetailsPage is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2780 - *********************** Default owner notification setup ************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2784 - Click on NotificationTemplate Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2801 - Displayed 'NotificationToggle' after redirect to new tab is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2815 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2822 - *********************** Email notification ************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2826 - Click On EmailNotification Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2835 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2839 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2856 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2864 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2882 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2890 - *********************** Slack notification ************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2894 - Click On SlackNotification Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2903 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2907 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2924 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2932 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2950 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2958 - *********************** Text notification ************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2962 - Click On TextNotification Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2971 - Object Name Before Click NewTab Link: abc
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2975 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:2992 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3000 - Object Name After Click NewTab Link: Lead: abc
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3018 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3026 - *********************** OTS Initiation Validation ************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3030 - Click On Radio Button Start OTS when member of this is a filter OTSDetailsPage is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3039 - Click On DropDown for OTS when member of this is a filter OTSDetailsPage is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3048 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3052 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3068 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3072 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3086 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3097 - Click On Checkbox For Reassignment Notification is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3106 - Displayed Reassignment Notification CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3117 - Click Notification Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3134 - Displayed 'OTSnotifications' Feature after redirect to new tab is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3148 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3157 - Click On Save Button For details Page OTS is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3166 - Display Success For DefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3174 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3177 - Enter data in Discription is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3180 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3184 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3193 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3201 - //==================================== OverView Page Opeartion Before approve  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3205 - Click On OTS Router Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3214 - Display OTSRouter OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3224 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3225 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3230 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3239 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3250 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3263 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3273 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3283 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3296 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3303 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3307 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3316 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3325 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3328 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3350 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3423 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3427 - Click on OTSrouter DropDown is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3436 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3445 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3448 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3452 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3459 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3463 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3472 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3481 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3491 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3500 - //==================================== OverView Page Opeartion After approved  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3504 - Click On OTS Router Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3513 - Display OTSRouter OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3522 - *****************Verifying Column Header Check Is Disabled******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3534 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3539 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3548 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3559 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_OTSrouter_LeadManagement:3580 - Clear Test From The FilterBox is Passed

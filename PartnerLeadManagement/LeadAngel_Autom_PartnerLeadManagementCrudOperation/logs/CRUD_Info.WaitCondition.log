@@ -1,0 +1,177 @@
+PartnerLead-2024-09-14 INFO BaseClass:124 - ======================================= INFORMATION ======================================
+PartnerLead-2024-09-14 INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+PartnerLead-2024-09-14 INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+PartnerLead-2024-09-14 INFO BaseClass:133 - 1002
+PartnerLead-2024-09-14 INFO BaseClass:134 - ganesh@leadangel.com
+PartnerLead-2024-09-14 INFO BaseClass:136 - Entered ClientID
+PartnerLead-2024-09-14 INFO BaseClass:138 - Entered Email
+PartnerLead-2024-09-14 INFO BaseClass:140 - Entered Password
+PartnerLead-2024-09-14 INFO BaseClass:142 - Click on Submit
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:43 - Click on PartnerLeadManagement is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:52 - Click on PartnerLeadRouting DropDown is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:60 - Right Click on Wait Condition is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:63 - Click on New Wait Condition is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:67 - Enter AutoTestObject Name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:76 - Enter Description is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:84 - Click on Save Button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:225 - Refreshing The Page!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:256 - Click on Wait Button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:264 - //====================================== DRAG&DROP WAIT_FOR ATTRIBUTE===================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:268 - Drag And Drop Wait For is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:277 - Input on WaitFor is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:288 - Click on WaitForMinutes is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:294 - //========================================= DRAG&DROP WAIT TILL  ATTRIBUTE================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:298 - Drag and Drop WaitTill is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:307 - Click on CalendarButton is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:316 - Click On Date is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:325 - Click on Select Time is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:334 - Click On Time is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:343 - Click On Ok Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:350 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:354 - Drag And Drop WAIT FILTER is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:363 - Click On WaitTllOption Is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:372 - Click On WaitFilter Dropdown is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:381 - Click On WaitFilter Option is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:388 - //=========================================APPROVE SCENARIO START======================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:392 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:401 - Click on Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:410 - Click again Approve button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:419 - Displayed Approved button is PASSED!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:426 - //===============================ENTERING DETAILS PAGE===========================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:429 - Enter Details Page is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:432 - Click On Description Edit button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:435 - Enter text in TextArea is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:438 - Click On Description Save button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:442 - Display 'No Record Found' is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:451 - //**************************************** Make Use of this Object Lead Router *******************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:455 - Right Click On PartnerLeadRouter is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:464 - Clicked on New PartnerLeadRouter is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:471 - //===============================CREATE OBJECT SCENARIO START========================================!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:475 - Enter AutoTestObject name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:484 - Enter Description is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:493 - Click on Save Button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:638 - Refreshing The Page!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:671 - Click On DNDdiagram DropDown is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:681 - Minimize the Panner is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:687 - *************************************** Decision Block DND ****************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:691 - Drag And Drop Decision block is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:700 - Connect StartBlock To DecisionBlock is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:707 - *************************************** Action Block DND ****************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:711 - Drag And Drop ActionBlock is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:720 - Connect DecisionBlock(No) To Action Block is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:728 - ***************************************Assignment Block DND****************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:732 - Drag And Drop AssignmentBlock is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:741 - Connect DecisionBlock(YES) To AssignmentBlock is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:747 - ***************************************Decision block Operation***************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:751 - Double Click On DecisionBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:760 - Click On Data dictionary option is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:769 - Click On AddButton is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:778 - Click On Save Button For DecisionBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:787 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:788 - Decision Block Border Color is Verified and Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:795 - *********************************************Assignment block1 Operation********************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:799 - Double Click On Assignment Block is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:808 - Click On DropDown AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:817 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:826 - Click On DropDown2 AssignmentBlock is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:835 - Select Option from the dropdown is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:845 - Click On Save Button For AssignmentBlock is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:854 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:855 - AssignmentBlock Border Colour is Verified and Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:863 - *********************************************ActionBlock Operation********************************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:867 - Double Click On Action Block is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:876 - Select On Wait Option is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:885 - Select the Second ListBox dropdown is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:894 - Select AutoTestObject is Passed !!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:903 - Click On Save Button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:912 - true
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:913 - Action Block Border Color is Verified and Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:920 - //========================================ENTERING DETAILS PAGE======================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:923 - Enter Details Page is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:927 - Click On DefaultLeadOwner DropDown is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:936 - Select Option is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:945 - Click On CheckBox is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:954 - Display Success is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:961 - //===============================================APPROVE SCENARIO START========================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:965 - Click On draft box is Passed!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:973 - Click on Approve Button After EDIT is passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:976 - Click Again Approve button is passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:980 - Display Approved button is PASSED!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:987 - ======================================= Go back To Main Object ==================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:991 - Click on WaitCondition DropDown is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1000 - Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1006 - ===================== Used By Operation in Details Page =====================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1010 - Click On Detail button is PASSED!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1019 - Click On UsedBy Dropdown is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1030 - Fetch used by router name is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1036 - ********************** Verifying whether Used object can delete or not *********************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1040 - Click On Approved Button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1049 - Click On Delete button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1058 - Click Again Delete Button is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1067 - Get Text From Error Message is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1076 - Displayed 'Cannot delete,It is Used' Error message is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1084 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1088 - Click On details button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1100 - Get Menu Title From Left tree Menu is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1109 - Click Used By Router Name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1119 - Get Menu Title From Left tree Menu is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1128 - Partner Lead Management
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1129 - Partner Lead Management
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1130 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1142 - Get Object Name From Details tab : AutoTestObject
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1151 - AutoTest Object Name matched with the name from Details tab is Passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1160 - ======================================= Go back To Main Object ==================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1163 - //===========================================EDIT SCENARIO START==================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1166 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1175 - click on Edit Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1184 - Click On WaitTllOption Is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1193 - Click On WaitFilterSelect Is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1202 - Click On WaitFilter Option Is  PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1211 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1231 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1248 - ===========================================Approve After Edit===================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1251 - Click on Approve Button After EDIT is passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1254 - Click Again Approve button is passed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1258 - Display Approved button is PASSED!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1266 - //======================================RENAME SCENARIO START=============================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1270 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1279 - Click on Rename Object is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1288 - Input on Rename AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1297 - Click Rename Button is  PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1305 - Duplicate Object Found, Deleting Object NOW
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1308 - Display RenameAutoTest Object
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1312 - Right Click On RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1321 - Click On Delete Button in AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1330 - Click On Delete Button in AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1468 - Right Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1477 - Click On Rename AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1486 - Input on Rename AutoTestObject is passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1495 - Click on Rename Button AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1508 - Renamed AutoTest Object is Displayed
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1517 - //===================================CLONE SCENARIO START================================================//
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1601 - Right Click On RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1610 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1619 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1628 - Display cloned RenamedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1638 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1658 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1675 - //===============================Approve Cloned Object========================================!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1679 - Right Click On ClonedAutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1688 - Click on Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1697 - Click again Approve Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1706 - Displayed Approved button is PASSED!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1713 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1717 - Right Click On ClonedAutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1726 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1735 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1744 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1752 - //===============================MOVE OBJECT SCENARIO START========================================
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1757 - Right Click On RenamedAutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1766 - Click On Move Renamed AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1775 - Select Folder to move the Autotest object is Passed !!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1825 - Click On Move Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1832 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1837 - Right Click On RenamedAutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1846 - Click On Move Renamed AutoTestObject is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1855 - Select Main Folder is Passed!!!
+PartnerLead-2024-09-14 INFO TC_CrudOperation_WaitCondition_PartnerLeadManagement:1864 - Click On Move Button is Passed!!!

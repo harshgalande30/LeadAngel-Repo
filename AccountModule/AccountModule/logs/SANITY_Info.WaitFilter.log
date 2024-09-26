@@ -1,0 +1,280 @@
+AccountManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+AccountManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+AccountManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+AccountManagement-2024-09-12 main INFO BaseClass:131 - 1667
+AccountManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+AccountManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+AccountManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+AccountManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+AccountManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:45 - Click on AccountManagement is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:53 - Right Click on Wait Filter is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:54 - //===============================CREATE OBJECT SCENARIO START========================================!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:57 - Click on New Wait Filter is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:61 - Enter AutoTestObject name is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:70 - Enter Description is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:78 - Click on Save Button is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:218 - Refreshing The Page!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:249 - Click on AccountAttribute is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:256 - //===================================== DRAG&DROP AccountName ATTRIBUTE =====================================//
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:260 - Drag And Drop Account Name is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:269 - Click on DropDown AccountName is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:285 - Select contains is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:294 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:307 - Input on AcountName is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:316 - Displayed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:285 - Select does not contain is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:294 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:307 - Input on AcountName is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:316 - Displayed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:285 - Select starts with is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:294 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:307 - Input on AcountName is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:316 - Displayed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:285 - Select does not start with is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:294 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:307 - Input on AcountName is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:316 - Displayed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:285 - Select is empty is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:294 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:285 - Select is not empty is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:294 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:285 - Select in is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:294 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:332 - Click on Add Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:341 - Select One Account is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:349 - Click on Save button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:358 - Displayed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:285 - Select not in is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:294 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:332 - Click on Add Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:341 - Select One Account is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:349 - Click on Save button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:358 - Displayed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:369 - //======================================= DRAG&DROP Billing LONGITUDE ATTRIBUTE ==================================//
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:373 - Drag and Drop Billing Longitude is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:384 - Click on DropDown Billing Longitude is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select is empty is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select is not empty is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select in is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:422 - Click on Add Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:439 - Click on Save button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:448 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select not in is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:422 - Click on Add Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:439 - Click on Save button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:448 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select is greater than is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:463 - Input on Billing Longitude is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:472 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select is smaller than is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:463 - Input on Billing Longitude is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:472 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select between is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:486 - Billing Longitude Input Box For Between Box1 is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:495 - Dispalyed Input Box1 is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:506 - Billing Longitude Input Box For Between Box2 is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:515 - Dispalyed Input Box2 is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select is at least is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:463 - Input on Billing Longitude is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:472 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:398 - Select is at most is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:407 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:463 - Input on Billing Longitude is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:472 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:526 - //========================================= DRAG&DROP Deleted ATTRIBUTE===================================//
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:530 - Drag And Drop Deleted is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:541 - Click on DropDown Deletedbox1 is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:557 - Select is is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:566 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:578 - Click on DropDown Deletedbox2 is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:594 - Select True is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:603 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:594 - Select False is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:603 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:557 - Select is not is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:566 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:578 - Click on DropDown Deletedbox2 is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:594 - Select True is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:603 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:594 - Select False is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:603 - Displayed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:613 - //======================================== DRAG&DROP CRETED DATE ATTRIBUTE ==================================//
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:617 - Drag and Drop Created Date is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:628 - Click on DropDown CreateDateFirstBox is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select before is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:665 - Click On Calendar CreatedDate Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:674 - Click On Date is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:683 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select after is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:665 - Click On Calendar CreatedDate Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:674 - Click On Date is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:683 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select on or before is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:665 - Click On Calendar CreatedDate Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:674 - Click On Date is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:683 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select on or after is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:665 - Click On Calendar CreatedDate Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:674 - Click On Date is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:683 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select in past is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:697 - CreatedDate Input Box For Box2 is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:706 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:716 - Click on DropDown CreateDate2forInPast is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Hours is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Days is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Weeks is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select in past before is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:697 - CreatedDate Input Box For Box2 is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:706 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:716 - Click on DropDown CreateDate2forInPast is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Hours is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Days is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Weeks is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select in future is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:697 - CreatedDate Input Box For Box2 is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:706 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:716 - Click on DropDown CreateDate2forInPast is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Hours is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Days is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Weeks is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select in future after is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:697 - CreatedDate Input Box For Box2 is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:706 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:716 - Click on DropDown CreateDate2forInPast is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Hours is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Days is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:733 - Select Weeks is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:742 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select between is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:756 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:765 - Click On Date is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:774 - Dispalyed Input Box1 is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:784 - Click On CreatedDate Calendar Button Box2 is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:793 - Click On Date is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:802 - Dispalyed Input Box2 is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select in time frame is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:817 - Click on DropDown CreateDate for InTimeFrame is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select Today is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select Yesterday is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select This Week S S is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select This Week M F is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select Last Week S S is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select Last Week M F is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select This Month is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select Last Month is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select This Calendar Quarter is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select Last Calendar Quarter is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select This Calendar Year is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:834 - Select Last Calendar Year is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:843 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select is is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:665 - Click On Calendar CreatedDate Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:674 - Click On Date is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:683 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select is today is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select is not is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:665 - Click On Calendar CreatedDate Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:674 - Click On Date is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:683 - Dispalyed Input Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select is empty is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:643 - Select is not empty is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:652 - Dispalyed Select Box is not red
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:859 - *********************** Search Box and refresh Button Operation **************************
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:864 - Get Text from first drag and drop box is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:873 - Enter Text in search box is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:882 - Displayed text in toolist, which is entered in search box is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:891 - Click On Close Button is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:900 - Click On Refresh Button is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:909 - Click on AccountAttribute is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:919 - Click on DefaultFilter Button is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:928 - Select Custom FilterOption is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:937 - Input For CutomFilter Wait Filter is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:946 - Click on CollapseAll is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:955 - Click on ExpandAll is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:962 - //================================================ENTERING DETAILS PAGE===============================================
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:966 - Click on Details Button is Passed!!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:974 - Click On Description Edit button is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:977 - Enter Decription is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:980 - Click On Description Save button is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:984 - Click On Copy Button is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:993 - Displayed Copied Success Message is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1001 - ==================================== Approve ==================================
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1005 - Click On draftbox is PASSED!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1013 - Click on Approve Button After EDIT is passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1016 - Click Again Approve button is passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1020 - Display Approved button is PASSED!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1027 - //========================================Delete Craft scenario=======================================
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1031 - RightClick On AutoTestObject is PASSED!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1040 - Click On Edit AutoTestObject is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1049 - Click On DeleteCraft buton is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1059 - Dispalying Verified Sign is PASSED!!!
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1067 - //==================================== OverView Page Opeartion  ==================================
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1071 - Click On WaitFilter Feature is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1080 - Display WaitFilter OverView Page is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1089 - ***************** Column Header Check Box Operation ******************
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1090 - Displayed Column Header Checkbox Is Not Disabled 
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1095 - Click On ColumnHeader CheckBox is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1104 - Displayed ColumnHeader CheckBox Is Checked is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1115 - Displayed AutTestObject CheckBox Is Checked is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1128 - Displayed Delete Button is Enabled is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1138 - Uncheck the ColumnHeader CheckBox is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1148 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1161 - Displayed Delete Button is Disable is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1168 - ********************** Filter Operation *************************
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1172 - Enter Text In FilterBox is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1181 - Displayed AutoTestObject is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1190 - Displayed AutoTestObject CheckBox
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1193 - Displayed AutoTestObject Is Not Used is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1215 - Clear Test From The FilterBox is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1222 - ********************** Delete AutoTestObject Operation *************************
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1226 - Click On AutTestObject CheckBox is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1235 - Displayed AutTestObject CheckBox Is Checked is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1245 - Click On Delete Button is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1254 - Click Again Delete Button is Passed
+AccountManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_AccountManagement:1263 - Display Deleted success message is Passed

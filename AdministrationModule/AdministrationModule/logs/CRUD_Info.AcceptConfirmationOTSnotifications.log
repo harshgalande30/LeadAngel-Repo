@@ -1,0 +1,122 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:40 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:49 - Click on Notifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:58 - Click On OTSnotifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:67 - Click On AcceptConfirmation is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:73 - =========================================  LeadAcceptConfirmationTab Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:77 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:93 - Thank you!  is located in center of the Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:93 - You have successfully accepted the <<ObjectType>> is located in center of the Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:157 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:161 - Click On Insert Snippet Button For MessageBody is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:170 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:207 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:216 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:225 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:234 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:185 - Click On Insert Snippet Button For MessageBody is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:194 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:207 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:216 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:225 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:234 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:246 - Click On Lead Accept Confirmation InputBox is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:255 - EnterText Inside lead Accept Confirmation message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:271 - Selected all the text from the lead Accept Confirmation message body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:308 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:312 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:321 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:331 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:340 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:350 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:359 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:369 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:378 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:389 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:398 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:408 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:417 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:427 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:436 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:446 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:455 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:465 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:474 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:484 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:493 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:504 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:513 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:523 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:532 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:539 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:543 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:552 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:559 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:563 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:579 - Thank you!  is located in center of the Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:579 - You have successfully accepted the <<ObjectType>> is located in center of the Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:594 - Displayed hasPopup is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:104 - =========================================  ContactAcceptConfirmationTab Operation=========================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:109 - Click on ContactAcceptConfirmationTab is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:114 - Click On ContactAcceptConfirmation Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:123 - Click On Continue Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:133 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:149 - Thank you!  is located in center of the Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:149 - You have successfully accepted the <<ObjectType>> is located in center of the Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:157 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:161 - Click On Insert Snippet Button For MessageBody is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:170 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:207 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:216 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:225 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:234 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:185 - Click On Insert Snippet Button For MessageBody is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:194 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:207 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:216 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:225 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:234 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:279 - Click On Contact Accept Confirmation InputBox is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:288 - EnterText Inside Contact Accept Confirmation message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:304 - Selected all the text from the Contact Accept Confirmation message body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:308 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:312 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:321 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:331 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:340 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:350 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:359 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:369 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:378 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:389 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:398 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:408 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:417 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:427 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:436 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:446 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:455 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:465 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:474 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:484 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:493 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:504 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:513 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:523 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:532 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:539 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:543 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:552 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:559 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:563 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:579 - Thank you!  is located in center of the Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:579 - You have successfully accepted the <<ObjectType>> is located in center of the Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptConfirmationOTSnotifications_Administration:594 - Displayed hasPopup is Passed

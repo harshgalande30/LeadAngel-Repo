@@ -1,0 +1,189 @@
+ContactManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-12 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:46 - Click on ContactManagement is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:54 - Right Click on Wait Condition is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:57 - Click on New Wait Condition is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:61 - Enter AutoTestName is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:70 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:78 - Click on Save Button WaitCondition is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:82 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:86 - Click WaitCondition DropDown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:95 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:104 - Click On Delete button is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:113 - Click Again Delete button is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:169 - Right Click on Wait Condition is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:178 - Click on New Wait Condition is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:187 - Enter AutoTestObject Name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:196 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:205 - Click on Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:218 - Refreshing The Page!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:223 - Display WaitCondition Overview passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:227 - WaitCondition DropDown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:236 - Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:249 - Click on Wait Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:256 - //====================================== DRAG&DROP WAIT_FOR ATTRIBUTE===================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:260 - Drag And Drop Wait For is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:269 - Input on WaitFor is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:278 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:300 - Click on WaitForMinutes is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:309 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:325 - //========================================= DRAG&DROP WAIT TILL  ATTRIBUTE================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:329 - Drag and Drop WaitTill is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:338 - Click on CalendarButton is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:347 - Click On Date is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:356 - Click on Select Time is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:365 - Click On Time is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:374 - Click On Ok button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:381 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:385 - Drag And Drop Wait Filter is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:394 - Click On WaitTll Option is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:403 - Click On WaitTillvalue DropDown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:412 - Click On WaitTillvalue Option is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:420 - //=========================================APPROVE SCENARIO START=======================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:424 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:433 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:442 - Click on again Approve button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:451 - Displayed Approved button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:459 - //===============================ENTERING DETAILS PAGE===========================================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:462 - Click on Details Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:465 - Click On Description Edit button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:468 - Enter Decription is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:471 - Click On Description Save button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:475 - Display 'No Record Found' is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:484 - //*************************************** Make Use of this Object in Contact Router *******************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:488 - RightClick On ContactRouter is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:497 - Click on New CRM Contact Filter is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:504 - //===============================CREATE OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:508 - Enter Object Name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:517 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:526 - Click on Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:670 - Refreshing The Page!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:703 - Click On DNDdiagram DropDown is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:713 - Minimize the Panner is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:719 - *************************************** Decision Block DND ****************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:723 - Drag And Drop Decision block is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:732 - Connect StartBlock To DecisionBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:739 - *************************************** Action Block DND ****************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:743 - Drag And Drop ActionBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:752 - Connect DecisionBlock(No) To Action Block is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:760 - ***************************************Assignment Block DND****************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:764 - Drag And Drop AssignmentBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:773 - Connect DecisionBlock(YES) To AssignmentBlock is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:779 - ***************************************Decision block Operation***************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:783 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:792 - Click On Data dictionary option is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:801 - Click On AddButton is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:810 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:819 - true
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:820 - Decision Block Border Color is Verified and Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:827 - *********************************************Assignment block Operation********************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:831 - Double Click On Assignment Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:840 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:849 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:858 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:867 - Select Option from the dropdown is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:877 - Click On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:886 - true
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:887 - AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:895 - *********************************************ActionBlock Operation********************************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:899 - Double Click On Action Block is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:908 - Select On Wait Option is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:917 - Select the Second ListBox dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:926 - Select AutoTestObject is Passed !!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:935 - Click On Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:944 - true
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:945 - Action Block Border Color is Verified and Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:953 - //========================================ENTERING DETAILS PAGE======================================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:956 - Entering Details Page!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:960 - Default Contact Owner DropDown is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:969 - Select Default Contact Owner Option is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:978 - CheckBox For Default Contact Owner is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:987 - Display Success For Default Contact Owner is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:994 - //===============================================APPROVE SCENARIO START========================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:998 - Click On draft box is Passed!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1006 - Click on Approve Button After EDIT is passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1009 - Click Again Approve button is passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1013 - Display Approved button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1020 - ======================================= Go back To Main Object ==================================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1024 - Click on WaitCondition DropDown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1033 - Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1039 - ===================== Used By Operation in Details Page =====================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1043 - Click On Detail button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1052 - Click On UsedBy Dropdown is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1063 - Fetch used by router name is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1069 - ********************** Verifying whether Used object can delete or not *********************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1073 - Click On Approved Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1082 - Click On Delete button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1091 - Click Again Delete Button is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1100 - Get Text From Error Message is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1109 - Displayed 'Cannot delete,It is Used' Error message is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1117 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1121 - Click On details button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1133 - Get Menu Title From Left tree Menu is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1142 - Click Used By Router Name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1152 - Get Menu Title From Left tree Menu is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1161 - Contact Management
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1162 - Contact Management
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1163 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1175 - Get Object Name From Details tab : AutoTestObject
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1184 - AutoTest Object Name matched with the name from Details tab is Passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1193 - ======================================= Go back To Main Object ==================================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1195 - //===========================================EDIT SCENARIO START==================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1199 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1208 - Click on Edit Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1217 - Click On WaitTllOption Is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1226 - Click On WaitTillvalue DropDown is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1235 - Click On WaitTillvalue Option is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1244 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1264 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1280 - ===========================================Approve After Edit===================================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1283 - Click on Approve Button After EDIT is passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1286 - Click Again Approve button is passed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1290 - Display Approved button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1297 - //======================================RENAME SCENARIO START=============================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1301 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1310 - Click on Rename Object is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1319 - Input on Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1328 - Click Rename Button is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1336 - Duplicate Object Found, Deleting Object NOW
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1339 - Display RenameAutoTest Object
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1343 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1352 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1361 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1499 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1508 - Click On Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1517 - Input on Rename AutoTestObject is passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1526 - Click on Rename Button AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1539 - Renamed AutoTest Object is Displayed
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1548 - //===================================CLONE SCENARIO START================================================//
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1632 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1641 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1650 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1659 - Display cloned RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1667 - //===============================Approve Cloned Object========================================!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1671 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1680 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1689 - Clicked again Approve Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1698 - Displayed Approved button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1705 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1709 - Right Click On ClonedAutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1718 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1727 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1736 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1744 - //===============================MOVE OBJECT SCENARIO START========================================
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1748 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1757 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1766 - Select Folder to move the Autotest object is Passed !!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1816 - Click On Move Button is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1823 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1828 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1837 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1846 - Select Main Folder is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_CrudOperation_WaitCondition_ContactManagement:1855 - Click On Move Button is Passed!!!

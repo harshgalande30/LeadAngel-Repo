@@ -1,0 +1,184 @@
+ContactManagement-2024-09-11 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-11 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-11 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-11 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-11 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-11 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-11 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-11 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-11 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:44 - Click on ContactManagement is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:53 - Click on Data Dictionary is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:62 - RightClick On CRMContactFilter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:71 - Click on New CRM Contact Filter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:77 - //===============================CREATE OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:81 - Enter AutoTestObject Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:90 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:99 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:243 - Refreshing The Page!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:274 - Click on Contact Attribute is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:281 - ============================================ ContactId_DND================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:285 - Drag and drop ContactId is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:296 - Click on ContactId Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:305 - Enter ContactID is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:312 - //================================== Deleted_DND====================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:316 - Drag and drop Deleted is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:327 - Select Deleted Option1 is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:338 - Select Deleted Option2 is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:346 - //======================================= OtherLongitude_DND===============================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:350 - Drag and drop OtherLongitude is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:361 - Select OtherLatitude Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:370 - Enter OtherLatitude Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:376 - //======================================BirthDate_DND=================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:380 - Drag and drop BirthDate is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:390 - Select CreadtedDate Option is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:399 - Click on CalenderIcon is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:408 - Select Date is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:415 - //======================================APPROVE SCENARIO START===================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:419 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:428 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:437 - Click Again Approve button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:446 - Displayed Approved button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:454 - //======================================ENTERING DETAILS PAGE======================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:457 - Enter Details Page is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:460 - Click On Description Edit button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:463 - Enter Text in TextArea is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:466 - Click On Description Save button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:470 - Display 'No Record Found' is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:479 - //*********************************************** Make Use of this Object In LeadRouter(LeadManagement) *******************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:483 - RightClick On ContactRouter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:492 - Click on New CRM Contact Filter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:499 - //===============================CREATE OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:503 - Enter Object Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:512 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:521 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:530 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:534 - Click on ContactRouter DropDown is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:543 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:551 - Click On Delete button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:560 - Click Again Delete button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:616 - RightClick On ContactRouter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:625 - Click on New Contact Router is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:634 - Enter Object Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:643 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:652 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:665 - Refreshing The Page!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:670 - Displayed ContactRouter Overview page
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:675 - Click on ContactRouter DropDown is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:684 - Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:698 - Click On DNDdiagram DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:708 - Minimize the Panner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:716 - *************************************** Decision Block DND ****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:720 - Drag And Drop Decision block is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:729 - Connect StartBlock To DecisionBlock is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:735 - ***************************************Assignment Block DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:739 - Drag And Drop AssignmentBlock1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:748 - Connect Decision Block To assignmentBlock1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:754 - ***************************************Decision block Operation***************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:758 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:767 - Select AutoTestObject is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:776 - Click On AddButton is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:785 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:794 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:795 - Decision Block Border Color is Verified and Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:802 - *********************************************Assignment block1 Operation********************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:806 - Double Click On Assignment Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:815 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:824 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:833 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:842 - Select SalesRepValue In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:851 - Click On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:860 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:861 - AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:871 - //==============================  ENTERING DETAILS PAGE ==============================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:875 - Enter Details Page is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:884 - Default Contact Owner DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:893 - Select Default Contact Owner Option is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:902 - CheckBox For Default Contact Owner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:911 - Display Success For Default Contact Owner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:918 - //===============================================APPROVE SCENARIO START========================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:922 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:931 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:940 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:949 - Displayed Success Message is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:956 - ======================================= Go back To CRM ContactFilter Object ==================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:960 - Click on Data Dictionary is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:969 - Click on CRMcontactFilter DropDown is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:978 - Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:984 - ===================== Used By Operation in Details Page =====================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:988 - Click On Detail button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:997 - Click On UsedBy Dropdown is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1008 - Fetch used by router name is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1014 - ********************** Verifying whether Used object can delete or not *********************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1018 - Click On Approved Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1027 - Click On Delete button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1036 - Click Again Delete Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1045 - Get Text From Error Message is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1054 - Displayed 'Cannot delete,It is Used' Error message is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1062 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1066 - Click On details button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1078 - Get Menu Title From Left tree Menu is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1087 - Click Used By Router Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1097 - Get Menu Title From Left tree Menu is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1106 - Contact Management
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1107 - Contact Management
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1108 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1120 - Get Object Name From Details tab : AutoTestObject
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1129 - AutoTest Object Name matched with the name from Details tab is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1137 - //=========================================== Go Back to Main Object ===================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1139 - //============================================EDIT SCENARIO START======================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1143 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1152 - Click On Edit AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1161 - Click on ContactID NotIn is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1170 - Click On AddButton is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1179 - Click on AccountName Intro is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1187 - Click on Save Button in AccountName NotIn is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1195 - ===========================================Approve After Edit===================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1198 - Click on Approve Button After EDIT is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1201 - Click Again Approve button is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1205 - Display Approved button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1213 - //======================================RENAME SCENARIO START=============================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1217 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1226 - Click on Rename Object is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1235 - Input on Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1244 - Click Rename Button is  PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1252 - Duplicate Object Found, Deleting Object NOW
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1255 - Display RenameAutoTest Object
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1259 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1268 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1277 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1287 - Displayed 'Cannot Delete' Error Message
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1291 - Right Click On RenameAutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1300 - Click on Rename Object is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1311 - Enter Rename is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1320 - Click Rename Button is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1415 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1424 - Click On Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1433 - Input on Rename AutoTestObject is passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1442 - Click on Rename Button AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1455 - Renamed AutoTest Object is Displayed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1464 - //===================================CLONE SCENARIO START================================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1548 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1557 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1566 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1575 - Display cloned RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1583 - //===============================Approve Cloned Object========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1587 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1596 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1605 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1614 - Displayed Success Message is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1621 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1625 - Right Click On ClonedAutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1634 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1643 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1652 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1660 - //===============================MOVE OBJECT SCENARIO START========================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1665 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1674 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1683 - Select Folder to move the Autotest object is Passed !!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1733 - Click On Move Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1740 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1744 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1753 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1762 - Select Main Folder is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_CRMcontactFilter_ContactManagement:1771 - Click On Move Button is Passed!!!

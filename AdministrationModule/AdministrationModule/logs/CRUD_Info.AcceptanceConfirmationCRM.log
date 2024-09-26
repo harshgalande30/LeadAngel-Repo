@@ -1,0 +1,120 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:39 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:48 - Click on NotificationsDropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:57 - Click On OTSnotifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:66 - Click On AcceptanceConfirmationCRM is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:73 - ========================================= Lead AcceptanceConfirmationCRM Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:77 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:90 - Name : {!LeadOwner.Name} is perfectly located in Lead Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:105 - Email: {!LeadOwner.Email} is perfectly located in Lead Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:180 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:184 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:193 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:230 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:239 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:248 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:257 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:208 - Click On Insert Snippe tButton For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:217 - Click On Select Object DropDown ForInsert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:230 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:239 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:248 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:257 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:267 - Enter Text Inside Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:280 - Selected all the text from the AcceptanceConfirmationCRM message body 
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:282 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:286 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:295 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:305 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:314 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:324 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:333 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:343 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:352 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:363 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:372 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:382 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:391 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:401 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:410 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:420 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:429 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:439 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:448 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:458 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:467 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:478 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:487 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:497 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:506 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:513 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:517 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:526 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:534 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:539 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:553 - Name : {!LeadOwner.Name} is perfectly located in Lead Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:568 - Email: {!LeadOwner.Email} is perfectly located in Lead Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:611 - Displayed hasPopup Acceptance Confirmation CRM is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:116 - ========================================= Contact AcceptanceConfirmationCRM Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:121 - Move the mouse cursor to Contact Acceptance Confirmation CRM is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:126 - Click On Contact AcceptanceConfirmationCRM Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:135 - Click On Continue Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:144 - Click On RestoreDefault Button for Contact AcceptanceConfirmationCRM is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:157 - Name : {!ContactOwner.Name} is perfectly located in Contact AcceptanceConfirmationCRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:171 - Email: {!ContactOwner.Email} is perfectly located in Contact AcceptanceConfirmationCRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:180 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:184 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:193 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:230 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:239 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:248 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:257 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:208 - Click On Insert Snippe tButton For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:217 - Click On Select Object DropDown ForInsert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:230 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:239 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:248 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:257 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:267 - Enter Text Inside Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:280 - Selected all the text from the AcceptanceConfirmationCRM message body 
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:282 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:286 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:295 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:305 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:314 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:324 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:333 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:343 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:352 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:363 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:372 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:382 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:391 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:401 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:410 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:420 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:429 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:439 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:448 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:458 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:467 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:478 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:487 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:497 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:506 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:513 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:517 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:526 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:534 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:539 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:582 - Name : {!ContactOwner.Name} is perfectly located in Contact Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:597 - Email: {!ContactOwner.Email} is perfectly located in Contact Acceptance Confirmation CRM Message Body
+Administration-2024-09-14 INFO TC_Sanity_AcceptanceConfirmationCRM_Administration:611 - Displayed hasPopup Acceptance Confirmation CRM is Passed

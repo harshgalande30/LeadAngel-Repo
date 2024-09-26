@@ -1,0 +1,354 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:47 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:56 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:62 - //===============================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:66 - Right click on Slack is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:75 - Click on NewSlack is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:84 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:93 - Select Router Type is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:102 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:111 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:115 - Click on Slack Dropdown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:124 - RightClick On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:133 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:142 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:198 - Right Click on Slack is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:207 - Click on New Slack is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:216 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:225 - Select Router Type is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:234 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:249 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:256 - ===================================================Recipient_TO_  Operation===================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:257 - *************************************LeadOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:261 - Click On CheckBox For_Recipient_TO_LeadOwner is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:267 - ************************************* AccountOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:271 - Click On CheckBox For_Recipient_TO_AccountOwner is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:278 - *************************************LeadOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:283 - Click On CheckBox For_Recipient_TO_LeadOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:292 - Click Select DropDown For_Recipient_TO_LeadOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:301 - Object Name Before Click NewTab Link: test45
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:305 - Click On Open In New Tab Link is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:321 - Object Name After Click NewTab Link: test45
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:325 - Open in New tab link is properly redirected is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:339 - Swicth back to parent window is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:346 - *************************************AccountOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:350 - Click On CheckBox For_Recipient_TO_AccountOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:359 - Click Select DropDown For_Recipient_TO_AccountOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:368 - Object Name Before Click NewTab Link: test45
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:372 - Click On Open In New Tab Link is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:388 - Object Name After Click NewTab Link: test45
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:392 - Open in New tab link is properly redirected is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:406 - Swicth back to parent window is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:413 - ********************************************AccountTeam **********************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:417 - Click On CheckBox For_Recipient_TO_AccountTeam is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:426 - Click Select DropDown For_Recipient_TO_AccountTeam is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:435 - Select First Option For AccountTeam And NotifyBasedLookUpField is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:441 - *************************************Notify Based On The Lookup Field On Account ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:445 - Click On CheckBox For_Recipient_TO_NotifyBasedOnTheLookupFieldOnAccount is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:454 - Click Select DropDown For_Recipient_TO_NotifyBasedOnTheLookupFieldOnAccount is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:463 - Select First Option For NotifyBasedLookUpField is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:470 - ************************************* OTS Broadcast Notification Recipients ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:474 - Check Box For_Recipient_TO_OTSBroadcastNotificationRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:483 - Displayed Success message is  PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:494 - Click On DropDown For_Recipient_TO_OTSBroadcastNotificationRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:503 - Select First Option For OTSBroadcastNotificationRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:510 - ************************************* Slack Channels ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:514 - CheckBox For_Recipient_TO_SlackChannels is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:523 - Click On Refresh Button For_Recipient_TO_SlackChannels is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:532 - Displayed Success message is  PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:542 - Click Select DropDown For_Recipient_TO_SlackChannels is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:551 - Select FirstOption For_RecipientTO is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:558 - ************************************* Slack Users ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:562 - Check Box For_Recipient_TO_SlackUsers is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:571 - Click On Refresh Button For_Recipient_TO_SlackUsers is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:580 - Displayed Success message is  PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:590 - Click Select DropDown For_Recipient_TO_SlackUsers is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:599 - Select First Option For_RecipientTO is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:606 - *************************************Additional Recipients ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:610 - Click On Check Box For_Recipient_TO_AdditionalRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:619 - Enter MailID For_Recipient_TO_AdditionalRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:627 - =======================================================Header====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:631 - Enter Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:641 - Click On Braces Button For Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:650 - Click On Select Object DropDown For Insert Value In Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:686 - Select Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:695 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:704 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:713 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:664 - Click On Braces Button For Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:673 - Click On Select Object DropDown For Insert Value In Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:686 - Select Account Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:695 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:704 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:713 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:664 - Click On Braces Button For Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:673 - Click On Select Object DropDown For Insert Value In Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:686 - Select Latest Campaign is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:695 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:704 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:713 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:723 - =======================================================EmailBody====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:727 - Enter Message Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:736 - Click On Braces Button For Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:746 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:782 - Select Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:791 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:800 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:809 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:760 - Click On Braces Button For Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:769 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:782 - Select Account Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:791 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:800 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:809 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:760 - Click On Braces Button For Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:769 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:782 - Select Latest Campaign is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:791 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:800 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:809 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:826 - Selected all the text from the message body input box
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:830 - Click On Bold Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:850 - Click On Italic Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:870 - Click On Strikethrough Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:890 - Click On Blockquote Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:899 - Displayed Selected Text Is Blockquote is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:910 - Click On ListNumbers Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:919 - Displayed Selected Text Is ListNumbers is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:931 - Click On UnorderList Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:940 - Displayed Selected Text Is UnorderList is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:948 - ******************** Link Operation ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:952 - Click On Link Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:961 - Enter URL is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:971 - Click On Braces For URL is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:981 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:990 - Click On Select Object Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:999 - Click On Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1008 - Click On Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1018 - Click On Merge Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1027 - Click On AddURL Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1034 - ******************** Footer  ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1038 - Enter Footer is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1046 - =======================================================Save====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1050 - Save Button For slack is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1059 - Saving Verification Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1065 - ====================================================Refresh==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1067 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1070 - ====================================================Verification of Recipient_TO_ Operation==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1073 - *************************************Verification LeadOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1076 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1077 - Veryfy CheckBox For_Recipient_TO_LeadOwner is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1085 - *************************************Verification AccountOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1089 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1090 - Verify CheckBox For_Recipient_TO_AccountOwner is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1097 - *************************************Verification LeadOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1101 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1102 - Verify CheckBox For_Recipient_TO_LeadOwnerMappedSDR is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1112 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1113 - Verification Of Select TextBox Border For_Recipient_TO_LeadOwnerMappedSDR is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1120 - *************************************Verification AccountOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1124 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1125 - Verify CheckBox For_Recipient_TO_AccountOwnerMappedSDR is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1135 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1136 - Verification Of Select TextBox Border For_Recipient_TO_AccountOwnerMappedSDR is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1143 - *************************************Verification AccountTeam ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1147 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1148 - Verify CheckBox For_Recipient_TO_AccountTeam is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1158 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1159 - Verification Of Select TextBox Border For_Recipient_TO_AccountTeam is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1166 - *************************************Verification NotifyBasedOnTheLookupFieldOnAccount****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1170 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1171 - Verify CheckBox For_Recipient_TO_NotifyBasedOnTheLookupField On Account is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1181 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1182 - Verification of Select TextBox Border For_Recipient_TO_NotifyBasedOnTheLookupField On Account is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1189 - *************************************Verification OTS Broadcast Notification Recipients****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1193 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1194 - Verify Check Box For_Recipient_TO_OTSBroadcastNotificationRecipients is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1204 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1205 - Verification Of Select TextBox Border For_Recipient_TO_OTSBroadcastNotificationRecipients is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1214 - *************************************Verification Slack Channels****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1218 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1219 - Veryfy CheckBox For_Recipient_TO_SlackChannels is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1229 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1230 - Verify Border For_Recipient_TO_SlackChannels is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1238 - *************************************Verification Slack Channels****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1242 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1243 - Veryfy CheckBox For_Recipient_TO_SlackUsers is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1253 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1254 - Verify Border For_Recipient_TO_SlackUsers is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1262 - *************************************Verification AdditionalRecipients****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1266 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1267 - Verify CheckBox For_Recipient_TO_AdditionalRecipients is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1277 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1278 - Verification Of Select TextBox Border For_Recipient_TO_AdditionalRecipients is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1286 - //*********************************************** Verification link PopUp*******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1291 - Double Click On Assignment3 Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1300 - Click On Braces For URL is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1310 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1319 - Click On Select Object Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1328 - Click On Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1337 - Click On Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1347 - Click On Merge Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1356 - Click On AddURL Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1362 - ======================= Save ===========================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1366 - Save Button For slack is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1375 - Saving Verification Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1384 - Double Click On Assignment3 Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1393 - Displayed AddURL Button is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1402 - Click On Cancel Button is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1410 - //*********************************************** Detail Tab *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1416 - Click On Detail Tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1425 - Click On Copy Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1434 - Displayed 'Id copied to clipboard' maessage is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1449 - Not showing 'Undefined' for Last Updated
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1460 - Not showing 'Undefined' for Last Updated By
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1467 - Display 'No Record Found' is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1476 - //==================================== OverView Page Opeartion Before Used  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1480 - Click On Slack Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1489 - Display Slack OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1499 - ***************** Column Header Check Box Operation ******************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1500 - Displayed Column Header Checkbox Is Not Disabled 
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1505 - Click On ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1514 - Displayed ColumnHeader CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1523 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1526 - Displayed LeadAutTestObject CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1539 - Displayed Delete Button is Enabled is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1549 - Uncheck the ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1557 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1560 - Displayed LeadAutTestObject CheckBox Is Not Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1573 - Displayed Delete Button is Disable is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1580 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1584 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1593 - Displayed LeadAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1602 - Displayed LeadAutoTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1605 - Displayed LeadAutoTestObject Is Not Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1627 - Clear Test From The FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1704 - //*********************************************** Make Use of this Object In OTS Router(LeadManagement) *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1708 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1717 - Click On LeadManagement from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1726 - Click On dropdown for lead Routing is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1735 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1744 - Click on New OTSrouter is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1753 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1762 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1771 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1780 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1784 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1793 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1802 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1811 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1867 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1876 - Click on New OTS Router is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1885 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1894 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1903 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1916 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1921 - Display OTS router Overview
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1925 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1934 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1948 - Click On DNDdiagram DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1954 - ******************** Decision Block DND************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1958 - Drag And Drop Decision Block is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1967 - Connect StartBlock_To_DecisionBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1976 - Double Click On DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1985 - Click On NewCustomerAccountListOption is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:1994 - Click On AddButton is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2003 - Click On Save Button For DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2009 - ******************** OTS Assignment Block DND ***************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2013 - Drag And Drop AssignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2022 - Connect RandomSlitA_To_OTSassignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2031 - Double Click On OTS Assignment Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2041 - Click On Assignment Type DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2050 - Select LiveClaim Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2059 - Click On Assignment Option DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2068 - Select Option From Assignment Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2077 - Click On Salck  CheckBox is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2086 - Click On Slack  DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2095 - Select AutotestSlack Object is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2104 - Click On Save Button For AssignmentBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2113 - Enter Details Page is passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2122 - Default Lead Owner DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2131 - SelectDefaultLeadOwnerOption is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2140 - Click On Save Button For details Page OTS is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2149 - Display Success is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2156 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2160 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2169 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2178 - Click again Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2187 - Displayed Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2193 - ********************* Go back to Slack Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2197 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2206 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2215 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2224 - Click on Slack Dropdown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2233 - Click On AutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2242 - Click On Detail Tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2252 - Click On UsedBy Dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2261 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2270 - Click On Delete Button from the detail tab	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2279 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2288 - Get Text From Error Message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2297 - Displayed 'Cannot delete,It is Used' Error message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2306 - ===================== Used By Operation in Details Page =====================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2312 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2319 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2327 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2336 - Click Used By Router Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2346 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2369 - Get Object Name From Details tab : AutoTestObject
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2378 - AutoTest Object Name matched with the name from Details tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2386 - ********************* Go back to Slack Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2390 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2399 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2408 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2417 - Click on Slack Dropdown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2426 - ====================================================Crud operation==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2427 - ====================================================Rename Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2431 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2440 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2449 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2458 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2467 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2471 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2480 - Click On Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2489 - Click again Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2500 - Displayed 'Cannot Delete' Error Message
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2504 - Right Click On LeadRenameAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2513 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2524 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2533 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2545 - Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2547 - *******************************************Rename*********************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2551 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2560 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2569 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2578 - Click on Rename button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2589 - ====================================================Clone Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2675 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2684 - Click On Clone option is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2693 - Click On Clone button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2702 - Displayed Cloned LeadRenameAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2709 - =======================================================Save CLONED OBJECT====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2713 - Save Button For Email is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2722 - Displayed Saving Verification Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2729 - ********************************DELETE CLONED OBJECT SCENARIO*********************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2733 - Click On Delete Button from the detail tab	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2742 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2751 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2761 - //==================================== OverView Page Opeartion After approved  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2765 - Click On Slack Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2774 - Display Slack OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2783 - *****************Verifying Column Header Check Is Disabled******************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2795 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2800 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2809 - Displayed LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2831 - Displayed LeadAutoTestObjectRename Is Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Slack_Administration:2842 - Clear Test From The FilterBox is Passed

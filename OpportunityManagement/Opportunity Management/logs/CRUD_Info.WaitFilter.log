@@ -1,0 +1,141 @@
+OpportunityManagement-2024-09-12 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+OpportunityManagement-2024-09-12 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+OpportunityManagement-2024-09-12 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+OpportunityManagement-2024-09-12 main INFO BaseClass:133 - 1667
+OpportunityManagement-2024-09-12 main INFO BaseClass:134 - ganesh@leadangel.com
+OpportunityManagement-2024-09-12 main INFO BaseClass:136 - Entered ClientID
+OpportunityManagement-2024-09-12 main INFO BaseClass:138 - Entered Email
+OpportunityManagement-2024-09-12 main INFO BaseClass:140 - Entered Password
+OpportunityManagement-2024-09-12 main INFO BaseClass:142 - Click on Submit
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:43 - Click on OpportunityManagement is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:51 - Right Click on Wait filter is Passed 
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:54 - Click on New Wait filter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:58 - Entered AutoTestObjectName is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:67 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:75 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:81 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:85 - Wait Filter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:94 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:103 - Click On Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:112 - Click Again Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:168 - Right Click on Wait filter is Passed 
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:177 - Click on New Wait filter is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:186 - Enter Object Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:195 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:204 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:217 - Refreshing The Page!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:222 - Display WaitFilter Overview passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:226 - Click On Wait Filter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:235 - Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:249 - Click on OpportunityAttribute is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:257 - //================================== OpportunityId_DND====================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:261 - Drag and Drop OpportunityId is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:272 - Click on OpportunityId Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:281 - Enter OpportunityID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:288 - //================================== Deleted_DND====================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:292 - Drag and Drop Deleted is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:303 - select Deleted Option1 is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:314 - select Deleted Option2 is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:321 - //=========================================APPROVE SCENARIO START======================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:325 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:334 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:343 - Click again Approve button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:352 - Displayed Approved  Button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:359 - //=======================================ENTERING DETAILS PAGE=========================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:362 - Enter Details Page is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:365 - Click On Description Edit button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:368 - Enter text in TextArea is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:371 - Clicked On Description Save button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:375 - Display 'No Record Found' is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:382 - //*********************************************** Make Use of this Object in Wait Condition *******************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:386 - Right Click on Wait Condition is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:395 - Click on New Object is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:401 - //===============================CREATE OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:405 - Enter AutoTestName is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:414 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:423 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:568 - Refreshing The Page!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:599 - Click on WaitAttribute is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:605 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:609 - Drag And Drop WAIT FILTER is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:618 - Click On WaitTllOption Is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:627 - Click On WaitFilter Dropdown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:636 - Select AutoTestObject is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:644 - //===============================================APPROVE SCENARIO START========================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:647 - Click on Approve Button After EDIT is passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:650 - Click Again Approve button is passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:654 - Display Approved Button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:661 - ======================================= Go back To Main Object ==================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:665 - Click on Wait Filter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:674 - Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:680 - ===================== Used By Operation in Details Page =====================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:684 - Click On Detail button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:693 - Click On UsedBy Dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:704 - Fetch used by router name is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:710 - ********************** Verifying whether Used object can delete or not *********************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:714 - Click On Approved Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:723 - Click On Delete button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:732 - Click Again Delete Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:741 - Get Text From Error Message is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:750 - Displayed 'Cannot delete,It is Used' Error message is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:758 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:762 - Click On details button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:774 - Get Menu Title From Left tree Menu is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:783 - Click Used By Router Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:793 - Get Menu Title From Left tree Menu is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:802 - Opportunity Management
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:803 - Opportunity Management
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:804 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:816 - Get Object Name From Details tab : AutoTestObject
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:825 - AutoTest Object Name matched with the name from Details tab is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:834 - ======================================= Go back To Main Object ==================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:836 - //=======================================EDIT SCENARIO START=========================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:840 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:849 - Click on Edit Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:858 - Change Opportunity Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:867 - Enter Opportunity is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:876 - Change Deleted Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:882 - //=========================================APPROVE SCENARIO START======================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:886 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:895 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:904 - Click again Approve button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:913 - Displayed Approved  Button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:920 - //======================================RENAME SCENARIO START=============================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:924 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:933 - Click on Rename Object is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:942 - Input on Rename AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:951 - Click Rename Button is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1162 - Renamed AutoTest Object is Displayed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1171 - //===================================CLONE SCENARIO START================================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1255 - Right Click On RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1264 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1273 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1282 - Display clocned RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1290 - //===============================Approve Cloned Object========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1294 - Right Click On ClonedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1303 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1312 - Click again Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1321 - Displayed Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1328 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1332 - Right Click On ClonedAutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1341 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1350 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1359 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1367 - //===============================MOVE OBJECT SCENARIO START========================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1371 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1380 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1391 - Folder Not Found!! Craeting New Folder.
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1394 - Click On Cancel button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1397 - Right Click on Wait filter is Passed 
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1400 - Click on New Wait filter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1403 - Enter Folder Name is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1406 - Click On Save is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1410 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1419 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1428 - Select Folder to move the Autotest object is passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1439 - Click On Move Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1446 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1451 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1460 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1469 - Select Main Folder is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_WaitFilter_OpportunityModule:1478 - Click On Move Button is Passed!!!

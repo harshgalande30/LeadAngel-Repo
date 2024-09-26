@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LeadAngelV1">
+	
+	<listeners>
+	
+		 <listener class-name="com.leadAngel.utilities.TestAllureListener" />
+	</listeners>
+<!-- ================================================= FOR CHROME ================================================== -->
+	<test name="LA_chrome">
+	
+		<parameter name="browser" value="chrome" />	
+		<parameter name="roleName" value="admin" />		
+		
+		 <classes>
+
+      
+     
+	    
+    
+	 <!-- ********************************************* AccountManagement Crud Operation ********************************************-->
+	     
+        <class name ="com.leadAngel.testCases.TC_CrudOperation_AEtoSDRMaping_AccountManagement" />
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_RoundRobinTeam_AccountManagement" />
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_WST_AccountManagement" />
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_AccountList_AccountManagement" />
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_CRMaccountFilter_AccountManagement" />
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_accountRoutingTeritorry_AccountManagement" />
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_WaitFilter_AccountManagement" />
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_WaitCondition_AccountManagement" />
+	    <class name ="com.leadAngel.testCases.TC_CrudOperation_AccountRouter_AccountManagement" />
+	    
+
+		</classes>
+		</test>	
+</suite> 

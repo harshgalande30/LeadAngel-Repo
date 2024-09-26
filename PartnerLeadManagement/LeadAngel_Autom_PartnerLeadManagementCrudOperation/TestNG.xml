@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LeadAngelV1">
+
+	<listeners>
+
+		<listener
+			class-name="com.leadAngel.utilities.TestAllureListener" />
+	</listeners>
+	<!-- ================================================= FOR CHROME ================================================== -->
+	<test name="LA_chrome">
+
+		<parameter name="browser" value="chrome" />
+		<parameter name="roleName" value="admin" />
+
+		<classes>
+	
+			   <class name ="com.leadAngel.testCases.TC_CrudOpertaion_PartnerTeam_PartnerLeadManagement"/>
+				 
+				
+			<!-- ******************************************* PartnerLeadManagement Crud Operation ******************************************* -->
+
+		<!--	 <class name ="com.leadAngel.testCases.TC_CrudOpertaion_PartnerTeam_PartnerLeadManagement"/>
+			     <class name ="com.leadAngel.testCases.TC_CrudOperation_WaitFilter_PartnerLeadManagement"/> *
+				 <class name ="com.leadAngel.testCases.TC_CrudOperation_WaitCondition_PartnerLeadManagement"/>*
+				 <class name ="com.leadAngel.testCases.TC_CrudOperation_partnerLeadRouter_PartnerLeadManagement"/> *-->
+
+			<!-- ******************************************* PartnerLeadManagement Sanity Test Case ******************************************* -->
+
+           <!--  <class name="com.leadAngel.testCases.TC_Sanity_PartnerTeam_PartnerLeadManagement"/>
+                 <class name="com.leadAngel.testCases.TC_Sanity_WaitFilter_PartnerLeadmanagement"/>*
+                 <class name="com.leadAngel.testCases.TC_Sanity_WaitCondition_PartnerLeadManagement"/>*
+                 <class name="com.leadAngel.testCases.TC_Sanity_PartnerLeadRouter_PartnerLeadManagement"/>* -->
+
+
+		</classes>
+	</test>
+</suite> 

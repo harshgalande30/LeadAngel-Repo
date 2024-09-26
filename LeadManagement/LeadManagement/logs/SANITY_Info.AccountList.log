@@ -1,0 +1,84 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:34 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:43 - Click on Data Dictionary is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:52 - Right Click on AccountList is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:61 - Click on New Account list is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:69 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:72 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:81 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:90 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:234 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:267 - Click On AccountList Attributes is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:275 - //================================================DND1 Operation===============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:279 - Drag and Drop AccountList is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:290 - Select Account Name Option is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:299 - Click on Add Button PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:308 - Select One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:316 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:322 - //================================================DND2 Operation===============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:326 - Drag and Drop AccountList is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:337 - Select Account Name Option is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:346 - Click on Add Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:355 - Select One Account is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:363 - Click on Save button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:370 - *********************** Search Box and refresh Button Operation **************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:375 - Get Text from first drag and drop box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:384 - Enter Text in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:393 - Displayed text in toolist, which is entered in search box is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:402 - Click On Close Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:411 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:420 - Click On AccountList Attributes is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:429 - Click on DefaultFilter Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:438 - Select Custom FilterOption is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:447 - Input For CutomFilterAccList is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:456 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:465 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:472 - //================================================ENTERING DETAILS PAGE===============================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:476 - Click on Details Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:484 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:487 - Enter Discription is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:490 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:494 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:503 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:511 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:515 - Click On draftbox is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:523 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:526 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:530 - Display Approved is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:536 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:540 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:549 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:558 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:568 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:577 - //==================================== OverView Page Opeartion  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:581 - Click On AccountList Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:590 - Display AccountList OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:599 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:600 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:605 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:614 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:625 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:638 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:648 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:658 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:671 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:678 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:682 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:691 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:700 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:703 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:725 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:732 - ********************** Delete AutoTestObject Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:736 - Click On AutTestObject CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:745 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:755 - Click On Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:764 - Click Again Delete Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_AccountList_LeadManagement:773 - Display Deleted success message is Passed

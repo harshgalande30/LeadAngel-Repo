@@ -1,0 +1,315 @@
+Administration-2024-05-17 11:37:05:000961 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 11:37:05:000996 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 11:37:05:000996 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 11:37:05:000997 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 11:37:05:000997 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 11:37:06:000155 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 11:37:06:000312 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 11:37:06:000427 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 11:37:06:000523 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 11:37:06:000596 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-17 11:37:09:000224 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 11:37:11:000829 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 11:37:14:000445 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-17 11:37:14:000445 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-17 11:37:14:000445 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-17 11:37:17:000077 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 11:37:19:000694 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 11:39:37:000917 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 11:39:37:000949 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 11:39:37:000950 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 11:39:37:000950 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 11:39:37:000951 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 11:39:38:000105 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 11:39:38:000248 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 11:39:38:000365 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 11:39:38:000460 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 11:39:38:000533 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-17 11:39:41:000125 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 11:39:43:000743 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 11:39:46:000333 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-17 11:39:46:000334 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-17 11:39:46:000334 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-17 11:39:48:000964 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 11:39:51:000575 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 11:52:05:000666 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 11:52:05:000693 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 11:52:05:000693 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 11:52:05:000694 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 11:52:05:000694 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 11:52:05:000865 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 11:52:06:000017 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 11:52:06:000135 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 11:52:06:000235 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 11:52:06:000315 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-17 11:52:08:000930 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 11:52:11:000526 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 11:52:14:000146 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-17 11:52:14:000148 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-17 11:52:14:000148 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-17 11:52:16:000762 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 11:52:19:000364 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 11:52:47:000382 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 11:52:47:000418 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 11:52:47:000420 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 11:52:47:000420 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 11:52:47:000421 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 11:52:47:000625 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 11:52:47:000775 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 11:52:47:000893 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 11:52:47:000993 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 11:52:48:000039 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-17 11:52:50:000629 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 11:52:53:000230 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 11:52:55:000829 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-17 11:52:55:000830 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-17 11:52:55:000830 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-17 11:52:58:000458 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 11:53:01:000064 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 12:06:16:000663 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 12:06:16:000699 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 12:06:16:000699 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 12:06:16:000700 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 12:06:16:000700 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 12:06:16:000863 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 12:06:17:000020 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 12:06:17:000136 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 12:06:17:000241 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 12:06:17:000317 main INFO TC_Sanity_Availability_UserSettings:18 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-17 12:06:19:000959 main INFO TC_Sanity_Availability_UserSettings:22 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 12:06:22:000556 main INFO TC_Sanity_Availability_UserSettings:31 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 12:06:25:000185 main INFO TC_Sanity_Availability_UserSettings:40 - Clicked On Availability Feature is Passed
+Administration-2024-05-17 12:06:25:000186 main INFO TC_Sanity_Availability_UserSettings:47 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-17 12:06:25:000186 main INFO TC_Sanity_Availability_UserSettings:48 - -------Select Start Available Hours-------
+Administration-2024-05-17 12:06:27:000809 main INFO TC_Sanity_Availability_UserSettings:52 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 12:06:30:000409 main INFO TC_Sanity_Availability_UserSettings:61 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 12:06:33:000077 main INFO TC_Sanity_Availability_UserSettings:72 - Moved Element
+Administration-2024-05-17 12:10:13:000256 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 12:10:13:000281 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 12:10:13:000281 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 12:10:13:000282 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 12:10:13:000283 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 12:10:13:000444 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 12:10:13:000600 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 12:10:13:000723 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 12:10:13:000834 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 12:10:13:000910 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-17 12:10:16:000512 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 12:10:19:000120 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 12:10:21:000757 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-17 12:10:21:000758 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-17 12:10:21:000758 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-17 12:10:24:000389 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 12:10:27:000005 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 12:10:29:000618 main INFO TC_Sanity_Availability_UserSettings:67 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:10:29:000619 main INFO TC_Sanity_Availability_UserSettings:73 - -------Select End Available Hours-------
+Administration-2024-05-17 12:10:32:000221 main INFO TC_Sanity_Availability_UserSettings:77 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-17 12:10:34:000832 main INFO TC_Sanity_Availability_UserSettings:86 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-17 12:10:37:000444 main INFO TC_Sanity_Availability_UserSettings:95 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:10:37:000445 main INFO TC_Sanity_Availability_UserSettings:102 - ********************************** Vacation date Operation **********************************
+Administration-2024-05-17 12:10:40:000068 main INFO TC_Sanity_Availability_UserSettings:106 - Clicked on Vacation First Calendar Button is Passed
+Administration-2024-05-17 12:10:42:000685 main INFO TC_Sanity_Availability_UserSettings:115 - Selected vacation start date is Passed
+Administration-2024-05-17 12:10:45:000301 main INFO TC_Sanity_Availability_UserSettings:124 - Clicked on Vacation Second Calendar Button is Passed
+Administration-2024-05-17 12:10:47:000915 main INFO TC_Sanity_Availability_UserSettings:133 - Selected vacation End date is Passed
+Administration-2024-05-17 12:10:47:000916 main INFO TC_Sanity_Availability_UserSettings:140 - *************************************** Save Operation **************************************
+Administration-2024-05-17 12:10:50:000524 main INFO TC_Sanity_Availability_UserSettings:144 - Clicked On Save Button is Passed
+Administration-2024-05-17 12:10:53:000130 main INFO TC_Sanity_Availability_UserSettings:153 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-17 12:10:53:000130 main INFO TC_Sanity_Availability_UserSettings:161 - ========== Verifying when selecting start and End available hours are same,Error message Displayed Or Not =========
+Administration-2024-05-17 12:10:53:000130 main INFO TC_Sanity_Availability_UserSettings:162 - -------Select Start Available Hours-------
+Administration-2024-05-17 12:10:55:000773 main INFO TC_Sanity_Availability_UserSettings:166 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 12:10:58:000370 main INFO TC_Sanity_Availability_UserSettings:175 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 12:10:58:000371 main INFO TC_Sanity_Availability_UserSettings:181 - -------Select End Available Hours-------
+Administration-2024-05-17 12:15:36:000945 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 12:15:36:000968 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 12:15:36:000968 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 12:15:36:000969 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 12:15:36:000969 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 12:15:41:000079 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 12:15:41:000232 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 12:15:41:000363 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 12:15:41:000481 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 12:15:41:000572 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-17 12:15:44:000204 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 12:15:46:000846 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 12:15:49:000448 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-17 12:15:49:000449 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-17 12:15:49:000449 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-17 12:15:52:000088 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 12:15:54:000702 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 12:15:57:000308 main INFO TC_Sanity_Availability_UserSettings:67 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:15:57:000308 main INFO TC_Sanity_Availability_UserSettings:73 - -------Select End Available Hours-------
+Administration-2024-05-17 12:15:59:000917 main INFO TC_Sanity_Availability_UserSettings:77 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-17 12:16:02:000519 main INFO TC_Sanity_Availability_UserSettings:86 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-17 12:16:05:000125 main INFO TC_Sanity_Availability_UserSettings:95 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:16:05:000125 main INFO TC_Sanity_Availability_UserSettings:102 - ********************************** Vacation date Operation **********************************
+Administration-2024-05-17 12:16:07:000767 main INFO TC_Sanity_Availability_UserSettings:106 - Clear StartDate And EndDate is Passed
+Administration-2024-05-17 12:16:10:000395 main INFO TC_Sanity_Availability_UserSettings:115 - Clicked on Vacation First Calendar Button is Passed
+Administration-2024-05-17 12:16:12:000996 main INFO TC_Sanity_Availability_UserSettings:124 - Selected vacation start date is Passed
+Administration-2024-05-17 12:16:15:000606 main INFO TC_Sanity_Availability_UserSettings:133 - Clicked on Vacation Second Calendar Button is Passed
+Administration-2024-05-17 12:16:18:000215 main INFO TC_Sanity_Availability_UserSettings:142 - Selected vacation End date is Passed
+Administration-2024-05-17 12:16:18:000216 main INFO TC_Sanity_Availability_UserSettings:149 - *************************************** Save Operation **************************************
+Administration-2024-05-17 12:16:20:000824 main INFO TC_Sanity_Availability_UserSettings:153 - Clicked On Save Button is Passed
+Administration-2024-05-17 12:16:23:000385 main INFO TC_Sanity_Availability_UserSettings:162 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-17 12:16:23:000385 main INFO TC_Sanity_Availability_UserSettings:170 - ========== Verifying when selecting start and End available hours are same,Error message Displayed Or Not =========
+Administration-2024-05-17 12:16:23:000385 main INFO TC_Sanity_Availability_UserSettings:171 - -------Select Start Available Hours-------
+Administration-2024-05-17 12:16:26:000026 main INFO TC_Sanity_Availability_UserSettings:175 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 12:16:28:000631 main INFO TC_Sanity_Availability_UserSettings:184 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 12:16:31:000229 main INFO TC_Sanity_Availability_UserSettings:193 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:16:31:000229 main INFO TC_Sanity_Availability_UserSettings:199 - -------Select End Available Hours-------
+Administration-2024-05-17 12:16:33:000818 main INFO TC_Sanity_Availability_UserSettings:203 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-17 12:16:36:000424 main INFO TC_Sanity_Availability_UserSettings:212 - Selected Required Time(hours) from the second Clock Icon is Passed
+Administration-2024-05-17 12:16:39:000019 main INFO TC_Sanity_Availability_UserSettings:221 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:16:39:000019 main INFO TC_Sanity_Availability_UserSettings:227 - *************************************** Save Operation **************************************
+Administration-2024-05-17 12:16:41:000629 main INFO TC_Sanity_Availability_UserSettings:231 - Clicked On Save Button is Passed
+Administration-2024-05-17 12:16:44:000211 main INFO TC_Sanity_Availability_UserSettings:240 - Displayed 'Ending time should be greater' Error message is Passed
+Administration-2024-05-17 12:16:44:000211 main INFO TC_Sanity_Availability_UserSettings:248 - -------Select End Available Hours-------
+Administration-2024-05-17 12:16:46:000811 main INFO TC_Sanity_Availability_UserSettings:252 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-17 12:16:49:000430 main INFO TC_Sanity_Availability_UserSettings:261 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-17 12:16:52:000014 main INFO TC_Sanity_Availability_UserSettings:270 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:16:52:000247 main INFO TC_Sanity_Availability_UserSettings:278 - Clicked On Save Button is Passed
+Administration-2024-05-17 12:16:54:000803 main INFO TC_Sanity_Availability_UserSettings:287 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-17 12:18:07:000425 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 12:18:07:000448 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 12:18:07:000448 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 12:18:07:000450 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 12:18:07:000450 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 12:18:07:000660 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 12:18:07:000808 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 12:18:07:000920 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 12:18:08:000019 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 12:18:08:000090 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-17 12:18:10:000728 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 12:18:13:000316 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 12:18:15:000906 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-17 12:18:15:000906 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-17 12:18:15:000906 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-17 12:18:18:000532 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 12:18:21:000133 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 12:18:23:000751 main INFO TC_Sanity_Availability_UserSettings:67 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:18:23:000751 main INFO TC_Sanity_Availability_UserSettings:73 - -------Select End Available Hours-------
+Administration-2024-05-17 12:18:26:000354 main INFO TC_Sanity_Availability_UserSettings:77 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-17 12:18:28:000936 main INFO TC_Sanity_Availability_UserSettings:86 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-17 12:18:31:000531 main INFO TC_Sanity_Availability_UserSettings:95 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:18:31:000531 main INFO TC_Sanity_Availability_UserSettings:102 - ********************************** Vacation date Operation **********************************
+Administration-2024-05-17 12:18:34:000123 main INFO TC_Sanity_Availability_UserSettings:106 - Clear StartDate And EndDate is Passed
+Administration-2024-05-17 12:18:36:000748 main INFO TC_Sanity_Availability_UserSettings:115 - Clicked on Vacation First Calendar Button is Passed
+Administration-2024-05-17 12:18:39:000337 main INFO TC_Sanity_Availability_UserSettings:124 - Selected vacation start date is Passed
+Administration-2024-05-17 12:18:41:000943 main INFO TC_Sanity_Availability_UserSettings:133 - Clicked on Vacation Second Calendar Button is Passed
+Administration-2024-05-17 12:18:44:000543 main INFO TC_Sanity_Availability_UserSettings:142 - Selected vacation End date is Passed
+Administration-2024-05-17 12:18:44:000543 main INFO TC_Sanity_Availability_UserSettings:149 - *************************************** Save Operation **************************************
+Administration-2024-05-17 12:18:47:000142 main INFO TC_Sanity_Availability_UserSettings:153 - Clicked On Save Button is Passed
+Administration-2024-05-17 12:18:49:000708 main INFO TC_Sanity_Availability_UserSettings:162 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-17 12:18:49:000709 main INFO TC_Sanity_Availability_UserSettings:170 - ========== Verifying when selecting start and End available hours are same,Error message Displayed Or Not =========
+Administration-2024-05-17 12:18:49:000709 main INFO TC_Sanity_Availability_UserSettings:171 - -------Select Start Available Hours-------
+Administration-2024-05-17 12:18:52:000337 main INFO TC_Sanity_Availability_UserSettings:175 - Clicked On First Clock Icon is Passed
+Administration-2024-05-17 12:18:54:000949 main INFO TC_Sanity_Availability_UserSettings:184 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-17 12:18:57:000534 main INFO TC_Sanity_Availability_UserSettings:193 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:18:57:000534 main INFO TC_Sanity_Availability_UserSettings:199 - -------Select End Available Hours-------
+Administration-2024-05-17 12:19:00:000135 main INFO TC_Sanity_Availability_UserSettings:203 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-17 12:19:02:000722 main INFO TC_Sanity_Availability_UserSettings:212 - Selected Required Time(hours) from the second Clock Icon is Passed
+Administration-2024-05-17 12:19:05:000319 main INFO TC_Sanity_Availability_UserSettings:221 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:19:05:000319 main INFO TC_Sanity_Availability_UserSettings:227 - *************************************** Save Operation **************************************
+Administration-2024-05-17 12:19:07:000927 main INFO TC_Sanity_Availability_UserSettings:231 - Clicked On Save Button is Passed
+Administration-2024-05-17 12:19:10:000480 main INFO TC_Sanity_Availability_UserSettings:240 - Displayed 'Ending time should be greater' Error message is Passed
+Administration-2024-05-17 12:19:10:000480 main INFO TC_Sanity_Availability_UserSettings:248 - -------Select End Available Hours-------
+Administration-2024-05-17 12:19:13:000093 main INFO TC_Sanity_Availability_UserSettings:252 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-17 12:19:15:000708 main INFO TC_Sanity_Availability_UserSettings:261 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-17 12:19:18:000301 main INFO TC_Sanity_Availability_UserSettings:270 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-17 12:19:18:000527 main INFO TC_Sanity_Availability_UserSettings:278 - Clicked On Save Button is Passed
+Administration-2024-05-17 12:19:21:000119 main INFO TC_Sanity_Availability_UserSettings:287 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-17 13:13:44:000266 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 13:13:44:000313 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 13:13:44:000313 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 13:13:44:000314 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 13:13:44:000314 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 13:13:44:000470 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 13:13:44:000625 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 13:13:44:000742 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 13:13:44:000842 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 13:13:44:000901 main INFO TC_Sanity_FallbackAssignee_UserSettings:15 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-05-17 13:13:47:000487 main INFO TC_Sanity_FallbackAssignee_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 13:13:50:000084 main INFO TC_Sanity_FallbackAssignee_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 13:13:52:000694 main INFO TC_Sanity_FallbackAssignee_UserSettings:37 - Clicked On Fallback Assignee Feature is Passed
+Administration-2024-05-17 13:13:52:000694 main INFO TC_Sanity_FallbackAssignee_UserSettings:43 - ***************************** Clear Fallback Assignee list box Operation ********************************
+Administration-2024-05-17 13:13:55:000295 main INFO TC_Sanity_FallbackAssignee_UserSettings:47 - Clicked On Cancel Button is Passed
+Administration-2024-05-17 13:13:57:000846 main INFO TC_Sanity_FallbackAssignee_UserSettings:56 - Displayed Fallback Assignee ListBox Is Empty is Passed
+Administration-2024-05-17 13:13:57:000847 main INFO TC_Sanity_FallbackAssignee_UserSettings:63 - ********************** Selecting the Fallback Assignee list box Options Operation ************************
+Administration-2024-05-17 13:14:00:000461 main INFO TC_Sanity_FallbackAssignee_UserSettings:67 - Clicked On Fallback Assignee Dropdown is Passed
+Administration-2024-05-17 13:14:03:000067 main INFO TC_Sanity_FallbackAssignee_UserSettings:76 - Selected an option from the Fallback Assignee listbox is Passed
+Administration-2024-05-17 13:14:03:000067 main INFO TC_Sanity_FallbackAssignee_UserSettings:82 - ******************************************* Save Operation **********************************************
+Administration-2024-05-17 13:14:05:000681 main INFO TC_Sanity_FallbackAssignee_UserSettings:86 - Clicked On Save Button is Passed
+Administration-2024-05-17 13:14:08:000252 main INFO TC_Sanity_FallbackAssignee_UserSettings:95 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-17 13:14:22:000310 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 13:14:22:000342 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 13:14:22:000343 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 13:14:22:000343 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 13:14:22:000344 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 13:14:22:000513 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 13:14:22:000667 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 13:14:22:000785 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 13:14:22:000877 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 13:14:22:000939 main INFO TC_Sanity_FallbackAssignee_UserSettings:15 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-05-17 13:14:25:000536 main INFO TC_Sanity_FallbackAssignee_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 13:14:28:000150 main INFO TC_Sanity_FallbackAssignee_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 13:14:30:000791 main INFO TC_Sanity_FallbackAssignee_UserSettings:37 - Clicked On Fallback Assignee Feature is Passed
+Administration-2024-05-17 13:14:30:000792 main INFO TC_Sanity_FallbackAssignee_UserSettings:43 - ***************************** Clear Fallback Assignee list box Operation ********************************
+Administration-2024-05-17 13:14:33:000403 main INFO TC_Sanity_FallbackAssignee_UserSettings:47 - Clicked On Cancel Button is Passed
+Administration-2024-05-17 13:14:35:000974 main INFO TC_Sanity_FallbackAssignee_UserSettings:56 - Displayed Fallback Assignee ListBox Is Empty is Passed
+Administration-2024-05-17 13:14:35:000974 main INFO TC_Sanity_FallbackAssignee_UserSettings:63 - ********************** Selecting the Fallback Assignee list box Options Operation ************************
+Administration-2024-05-17 13:14:38:000596 main INFO TC_Sanity_FallbackAssignee_UserSettings:67 - Clicked On Fallback Assignee Dropdown is Passed
+Administration-2024-05-17 13:14:41:000200 main INFO TC_Sanity_FallbackAssignee_UserSettings:76 - Selected an option from the Fallback Assignee listbox is Passed
+Administration-2024-05-17 13:14:41:000200 main INFO TC_Sanity_FallbackAssignee_UserSettings:82 - ******************************************* Save Operation **********************************************
+Administration-2024-05-17 13:14:43:000796 main INFO TC_Sanity_FallbackAssignee_UserSettings:86 - Clicked On Save Button is Passed
+Administration-2024-05-17 13:14:46:000373 main INFO TC_Sanity_FallbackAssignee_UserSettings:95 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-17 14:51:47:000290 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 14:51:47:000363 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 14:51:47:000366 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 14:51:47:000367 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 14:51:47:000367 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 18:54:04:000552 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 18:54:04:000579 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 18:54:04:000580 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 18:54:04:000580 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 18:54:04:000580 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 18:54:04:000754 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 18:54:04:000902 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 18:54:05:000018 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 18:54:05:000125 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 18:54:05:000190 main INFO TC_Profile_UserSettings:23 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-05-17 18:54:07:000792 main INFO TC_Profile_UserSettings:27 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 18:54:10:000398 main INFO TC_Profile_UserSettings:36 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 18:54:13:000022 main INFO TC_Profile_UserSettings:45 - Clicked On Profile Feature is Passed
+Administration-2024-05-17 18:54:13:000023 main INFO TC_Profile_UserSettings:53 - ***************************************** Remove Profile Picture Operation *******************************************
+Administration-2024-05-17 18:54:15:000654 main INFO TC_Profile_UserSettings:57 - Clicked On Remove Button is Passed
+Administration-2024-05-17 18:54:18:000244 main INFO TC_Profile_UserSettings:66 - Clicked On Delete Button is Passed
+Administration-2024-05-17 18:54:19:000114 main INFO TC_Profile_UserSettings:75 - Displayed 'File Deleted Successfully' message is Passed
+Administration-2024-05-17 18:54:19:000114 main INFO TC_Profile_UserSettings:83 - ***************************************** Upload Profile Picture Operation *******************************************
+Administration-2024-05-17 18:57:39:000668 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 18:57:39:000699 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 18:57:39:000700 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 18:57:39:000702 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 18:57:39:000704 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 18:57:39:000869 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 18:57:40:000027 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 18:57:40:000153 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 18:57:40:000252 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 18:57:40:000316 main INFO TC_Profile_UserSettings:23 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-05-17 18:57:42:000948 main INFO TC_Profile_UserSettings:27 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 18:57:45:000548 main INFO TC_Profile_UserSettings:36 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 18:57:48:000165 main INFO TC_Profile_UserSettings:45 - Clicked On Profile Feature is Passed
+Administration-2024-05-17 18:57:48:000165 main INFO TC_Profile_UserSettings:53 - ***************************************** Remove Profile Picture Operation *******************************************
+Administration-2024-05-17 18:57:50:000782 main INFO TC_Profile_UserSettings:57 - Clicked On Remove Button is Passed
+Administration-2024-05-17 18:59:46:000842 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-17 18:59:46:000886 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-17 18:59:46:000886 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-17 18:59:46:000887 main INFO BaseClass:132 - 1002
+Administration-2024-05-17 18:59:46:000887 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-17 18:59:47:000043 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-17 18:59:47:000198 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-17 18:59:47:000318 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-17 18:59:47:000448 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-17 18:59:47:000497 main INFO TC_Profile_UserSettings:23 - ***************************************** Displayed HomePage *******************************************
+Administration-2024-05-17 18:59:50:000103 main INFO TC_Profile_UserSettings:27 - Clicked On User Settings Module is Passed
+Administration-2024-05-17 18:59:52:000715 main INFO TC_Profile_UserSettings:36 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-17 18:59:55:000339 main INFO TC_Profile_UserSettings:45 - Clicked On Profile Feature is Passed
+Administration-2024-05-17 18:59:55:000340 main INFO TC_Profile_UserSettings:52 - ***************************************** Upload Profile Picture Operation *******************************************

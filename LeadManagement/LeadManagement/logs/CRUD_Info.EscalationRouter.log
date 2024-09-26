@@ -1,0 +1,189 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:37 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:46 - Click on leadRouting is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:55 - Right Click On EscalationRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:64 - Click on New EscalationRouter is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:70 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:74 - Enter AutoTestName is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:83 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:92 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:102 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:106 - Click on Escalation Router DropDown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:115 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:124 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:133 - Click again Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:189 - RightClick On EscalationRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:198 - Click on New Escalation Router is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:207 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:216 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:225 - Click on Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:237 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:242 - Display Escalation Router Overview 
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:247 - Click on Escalation Router DropDown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:256 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:270 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:279 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:286 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:290 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:299 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:307 - ***************************************Assignment Block 1 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:311 - Drag And Drop AssignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:320 - Connect Decision Block To assignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:327 - ***************************************DecisionBlock2 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:331 - Drag And Drop DecisionBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:340 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:346 - ***************************************Assignment Block 2 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:350 - Drag And Drop AssignmentBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:359 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:366 - ***************************************Assignment Block 3 DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:370 - Drag And Drop AssignmentBlock3 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:379 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:386 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:389 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:393 - Click On Escalation Condition DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:402 - Select Escalation Condition Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:411 - Check Box For Escalation Condition Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:420 - Display Success For Escalation Condition is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:429 - Default Lead Owner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:438 - Select Default Lead Owner Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:447 - Check Box For Default Lead Owner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:456 - Display Success For Default LeadOwner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:465 - Data Value Update When Routed To Default Lead Owner AddButton is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:474 - Data Value Update When Routed To Default Lead Owner DropDown1 For EscalationCondition is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:483 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:492 - DataValueUpdate WhenRoutedToDefaultLeadOwner DropDown2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:501 - Select DataValueUpdate WhenRoutedToDefaultLeadOwner Option2 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:510 - CheckBox For DataValueUpdate WhenRoutedToDefaultLeadOwner For EscalationRouter is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:519 - Display Success For DataValueUpdate WhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:527 - Click On Description Edit is button
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:530 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:533 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:537 - Click On draftbox is Passed!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:544 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:548 - Click On draftbox is Passed!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:557 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:566 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:575 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:584 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:593 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:594 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:602 - ***************************************Decision block2 Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:606 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:615 - Select Decision Block List Element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:624 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:633 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:642 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:643 - Decision Block2 Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:651 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:655 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:664 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:673 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:682 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:691 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:701 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:710 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:711 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:719 - *********************************************Assignment block2 Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:723 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:732 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:741 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:750 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:759 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:769 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:778 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:779 - AssignmentBlock2 Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:787 - *********************************************Assignment block3 Operation****************************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:791 - Double Click On Assignment3 Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:800 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:809 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:818 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:827 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:836 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:845 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:846 - AssignmentBlock3 Border Color is Verified and Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:854 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:859 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:868 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:877 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:886 - Displayed Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:893 - //=================================================EDIT SCENARIO START=======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:898 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:907 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:914 - ***************************************Edit Decision block2 Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:918 - Double Click On DecisionBlock2 is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:927 - Select Edit DecisionBlock List Element is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:936 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:945 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:954 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:955 - Decision Block2 Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:963 - *********************************************EditAssignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:967 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:976 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:985 - Select SalesRep In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:994 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1003 - Select SalesRep Value In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1012 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1021 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1022 - AssignmentBlock1 Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1031 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1035 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1044 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1053 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1062 - Displayed Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1070 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1074 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1083 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1092 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1101 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1109 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1112 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1116 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1125 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1134 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1272 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1281 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1290 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1299 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1312 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1321 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1405 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1414 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1423 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1432 - Display cloned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1440 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1444 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1453 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1462 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1471 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1478 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1482 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1491 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1500 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1509 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1518 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1523 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1532 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1541 - Select Folder to move the Autotest object is Passed !!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1591 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1598 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1602 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1611 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1620 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1629 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1636 - //=============================== Activate and DeActivate Operation ===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1683 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1692 - Click On Active Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1701 - Displayed Activated Success Message is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1709 - ************************** DeActivate Operation **************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1713 - Right Click On Activated Object is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1722 - Click On DeActive Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1731 - Click Again DeActive Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_EscalationRouter:1740 - Displayed DeActivated Success Message is PASSED!!!

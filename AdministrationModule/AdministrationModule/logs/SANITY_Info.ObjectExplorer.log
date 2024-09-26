@@ -1,0 +1,28 @@
+Administration-2024-09-17 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-17 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-17 INFO BaseClass:131 - https://stage.leadangel.com/index.html#/
+Administration-2024-09-17 INFO BaseClass:132 - 1002
+Administration-2024-09-17 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-17 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-17 INFO BaseClass:137 - Entered Email
+Administration-2024-09-17 INFO BaseClass:139 - Entered Password
+Administration-2024-09-17 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:35 - *************** Fetching the CRMId from lead summary report *******************
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:39 - Click on Analytics module is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:48 - Clicked on Analytics Dropdown is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:57 - Click On Lead Summary Report is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:66 - Clicked on View Detail Report Button is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:81 - Click On Visibility Icon is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:93 - Fetch CRMId is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:102 - Click On Close Button for visibility popUp is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:111 - Click On ClearIcon for view details report popUp is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:118 - *************** Fetching the OwnerId from Contact Routing report *******************
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:123 - Click On Contact Routing Report is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:132 - Clicked on View Detail Report Button is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:139 - ********************* Default view operation ******************
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:143 - Click on Default View Dropdown is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:152 - Click on Add New View is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:163 - Enter view name is Passed!!!
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:172 - Select Hidden Column OwnerId Option is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:181 - Click On Save Button is Passed
+Administration-2024-09-17 INFO TC_Sanity_ObjectExplorer_Administration:190 - Displayed View Added Successuflly message is Passed

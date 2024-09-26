@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="19.894" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="jansi.mode" value="force"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="22.0.2+9"/>
+    <property name="sun.boot.library.path" value="C:\Users\AROSYS\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626\jre\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\AROSYS\Documents\Project Leadangel\Project Leadangel\LeadManagement\LeadManagement"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\AROSYS\Documents\Project Leadangel\Project Leadangel\LeadManagement\LeadManagement"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="22.0.2+9"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\AROSYS\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\Users\AROSYS\Documents\Project Leadangel\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf13637815754826769609.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="C:\Users\AROSYS\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/AROSYS/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626/jre/bin/server;C:/Users/AROSYS/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-17\bin;C:\Users\AROSYS\Downloads\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\AROSYS\AppData\Local\Microsoft\WindowsApps;;C:\Users\AROSYS\Desktop;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="66.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\AROSYS"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="22"/>
+    <property name="user.name" value="AROSYS"/>
+    <property name="java.class.path" value="C:\Users\AROSYS\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar"/>
+    <property name="java.vm.specification.version" value="22"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -Dstyle.color=always test"/>
+    <property name="java.home" value="C:\Users\AROSYS\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626\jre"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="22.0.2"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="maven.home" value="C:\Users\AROSYS\Documents\Project Leadangel\Project Leadangel\LeadManagement\LeadManagement\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Temurin-22.0.2+9"/>
+    <property name="m2e.build.project.data.socket.port" value="56989"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="LeadManagement" classname="com.leadAngel.testCases.TC_Sanity_SRandGroupMapping_LeadManagement" time="10.653">
+    <failure message="The following asserts failed:&#10;	expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: 
+The following asserts failed:
+	expected [true] but found [false]
+	at com.leadAngel.testCases.TC_Sanity_SRandGroupMapping_LeadManagement.LeadManagement(TC_Sanity_SRandGroupMapping_LeadManagement.java:54)
+</failure>
+    <system-out><![CDATA[I am in onStart method LA_chrome
+LeadManagement-2024-09-17 main INFO BaseClass:104 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-17 main INFO BaseClass:111 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-17 main INFO BaseClass:112 - https://stage.leadangel.com/index.html#/
+LeadManagement-2024-09-17 main INFO BaseClass:113 - 1667
+LeadManagement-2024-09-17 main INFO BaseClass:114 - ganesh@leadangel.com
+LeadManagement-2024-09-17 main INFO BaseClass:116 - Entered ClientID
+LeadManagement-2024-09-17 main INFO BaseClass:118 - Entered Email
+LeadManagement-2024-09-17 main INFO BaseClass:120 - Entered Password
+LeadManagement-2024-09-17 main INFO BaseClass:122 - Click on Submit
+I am in onTestStart method LeadManagement start
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:26 - Click on Lead Management is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:35 - Click On Sales Team Dropdown is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:44 - Click On SR and Group Mapping is Passed
+LeadManagement-2024-09-17 main INFO SRandAccountMapping_LeadManagement:52 - Displayed No Record Found
+I am in onTestFailure method LeadManagement failed
+Screenshot captured for test case:LeadManagement
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 128.0.6613.86 (3045ed680fdab64f784f3b366cfe74adbdf6ff01-refs/branch-heads/6613@{#1337}) on port 31232
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 31232.
+Sept 17, 2024 6:07:58 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 128
+Sept 17, 2024 6:07:58 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.9.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+</testsuite>

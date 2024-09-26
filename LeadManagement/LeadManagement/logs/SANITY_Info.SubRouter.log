@@ -1,0 +1,788 @@
+LeadManagement-2024-09-11 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-11 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-11 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-11 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-11 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-11 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-11 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-11 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-11 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:43 - Click on Lead Management is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:52 - Click on leadRouting dropdown is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:61 - Right click on SubRouter is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:70 - Click on New SubRouter is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:76 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:80 - Enter AutoTestObject name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:89 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:98 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:107 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:111 - Click on SubRouter DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:120 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:129 - Click On Delete Button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:138 - Click agian Delete Button is Passed!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:194 - Right Click on SubRouter is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:203 - Click on New SubRouter is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:212 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:221 - Enter Description is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:230 - Click on Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:241 - Refreshing The Page!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:246 - Displayed SubRouter Overview 
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:251 - Click on SubRouter DropDown is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:260 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:274 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:283 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:290 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:294 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:303 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:311 - *************************************** Action Block DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:315 - Drag And Drop ActionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:324 - Connect DecisionBlock(No) To Action Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:331 - ********************************************* Update Data Value DND ****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:335 - Drag And Drop Update Data Value is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:344 - Connect ActionBlock To UpdateDataValue Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:351 - *************************************** UpdateToCRM DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:355 - Drag And Drop UpdateToCRM is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:364 - Connect Update Data Value Block To Update To CRM Block is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:372 - *************************************** Assignment Block DND And Random Split DND ****************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:376 - Drag And Drop AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:385 - Drag And Drop RandomSplit is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:395 - Connect UpdateToCRM To RandomSplit is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:404 - Connect RandomSlitA To AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:413 - Connect RandomSlitB To ActionBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:422 - ConnectionRandomSlitC_To_UpdateDataValue is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:431 - Connect DecisionBlock(YES) To AssignmentBlock is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:438 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:442 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:451 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:460 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:469 - Click On AddButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:478 - Click On CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:487 - Enter CustomFilter is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:498 - Object Name Before Click NewTab Link: Test@18May24
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:502 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:518 - Object Name After Click NewTab Link: Test@18May24
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:522 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:536 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:546 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:555 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:556 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:564 - *********************************************ActionBlock Operation********************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:568 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:577 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:586 - Select On Call Webhook Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:595 - Select On Second ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:604 - Object Name Before Click NewTab Link: AutoTestObject
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:608 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:624 - Object Name After Click NewTab Link: AutoTestObject
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:628 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:642 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:652 - Click On Continue Processing radio button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:661 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:670 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:671 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:681 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:690 - Click On StopProcessing radio button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:700 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:709 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:710 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:720 - Double Click On Action Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:729 - Select On Wait Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:738 - Select the Second ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:747 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:751 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:767 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:771 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:785 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:795 - Click On Save Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:804 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:805 - Action Block Border Color is Verified and Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:814 - *********************************************Update Data Value Operation****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:818 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:827 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:836 - Click On AddField Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:848 - First ListBox Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:860 - Select Latitude is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:918 - Enter Number for Lattitude is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:927 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:936 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:937 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:947 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Email is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1127 - Select Account In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1138 - Select Lead In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1149 - Select Lead Owner In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:848 - First ListBox Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:871 - Select FirstName is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:958 - Enter Number For FirstName is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:967 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:976 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:977 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:987 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Email is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1127 - Select Account In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1138 - Select Lead In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1149 - Select Lead Owner In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:848 - First ListBox Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:882 - Select ConvertedDate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Set to (Text/Number/Date) is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:998 - Click On CreatedDate Calendar Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1007 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1016 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1025 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1026 - UpdateDataValue BorderColor is Verified and Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1036 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Lead ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Owner ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Converted is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account Type is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Account Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Lookup with Lead Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select ID is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Company Name is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1050 - Select Third ListBox dropdown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1063 - Select Email is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1073 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1082 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1083 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1093 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:894 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:906 - Select Use Formula to Update is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1127 - Select Account In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1138 - Select Lead In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1107 - Click On Insert Button Third ListBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1116 - Click On Select Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1149 - Select Lead Owner In Object DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1159 - Click On SelectField DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1168 - Click User Name In SelectField is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1177 - Click On Save Button for Incert Value Popup is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1186 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1195 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1196 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1206 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:848 - First ListBox Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1221 - Select 'Deleted' Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1230 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1239 - Select True For Deleted Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1248 - Select Second ListBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1257 - Select False For Deleted Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1266 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1275 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1276 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1286 - Double Click On UpdateDataValue Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1297 - Click on CollapseAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1306 - Click on ExpandAll is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1315 - Click On Save Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1324 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1325 - UpdateDataValue BorderColor is Verified and  Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1333 - ********************************************* Assignment block Operation ****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1337 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1346 - Enter Description is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1355 - Click Route To Latest Owner In The Custom Group CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1364 - Displayed Route To Latest Owner In The Custom Group CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1374 - Click AutoConvertLeadsIntoContact CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1383 - Displayed Auto Convert Leads Into Contact And or Accounts CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1393 - Click AutoConvertLeadsIntoContact DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1402 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1406 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1422 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1426 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1440 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1450 - Click TriggerProcessOrFlowBuilder CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1459 - Displayed Trigger Process Or Flow Builder CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1469 - Enter TextTriggerProcessOrFlowBuilder is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1478 - Click Send Notification Email CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1487 - Displayed Send Notification Email CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1497 - Click SendNotificationEmail DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1506 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1510 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1527 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1535 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1553 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1563 - Click Slack Notification CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1572 - Displayed Slack Notification CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1582 - Click Slack Notification Dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1591 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1595 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1612 - Click On Detail Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1620 - Object Name After Click NewTab Link: Lead: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1638 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1648 - Click Create Task For The New Owner CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1657 - Displayed Create Task For The New Owner CheckBox Is Checked!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1667 - Click CreateTaskForTheNewOwner DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1676 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1680 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1696 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1700 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1714 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1724 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign Based on a Lookup Field in the Parent Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1773 - Click Assign Based First DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1782 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1791 - Click Assign Based Second DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1800 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1809 - Click Prefer Historical Sales Person CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1818 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1832 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1843 - Email DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1852 - Click On Email Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1864 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1874 - Select SetToText For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1883 - Enter Text For SetToText Option ForAddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1892 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1901 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1902 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1912 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1864 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1923 - Select SetToAccountOwner For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1932 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1941 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1942 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1952 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1864 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1963 - Select SetToOpportunityOwner For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1972 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1981 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1982 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1992 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1864 - Click On Select Box For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2003 - Select Set ToOwner Mapped SDR's ID For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2012 - Click On Select Box2 For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2021 - Select Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2030 - Clicked On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2039 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2040 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2050 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1832 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2064 - Deleted DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2073 - Click On Deleted Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2082 - Click On Select Box for Deleted In AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2091 - Select True For Deleted Option UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2100 - Click On Select Box for Deleted In AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2109 - Select False For Deleted Option UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2118 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2127 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2128 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2138 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1832 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2150 - Latitude DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2159 - Click On Latitude Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2168 - Enter Number For Latitude UpdateDataValue is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2177 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2186 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2187 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2197 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign Based on Account ID Lookup Field in Lead Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1773 - Click Assign Based First DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1782 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1791 - Click Assign Based Second DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1800 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1809 - Click Prefer Historical Sales Person CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1818 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2217 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2226 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2235 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2245 - Object Name Before Click NewTab Link: AEtoSDR-1
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2249 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2265 - Object Name After Click NewTab Link: AEtoSDR-1
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2269 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2283 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2306 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Account Owners Manager is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2319 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2328 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2339 - Click On Cross Mark Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2348 - Click Add Data Update Button is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2357 - CreatedDate DropDown For AddDataUpdateButton is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2366 - Click On Created date Option For AddDataUpdate is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2375 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2384 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Opportunity Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2217 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2226 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2235 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2296 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2306 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Parent Accounts Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2402 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2465 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2475 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2485 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Queue is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2402 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2465 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2475 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2559 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2568 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2577 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2586 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2595 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2604 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2613 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Sales Rep Email Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2559 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2568 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2577 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2586 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2595 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2604 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2613 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Sales Rep ID Lookup on Lead is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2559 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2568 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2577 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2586 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2595 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2604 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2613 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Sales Rep ID Lookup on Matching Account is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2559 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2568 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2577 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2586 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2595 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2604 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2613 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2402 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2413 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2417 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2433 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2437 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2451 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2475 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2496 - Click CappingCondition CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2505 - Click CappingCondition DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2514 - Select CappingCondition Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2523 - Input for CappingCondition Box is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2533 - Click AssignToPeopleWithCurrentlyActiveWorkingHours CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2542 - Click IfNoOneIsAvailableHoldTheLead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2402 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2413 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2417 - Click On Open In New Tab Link is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2433 - Object Name After Click NewTab Link: AutoTestObject_Rename
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2437 - Open in New tab link is properly redirected is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2451 - Swicth back to parent window is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2475 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Do Not Assign is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2626 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Route Based on the Lookup on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2559 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2568 - Slect Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2577 - Click Prefer Historical Sales Person To Account Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2586 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2595 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2604 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2613 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Route Leads Based on Custom Object Lookup is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2638 - Click on main second Select DropDown is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2647 - Select main second Select Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2656 - Select Sub Select Box DropDown For LookUp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2692 - Select Assign to Account Owner is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2703 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2765 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2774 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2775 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2670 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2679 - Select Sub Select Box DropDown For LookUp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2692 - Select Assign to Sales Rep is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2715 - Select Sub AssignToSalesRep Option dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2724 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2733 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2765 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2774 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2775 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2670 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2679 - Select Sub Select Box DropDown For LookUp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2692 - Select Assign to Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2746 - Select Sub AssignToSalesRep Option dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2755 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2765 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2774 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2775 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2670 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2679 - Select Sub Select Box DropDown For LookUp Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2692 - Select Assign to Weighted Sales Team is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2746 - Select Sub AssignToSalesRep Option dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2755 - Select Assign To AE mapped SDR instead Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2765 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2774 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2775 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1739 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1748 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:1761 - Select Route to the Owner on Master Record is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2217 - Click Prefer Historical Sales Person ToA ccount Affinity While Assigning CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2226 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2235 - Click AEtoSDR DropDown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2296 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2306 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2788 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2797 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2798 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2807 - *********************************************UpdateToCRM Operation********************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2811 - Double Click On UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2820 - Click On Description Of UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2829 - Click On SaveBtton Of UpdateToCRM Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2838 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2839 - UpdateToCRM Block Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2848 - *********************************************RandomSplit Operation****************************************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2852 - Double Click On RandomSplit Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2861 - Click On Description Of Random Split Block is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2870 - Write Value Inside PercentageAllocation For A is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2879 - Write Value Inside PercentageAllocation For B is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2888 - Write Value Inside PercentageAllocation For C is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2897 - Click On Save Button For RandomSplit is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2906 - true
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2907 - Display Random Split Border Colour is Verified and Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2920 - Click On Maximize Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2929 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2938 - Move Blocks In Console is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2947 - Click On Manimize Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2955 - //========================================ENTERING DETAILS PAGE======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2958 - Entering Details Page!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2962 - Click on DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2971 - Select DefaultLeadOwner option is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2980 - Check Box For DefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2989 - Display  Success For DefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:2998 - DataValueUpdateWhenRoutedToDefaultLeadOwnerAddButton is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3009 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3020 - Click On LeadID option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3031 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3041 - Select SetToText For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3050 - Enter Text For SetToText Option For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3059 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3068 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3031 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3079 - Select SetToAccountOwner For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3088 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3097 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3031 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3108 - Select SetToOpportunityOwner For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3117 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3126 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3031 - Click On LeadID Second List Box DropDown Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3137 - Select Set ToOwner Mapped SDR's ID For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3146 - Click On Select Box3 For Data value update in Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3155 - Select SendNotificationEmail Option is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3164 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3173 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3009 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3187 - Click On Deleted option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3196 - Click On SecondListBox DropDown Deleted Option DetailsPage is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3205 - Select True For Deleted Option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3214 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3223 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3232 - Click On SecondListBox DropDown Deleted Option DetailsPage is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3241 - Select False For Deleted Option Details page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3250 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3259 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3009 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3271 - Click On Latitude Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3280 - Enter Number For Latitude Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3289 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3298 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3009 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3310 - Click On ConvertedDate Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3319 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3328 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3337 - Click On Refresh Button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3346 - Displayed Previuos Selected Option is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3356 - DataValueUpdateWhenRoutedToDefaultLeadOwnerDropDown1 is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3365 - Click On ConvertedDate Option Details Page is Passed !!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3374 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3383 - Click On Date is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3392 - CheckBox For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3401 - Display Success For DataValueUpdateWhenRoutedToDefaultLeadOwner is Passed!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3412 - Click On Description Edit button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3415 - Input on Details TextArea is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3418 - Click On Description Save button is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3422 - Click On Copy Button is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3431 - Displayed Copied Success Message is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3439 - //==================================== OverView Page Opeartion Before approve  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3443 - Click On Sub Router Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3452 - Display SubRouter OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3462 - ***************** Column Header Check Box Operation ******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3463 - Displayed Column Header Checkbox Is Not Disabled 
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3468 - Click On ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3477 - Displayed ColumnHeader CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3488 - Displayed AutTestObject CheckBox Is Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3501 - Displayed Delete Button is Enabled is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3511 - Uncheck the ColumnHeader CheckBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3521 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3534 - Displayed Delete Button is Disable is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3541 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3545 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3554 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3563 - Displayed AutoTestObject CheckBox
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3566 - Displayed AutoTestObject Is Not Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3588 - Clear Test From The FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3661 - ==================================== Approve ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3665 - Click on SubRouter DropDown is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3674 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3683 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3686 - Click Again Approve button is passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3690 - Display Approved button is PASSED!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3697 - //========================================Delete Craft scenario=======================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3701 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3710 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3719 - Click On DeleteCraft buton is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3729 - Dispalying Verified Sign is PASSED!!!
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3738 - //==================================== OverView Page Opeartion After approved  ==================================
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3742 - Click On Sub Router Feature is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3751 - Display SubRouter OverView Page is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3760 - *****************Verifying Column Header Check Is Disabled******************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3772 - ********************** Filter Operation *************************
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3777 - Enter Text In FilterBox is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3786 - Displayed AutoTestObject is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3807 - Displayed AutoTestObject Is Used is Passed
+LeadManagement-2024-09-11 main INFO TC_Sanity_SubRouter_LeadManagement:3818 - Clear Test From The FilterBox is Passed

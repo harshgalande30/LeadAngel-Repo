@@ -1,0 +1,187 @@
+OpportunityManagement-2024-09-12 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+OpportunityManagement-2024-09-12 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+OpportunityManagement-2024-09-12 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+OpportunityManagement-2024-09-12 main INFO BaseClass:133 - 1667
+OpportunityManagement-2024-09-12 main INFO BaseClass:134 - ganesh@leadangel.com
+OpportunityManagement-2024-09-12 main INFO BaseClass:136 - Entered ClientID
+OpportunityManagement-2024-09-12 main INFO BaseClass:138 - Entered Email
+OpportunityManagement-2024-09-12 main INFO BaseClass:140 - Entered Password
+OpportunityManagement-2024-09-12 main INFO BaseClass:142 - Click on Submit
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:46 - Click on OpportunityManagement is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:55 - Click on Data Dictionary is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:64 - Right Click on CRMOpportunityFilter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:73 - Click on New CRM Opportunity Filter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:80 - //===============================CREATE OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:84 - Enter AutoTestObject Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:93 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:102 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:112 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:116 - Click on CRMOpportunityFilter DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:125 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:134 - Click On Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:143 - Click Again Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:199 - Right Click on CRMOpportunityFilter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:208 - Click on New CRMOpportunityFilter is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:217 - Enter AutoTestObject Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:226 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:235 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:248 - Refreshing The Page!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:253 - Display CRMOpportunityFilter Overview Page
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:257 - Click on CRMOpportunityFilter DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:266 - Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:279 - Click on Opportunity Attribute is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:286 - //================================== OpportunityId_DND====================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:290 - Drag and Drop OpportunityId is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:301 - Click on OpportunityId Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:310 - Enter OpportunityID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:317 - //================================== Deleted_DND====================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:321 - Drag and Drop Deleted is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:332 - select Deleted Option1 is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:343 - select Deleted Option2 is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:350 - //=========================================APPROVE SCENARIO START======================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:354 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:363 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:372 - Click again Approve button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:381 - Display Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:389 - //======================================ENTERING DETAILS PAGE======================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:392 - Enter Details Page is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:395 - Click On Description Edit button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:398 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:401 - Click On Description Save button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:405 - Display 'No Record Found' is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:413 - //*********************************************** Make Use of this Object In LeadRouter(LeadManagement) *******************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:417 - RightClick On OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:426 - Click on New OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:433 - //===============================CREATE OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:437 - Enter AutoTestObject name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:446 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:455 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:464 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:468 - Click on OpportunityRouter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:477 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:486 - Click On Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:495 - Click Again Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:551 - RightClick On OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:560 - Click on New OpportunityRouter is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:569 - Enter AutoTestObject Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:578 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:587 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:600 - Refreshing The Page!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:605 - Display OpportunityRouter Overview Page
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:610 - Click on OpportunityRouter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:619 - Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:633 - Click On DNDdiagram DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:643 - Minimize the Panner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:650 - *************************************** Decision Block DND ****************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:654 - Drag And Drop Decision block is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:663 - Connect StartBlock To DecisionBlock is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:669 - ***************************************Assignment Block DND****************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:673 - Drag And Drop AssignmentBlock1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:682 - Connect Decision Block To assignmentBlock1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:688 - ***************************************Decision block Operation***************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:692 - Double Click On DecisionBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:701 - Select AutoTestObject is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:710 - Click On AddButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:719 - Click On Save Button For DecisionBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:728 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:729 - Decision Block Border Color is Verified and Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:736 - *********************************************Assignment block1 Operation********************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:740 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:749 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:758 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:767 - Click On DropDown2 AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:776 - Select SalesRepValue In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:785 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:794 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:795 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:802 - //==============================  ENTERING DETAILS PAGE ==============================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:806 - Enter Details Page is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:815 - Default Opportunity Owner DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:824 - Select Default Opportunity Owner Option is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:833 - CheckBox For Default Opportunity Owner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:842 - Display Success For Default Opportunity Owner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:849 - //===============================================APPROVE SCENARIO START========================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:853 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:862 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:871 - Click again Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:880 - Displayed Approved Button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:886 - ======================================= Go back To CRM OpportunityFilter Object ==================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:890 - Click on Data Dictionary is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:899 - Click on CRMOpportunityFilter DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:908 - Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:914 - ===================== Used By Operation in Details Page =====================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:918 - ClickOn Detail button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:927 - Click On UsedBy Dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:938 - Fetch used by router name is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:944 - ********************** Verifying whether Used object can delete or not *********************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:948 - Click On Approved Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:957 - Click On Delete button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:966 - Click Again Delete Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:975 - Get Text From Error Message is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:984 - Displayed 'Cannot delete,It is Used' Error message is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:992 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:996 - Click On details button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1008 - Get Menu Title From Left tree Menu is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1017 - Click Used By Router Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1027 - Get Menu Title From Left tree Menu is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1036 - Opportunity Management
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1037 - Opportunity Management
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1038 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1050 - Get Object Name From Details tab : AutoTestObject
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1059 - AutoTest Object Name matched with the name from Details tab is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1067 - //=========================================== Go Back to Main Object ===================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1069 - //=======================================EDIT SCENARIO START=========================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1072 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1081 - Click on Edit Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1090 - Change AccounttId Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1099 - Enter AccountID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1108 - Select Deleted Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1116 - ===========================================Approve After Edit===================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1119 - Click on Approve Button After EDIT is passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1122 - Click Again Approve button is passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1126 - Display Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1133 - //======================================RENAME SCENARIO START=============================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1137 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1146 - Click on Rename Object is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1155 - Input on Rename AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1164 - Click Rename Button is  PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1172 - Duplicate Object Found, Deleting Object NOW
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1175 - Display RenameAutoTest Object
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1179 - Right Click On RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1188 - Click On Delete Button in AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1197 - Click On Delete Button in AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1207 - Displayed 'Cannot Delete' Error Message
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1211 - Right Click On RenameAutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1220 - Click on Rename Object is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1231 - Enter Rename is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1240 - Click Rename Button is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1335 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1344 - Click On Rename AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1353 - Input on Rename AutoTestObject is passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1362 - Click on Rename Button AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1375 - Renamed AutoTest Object is Displayed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1384 - //===================================CLONE SCENARIO START================================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1468 - Right Click On RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1477 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1486 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1495 - Display cloned RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1503 - //===============================Approve Cloned Object========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1507 - Right Click On ClonedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1516 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1525 - Click again Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1534 - Displayed approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1541 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1545 - Right Click On ClonedAutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1554 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1563 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1572 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1580 - //===============================MOVE OBJECT SCENARIO START========================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1585 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1594 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1603 - Select Folder to move the Autotest object is Passed !!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1653 - Click On Move Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1660 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1664 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1673 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1682 - Select Main Folder is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_CRMopportunityFilter_OpportunityManagement:1691 - Click On Move Button is Passed!!!

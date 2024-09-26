@@ -1,0 +1,76 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:31 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:40 - Click on DataDictionaryIndex is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:49 - Click on ContactBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:56 - **************************************** ContactAttributes Operation *******************************************
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:59 - Alert Message is Not Displayed,So continue the ContactAttributes Opeartion
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:62 - Clear all the options which is already presented from the SelectedAttributeFieldList
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:75 - Click On Remove Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:84 - Displayed NoRecordFound In SelectedAttributeFieldList,So continue the Operation
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:93 - ----------- Selecting the options From Attribute field list -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:97 - Select Boolean Option From Attribute field list is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:106 - Select String Option From Attribute field list is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:115 - Select Number Option From Attribute field list is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:124 - Select Date Option From Attribute field list is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:133 - Click On AddButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:140 - ----------- Verifying the selected options are displayed or not in SelectedAttributeFieldList -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:144 - Displayed selected Boolean Option in SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:154 - Displayed selected String Option in SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:164 - Displayed selected Number Option in SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:174 - Displayed selected Date Option in SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:182 - ----------- Move back the Selected Boolean option from SelectedAttributeFieldList to AttributeFieldList -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:187 - Deselect Boolean Option from SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:196 - Click On Remove Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:205 - Deselected Boolean Option from SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:213 - ----------- Search Operation for Attribute field list in ContactAttributes  -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:218 - Get Text from the option Before search is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:227 - Enter Text in Attribute field list search box is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:237 - Get Text from the option After Search is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:246 - Search field functionality is working is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:255 - Click On Close Icon From AttributeFieldList SearchBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:263 - ----------- Save the ContactAttributes Operation -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:267 - Click On Save Button For ContactAttributes is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:276 - Click On Confirm Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:285 - Displayed Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:295 - Displayed Alert Message after save the ContactAttributes operation is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:308 - **************************************** Contact Activity Attributes Operation*******************************************
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:312 - Click On Dropdown for Contact Activity Attributes is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:322 - Alert Message is Not Displayed,So continue the ContactActivityAttributes Opeartion
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:355 - ----------- Selecting the options From Attribute field list -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:359 - Select Boolean Option From Attribute field list is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:368 - Select String Option From Attribute field list is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:377 - Select Number Option From Attribute field list is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:386 - Select Date Option From Attribute field list is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:395 - Click On AddButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:401 - ----------- Verifying the selected options are displayed or not in SelectedAttributeFieldList -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:405 - Displayed selected Boolean Option in SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:415 - Displayed selected String Option in SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:425 - Displayed selected Number Option in SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:435 - Displayed selected Date Option in SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:443 - ----------- Move backthe Selected Boolean option from SelectedAttributeFieldList to AttributeFieldList -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:448 - Deselect Boolean Option from SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:457 - Click On Remove Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:466 - Deselected Boolean Option from SelectedAttributeFieldList is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:474 - ----------- Search Operation for Selected Attribute field list in ContactAttributes  -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:479 - Get Text from the option Before search is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:488 - Enter Text in Attribute field list search box is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:498 - Get Text from the option After Search is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:507 - Search field functionality is working is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:516 - Click On Close Icon From SelectedAttributeFieldList SearchBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:524 - ----------- Save the Contact Activity Attributes Operation -----------
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:528 - Click On Save Button For Contact Activity Attributes is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:537 - Click On Confirm Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:546 - Displayed Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:556 - Displayed Alert Message after save the ContactActivityAttributes operation is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:569 - //*********************************************** Detail Tab *******************************************
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:573 - Click On Detail Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:587 - Not showing 'Undefined' for Last Updated On
+Administration-2024-09-14 INFO TC_Sanity_Contact_DataDictionaryIndex_Administration:598 - Not showing 'Undefined' for Last Updated By

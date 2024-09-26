@@ -1,0 +1,1 @@
+{"uuid":"0cdca3cc-683a-49a7-b74b-331b86e0efbf","name":"com.leadAngel.testCases.TestClass","children":["cca7ef3e-b110-4ed9-981a-c3cd52034531"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720816463569,"stop":1720816465372}],"afters":[],"start":1720816463539,"stop":1720816480187}

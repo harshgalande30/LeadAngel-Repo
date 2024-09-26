@@ -1,0 +1,108 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:48 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:57 - Click On WebToLead Dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:64 - //===============================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:68 - Context Click On Forms is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:77 - Click On NewOForms is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:86 - Enter AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:95 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:105 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:109 - Click On Forms Dropdown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:118 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:127 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:136 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:192 - Context Click On Forms is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:201 - Click On NewForms is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:210 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:219 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:231 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:236 - Display FormsOverView Page is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:241 - Click On Forms DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:250 - Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:263 - ===========================================SetUp Page Operation===========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:268 - Click On SetUp Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:277 - Click On LeadRouter DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:287 - Object Name Before Click NewTab Link: Test-WL
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:291 - Click On Open In New Tab Link is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:307 - Object Name After Click NewTab Link: Test-WL
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:311 - Open in New tab link is properly redirected is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:325 - Swicth back to parent window is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:336 - Enter Default Calender URL is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:345 - Enter ThankYouPage URL is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:354 - Click On Radio button For AlwaysRedirectToThankYouPage is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:364 - Click On Radio button For UseTheCalendarLinkOnCRMUsersProfileIfAvailable is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:373 - Click On DropDown For SelectCRmField is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:382 - Click On Option For SelectCRmField is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:391 - Click On CheckBox For AcceptAllDomains is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:418 - Displayed UploadToCRM Checkbox Is Checked
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:428 - Click On Save Button For SetUpPage is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:437 - Dislayed Success Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:443 - ===========================================Web To Lead Form Operation===========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:447 - Click On WebToLeadForm is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:456 - Click on SelectFieldName Option1 is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:465 - Click on SelectFieldName Option2 is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:474 - Click on SelectFieldName Option3 is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:483 - Click On Arrow Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:492 - Click On CheckBox IncludeAvailableDate is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:501 - Displayed IncludeAvailableDate/Time Checkbox Is Checked
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:511 - Click On CheckBox AssignmentRollback is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:520 - Select RollbackTime is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:526 - ********************* Re-Captcha operation *********************
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:530 - Click On CheckBox IncludeReCaptcha is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:539 - Click On DropDown ReCaptcha is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:548 - Select Reacaptcha Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:558 - Click On AddMoreReccaptchaKeyName Link is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:569 - Enter Key Name is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:578 - Enter SiteKey is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:587 - Enter SecurityKey is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:596 - Click On Addbutton is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:605 - Displayed NewRecaptchaIncertedSuccessfully Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:615 - Click On Generate Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:624 - Click On Copy Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:633 - Dislay CodeCopied Successfully Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:642 - Click On Close Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:648 - ===========================================DetailsPage Operation===========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:652 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:661 - Click On Edit Button For Description is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:670 - Edit Description is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:679 - Click On Save Button For Description is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:688 - Click On Copy Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:697 - Displayed 'Id copied to clipboard' message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:712 - Not showing 'Undefined' for Last Updated
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:723 - Not showing 'Undefined' for Last Updated By
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:728 - ====================================================Crud operation==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:729 - ====================================================Rename Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:733 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:742 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:751 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:760 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:888 - //===================================CLONE SCENARIO START================================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:972 - Right Click On RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:981 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:990 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:999 - Display cloned RenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1007 - //===============================Approve Cloned Object========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1011 - Click On Save Button For SetUpPage is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1020 - Dislayed SuccessMessage is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1029 - Click On WebToLeadForm is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1038 - Click On Generate Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1047 - Click On Copy Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1056 - Dislay CodeCopied Successfully Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1065 - Click On Close Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1072 - ********************************DELETE CLONED OBJECT SCENARIO*********************************
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1076 - Click On Delete Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1085 - Click again Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1094 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1102 - ============================================DELETE OBJECT SCENARIO START====================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1106 - Right Click On RenamedAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1115 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1124 - Click again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Forms:1133 - Display Deleted Successfully message is PASSED!!!

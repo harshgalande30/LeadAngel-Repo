@@ -1,0 +1,100 @@
+Administration-2024-05-22 18:20:44:000508 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-22 18:20:44:000545 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-22 18:20:44:000545 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-22 18:20:44:000545 main INFO BaseClass:132 - 1002
+Administration-2024-05-22 18:20:44:000545 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-22 18:20:44:000738 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-22 18:20:44:000971 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-22 18:20:45:000183 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-22 18:20:45:000357 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-22 18:20:45:000522 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-22 18:20:48:000239 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-22 18:20:50:000874 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-22 18:20:53:000577 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-22 18:20:53:000581 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-22 18:20:53:000586 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-22 18:20:56:000299 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-22 18:20:58:000974 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-22 18:21:01:000630 main INFO TC_Sanity_Availability_UserSettings:67 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:21:01:000630 main INFO TC_Sanity_Availability_UserSettings:73 - -------Select End Available Hours-------
+Administration-2024-05-22 18:21:04:000291 main INFO TC_Sanity_Availability_UserSettings:77 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-22 18:21:06:000956 main INFO TC_Sanity_Availability_UserSettings:86 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-22 18:21:09:000596 main INFO TC_Sanity_Availability_UserSettings:95 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:21:09:000596 main INFO TC_Sanity_Availability_UserSettings:102 - ********************************** Vacation date Operation **********************************
+Administration-2024-05-22 18:21:12:000268 main INFO TC_Sanity_Availability_UserSettings:106 - Clear StartDate And EndDate is Passed
+Administration-2024-05-22 18:21:14:000947 main INFO TC_Sanity_Availability_UserSettings:115 - Clicked on Vacation First Calendar Button is Passed
+Administration-2024-05-22 18:21:17:000603 main INFO TC_Sanity_Availability_UserSettings:124 - Selected vacation start date is Passed
+Administration-2024-05-22 18:21:20:000257 main INFO TC_Sanity_Availability_UserSettings:133 - Clicked on Vacation Second Calendar Button is Passed
+Administration-2024-05-22 18:21:22:000983 main INFO TC_Sanity_Availability_UserSettings:143 - Selected vacation End date is Passed
+Administration-2024-05-22 18:21:22:000983 main INFO TC_Sanity_Availability_UserSettings:162 - *************************************** Save Operation **************************************
+Administration-2024-05-22 18:21:25:000653 main INFO TC_Sanity_Availability_UserSettings:166 - Clicked On Save Button is Passed
+Administration-2024-05-22 18:21:28:000233 main INFO TC_Sanity_Availability_UserSettings:175 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-22 18:21:28:000233 main INFO TC_Sanity_Availability_UserSettings:183 - ========== Verifying when selecting start and End available hours are same,Error message Displayed Or Not =========
+Administration-2024-05-22 18:21:28:000243 main INFO TC_Sanity_Availability_UserSettings:184 - -------Select Start Available Hours-------
+Administration-2024-05-22 18:21:30:000899 main INFO TC_Sanity_Availability_UserSettings:188 - Clicked On First Clock Icon is Passed
+Administration-2024-05-22 18:21:33:000557 main INFO TC_Sanity_Availability_UserSettings:197 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-22 18:21:36:000196 main INFO TC_Sanity_Availability_UserSettings:206 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:21:36:000197 main INFO TC_Sanity_Availability_UserSettings:212 - -------Select End Available Hours-------
+Administration-2024-05-22 18:21:38:000846 main INFO TC_Sanity_Availability_UserSettings:216 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-22 18:21:41:000506 main INFO TC_Sanity_Availability_UserSettings:225 - Selected Required Time(hours) from the second Clock Icon is Passed
+Administration-2024-05-22 18:21:44:000135 main INFO TC_Sanity_Availability_UserSettings:234 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:21:44:000136 main INFO TC_Sanity_Availability_UserSettings:240 - *************************************** Save Operation **************************************
+Administration-2024-05-22 18:21:46:000799 main INFO TC_Sanity_Availability_UserSettings:244 - Clicked On Save Button is Passed
+Administration-2024-05-22 18:21:49:000419 main INFO TC_Sanity_Availability_UserSettings:253 - Displayed 'Ending time should be greater' Error message is Passed
+Administration-2024-05-22 18:21:49:000424 main INFO TC_Sanity_Availability_UserSettings:261 - -------Select End Available Hours-------
+Administration-2024-05-22 18:21:52:000068 main INFO TC_Sanity_Availability_UserSettings:265 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-22 18:21:54:000718 main INFO TC_Sanity_Availability_UserSettings:274 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-22 18:21:57:000344 main INFO TC_Sanity_Availability_UserSettings:283 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:21:57:000612 main INFO TC_Sanity_Availability_UserSettings:291 - Clicked On Save Button is Passed
+Administration-2024-05-22 18:22:00:000201 main INFO TC_Sanity_Availability_UserSettings:300 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-22 18:26:56:000153 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-05-22 18:26:56:000223 main INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-05-22 18:26:56:000223 main INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-05-22 18:26:56:000223 main INFO BaseClass:132 - 1002
+Administration-2024-05-22 18:26:56:000223 main INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-05-22 18:26:56:000554 main INFO BaseClass:135 - Entered ClientID
+Administration-2024-05-22 18:26:56:000868 main INFO BaseClass:137 - Entered Email
+Administration-2024-05-22 18:26:57:000057 main INFO BaseClass:139 - Entered Password
+Administration-2024-05-22 18:26:57:000161 main INFO BaseClass:141 - Click on Submit
+Administration-2024-05-22 18:26:57:000438 main INFO TC_Sanity_Availability_UserSettings:15 - ************************************ Displayed HomePage *************************************
+Administration-2024-05-22 18:27:00:000096 main INFO TC_Sanity_Availability_UserSettings:19 - Clicked On User Settings Module is Passed
+Administration-2024-05-22 18:27:02:000727 main INFO TC_Sanity_Availability_UserSettings:28 - Clicked On Preference Dropdown is Passed
+Administration-2024-05-22 18:27:05:000363 main INFO TC_Sanity_Availability_UserSettings:37 - Clicked On Availability Feature is Passed
+Administration-2024-05-22 18:27:05:000363 main INFO TC_Sanity_Availability_UserSettings:44 - ********************************* Available Hours Operation *********************************
+Administration-2024-05-22 18:27:05:000363 main INFO TC_Sanity_Availability_UserSettings:45 - -------Select Start Available Hours-------
+Administration-2024-05-22 18:27:08:000051 main INFO TC_Sanity_Availability_UserSettings:49 - Clicked On First Clock Icon is Passed
+Administration-2024-05-22 18:27:10:000753 main INFO TC_Sanity_Availability_UserSettings:58 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-22 18:27:13:000425 main INFO TC_Sanity_Availability_UserSettings:67 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:27:13:000425 main INFO TC_Sanity_Availability_UserSettings:73 - -------Select End Available Hours-------
+Administration-2024-05-22 18:27:16:000087 main INFO TC_Sanity_Availability_UserSettings:77 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-22 18:27:18:000747 main INFO TC_Sanity_Availability_UserSettings:86 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-22 18:27:21:000376 main INFO TC_Sanity_Availability_UserSettings:95 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:27:21:000376 main INFO TC_Sanity_Availability_UserSettings:102 - ********************************** Vacation date Operation **********************************
+Administration-2024-05-22 18:27:24:000033 main INFO TC_Sanity_Availability_UserSettings:106 - Clear StartDate And EndDate is Passed
+Administration-2024-05-22 18:27:26:000717 main INFO TC_Sanity_Availability_UserSettings:115 - Clicked on Vacation First Calendar Button is Passed
+Administration-2024-05-22 18:27:29:000386 main INFO TC_Sanity_Availability_UserSettings:124 - Selected vacation start date is Passed
+Administration-2024-05-22 18:27:32:000057 main INFO TC_Sanity_Availability_UserSettings:133 - Clicked on Vacation Second Calendar Button is Passed
+Administration-2024-05-22 18:27:34:000781 main INFO TC_Sanity_Availability_UserSettings:143 - Selected vacation End date is Passed
+Administration-2024-05-22 18:27:34:000781 main INFO TC_Sanity_Availability_UserSettings:162 - *************************************** Save Operation **************************************
+Administration-2024-05-22 18:27:37:000424 main INFO TC_Sanity_Availability_UserSettings:166 - Clicked On Save Button is Passed
+Administration-2024-05-22 18:27:40:000031 main INFO TC_Sanity_Availability_UserSettings:175 - Displayed 'Saved Successfully' message is Passed
+Administration-2024-05-22 18:27:40:000031 main INFO TC_Sanity_Availability_UserSettings:183 - ========== Verifying when selecting start and End available hours are same,Error message Displayed Or Not =========
+Administration-2024-05-22 18:27:40:000031 main INFO TC_Sanity_Availability_UserSettings:184 - -------Select Start Available Hours-------
+Administration-2024-05-22 18:27:42:000706 main INFO TC_Sanity_Availability_UserSettings:188 - Clicked On First Clock Icon is Passed
+Administration-2024-05-22 18:27:45:000355 main INFO TC_Sanity_Availability_UserSettings:197 - Selected Required Time(hours) from the First Clock Icon is Passed
+Administration-2024-05-22 18:27:48:000005 main INFO TC_Sanity_Availability_UserSettings:206 - Selected 'AM' mode is Passed
+Administration-2024-05-22 18:27:50:000651 main INFO TC_Sanity_Availability_UserSettings:216 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:27:50:000651 main INFO TC_Sanity_Availability_UserSettings:222 - -------Select End Available Hours-------
+Administration-2024-05-22 18:27:53:000306 main INFO TC_Sanity_Availability_UserSettings:226 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-22 18:27:55:000977 main INFO TC_Sanity_Availability_UserSettings:235 - Selected Required Time(hours) from the second Clock Icon is Passed
+Administration-2024-05-22 18:27:58:000639 main INFO TC_Sanity_Availability_UserSettings:244 - Selected 'AM' mode is Passed
+Administration-2024-05-22 18:28:01:000276 main INFO TC_Sanity_Availability_UserSettings:253 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:28:01:000276 main INFO TC_Sanity_Availability_UserSettings:259 - *************************************** Save Operation **************************************
+Administration-2024-05-22 18:28:03:000942 main INFO TC_Sanity_Availability_UserSettings:263 - Clicked On Save Button is Passed
+Administration-2024-05-22 18:28:06:000561 main INFO TC_Sanity_Availability_UserSettings:272 - Displayed 'Ending time should be greater' Error message is Passed
+Administration-2024-05-22 18:28:06:000561 main INFO TC_Sanity_Availability_UserSettings:280 - -------Select End Available Hours-------
+Administration-2024-05-22 18:28:09:000201 main INFO TC_Sanity_Availability_UserSettings:284 - Clicked On Second Clock Icon is Passed
+Administration-2024-05-22 18:28:11:000858 main INFO TC_Sanity_Availability_UserSettings:293 - Selected Required Time(hours) from the Second Clock Icon is Passed
+Administration-2024-05-22 18:28:14:000491 main INFO TC_Sanity_Availability_UserSettings:302 - Clicked on 'OK' button for First Clock is Passed
+Administration-2024-05-22 18:28:14:000727 main INFO TC_Sanity_Availability_UserSettings:310 - Clicked On Save Button is Passed
+Administration-2024-05-22 18:28:17:000306 main INFO TC_Sanity_Availability_UserSettings:319 - Displayed 'Saved Successfully' message is Passed

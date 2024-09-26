@@ -1,0 +1,171 @@
+LeadManagement-2024-09-10 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:45 - Click on Lead Management is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:54 - Click on Lead Routing is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:63 - Right Click On CappingLevelingCondition is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:72 - Click on New CappingLevelingCondition is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:81 - Enter AutoTestObject Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:90 - Enter Description is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:98 - Click on Save Button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:238 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:269 - Click on Lead attribute is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:276 - //===================================== DRAG&DROP FIRST NAME ATTRIBUTE===============================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:280 - Drag And Drop Fisrt Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:291 - Click on First Name DoesNotContains is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:300 - Input on First Name DoesNotContains is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:307 - //===================================== DRAG&DROP ANNUAL REVENUE  ATTRIBUTE============================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:311 - Drag and Drop AnnualRevenue is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:322 - Click on AnnualRevenue IsGreaterThan is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:331 - Input on AnnualRevenue IsGreaterThan is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:339 - //=========================================APPROVE SCENARIO START======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:343 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:352 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:361 - Click again Approve button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:370 - Displayed Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:377 - //=======================================ENTERING DETAILS PAGE========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:381 - Click on Details Page is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:389 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:392 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:395 - Click On Description Save button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:399 - Display 'No Record Found' is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:407 - //*********************************************** Make Use of this Object In LeadRouter(LeadManagement) *******************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:411 - Right click on leadRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:420 - Click on New Lead Router is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:427 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:431 - Enter Object name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:440 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:449 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:458 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:462 - Click on Lead Router Dropdown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:471 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:479 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:488 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:546 - Right Click on LeadRouter is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:555 - Click on New Lead Router is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:564 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:573 - Enter Description is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:582 - Click on Save Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:595 - Refreshing The Page!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:600 - Displayed LeadRouter Overview page
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:605 - Click on Lead Router Dropdown is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:614 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:628 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:638 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:645 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:649 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:658 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:664 - ***************************************Assignment Block DND****************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:668 - Drag And Drop AssignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:677 - Connect Decision Block To assignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:683 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:687 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:696 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:705 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:714 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:723 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:724 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:731 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:735 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:744 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:753 - Select WeightedSalesTeam In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:762 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:771 - Select Option from the dropdown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:780 - Click CappingCondition CheckBox is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:789 - Click CappingCondition DropDown is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:798 - Select AutoTestObject is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:807 - Input for CappingCondition Box is Passed !!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:817 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:826 - true
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:827 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:835 - //==============================  ENTERING DETAILS PAGE ==============================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:839 - Enter Details Page is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:848 - Click On DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:857 - Select Option is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:866 - Click On ClickOnCheckBox is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:875 - Display Success is Passed!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:882 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:886 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:895 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:904 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:913 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:920 - ======================================= Go back To Main Object ==================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:924 - Click On Capping_levelling DropDown is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:933 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:939 - ===================== Used By Operation in Details Page =====================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:943 - Click On Detail button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:952 - Click On UsedBy Dropdown is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:963 - Fetch used by router name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:969 - ********************** Verifying whether Used object can delete or not *********************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:973 - Click On Approved Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:982 - Click On Delete button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:991 - Click Again Delete Button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1000 - Get Text From Error Message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1009 - Displayed 'Cannot delete,It is Used' Error message is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1017 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1021 - Click On details button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1033 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1042 - Click Used By Router Name is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1052 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1061 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1062 - Lead Management
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1063 - Left menu title is same before and after clicking UsedBy object name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1075 - Get Object Name From Details tab : AutoTestObject
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1084 - AutoTest Object Name matched with the name from Details tab is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1092 - ======================================= Go back To Main Object ==================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1094 - //========================================EDIT SCENARIO START======================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1098 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1107 - Click On Edit AutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1118 - Click on First Name IN is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1127 - Click on FirstName In Add button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1131 - Click on FirstName Intro is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1139 - Click on Save button in FirstName In PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1146 - ===========================================Approve After Edit===================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1149 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1152 - Click Again Approve button is passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1156 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1164 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1168 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1177 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1186 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1195 - Click Rename Button is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1406 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1415 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1499 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1508 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1517 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1526 - Display cloned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1534 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1538 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1547 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1556 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1565 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1572 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1576 - Right Click On ClonedAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1585 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1594 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1603 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1611 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1616 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1625 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1636 - Folder Not Found!! Craeting New Folder.
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1639 - Click On Cancel button is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1642 - Right Click On CappingLevelingCondition is PASSED!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1645 - Click on New CappingLevelingCondition is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1648 - Enter Folder Name is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1651 - Click On Save is Passed
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1655 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1664 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1673 - Select Folder to move the Autotest object is passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1684 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1691 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1696 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1705 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1714 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 main INFO TC_CrudOperation_CappingLevelingCondtion:1723 - Click On Move Button is Passed!!!

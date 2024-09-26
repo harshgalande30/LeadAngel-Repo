@@ -1,0 +1,198 @@
+LeadManagement-2024-09-10 12:29:26 main INFO BaseClass:118 - ======================================= INFORMATION ======================================
+LeadManagement-2024-09-10 12:29:26 main INFO BaseClass:125 - Login Scenario Started for ADMIN-USER
+LeadManagement-2024-09-10 12:29:26 main INFO BaseClass:126 - https://app.leadangel.com/index.html#/
+LeadManagement-2024-09-10 12:29:26 main INFO BaseClass:127 - 1667
+LeadManagement-2024-09-10 12:29:26 main INFO BaseClass:128 - ganesh@leadangel.com
+LeadManagement-2024-09-10 12:29:26 main INFO BaseClass:130 - Entered ClientID
+LeadManagement-2024-09-10 12:29:26 main INFO BaseClass:132 - Entered Email
+LeadManagement-2024-09-10 12:29:26 main INFO BaseClass:134 - Entered Password
+LeadManagement-2024-09-10 12:29:27 main INFO BaseClass:136 - Click on Submit
+LeadManagement-2024-09-10 12:29:31 main INFO TC_CrudOperation_RRT:43 - Click on Lead Management is Passed
+LeadManagement-2024-09-10 12:29:34 main INFO TC_CrudOperation_RRT:52 - Click on Sales Team is Passed
+LeadManagement-2024-09-10 12:29:38 main INFO TC_CrudOperation_RRT:61 - Right Click on RoundRobinTeam is Passed
+LeadManagement-2024-09-10 12:29:41 main INFO TC_CrudOperation_RRT:70 - Click on New RoundRobinTeam is Passed
+LeadManagement-2024-09-10 12:29:41 main INFO TC_CrudOperation_RRT:77 - ===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 12:29:44 main INFO TC_CrudOperation_RRT:81 - Enter ObjectName is PASSED!!
+LeadManagement-2024-09-10 12:29:47 main INFO TC_CrudOperation_RRT:90 - Enter Description is Passed
+LeadManagement-2024-09-10 12:29:50 main INFO TC_CrudOperation_RRT:99 - Click on Save Button is passed
+LeadManagement-2024-09-10 12:29:51 main INFO TC_CrudOperation_RRT:106 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 12:29:55 main INFO TC_CrudOperation_RRT:110 - Click On RoundRobinTeam DropDown is PASSED!!
+LeadManagement-2024-09-10 12:29:59 main INFO TC_CrudOperation_RRT:118 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:30:02 main INFO TC_CrudOperation_RRT:127 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 12:30:05 main INFO TC_CrudOperation_RRT:136 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-10 12:30:06 main INFO TC_CrudOperation_RRT:146 - Displayed 'Cannot Delete' Error Message
+LeadManagement-2024-09-10 12:30:11 main INFO TC_CrudOperation_RRT:150 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:30:13 main INFO TC_CrudOperation_RRT:159 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 12:30:16 main INFO TC_CrudOperation_RRT:170 - Enter Rename is Passed!!!
+LeadManagement-2024-09-10 12:30:19 main INFO TC_CrudOperation_RRT:179 - Click Rename Button is PASSED!!!
+LeadManagement-2024-09-10 12:30:25 main INFO TC_CrudOperation_RRT:192 - Right Click on RoundRobinTeam is Passed
+LeadManagement-2024-09-10 12:30:29 main INFO TC_CrudOperation_RRT:201 - Click on New RoundRobinTeam is PASSED!!
+LeadManagement-2024-09-10 12:30:34 main INFO TC_CrudOperation_RRT:210 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 12:30:38 main INFO TC_CrudOperation_RRT:219 - Enter Data in Description is Passed
+LeadManagement-2024-09-10 12:30:40 main INFO TC_CrudOperation_RRT:228 - Click on Save Button is Passed
+LeadManagement-2024-09-10 12:30:42 main INFO TC_CrudOperation_RRT:240 - Refreshing The Page!!
+LeadManagement-2024-09-10 12:30:51 main INFO TC_CrudOperation_RRT:245 - Display RoundRobinTeam Overview is passed
+LeadManagement-2024-09-10 12:30:55 main INFO TC_CrudOperation_RRT:249 - Click On RoundRobinTeam DropDown is PASSED!!
+LeadManagement-2024-09-10 12:30:59 main INFO TC_CrudOperation_RRT:258 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:31:06 main INFO TC_CrudOperation_RRT:271 - Click on SalesRep Attribute is Passed
+LeadManagement-2024-09-10 12:31:06 main INFO TC_CrudOperation_RRT:278 - //===================================== DRAG&DROP ABOUTME ATTRIBUTE=====================================//
+LeadManagement-2024-09-10 12:31:13 main INFO TC_CrudOperation_RRT:282 - DragAndDrop AboutMe is Passed
+LeadManagement-2024-09-10 12:31:20 main INFO TC_CrudOperation_RRT:293 - Click on About Me Contains is PASSED!!
+LeadManagement-2024-09-10 12:31:23 main INFO TC_CrudOperation_RRT:303 - Input on AboutMe Contains is PASSED!!
+LeadManagement-2024-09-10 12:31:23 main INFO TC_CrudOperation_RRT:310 - //======================================== DRAG&DROP CREATED DATE ATTRIBUTE==================================//
+LeadManagement-2024-09-10 12:31:27 main INFO TC_CrudOperation_RRT:314 - Drag and Drap Created Date is PASSED!!
+LeadManagement-2024-09-10 12:31:30 main INFO TC_CrudOperation_RRT:323 - Click On Created Date Before is PASSED!!
+LeadManagement-2024-09-10 12:31:33 main INFO TC_CrudOperation_RRT:332 - Click On Calendar CreatedDate Button is PASSED!!
+LeadManagement-2024-09-10 12:31:36 main INFO TC_CrudOperation_RRT:341 - Click On Date is Passed
+LeadManagement-2024-09-10 12:31:36 main INFO TC_CrudOperation_RRT:348 - //=====================================ENTERING DETAILS PAGE============================================
+LeadManagement-2024-09-10 12:31:40 main INFO TC_CrudOperation_RRT:352 - Entering Details Page is Passed!!!
+LeadManagement-2024-09-10 12:31:42 main INFO TC_CrudOperation_RRT:361 - Click On QueOwner In DetailsPage DropDown is Passed
+LeadManagement-2024-09-10 12:31:45 main INFO TC_CrudOperation_RRT:370 - Select On QueOwner In DetailsPage Option is Passed
+LeadManagement-2024-09-10 12:31:48 main INFO TC_CrudOperation_RRT:379 - Clock On Save Button For QueOwner In DetailsPage is Passed
+LeadManagement-2024-09-10 12:31:49 main INFO TC_CrudOperation_RRT:388 - Dislay Success Message is Passed
+LeadManagement-2024-09-10 12:31:51 main INFO TC_CrudOperation_RRT:397 - Click On Description Edit button is Passed
+LeadManagement-2024-09-10 12:31:54 main INFO TC_CrudOperation_RRT:406 - Input on Details TextArea passed
+LeadManagement-2024-09-10 12:31:56 main INFO TC_CrudOperation_RRT:415 - Click On Description Save button is passed
+LeadManagement-2024-09-10 12:31:56 main INFO TC_CrudOperation_RRT:423 - //===================================APPROVE SCENARIO START=================================//
+LeadManagement-2024-09-10 12:32:00 main INFO TC_CrudOperation_RRT:427 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:32:03 main INFO TC_CrudOperation_RRT:436 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 12:32:06 main INFO TC_CrudOperation_RRT:445 - Click Again Approve button is PASSED!!
+LeadManagement-2024-09-10 12:32:10 main INFO TC_CrudOperation_RRT:454 - Display Approved Button is PASSED!
+LeadManagement-2024-09-10 12:32:14 main INFO TC_CrudOperation_RRT:463 - Entering Details Page is Passed!!!
+LeadManagement-2024-09-10 12:32:16 main INFO TC_CrudOperation_RRT:472 - Display 'No Record Found' is PASSED!!!
+LeadManagement-2024-09-10 12:32:16 main INFO TC_CrudOperation_RRT:481 - //*********************************************** Make Use of this Object In LeadRouter(LeadManagement) *******************************************
+LeadManagement-2024-09-10 12:32:20 main INFO TC_CrudOperation_RRT:485 - Click on leadRouting is PASSED!!
+LeadManagement-2024-09-10 12:32:25 main INFO TC_CrudOperation_RRT:494 - Right click on leadRouter is PASSED!!
+LeadManagement-2024-09-10 12:32:28 main INFO TC_CrudOperation_RRT:503 - Click on New Lead Router is Passed
+LeadManagement-2024-09-10 12:32:28 main INFO TC_CrudOperation_RRT:510 - //===============================CREATE OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 12:32:31 main INFO TC_CrudOperation_RRT:514 - Enter Object name is PASSED!!
+LeadManagement-2024-09-10 12:32:33 main INFO TC_CrudOperation_RRT:523 - Enter data in Description is Passed
+LeadManagement-2024-09-10 12:32:36 main INFO TC_CrudOperation_RRT:532 - Click on Save Button is Passed
+LeadManagement-2024-09-10 12:32:37 main INFO TC_CrudOperation_RRT:541 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+LeadManagement-2024-09-10 12:32:40 main INFO TC_CrudOperation_RRT:545 - Click on LeadRouter DropDown is passed
+LeadManagement-2024-09-10 12:32:44 main INFO TC_CrudOperation_RRT:554 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:32:47 main INFO TC_CrudOperation_RRT:563 - Click On Delete button is Passed!!!
+LeadManagement-2024-09-10 12:32:50 main INFO TC_CrudOperation_RRT:572 - Click Again Delete button is Passed!!!
+LeadManagement-2024-09-10 12:33:08 main INFO TC_CrudOperation_RRT:629 - Right Click on LeadRouter is PASSED!!
+LeadManagement-2024-09-10 12:33:12 main INFO TC_CrudOperation_RRT:638 - Click on New Lead Router is PASSED!!
+LeadManagement-2024-09-10 12:33:17 main INFO TC_CrudOperation_RRT:647 - Enter Object Name is PASSED!!
+LeadManagement-2024-09-10 12:33:20 main INFO TC_CrudOperation_RRT:656 - Enter Description is Passed
+LeadManagement-2024-09-10 12:33:23 main INFO TC_CrudOperation_RRT:665 - Click on Save Button is Passed
+LeadManagement-2024-09-10 12:33:27 main INFO TC_CrudOperation_RRT:678 - Refreshing The Page!!
+LeadManagement-2024-09-10 12:33:35 main INFO TC_CrudOperation_RRT:683 - Displayed LeadRouter Overview page
+LeadManagement-2024-09-10 12:33:38 main INFO TC_CrudOperation_RRT:688 - Click on Lead Router Dropdown is passed
+LeadManagement-2024-09-10 12:33:41 main INFO TC_CrudOperation_RRT:697 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:33:45 main INFO TC_CrudOperation_RRT:711 - Click On DNDdiagram DropDown is Passed!!
+LeadManagement-2024-09-10 12:33:48 main INFO TC_CrudOperation_RRT:721 - Minimize the Panner is Passed!!
+LeadManagement-2024-09-10 12:33:48 main INFO TC_CrudOperation_RRT:728 - *************************************** Decision Block DND ****************************************
+LeadManagement-2024-09-10 12:33:56 main INFO TC_CrudOperation_RRT:732 - Drag And Drop Decision block is Passed!!
+LeadManagement-2024-09-10 12:34:01 main INFO TC_CrudOperation_RRT:741 - Connect StartBlock To DecisionBlock is Passed!!
+LeadManagement-2024-09-10 12:34:01 main INFO TC_CrudOperation_RRT:747 - ***************************************Assignment Block DND****************************************
+LeadManagement-2024-09-10 12:34:09 main INFO TC_CrudOperation_RRT:751 - Drag And Drop AssignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 12:34:14 main INFO TC_CrudOperation_RRT:760 - Connect Decision Block To assignmentBlock1 is Passed!!
+LeadManagement-2024-09-10 12:34:14 main INFO TC_CrudOperation_RRT:766 - ***************************************Decision block Operation***************************************
+LeadManagement-2024-09-10 12:34:18 main INFO TC_CrudOperation_RRT:770 - Double Click On DecisionBlock is Passed !!
+LeadManagement-2024-09-10 12:34:21 main INFO TC_CrudOperation_RRT:779 - Click On Data dictionary option is Passed !!
+LeadManagement-2024-09-10 12:34:24 main INFO TC_CrudOperation_RRT:788 - Click On AddButton is Passed !!
+LeadManagement-2024-09-10 12:34:26 main INFO TC_CrudOperation_RRT:797 - Click On Save Button For DecisionBlock is Passed !!
+LeadManagement-2024-09-10 12:34:29 main INFO TC_CrudOperation_RRT:806 - true
+LeadManagement-2024-09-10 12:34:29 main INFO TC_CrudOperation_RRT:807 - Decision Block Border Color is Verified and Passed
+LeadManagement-2024-09-10 12:34:29 main INFO TC_CrudOperation_RRT:814 - *********************************************Assignment block1 Operation********************************************
+LeadManagement-2024-09-10 12:34:32 main INFO TC_CrudOperation_RRT:818 - Double Click On Assignment Block is Passed !!
+LeadManagement-2024-09-10 12:34:36 main INFO TC_CrudOperation_RRT:827 - Click On DropDown AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 12:34:39 main INFO TC_CrudOperation_RRT:836 - Select SalesTeam In AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 12:34:43 main INFO TC_CrudOperation_RRT:845 - Click On DropDown2 AssignmentBlock is Passed !!
+LeadManagement-2024-09-10 12:34:47 main INFO TC_CrudOperation_RRT:854 - Select AutoTestObject is Passed !!
+LeadManagement-2024-09-10 12:34:49 main INFO TC_CrudOperation_RRT:863 - Click On Save Button For AssignmentBlock is Passed
+LeadManagement-2024-09-10 12:34:52 main INFO TC_CrudOperation_RRT:872 - true
+LeadManagement-2024-09-10 12:34:52 main INFO TC_CrudOperation_RRT:873 - AssignmentBlock Border Colour is Verified and Passed!!
+LeadManagement-2024-09-10 12:34:52 main INFO TC_CrudOperation_RRT:880 - //==============================  ENTERING DETAILS PAGE ==============================
+LeadManagement-2024-09-10 12:34:56 main INFO TC_CrudOperation_RRT:884 - Entering Details Page is Passed!!!
+LeadManagement-2024-09-10 12:34:58 main INFO TC_CrudOperation_RRT:893 - Click On DefaultLeadOwner DropDown is Passed!!
+LeadManagement-2024-09-10 12:35:01 main INFO TC_CrudOperation_RRT:902 - Select Option is Passed!!
+LeadManagement-2024-09-10 12:35:03 main INFO TC_CrudOperation_RRT:911 - Click On ClickOnCheckBox is Passed!!
+LeadManagement-2024-09-10 12:35:05 main INFO TC_CrudOperation_RRT:920 - DisplaySuccess is Passed!!
+LeadManagement-2024-09-10 12:35:05 main INFO TC_CrudOperation_RRT:927 - //===============================================APPROVE SCENARIO START========================================//
+LeadManagement-2024-09-10 12:35:11 main INFO TC_CrudOperation_RRT:931 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:35:14 main INFO TC_CrudOperation_RRT:940 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 12:35:17 main INFO TC_CrudOperation_RRT:949 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 12:35:22 main INFO TC_CrudOperation_RRT:958 - Displayed Approved is PASSED!
+LeadManagement-2024-09-10 12:35:22 main INFO TC_CrudOperation_RRT:965 - ======================================= Go back To RRT Object ==================================
+LeadManagement-2024-09-10 12:35:25 main INFO TC_CrudOperation_RRT:969 - Click on Sales Team is Passed
+LeadManagement-2024-09-10 12:35:28 main INFO TC_CrudOperation_RRT:978 - Click On RoundRobinTeam DropDown is PASSED!!
+LeadManagement-2024-09-10 12:35:31 main INFO TC_CrudOperation_RRT:987 - Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:35:31 main INFO TC_CrudOperation_RRT:993 - ===================== Used By Operation in Details Page =====================
+LeadManagement-2024-09-10 12:35:35 main INFO TC_CrudOperation_RRT:998 - Click On Detail button is PASSED!
+LeadManagement-2024-09-10 12:35:38 main INFO TC_CrudOperation_RRT:1008 - Click On UsedBy Dropdown is Passed
+LeadManagement-2024-09-10 12:35:41 main INFO TC_CrudOperation_RRT:1019 - Fetch used by router name is Passed
+LeadManagement-2024-09-10 12:35:41 main INFO TC_CrudOperation_RRT:1025 - ********************** Verifying whether Used object can delete or not *********************
+LeadManagement-2024-09-10 12:35:43 main INFO TC_CrudOperation_RRT:1029 - Click On Approved Button is Passed
+LeadManagement-2024-09-10 12:35:46 main INFO TC_CrudOperation_RRT:1038 - Click On Delete button is Passed
+LeadManagement-2024-09-10 12:35:49 main INFO TC_CrudOperation_RRT:1047 - Click Again Delete Button	is Passed
+LeadManagement-2024-09-10 12:35:51 main INFO TC_CrudOperation_RRT:1056 - Get Text From Error Message is Passed
+LeadManagement-2024-09-10 12:35:54 main INFO TC_CrudOperation_RRT:1065 - Displayed 'Cannot delete,It is Used' Error message is Passed
+LeadManagement-2024-09-10 12:35:54 main INFO TC_CrudOperation_RRT:1073 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+LeadManagement-2024-09-10 12:35:58 main INFO TC_CrudOperation_RRT:1077 - Click On details button is PASSED!!
+LeadManagement-2024-09-10 12:36:03 main INFO TC_CrudOperation_RRT:1089 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 12:36:05 main INFO TC_CrudOperation_RRT:1098 - Click Used By Router Name is PASSED!!
+LeadManagement-2024-09-10 12:36:08 main INFO TC_CrudOperation_RRT:1108 - Get Menu Title From Left tree Menu is Passed
+LeadManagement-2024-09-10 12:36:10 main INFO TC_CrudOperation_RRT:1117 - Lead Management
+LeadManagement-2024-09-10 12:36:10 main INFO TC_CrudOperation_RRT:1118 - Lead Management
+LeadManagement-2024-09-10 12:36:10 main INFO TC_CrudOperation_RRT:1119 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+LeadManagement-2024-09-10 12:36:17 main INFO TC_CrudOperation_RRT:1131 - Get Object Name From Details tab : AutoTestObject
+LeadManagement-2024-09-10 12:36:19 main INFO TC_CrudOperation_RRT:1140 - AutoTest Object Name matched with the name from Details tab is Passed
+LeadManagement-2024-09-10 12:36:19 main INFO TC_CrudOperation_RRT:1148 - //=========================================== Go Back to Main Object ===================================
+LeadManagement-2024-09-10 12:36:19 main INFO TC_CrudOperation_RRT:1150 - //========================= EDIT SCENARIO START ===================//
+LeadManagement-2024-09-10 12:36:24 main INFO TC_CrudOperation_RRT:1154 - RightClick On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:36:27 main INFO TC_CrudOperation_RRT:1163 - Click on Edit Button is PASSED!!
+LeadManagement-2024-09-10 12:36:32 main INFO TC_CrudOperation_RRT:1174 - Click on AboutMe Starts With is PASSED!!
+LeadManagement-2024-09-10 12:36:35 main INFO TC_CrudOperation_RRT:1183 - Input on AboutMe Starts With is PASSED!!
+LeadManagement-2024-09-10 12:36:35 main INFO TC_CrudOperation_RRT:1191 - ===========================================Approve After Edit===================================
+LeadManagement-2024-09-10 12:36:37 main INFO TC_CrudOperation_RRT:1194 - Click on Approve Button After EDIT is passed
+LeadManagement-2024-09-10 12:36:40 main INFO TC_CrudOperation_RRT:1197 - Click Again Approve button is passed
+LeadManagement-2024-09-10 12:36:44 main INFO TC_CrudOperation_RRT:1201 - Display Approved button is PASSED!
+LeadManagement-2024-09-10 12:36:44 main INFO TC_CrudOperation_RRT:1208 - //======================================RENAME SCENARIO START=============================================//
+LeadManagement-2024-09-10 12:36:49 main INFO TC_CrudOperation_RRT:1212 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:36:52 main INFO TC_CrudOperation_RRT:1221 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 12:36:55 main INFO TC_CrudOperation_RRT:1230 - Input on Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:36:57 main INFO TC_CrudOperation_RRT:1239 - Click Rename Button is  PASSED!!!
+LeadManagement-2024-09-10 12:36:58 main INFO TC_CrudOperation_RRT:1247 - Duplicate Object Found, Deleting Object NOW
+LeadManagement-2024-09-10 12:37:02 main INFO TC_CrudOperation_RRT:1250 - Display RenameAutoTest Object
+LeadManagement-2024-09-10 12:37:07 main INFO TC_CrudOperation_RRT:1254 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 12:37:09 main INFO TC_CrudOperation_RRT:1263 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:37:12 main INFO TC_CrudOperation_RRT:1272 - Click On Delete Button in AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:37:14 main INFO TC_CrudOperation_RRT:1282 - Displayed 'Cannot Delete' Error Message
+LeadManagement-2024-09-10 12:37:19 main INFO TC_CrudOperation_RRT:1286 - Right Click On RenameAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:37:22 main INFO TC_CrudOperation_RRT:1295 - Click on Rename Object is PASSED!!
+LeadManagement-2024-09-10 12:37:24 main INFO TC_CrudOperation_RRT:1306 - Enter Rename is Passed!!!
+LeadManagement-2024-09-10 12:37:27 main INFO TC_CrudOperation_RRT:1315 - Click Rename Button is PASSED!!!
+LeadManagement-2024-09-10 12:37:38 main INFO TC_CrudOperation_RRT:1410 - Right Click On AutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:37:44 main INFO TC_CrudOperation_RRT:1419 - Click On Rename AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:37:50 main INFO TC_CrudOperation_RRT:1428 - Input on Rename AutoTestObject is passed!!!
+LeadManagement-2024-09-10 12:37:55 main INFO TC_CrudOperation_RRT:1437 - Click on Rename Button AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:38:00 main INFO TC_CrudOperation_RRT:1450 - Renamed AutoTest Object is Displayed
+LeadManagement-2024-09-10 12:38:00 main INFO TC_CrudOperation_RRT:1459 - //===================================CLONE SCENARIO START================================================//
+LeadManagement-2024-09-10 12:38:20 main INFO TC_CrudOperation_RRT:1543 - Right Click On RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 12:38:24 main INFO TC_CrudOperation_RRT:1552 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 12:38:28 main INFO TC_CrudOperation_RRT:1561 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 12:38:33 main INFO TC_CrudOperation_RRT:1570 - Display clocned RenamedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 12:38:33 main INFO TC_CrudOperation_RRT:1578 - //===============================Approve Cloned Object========================================!
+LeadManagement-2024-09-10 12:38:38 main INFO TC_CrudOperation_RRT:1582 - Right Click On ClonedAutoTestObject is PASSED!!!
+LeadManagement-2024-09-10 12:38:41 main INFO TC_CrudOperation_RRT:1591 - Click on Approve Button is PASSED!!
+LeadManagement-2024-09-10 12:38:44 main INFO TC_CrudOperation_RRT:1600 - Click again Approve Button is PASSED!!
+LeadManagement-2024-09-10 12:38:48 main INFO TC_CrudOperation_RRT:1609 - Displayed Success Message is PASSED!
+LeadManagement-2024-09-10 12:38:48 main INFO TC_CrudOperation_RRT:1616 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+LeadManagement-2024-09-10 12:38:53 main INFO TC_CrudOperation_RRT:1620 - Right Click On ClonedAutoTestObject is PASSED!!
+LeadManagement-2024-09-10 12:38:57 main INFO TC_CrudOperation_RRT:1629 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:39:01 main INFO TC_CrudOperation_RRT:1638 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:39:02 main INFO TC_CrudOperation_RRT:1647 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+LeadManagement-2024-09-10 12:39:02 main INFO TC_CrudOperation_RRT:1655 - //===============================MOVE OBJECT SCENARIO START========================================
+LeadManagement-2024-09-10 12:39:15 main INFO TC_CrudOperation_RRT:1660 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:39:20 main INFO TC_CrudOperation_RRT:1669 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:39:25 main INFO TC_CrudOperation_RRT:1678 - Select Folder to move the Autotest object is Passed !!!
+LeadManagement-2024-09-10 12:39:28 main INFO TC_CrudOperation_RRT:1728 - Click On Move Button is Passed!!!
+LeadManagement-2024-09-10 12:39:28 main INFO TC_CrudOperation_RRT:1735 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+LeadManagement-2024-09-10 12:39:33 main INFO TC_CrudOperation_RRT:1739 - Right Click On RenamedAutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:39:38 main INFO TC_CrudOperation_RRT:1748 - Click On Move Renamed AutoTestObject is Passed!!!
+LeadManagement-2024-09-10 12:39:40 main INFO TC_CrudOperation_RRT:1757 - Select Main Folder is Passed!!!
+LeadManagement-2024-09-10 12:39:43 main INFO TC_CrudOperation_RRT:1766 - Click On Move Button is Passed!!!

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout>
+               <Pattern>PartnerLead-%d{yyyy-MM-dd} %p %c{1}:%L - %m%n</Pattern>
+            </PatternLayout>
+        </Console>
+ 
+     		<RollingFile name="RollingInfoLogFile"  filePattern="logs/CRUD_Info.PartnerTeam.log" immediateFlush="true" append="false">
+            <PatternLayout>SANITY
+               <Pattern>PartnerLead-%d{yyyy-MM-dd} %p %c{1}:%L - %m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+            </Policies>
+         
+            <LevelRangeFilter minLevel="INFO" maxLevel="INFO" onMatch="ACCEPT" onMismatch="DENY"/>
+        </RollingFile>
+		   
+        <RollingFile name="RollingErrorLogFile"  filePattern="logs/CRUD_Error.PartnerTeam.log" immediateFlush="true" append="false">
+            <PatternLayout>
+                <Pattern>PartnerLead-%d{yyyy-MM-dd} %p %c{1}:%L - %m%n</Pattern>
+            </PatternLayout>
+             <Policies>
+                <OnStartupTriggeringPolicy/>
+            </Policies>
+           
+            <LevelRangeFilter minLevel="ERROR" maxLevel="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Logger name="Logger" level="DEBUG" additivity="false">
+             <AppenderRef ref="RollingInfoLogFile" />
+            <AppenderRef ref="RollingErrorLogFile" />
+            <AppenderRef ref = "Console" />
+        </Logger> 
+        <Root level="DEBUG">
+            <AppenderRef ref="RollingInfoLogFile" />
+            <AppenderRef ref="RollingErrorLogFile" />
+            <AppenderRef ref = "Console" />
+        </Root>
+    </Loggers>
+</Configuration>  

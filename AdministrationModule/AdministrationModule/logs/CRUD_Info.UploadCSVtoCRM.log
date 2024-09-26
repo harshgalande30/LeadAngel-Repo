@@ -1,0 +1,52 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:30 - Clicked on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:39 - Click On Upload CSV to CRM is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:45 - ********************************* Upload File *************************************
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:49 - Upload CSV file is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:56 - ********************************* Filter Operation *************************************
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:57 - ******** FirstName ********
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:64 - Entered FirstName inside filter box is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:74 - Displayed First name in console is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:84 - Clear Filter Box is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:91 - ******** LastName ********
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:97 - Entered LastName inside filter box is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:107 - Displayed Last name in console is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:117 - Clear Filter Box is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:124 - ******** Company ********
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:130 - Entered Company inside filter box is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:140 - Displayed Company in console is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:150 - Clear Filter Box is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:159 - Click On Next Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:167 - ************************************* Column Mapping Operation *******************************
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:168 - ******** FirstName Mapping ********
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:172 - Click On FirstName Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:181 - Select FirstName Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:188 - ******** LastName Mapping ********
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:192 - Click On LastName Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:201 - Select LastName Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:209 - ******** Company Mapping ********
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:213 - Click On Company Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:222 - Select Company Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:229 - ********************************** Verification for Disabled Options *************************************
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:233 - Click On FirstName Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:242 - Displayed LastName Is Disabled is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:252 - Displayed Company Is Disabled is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:262 - Close FirstName Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:273 - Click On LastName Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:282 - Displayed FirstName Is Disabled is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:292 - Displayed Company Is Disabled is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:302 - Close LastName Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:313 - Click On Company Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:322 - Displayed FirstName Is Disabled is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:332 - Displayed LastName Is Disabled is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:340 - ****************************************** Save And Upload ***************************************
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:344 - Click SaveAndUpload Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_UploadCSVtoCRM_Analytics:353 - Displayed File Upload Success Message is Passed

@@ -1,0 +1,205 @@
+OpportunityManagement-2024-09-12 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+OpportunityManagement-2024-09-12 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+OpportunityManagement-2024-09-12 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+OpportunityManagement-2024-09-12 main INFO BaseClass:133 - 1667
+OpportunityManagement-2024-09-12 main INFO BaseClass:134 - ganesh@leadangel.com
+OpportunityManagement-2024-09-12 main INFO BaseClass:136 - Entered ClientID
+OpportunityManagement-2024-09-12 main INFO BaseClass:138 - Entered Email
+OpportunityManagement-2024-09-12 main INFO BaseClass:140 - Entered Password
+OpportunityManagement-2024-09-12 main INFO BaseClass:142 - Click on Submit
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:48 - Click on OpportunityManagement is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:57 - RightClick On OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:66 - Click on New OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:72 - //===============================CREATE OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:76 - Enter AutoTestObject Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:85 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:94 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:103 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:107 - Click on OpportunityRouter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:116 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:124 - Click On Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:133 - Click Again Delete button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:189 - RightClick On OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:198 - Click on New OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:207 - Enter Object Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:216 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:225 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:239 - Refreshing The Page!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:244 - Display OpportunityRouter Overview Page
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:249 - Click on OpportunityRouter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:258 - Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:272 - Click On DNDdiagram DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:281 - Minimize the Panner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:289 - *************************************** Decision Block DND ****************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:293 - Drag And Drop Decision block is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:302 - Connect StartBlock To DecisionBlock is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:310 - ***************************************Assignment Block 1 DND****************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:314 - Drag And Drop AssignmentBlock1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:323 - Connect Decision Block To assignmentBlock1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:330 - ***************************************DecisionBlock2 DND****************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:334 - Drag And Drop DecisionBlock2 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:343 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:349 - ***************************************Assignment Block 2 DND****************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:353 - Drag And Drop AssignmentBlock2 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:362 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:369 - ***************************************Assignment Block 3 DND****************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:373 - Drag And Drop AssignmentBlock3 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:382 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:389 - //========================================ENTERING DETAILS PAGE======================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:392 - Enter Details Page!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:396 - Click On Opportunity Router Feeder DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:405 - Select Opportunity Router Feeder Option is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:414 - Check Box For Opportunity Router Feeder is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:423 - Display Success For Opportunity Router Feeder is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:432 - Default Opportunity Owner DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:441 - Select Default Opportunity Owner Option is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:450 - CheckBox For Default Opportunity Owner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:459 - Display Success For Default Opportunity Owner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:468 - Click on DataValueUpdateWhenRoutedToDefaultOpportunityOwner AddButton is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:477 - Click on DataValueUpdateWhenRoutedToDefaultOpportunityOwner DropDown1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:486 - Select DataValueUpdateWhenRoutedToDefaultOpportunityOwner Option is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:495 - Click on DataValueUpdateWhenRoutedToDefaultOpportunityOwner DropDown2 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:504 - Select DataValueUpdateWhenRoutedToDefaultOpportunityOwner Option is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:513 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:522 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:530 - Click On Description Edit button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:533 - Enter description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:536 - Click On Description Save button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:539 - ***************************************Decision block Operation***************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:543 - Click On draftbox is Passed!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:553 - Double Click On DecisionBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:562 - Click On Data dictionary option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:571 - Click On AddButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:580 - Click On Save Button For DecisionBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:589 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:590 - Decision Block Border Color is Verified and Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:599 - ***************************************Decision block2 Operation***************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:603 - Double Click On DecisionBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:612 - Select Decision Block List Element is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:621 - Click On AddButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:630 - Click On Save Button For DecisionBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:639 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:640 - Decision Block2 Border Color is Verified and Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:648 - *********************************************Assignment block1 Operation********************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:652 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:661 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:670 - Select SalesRep In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:679 - Click On DropDown2 AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:688 - Select SalesRep Value In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:697 - Click On MappedSDR CheckBox For AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:706 - Click On SelectMappedSDR is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:716 - Click On SelectMappedSDR Option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:725 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:734 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:735 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:743 - *********************************************Assignment block2 Operation****************************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:747 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:756 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:765 - Select SalesRep In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:774 - Click On DropDown2 AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:783 - Select SalesRep Value In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:792 - Click On Mapped SDR CheckBox For AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:801 - Click On SelectMappedSDR is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:810 - Click On SelectMappedSDR Option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:819 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:828 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:829 - AssignmentBlock2 Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:837 - *********************************************Assignment block3 Operation****************************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:841 - Double Click On Assignment3 Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:850 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:859 - Select SalesRep In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:868 - Click On DropDown2 AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:877 - Select SalesRep Value In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:886 - Click On Mapped SDR CheckBox For AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:895 - Click On SelectMappedSDR is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:904 - Click On SelectMappedSDR Option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:913 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:922 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:923 - AssignmentBlock3 Border Color is Verified and Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:932 - //===============================================APPROVE SCENARIO START========================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:936 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:945 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:954 - Click again Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:963 - Displayed Approved Button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:970 - //=================================================EDIT SCENARIO START=======================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:974 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:983 - Click on Edit Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:990 - ***************************************Edit Decision block2 Operation***************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:994 - Double Click On DecisionBlock2 is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1003 - Select Edit DecisionBlock List Element is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1012 - Click On AddButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1021 - Click On Save Button For DecisionBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1030 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1031 - Decision Block2 Border Color is Verified and Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1039 - *********************************************EditAssignment block1 Operation********************************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1043 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1052 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1061 - Select SalesRep In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1070 - Click On DropDown2 AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1079 - Select SalesRep Value In AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1088 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1097 - true
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1098 - AssignmentBlock1 Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1107 - //===============================================After Edit,Then Approve the Object========================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1111 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1120 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1129 - Click again Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1138 - Displayed Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1147 - //======================================RENAME SCENARIO START=============================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1151 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1160 - Click on Rename Object is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1169 - Input on Rename AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1178 - Click Rename Button is  PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1186 - Duplicate Object Found, Deleting Object NOW
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1189 - Display RenameAutoTest Object
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1193 - Right Click On RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1202 - Click On Delete Button in AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1211 - Click On Delete Button in AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1349 - Right Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1358 - Click On Rename AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1367 - Input on Rename AutoTestObject is passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1376 - Click on Rename Button AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1389 - Renamed AutoTest Object is Displayed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1397 - //===================================CLONE SCENARIO START================================================//
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1481 - Right Click On RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1490 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1499 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1508 - Display clocned RenamedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1516 - //===============================Approve Cloned Object========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1520 - Right Click On ClonedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1529 - Click on Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1538 - Click again Approve Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1547 - Displayed Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1554 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1558 - Right Click On ClonedAutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1567 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1576 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1585 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1593 - //===============================MOVE OBJECT SCENARIO START========================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1597 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1607 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1616 - Select Folder to move the Autotest object is Passed !!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1666 - Click On Move Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1673 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1677 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1686 - Click On Move Renamed AutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1695 - Select Main Folder is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1704 - Click On Move Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1711 - //=============================== Activate and DeActivate Operation ===================================
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1715 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1724 - Click On Active Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1735 - Click on Detail Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1745 - Click On AccountRouterFeeder DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1754 - Count:- 7
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1777 - Select Private is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1762 - Click On AccountRouterFeeder DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1777 - Select Closed is Passed
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1795 - Click on CheckBox For OpportunityRouterFeeder is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1804 - Display Success For OpportunityRouterFeeder is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1813 - Right Click On RenamedAutoTestObject is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1822 - Click On Active Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1905 - ************************** DeActivate Operation **************************
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1909 - Right Click On Activated Object is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1918 - Click On DeActive Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1927 - Click Again DeActive Button is Passed!!!
+OpportunityManagement-2024-09-12 main INFO TC_CrudOperation_OpportunityRouter_OpportunityManagement:1937 - Displayed DeActivated Success Message is PASSED!!!

@@ -1,0 +1,283 @@
+ContactManagement-2024-09-12 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-12 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-12 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-12 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-12 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-12 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-12 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-12 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-12 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:45 - Click on ContactManagement is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:53 - Right Click on Wait Filter is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:56 - Click on New Wait Filter is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:60 - Enter AutoTestObject Name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:69 - Enter Description is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:77 - Click on Save Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:217 - Refreshing The Page!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:249 - Click on Contact Attribute is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:256 - //===================================== DRAG&DROP FirstName ATTRIBUTE =====================================//
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:260 - Drag And Drop First Name is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:269 - Click on DropDown FirstName is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:285 - Select contains is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:294 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:307 - Input on FirstName is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:316 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:285 - Select does not contain is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:294 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:307 - Input on FirstName is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:316 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:285 - Select starts with is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:294 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:307 - Input on FirstName is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:316 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:285 - Select does not start with is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:294 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:307 - Input on FirstName is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:316 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:285 - Select is empty is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:294 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:285 - Select is not empty is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:294 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:285 - Select in is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:294 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:332 - Click on Add Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:341 - Select One Account is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:349 - Enter free text OtherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:357 - Click on Save button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:366 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:285 - Select not in is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:294 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:332 - Click on Add Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:341 - Select One Account is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:349 - Enter free text OtherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:357 - Click on Save button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:366 - Displayed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:377 - //======================================= DRAG&DROP OTHER LONGITUDE ATTRIBUTE ==================================//
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:381 - Drag and Drop OtherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:390 - Click on DropDown OtherLongitude is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select is empty is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select is not empty is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select in is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:427 - Click on Add Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:436 - Enter free text OtherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:444 - Click on Save button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:453 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select not in is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:427 - Click on Add Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:436 - Enter free text OtherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:444 - Click on Save button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:453 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select is greater than is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:468 - Input on otherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:477 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select is smaller than is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:468 - Input on otherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:477 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select between is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:491 - OtherLongitude Input Box For Between Box1 is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:500 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:511 - OtherLongitude Input Box For Between Box2 is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:520 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select is at least is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:468 - Input on otherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:477 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:404 - Select is at most is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:413 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:468 - Input on otherLongitude is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:477 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:531 - //========================================= DRAG&DROP Deleted ATTRIBUTE===================================//
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:535 - Drag And Drop Deleted is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:546 - Click on DropDown Deletedbox1 is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:562 - Select is is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:571 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:583 - Click on DropDown Deletedbox2 is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:599 - Select True is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:608 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:599 - Select False is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:608 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:562 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:571 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:583 - Click on DropDown Deletedbox2 is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:599 - Select True is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:608 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:599 - Select False is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:608 - Displayed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:618 - //======================================== DRAG&DROP CRETED DATE ATTRIBUTE ==================================//
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:622 - Drag and Drop Created Date is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:633 - Click on DropDown CreateDateFirstBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select before is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:670 - Click On Calendar CreatedDate Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:679 - Click On Date is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:688 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select after is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:670 - Click On Calendar CreatedDate Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:679 - Click On Date is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:688 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select on or before is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:670 - Click On Calendar CreatedDate Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:679 - Click On Date is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:688 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select on or after is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:670 - Click On Calendar CreatedDate Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:679 - Click On Date is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:688 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select in past is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:702 - CreatedDate Input Box For Box2 is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:711 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:721 - Click on DropDown CreateDate2forInPast is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Hours is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Days is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Weeks is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select in past before is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:702 - CreatedDate Input Box For Box2 is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:711 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:721 - Click on DropDown CreateDate2forInPast is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Hours is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Days is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Weeks is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select in future is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:702 - CreatedDate Input Box For Box2 is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:711 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:721 - Click on DropDown CreateDate2forInPast is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Hours is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Days is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Weeks is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select in future after is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:702 - CreatedDate Input Box For Box2 is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:711 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:721 - Click on DropDown CreateDate2forInPast is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Hours is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Days is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:738 - Select Weeks is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:747 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select between is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:761 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:770 - Click On Date is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:779 - Dispalyed Input Box1 is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:789 - Clicked On CreatedDate Calendar Button Box2 is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:798 - Click On Date is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:807 - Dispalyed Input Box2 is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select in time frame is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:822 - Click on DropDown CreateDate for InTimeFrame is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select Today is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select Yesterday is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select This Week S S is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select This Week M F is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select Last Week S S is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select Last Week M F is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select This Month is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select Last Month is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select This Calendar Quarter is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select Last Calendar Quarter is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select This Calendar Year is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:839 - Select Last Calendar Year is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:848 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select is is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:670 - Click On Calendar CreatedDate Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:679 - Click On Date is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:688 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select is today is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select is not is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:670 - Click On Calendar CreatedDate Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:679 - Click On Date is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:688 - Dispalyed Input Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select is empty is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:648 - Select is not empty is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:657 - Dispalyed Select Box is not red
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:864 - *********************** Search Box and refresh Button Operation **************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:869 - Get Text from first drag and drop box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:878 - Enter Text in search box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:887 - Displayed text in toolist, which is entered in search box is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:896 - Click On Close Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:905 - Click On Refresh Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:914 - Click on Contact Attribute is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:925 - Click on DefaultFilter Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:934 - Select Custom FilterOption is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:943 - Input For CutomFilter CRMContactFilter is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:952 - Click on CollapseAll is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:961 - Click on ExpandAll is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:968 - //================================================ENTERING DETAILS PAGE===============================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:972 - Click on Details Button is Passed!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:980 - Click On Description Edit button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:983 - Enter Decription is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:986 - Click On Description Save button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:989 - Click On Copy Button is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:998 - Displayed Copied Success Message is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1007 - ==================================== Approve ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1011 - Click On draftbox is PASSED!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1019 - Click on Approve Button After EDIT is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1022 - Click Again Approve button is passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1026 - Display Approved button is PASSED!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1033 - //========================================Delete Craft scenario=======================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1037 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1046 - Click On Edit AutoTestObject is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1055 - Click On DeleteCraft buton is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1065 - Dispalying Verified Sign is PASSED!!!
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1073 - //==================================== OverView Page Opeartion  ==================================
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1077 - Click On WaitFilter Feature is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1086 - Display WaitFilter OverView Page is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1095 - ***************** Column Header Check Box Operation ******************
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1096 - Displayed Column Header Checkbox Is Not Disabled 
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1101 - Click On ColumnHeader CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1110 - Displayed ColumnHeader CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1121 - Displayed AutTestObject CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1134 - Displayed Delete Button is Enabled is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1144 - Uncheck the ColumnHeader CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1154 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1167 - Displayed Delete Button is Disable is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1174 - ********************** Filter Operation *************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1178 - Enter Text In FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1187 - Displayed AutoTestObject is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1196 - Displayed AutoTestObject CheckBox
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1199 - Displayed AutoTestObject Is Not Used is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1221 - Clear Test From The FilterBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1228 - ********************** Delete AutoTestObject Operation *************************
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1232 - Click On AutTestObject CheckBox is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1241 - Displayed AutTestObject CheckBox Is Checked is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1251 - Click On Delete Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1260 - Click Again Delete Button is Passed
+ContactManagement-2024-09-12 main INFO TC_Sanity_WaitFilter_ContactManagement:1269 - Display Deleted success message is Passed

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-16T10:33:53 IST" name="LeadAngelV1" finished-at="2024-09-16T10:39:52 IST" duration-ms="359408">
+    <groups>
+    </groups>
+    <test started-at="2024-09-16T10:33:53 IST" name="LA_chrome" finished-at="2024-09-16T10:39:52 IST" duration-ms="359408">
+      <class name="com.leadAngel.testCases.TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement">
+        <test-method is-config="true" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.leadAngel.testCases.TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement@30b9eadd]" started-at="2024-09-16T10:33:53 IST" name="setup" finished-at="2024-09-16T10:34:01 IST" duration-ms="8204" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OpportunityManagement()[pri:0, instance:com.leadAngel.testCases.TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement@30b9eadd]" started-at="2024-09-16T10:34:01 IST" name="OpportunityManagement" finished-at="2024-09-16T10:39:52 IST" duration-ms="350715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpportunityManagement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.leadAngel.testCases.TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement@30b9eadd]" started-at="2024-09-16T10:39:52 IST" name="tearDown" finished-at="2024-09-16T10:39:52 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.leadAngel.testCases.TC_Sanity_OpportunityRoutingTerritory_OpportunityManagement -->
+    </test> <!-- LA_chrome -->
+  </suite> <!-- LeadAngelV1 -->
+</testng-results>

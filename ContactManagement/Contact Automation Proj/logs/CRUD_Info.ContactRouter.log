@@ -1,0 +1,200 @@
+ContactManagement-2024-09-11 main INFO BaseClass:123 - ======================================= INFORMATION ======================================
+ContactManagement-2024-09-11 main INFO BaseClass:129 - Login Scenario Started for ADMIN-USER
+ContactManagement-2024-09-11 main INFO BaseClass:130 - https://app.leadangel.com/index.html#/
+ContactManagement-2024-09-11 main INFO BaseClass:131 - 1667
+ContactManagement-2024-09-11 main INFO BaseClass:132 - ganesh@leadangel.com
+ContactManagement-2024-09-11 main INFO BaseClass:134 - Entered ClientID
+ContactManagement-2024-09-11 main INFO BaseClass:136 - Entered Email
+ContactManagement-2024-09-11 main INFO BaseClass:138 - Entered Password
+ContactManagement-2024-09-11 main INFO BaseClass:140 - Click on Submit
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:44 - Click on ContactManagement is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:53 - RightClick On ContactRouter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:62 - Click on New CRM Contact Filter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:69 - //===============================CREATE OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:73 - Enter AutoTestObject Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:82 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:91 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:100 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:104 - Click on ContactRouter DropDown is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:113 - RightClick On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:121 - Click On Delete button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:130 - Click Again Delete button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:186 - RightClick On ContactRouter is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:195 - Click on New Contact Router is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:204 - Enter Object Name is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:213 - Enter Description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:222 - Click on Save Button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:235 - Refreshing The Page!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:240 - Displayed ContactRouter Overview page
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:245 - Click on ContactRouter DropDown is passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:254 - Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:268 - Click On DNDdiagram DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:278 - Minimize the Panner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:286 - *************************************** Decision Block DND ****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:290 - Drag And Drop Decision block is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:299 - Connect StartBlock To DecisionBlock is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:307 - ***************************************Assignment Block 1 DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:311 - Drag And Drop AssignmentBlock1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:320 - Connect Decision Block To assignmentBlock1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:327 - ***************************************DecisionBlock2 DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:331 - Drag And Drop DecisionBlock2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:340 - Connect DecisionBlock1 To DecisionBlock2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:346 - ***************************************Assignment Block 2 DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:350 - Drag And Drop AssignmentBlock2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:359 - Connect Decision Block2NO To AssignmentBlock2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:366 - ***************************************Assignment Block 3 DND****************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:370 - Drag And Drop AssignmentBlock3 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:379 - Connect Decision Block2YES To AssignmentBlock3 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:386 - //========================================ENTERING DETAILS PAGE======================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:390 - Click on Detail Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:399 - Click On Contact Feeder filter DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:408 - Select Contact Feeder filter Option is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:417 - Click on CheckBox For Contact Feeder filter is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:427 - Display Success For Contact Router Feeder is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:436 - Default Contact Owner DropDown is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:445 - Select Default Contact Owner Option is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:454 - CheckBox For Default Contact Owner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:463 - Display Success For Default Contact Owner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:472 - Click on DataValueUpdateWhenRoutedToDefaultContactOwner AddButton is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:481 - Click on DataValueUpdateWhenRoutedToDefaultContactOwner DropDown1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:490 - Select DataValueUpdateWhenRoutedToDefaultContactOwner Option1 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:499 - Click on DataValueUpdateWhenRoutedToDefaultContactOwner DropDown2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:508 - Select DataValueUpdateWhenRoutedToDefaultContactOwner Option2 is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:517 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultContactOwner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:526 - Display Success For DataValueUpdateWhenRoutedToDefaultContactOwner is Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:534 - Click On Description Edit button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:537 - Enter description is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:540 - Click On Description Save button is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:542 - ***************************************Decision block Operation***************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:546 - Click On draftbox is Passed!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:556 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:565 - Click On Data dictionary option is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:574 - Click On AddButton is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:583 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:592 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:593 - Decision Block Border Color is Verified and Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:601 - ***************************************Decision block2 Operation***************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:605 - Double Click On DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:614 - Select Decision Block List Element is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:623 - Click On AddButton is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:632 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:641 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:642 - Decision Block2 Border Color is Verified and Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:650 - *********************************************Assignment block1 Operation********************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:654 - Double Click On Assignment Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:663 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:672 - Select SalesRep In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:681 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:690 - Select SalesRep Value In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:699 - Click On CheckBox For AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:708 - Click On SelectMappedSDR is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:718 - Click On SelectMappedSDR Option is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:727 - Click On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:736 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:737 - AssignmentBlock Border Colour is Verified and Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:745 - *********************************************Assignment block2 Operation****************************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:749 - Double Click On Assignment Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:758 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:767 - Select SalesRep In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:776 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:785 - Select SalesRep Value In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:794 - Click On CheckBox For AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:803 - Click On SelectMappedSDR is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:812 - Click On SelectMappedSDR Option is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:821 - Click On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:830 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:831 - AssignmentBlock2 Border Colour is Verified and Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:839 - *********************************************Assignment block3 Operation****************************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:843 - Double Click On Assignment3 Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:852 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:861 - Select SalesRep In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:870 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:879 - Select SalesRep Value In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:888 - Click On CheckBox For AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:897 - Click On SelectMappedSDR is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:906 - Click On SelectMappedSDR Option is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:915 - Click On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:924 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:925 - AssignmentBlock3 Border Color is Verified and Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:933 - //===============================================APPROVE SCENARIO START========================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:937 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:946 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:955 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:964 - Displayed Approved Button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:971 - //=================================================EDIT SCENARIO START=======================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:975 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:984 - clicked on Edit Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:991 - ***************************************Edit Decision block2 Operation***************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:995 - Double Click On DecisionBlock2 is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1004 - Select Edit DecisionBlock List Element is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1013 - Click On AddButton is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1022 - Click On Save Button For DecisionBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1031 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1032 - Decision Block2 Border Color is Verified and Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1040 - *********************************************EditAssignment block1 Operation********************************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1044 - Double Click On Assignment Block is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1053 - Click On DropDown AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1062 - Select SalesRep In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1071 - Click On DropDown2 AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1080 - Select SalesRep Value In AssignmentBlock is Passed !!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1089 - Click On Save Button For AssignmentBlock is Passed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1098 - true
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1099 - AssignmentBlock1 Border Colour is Verified and Passed!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1107 - //===============================================After Edit,Then Approve the Object========================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1111 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1120 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1129 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1138 - Displayed Approved button is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1146 - //======================================RENAME SCENARIO START=============================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1150 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1159 - Click on Rename Object is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1168 - Input on Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1177 - Click Rename Button is  PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1185 - Duplicate Object Found, Deleting Object NOW
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1188 - Display RenameAutoTest Object
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1192 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1201 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1210 - Click On Delete Button in AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1348 - Right Click On AutoTestObject is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1357 - Click On Rename AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1366 - Input on Rename AutoTestObject is passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1375 - Click on Rename Button AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1388 - Renamed AutoTest Object is Displayed
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1396 - //===================================CLONE SCENARIO START================================================//
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1480 - Right Click On RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1489 - Click On Clone in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1498 - Click On Clone Button in RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1507 - Display clocned RenamedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1515 - //===============================Approve Cloned Object========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1519 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1528 - Click on Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1537 - Click again Approve Button is PASSED!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1546 - Displayed Success Message is PASSED!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1553 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1557 - Right Click On ClonedAutoTestObject is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1566 - Click On Delete Button in Clone AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1575 - Click On Delete Button in Cloned AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1584 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1592 - //===============================MOVE OBJECT SCENARIO START========================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1596 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1606 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1615 - Select Folder to move the Autotest object is Passed !!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1665 - Click On Move Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1672 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1676 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1685 - Click On Move Renamed AutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1694 - Select Main Folder is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1703 - Click On Move Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1710 - //=============================== Activate and DeActivate Operation ===================================
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1716 - Right Click On Activated Object is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1725 - Click On DeActive Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1734 - Click Again DeActive Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1743 - Displayed DeActivated Success Message is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1757 - Right Click On RenamedAutoTestObject is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1766 - Click On Active Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1775 - Displayed Activated Success Message is PASSED!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1783 - ************************** DeActivate Operation **************************
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1787 - Right Click On Activated Object is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1796 - Click On DeActive Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1805 - Click Again DeActive Button is Passed!!!
+ContactManagement-2024-09-11 main INFO TC_CrudOperation_ContactRouter_ContactManagement:1815 - Displayed DeActivated Success Message is PASSED!!!

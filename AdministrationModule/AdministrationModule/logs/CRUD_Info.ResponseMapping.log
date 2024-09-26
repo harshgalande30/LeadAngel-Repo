@@ -1,0 +1,187 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:49 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:58 - Click On Integrations DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:67 - Click On Webhook Integration DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:74 - //=========================================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:78 - Right Click On Response Mapping is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:87 - Click On Response Mapping is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:96 - Enter AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:105 - Select Router Type Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:114 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:258 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:287 - ============================================LeadID_DND Operation==================================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:291 - Click On Lead Attributes is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:302 - Drag and Drop LeadID is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:313 - Enter LeadID is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:320 - ============================================Deleted_DND Operation==============================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:324 - Drag and Drop Deleted is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:335 - Enter Deleted Boolean Value is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:341 - =========================================Latitude_DND Operation==============================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:345 - Drag and Drop Latitude is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:356 - Enter Latitude Value is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:363 - ==========================================ConvertedDate_DND Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:367 - Drag and Drop ConvertedDate is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:378 - Enter ConvertedDate is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:385 - *********************** Search Box and refresh Button Operation **************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:390 - Get Text from first drag and drop box is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:399 - Enter Text in search box is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:408 - Displayed text in toolist, which is entered in search box is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:417 - Click On Close Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:426 - Click On Refresh Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:435 - Click On Lead Attributes is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:442 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:446 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:455 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:464 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:473 - Display Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:480 - //===============================================Details ========================================//
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:484 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:493 - Click On Editbtn is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:502 - Enter Description is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:511 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:520 - Display 'No Record Found' is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:529 - //==================================== OverView Page Opeartion Before Used  ==================================
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:533 - Click On ResponseMapping Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:542 - Display ResponseMapping OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:552 - ***************** Column Header Check Box Operation ******************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:553 - Displayed Column Header Checkbox Is Not Disabled 
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:558 - Click On ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:567 - Displayed ColumnHeader CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:576 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:579 - Displayed LeadAutTestObject CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:592 - Displayed Delete Button is Enabled is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:602 - Uncheck the ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:610 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:613 - Displayed LeadAutTestObject CheckBox Is Not Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:626 - Displayed Delete Button is Disable is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:633 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:637 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:646 - Displayed LeadAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:655 - Displayed LeadAutoTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:658 - Displayed LeadAutoTestObject Is Not Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:680 - Clear Test From The FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:757 - //*********************************************** Make Use of this Object In Webhook(Administration) *******************************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:761 - Right Click on Webhook is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:770 - Click On NewObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:779 - Enter AutoTestObject name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:788 - Select Router Type Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:797 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:944 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:951 - =============================================URL Operation=============================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:955 - Enter text in URL textarea is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:962 - ======================================Request Type  Operation==============================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:966 - select Option In RequestType is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:972 - =============================== Response Mapping  Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:976 - select DropDown Of Response Mapping is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:985 - Select AutotestObject is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:991 - ********************* Save Operation ********************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:995 - Click On Approve Button is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1004 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1013 - Display Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1020 - ********************* Go back to Response Mapping Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1024 - Click on Webhook DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1033 - Click on ResponseMaping DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1042 - Click On LeadAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1049 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1051 - //===============================================Details page operation after Used this object in Webhook========================================//
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1055 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1064 - Click On UsedBy Dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1075 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1081 - ********************** Verifying whether Used object can delete or not *********************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1085 - Click On Approved Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1094 - Click On Delete button is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1103 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1112 - Get Text From Error Message is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1121 - Displayed 'Cannot delete,It is Used' Error message is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1129 - ********* Verify that the 'Used By' object name and the left menu title is Same Or Not, Once clicking the 'Used By' Router name ************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1133 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1145 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1154 - Click Used By Router Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1164 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1173 - Administration
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1174 - Administration
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1175 - Left menu titlt is same before and after clicking UsedBy object name is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1187 - Get Text From Details tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1196 - AutoTest Object Name matched with the name from Details tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1204 - ********************* Go back to Response Maping Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1208 - Click on Webhook DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1215 - //===============================================Crud Operation========================================//
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1216 - ***************************************Edit Scenario Start**********************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1220 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1229 - Click on Edit Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1236 - ***************************************Edit LatitudeValue******************************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1240 - Edit LatitudeValue is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1247 - *************************************** ConvertedDateDate******************************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1251 - Enter ConvertedDate is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1258 - ***************************************Edit ConvertedDateDate******************************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1262 - Edit ConvertedDate is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1269 - *********************************************Approve***************************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1272 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1281 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1291 - Click on CollapseAll is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1300 - Click on ExpandAll is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1307 - //========================================Delete Craft scenario=======================================
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1311 - Click On Edit Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1320 - Click On DeleteCraft buton is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1329 - Dispalying Verified Sign is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1338 - //======================================RENAME SCENARIO START=============================================//
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1342 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1351 - Click on Rename Object is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1360 - Input on Rename AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1369 - Click Rename Button is  PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1377 - Duplicate Object Found, Deleting Object NOW
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1380 - Display LeadAutoTestObjectRename Object
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1384 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1393 - Click On Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1402 - Click again Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1412 - Displayed 'Cannot Delete' Error Message
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1416 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1425 - Click on Rename Object is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1436 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1445 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1540 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1549 - Click On Rename AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1558 - Input on Rename AutoTestObject is passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1567 - Click on Rename Button AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1580 - Display LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1589 - ====================================================Clone Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1674 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1683 - Click On Clone option is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1692 - Click On Clone button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1701 - Displayed Cloned LeadRenameAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1709 - //===============================Approve Cloned Object========================================!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1713 - Right Click On LeadAutoTestObjectRenameCopy Object is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1722 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1731 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1740 - Displayed Approved Button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1747 - ********************************DELETE CLONED OBJECT SCENARIO*********************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1751 - Click On Delete Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1760 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1769 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1778 - //===============================MOVE OBJECT SCENARIO START========================================
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1782 - Right Click On LeadRenamedAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1791 - Click On Move Renamed AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1800 - Select Folder to move the Autotest object is Passed !!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1850 - Click On Move Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1857 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1861 - Right Click On LeadRenamedAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1870 - Click On Move Renamed AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1879 - Select Main Folder is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1888 - Click On Move Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1897 - //==================================== OverView Page Opeartion After approved  ==================================
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1901 - Click On ResponseMapping Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1910 - Display ResponseMapping OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1919 - *****************Verifying Column Header Check Is Disabled******************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1931 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1936 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1945 - Displayed LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1967 - Displayed LeadAutoTestObjectRename Is Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperationOn_ResponseMapping:1978 - Clear Test From The FilterBox is Passed

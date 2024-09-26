@@ -1,0 +1,30 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:25 - Clicked on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:34 - Click On WebToLead Dropdown is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:43 - Click On Referral Domains is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:122 - *********************************** Add New Domain URL ************************************
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:126 - Click On Add Domain URL button is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:135 - Enter Domain URL is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:144 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:153 - Displayed Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:161 - *********************************** Edit Domain URL ************************************
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:165 - Click On Edit Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:174 - Edit Domain URL is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:183 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:192 - Displayed Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:201 - *********************************** Filter Operation ************************************
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:205 - Enter Domain URL Inside FilterBox is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:214 - Displayed DomainURL Which is entered in filtered box is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:224 - Clear Filter Box is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:231 - *********************************** Delete Domain URL ************************************
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:235 - Click On Delete Icon is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:244 - Click On Delete Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_ReferralDomains_Administration:253 - Displayed Success Message is Passed

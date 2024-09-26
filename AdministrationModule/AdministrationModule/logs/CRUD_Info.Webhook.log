@@ -1,0 +1,280 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:53 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:62 - Click On Integrations DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:71 - Click On Webhook Integration DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:77 - //===============================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:81 - Right Click on Webhook is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:90 - Click On NewObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:99 - Enter AutoTestObject name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:108 - Select Router Type Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:117 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:126 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:130 - Click on Webhook Dropdown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:139 - RightClick On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:148 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:157 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:213 - Right Click on Webhook DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:222 - Click on New Webhook is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:231 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:240 - Select Router Type is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:249 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:261 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:266 - Display Webhook Overview is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:270 - Click on Webhook Dropdown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:279 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:290 - =============================================URL Operation=============================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:294 - Enter text in URL textarea is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:303 - Click On Insert Token Button For URL is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:331 - Select Lead is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:340 - Click On Insert Token Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:349 - Click On Insert Token Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:359 - Click On Save Button For Insert Token is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:318 - Click On Insert Token Button For URL is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:331 - Select Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:340 - Click On Insert Token Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:349 - Click On Insert Token Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:359 - Click On Save Button For Insert Token is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:318 - Click On Insert Token Button For URL is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:331 - Select Opportunity is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:340 - Click On Insert Token Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:349 - Click On Insert Token Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:359 - Click On Save Button For Insert Token is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:370 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:371 - Displayed URL Texarea Does Have a value
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:380 - ======================================Request Type  Operation==============================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:384 - select Option In RequestType is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:393 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:394 - Displayed RequestType SelectBox Does Have a value
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:402 - ===============================Payload Template  Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:406 - Enter Text in payloadTemplate textarea is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:415 - Click On Insert Token Button For Payload Template is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:443 - Select Lead is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:452 - Click On Insert Token Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:461 - Click On Insert Token Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:471 - Click On Save Button For Insert Token is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:429 - Click On Insert Token Button For Payload Template is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:443 - Select Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:452 - Click On Insert Token Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:461 - Click On Insert Token Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:471 - Click On Save Button For Insert Token is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:429 - Click On Insert Token Button For Payload Template is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:443 - Select Opportunity is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:452 - Click On Insert Token Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:461 - Click On Insert Token Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:471 - Click On Save Button For Insert Token is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:482 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:483 - Displayed PayloadTemplate TextArea Does Have a value
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:491 - =============================== Request Token Encoding  Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:495 - select Option from Request TokenEncoding is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:504 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:505 - Displayed RequestTokenEncoding SelectBox Does Have a value
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:513 - =============================== Response Type  Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:517 - select Option from Response Type is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:526 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:527 - Displayed ResponseType SelectBox Does Have a value
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:536 - =============================== Response Mapping Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:541 - Select DropDown Of Response Mapping is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:551 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:555 - Click On Open In New Tab Link is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:571 - Object Name After Click NewTab Link: AutoTestObject_Rename
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:575 - Open in New tab link is properly redirected is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:589 - Swicth back to parent window is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:597 - =============================== Custom Header Operation========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:601 - Select DropDown Of Custom Header is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:611 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:615 - Click On Open In New Tab Link is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:631 - Object Name After Click NewTab Link: AutoTestObject_Rename
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:635 - Open in New tab link is properly redirected is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:649 - Swicth back to parent window is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:658 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:662 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:671 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:680 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:689 - Display Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:696 - //===============================================Details page operation========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:700 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:709 - Click On Editbtn is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:718 - Enter Description is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:727 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:736 - Display 'No Record Found' is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:745 - //==================================== OverView Page Opeartion Before Used  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:749 - Click On Webhook Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:758 - Display Webhook OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:768 - ***************** Column Header Check Box Operation ******************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:769 - Displayed Column Header Checkbox Is Not Disabled 
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:774 - Click On ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:783 - Displayed ColumnHeader CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:792 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:795 - Displayed LeadAutTestObject CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:808 - Displayed Delete Button is Enabled is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:818 - Uncheck the ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:826 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:829 - Displayed LeadAutTestObject CheckBox Is Not Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:842 - Displayed Delete Button is Disable is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:849 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:853 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:862 - Displayed LeadAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:871 - Displayed LeadAutoTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:874 - Displayed LeadAutoTestObject Is Not Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:896 - Clear Test From The FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:972 - //*********************************************** Make Use of this Object In OTS Router(LeadManagement) *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:976 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:985 - Click On LeadManagement from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:994 - Click On dropdown for lead Routing is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1003 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1012 - Click on New OTSrouter is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1021 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1030 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1039 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1048 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1052 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1061 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1070 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1079 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1135 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1144 - Click on New OTS Router is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1153 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1162 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1171 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1184 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1189 - Display OTS router Overview
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1193 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1202 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1216 - Click On DNDdiagram DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1223 - ******************** Decision Block DND************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1227 - Drag And Drop Decision Block is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1236 - Connect StartBlock_To_DecisionBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1245 - Double Click On DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1254 - Click On NewCustomerAccountList Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1263 - Click On AddButton is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1272 - Click On Save Button For DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1278 - *************************************** Action Block DND ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1282 - Drag And Drop ActionBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1291 - Connect DecisionBlock_To_ActionBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1300 - Double Click On Action Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1309 - Select On Webhook Option ActionBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1318 - Click on Second ListBox dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1327 - Select AutotestObject is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1336 - Click On Continue processing CheckBox ActionBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1345 - Click On Save Button For ActionBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1351 - ******************** OTS Assignment Block DND ***************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1355 - Drag And Drop AssignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1364 - Connection Decision BlockNO_To_OTSAssignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1373 - Double Click On OTS Assignment Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1383 - Click On Assignment Type DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1392 - Select LiveClaim Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1401 - Click On Assignment Option DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1410 - Select Option From Assignment Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1419 - Clicked On Save Button For AssignmentBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1425 - *********************** Details Page ************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1429 - Enter Details Page is passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1438 - Default Lead Owner DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1447 - SelectDefaultLeadOwnerOption is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1456 - Click On Save Button For details Page OTS is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1465 - Display Success is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1472 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1476 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1485 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1494 - Click again Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1503 - Displayed Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1510 - ********************* Go back to Webhook Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1514 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1523 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1532 - Click On Integrations DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1541 - Click On Webhook Integration DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1551 - Clicked on Webhook DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1560 - Click On AutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1570 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1579 - Click On UsedBy Dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1590 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1596 - ********************** Verifying whether Used object can delete or not *********************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1600 - Click On Approved Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1609 - Click On Delete button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1618 - Click again Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1627 - Get Text From Error Message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1636 - Displayed 'Cannot delete,It is Used' Error message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1644 - ********* Verify that the 'Used By' object name and the left menu title is Same Or Not, Once clicking the 'Used By' Router name ************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1652 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1661 - Click On details button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1670 - Click Used By Router Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1680 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1703 - Get Object Name From Details tab : AutoTestObject
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1712 - AutoTest Object Name matched with the name from Details tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1721 - ********************* Go back to Webhook Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1725 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1734 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1743 - Click On Integrations DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1752 - Click On Webhook Integration DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1762 - Clicked on Webhook DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1770 - //===============================================Crud Operation========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1771 - ***************************************Edit Scenario Start**********************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1775 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1784 - Click on Edit Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1792 - **************************************************Edit Request type*******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1796 - Edit select Option In RequestType is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1802 - **********************************************Edit Response type**************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1806 - Edit select Option from ResponseType PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1813 - *********************************************Approve*******************************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1817 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1826 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1832 - //========================================Delete Craft scenario=======================================
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1836 - Click On Edit Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1845 - Click On Delete Craft buton is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1854 - Dispalying Verified Sign is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1863 - //======================================RENAME SCENARIO START=============================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1867 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1876 - Click on Rename Object is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1885 - Input on Rename AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1894 - Click Rename Button is  PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1902 - Duplicate Object Found, Deleting Object NOW
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1905 - Display LeadAutoTestObjectRename Object
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1909 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1918 - Click On Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:1927 - Click again Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2065 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2074 - Click On Rename AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2083 - Input on Rename AutoTestObject is passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2092 - Click on Rename Button AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2105 - Display LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2114 - ====================================================Clone Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2199 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2208 - Click On Clone option is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2217 - Click On Clone button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2226 - Displayed Cloned LeadRenameAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2234 - //===============================Approve Cloned Object========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2238 - Right Click On LeadAutoTestObjectRenameCopy Object is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2247 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2256 - Click again Approve button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2265 - Displayed Approved Button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2272 - ********************************DELETE CLONED OBJECT SCENARIO*********************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2276 - Click On Delete Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2285 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2294 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2303 - //===============================MOVE OBJECT SCENARIO START========================================
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2307 - Right Click On LeadRenamedAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2316 - Click On Move Renamed AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2325 - Select Folder to move the Autotest object is Passed !!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2375 - Click On Move Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2382 - ******************************* Move Back the AutoTestobject to the Main folder *****************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2386 - Right Click On LeadRenamedAutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2395 - Click On Move Renamed AutoTestObject is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2404 - Select Main Folder is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2413 - Click On Move Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2422 - //==================================== OverView Page Opeartion After approved  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2426 - Click On Webhook Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2435 - Display Webhook OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2444 - *****************Verifying Column Header Check Is Disabled******************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2456 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2461 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2470 - Displayed LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2479 - Displayed LeadAutTestObjectRename CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2482 - Displayed LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Webhook:2503 - Clear Test From The FilterBox is Passed

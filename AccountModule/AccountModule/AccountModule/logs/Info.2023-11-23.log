@@ -1,0 +1,814 @@
+2023-11-23 11:52:01:000807 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 11:52:01:000836 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 11:52:01:000836 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 11:52:01:000836 main INFO BaseClass:133 - 1002
+2023-11-23 11:52:01:000836 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 11:52:02:000012 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 11:52:02:000173 main INFO BaseClass:138 - Entered Email
+2023-11-23 11:52:02:000322 main INFO BaseClass:140 - Entered Password
+2023-11-23 11:52:02:000402 main INFO BaseClass:142 - Click on Submit
+2023-11-23 11:52:02:000520 main INFO TC_CrudOperation_WST_AccountManagement:46 - Now In Home Page!
+2023-11-23 11:52:04:000621 main INFO TC_CrudOperation_WST_AccountManagement:51 - Clicked on AccountManagement is passed
+2023-11-23 11:52:08:000471 main INFO TC_CrudOperation_WST_AccountManagement:59 - Clicked on Sales Team
+2023-11-23 11:52:08:000964 main INFO TC_CrudOperation_WST_AccountManagement:67 - Right Click on Weighted_Sales_Team
+2023-11-23 11:52:09:000826 main INFO TC_CrudOperation_WST_AccountManagement:75 - Clicked on New WST Button
+2023-11-23 11:52:10:000829 main INFO TC_CrudOperation_WST_AccountManagement:77 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 11:52:11:000019 main INFO TC_CrudOperation_WST_AccountManagement:81 - Entered AutoTestName  PASSED!!
+2023-11-23 11:52:11:000571 main INFO TC_CrudOperation_WST_AccountManagement:90 - Entered in Description
+2023-11-23 11:52:12:000030 main INFO TC_CrudOperation_WST_AccountManagement:98 - Clicked on Save Button NewWST
+2023-11-23 11:52:12:000599 main INFO TC_CrudOperation_WST_AccountManagement:102 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 11:52:15:000628 main INFO TC_CrudOperation_WST_AccountManagement:106 - Click On RRTDropDown PASSED!!
+2023-11-23 11:52:18:000316 main INFO TC_CrudOperation_WST_AccountManagement:114 - RightClick On AutoTestObject PASSED!!
+2023-11-23 11:52:20:000412 main INFO TC_CrudOperation_WST_AccountManagement:123 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 11:52:22:000528 main INFO TC_CrudOperation_WST_AccountManagement:132 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 11:52:23:000666 main INFO TC_CrudOperation_WST_AccountManagement:140 - Display AutoTestObject Copy Deleted  PASSED!!!
+2023-11-23 11:52:23:000666 main INFO TC_CrudOperation_WST_AccountManagement:147 - Creating New Object After Deleting Old One!!!
+2023-11-23 11:52:33:000962 main INFO TC_CrudOperation_WST_AccountManagement:153 - Right Click on WST PASSED!!
+2023-11-23 11:52:38:000072 main INFO TC_CrudOperation_WST_AccountManagement:162 - Clicked on New WST PASSED!!
+2023-11-23 11:52:41:000237 main INFO TC_CrudOperation_WST_AccountManagement:172 - Entered Random Name PASSED!!
+2023-11-23 11:52:43:000537 main INFO TC_CrudOperation_WST_AccountManagement:182 - Entered in Description
+2023-11-23 11:52:45:000657 main INFO TC_CrudOperation_WST_AccountManagement:192 - Clicked on Save Btn AEtoSDR
+2023-11-23 11:52:52:000058 main INFO TC_CrudOperation_WST_AccountManagement:205 - Refreshing The Page!!
+2023-11-23 11:53:27:000586 main INFO TC_CrudOperation_WST_AccountManagement:235 - //-----------------------------First Time Drag And Drop SalesRep-------------------------------//
+2023-11-23 11:53:28:000325 main INFO TC_CrudOperation_WST_AccountManagement:238 - DND SalesRep_1
+2023-11-23 11:53:30:000478 main INFO TC_CrudOperation_WST_AccountManagement:247 - Click Inputbox1 on SalesRep PASSED! 
+2023-11-23 11:54:03:000109 main INFO TC_CrudOperation_WST_AccountManagement:266 - Select option SalesRep PASSED!!
+2023-11-23 11:54:03:000150 main INFO TC_CrudOperation_WST_AccountManagement:275 - Saving on Sales Rep is successfully!!
+2023-11-23 11:54:05:000532 main INFO TC_CrudOperation_WST_AccountManagement:285 - Input On Weight PASSED
+2023-11-23 11:54:08:000748 main INFO TC_CrudOperation_WST_AccountManagement:292 - //---------------------------------------Seconed Time Drag And Drop SalesRep------------------------------------//
+2023-11-23 11:54:09:000461 main INFO TC_CrudOperation_WST_AccountManagement:295 - DND SalesRep_2 PASSED!
+2023-11-23 11:54:15:000673 main INFO TC_CrudOperation_WST_AccountManagement:315 - Select option on Account Executive PASSED!
+2023-11-23 11:54:17:000561 main INFO TC_CrudOperation_WST_AccountManagement:324 - Input On Weight2 PASSED!
+2023-11-23 11:54:19:000571 main INFO TC_CrudOperation_WST_AccountManagement:332 - //=======================================ENTERING QUEUE MANAGEMENT PAGE============================//
+2023-11-23 11:54:25:000694 main INFO TC_CrudOperation_WST_AccountManagement:338 - Entering Queue management Page
+2023-11-23 11:54:29:000409 main INFO TC_CrudOperation_WST_AccountManagement:342 - Clicked on Radio
+2023-11-23 11:54:29:000409 main INFO TC_CrudOperation_WST_AccountManagement:343 - Clicked on Radio PASSED!!
+2023-11-23 11:54:31:000028 main INFO TC_CrudOperation_WST_AccountManagement:353 - Clicked on Assign Leads Radio Button
+2023-11-23 11:54:32:000632 main INFO TC_CrudOperation_WST_AccountManagement:357 - Clicked on CheckBox Passed
+2023-11-23 11:54:34:000237 main INFO TC_CrudOperation_WST_AccountManagement:364 - Clicked on Calendar Based Availabilty
+2023-11-23 11:54:34:000950 main INFO TC_CrudOperation_WST_AccountManagement:367 - Clicked on Makes Sales People Unavailable
+2023-11-23 11:54:35:000683 main INFO TC_CrudOperation_WST_AccountManagement:370 - Entered '10' on Before Metting
+2023-11-23 11:54:35:000800 main INFO TC_CrudOperation_WST_AccountManagement:372 - Entered '10' on After Metting
+2023-11-23 11:54:35:000893 main INFO TC_CrudOperation_WST_AccountManagement:375 - Clicked On Save
+2023-11-23 11:54:37:000950 main INFO TC_CrudOperation_WST_AccountManagement:380 - Success Message Display PASSED
+2023-11-23 11:54:39:000960 main INFO TC_CrudOperation_WST_AccountManagement:388 - //=====================================ENTERING ASSIGNMENT PAGE================================//
+2023-11-23 11:54:41:000206 main INFO TC_CrudOperation_WST_AccountManagement:393 - Entering Assignment Limit  Page
+2023-11-23 11:54:41:000913 main INFO TC_CrudOperation_WST_AccountManagement:397 - Clicked on Add Button
+2023-11-23 11:54:43:000047 main INFO TC_CrudOperation_WST_AccountManagement:405 -  Entered Input '20' on  TextArea
+2023-11-23 11:54:44:000156 main INFO TC_CrudOperation_WST_AccountManagement:408 - Entered '19' on Leads Every Input
+2023-11-23 11:54:44:000253 main INFO TC_CrudOperation_WST_AccountManagement:410 - Clicked on Select PASSED!!
+2023-11-23 11:54:45:000348 main INFO TC_CrudOperation_WST_AccountManagement:413 - Clicked on LeadsEvery Hours
+2023-11-23 11:54:45:000442 main INFO TC_CrudOperation_WST_AccountManagement:415 - Clicked on Select PASSED!!
+2023-11-23 11:54:46:000530 main INFO TC_CrudOperation_WST_AccountManagement:418 - Clicked on LeadsEvery Days
+2023-11-23 11:54:47:000626 main INFO TC_CrudOperation_WST_AccountManagement:421 - Clicked on Add Button_2
+2023-11-23 11:54:47:000742 main INFO TC_CrudOperation_WST_AccountManagement:423 -  Entered Input '20' on  TextArea
+2023-11-23 11:54:48:000851 main INFO TC_CrudOperation_WST_AccountManagement:426 - Entered '19' on Leads Every Input
+2023-11-23 11:54:48:000964 main INFO TC_CrudOperation_WST_AccountManagement:428 - Clicked on Select PASSED!!
+2023-11-23 11:54:50:000048 main INFO TC_CrudOperation_WST_AccountManagement:432 - Clicked on LeadsEvery Hours
+2023-11-23 11:54:50:000653 main INFO TC_CrudOperation_WST_AccountManagement:435 - Clicked on Select PASSED!!
+2023-11-23 11:54:51:000736 main INFO TC_CrudOperation_WST_AccountManagement:438 - Clicked on LeadsEvery Days
+2023-11-23 11:54:52:000846 main INFO TC_CrudOperation_WST_AccountManagement:442 -  Clicked on SaveBtn in Assignment Limit Page
+2023-11-23 11:54:52:000860 main INFO TC_CrudOperation_WST_AccountManagement:449 - Progress Spinner Center in Assignment Limit Page
+2023-11-23 11:54:53:000458 main INFO TC_CrudOperation_WST_AccountManagement:457 - Saved in Assignment Limit Page Successfully!!
+2023-11-23 11:54:53:000458 main INFO TC_CrudOperation_WST_AccountManagement:464 - //===================================ENTERING DETAILS PAGE==============================
+2023-11-23 11:54:55:000789 main INFO TC_CrudOperation_WST_AccountManagement:469 - Entering Details Page!!!
+2023-11-23 11:54:58:000384 main INFO TC_CrudOperation_WST_AccountManagement:478 - Clicked On Description Edit button
+2023-11-23 11:55:00:000244 main INFO TC_CrudOperation_WST_AccountManagement:487 - Input on Details TextArea passed
+2023-11-23 11:55:02:000745 main INFO TC_CrudOperation_WST_AccountManagement:497 - Clicked On Description Save buttonis passed
+2023-11-23 11:55:04:000392 main INFO TC_CrudOperation_WST_AccountManagement:505 - Clicked On Queue Owner
+2023-11-23 11:55:04:000473 main INFO TC_CrudOperation_WST_AccountManagement:507 - Select Queue Owner
+2023-11-23 11:55:06:000077 main INFO TC_CrudOperation_WST_AccountManagement:511 - ClickOnQueOwnerInDetailsPageCheckBox2 is Passed
+2023-11-23 11:55:07:000681 main INFO TC_CrudOperation_WST_AccountManagement:520 - ClockOnSaveButtonForQueOwnerInDetailsPage is Passed
+2023-11-23 11:55:08:000427 main INFO TC_CrudOperation_WST_AccountManagement:529 - DislaySuccessMessage is Passed
+2023-11-23 11:55:13:000873 main INFO TC_CrudOperation_WST_AccountManagement:538 - Refreshing The Page!!
+2023-11-23 11:55:14:000408 main INFO TC_CrudOperation_WST_AccountManagement:541 - Progressbar loading successfully PASSED!!
+2023-11-23 11:55:14:000412 main INFO TC_CrudOperation_WST_AccountManagement:550 - Progressbar loading for center successfully PASSED!!
+2023-11-23 11:55:14:000559 main INFO TC_CrudOperation_WST_AccountManagement:559 - Progressbar loading for Right successfully PASSED!!
+2023-11-23 11:55:19:000062 main INFO TC_CrudOperation_WST_AccountManagement:566 - //=========================ENTERING DETAILS PAGE AFTER REFRESHING PAGE===========================
+2023-11-23 11:55:23:000745 main INFO TC_CrudOperation_WST_AccountManagement:571 - Entering Details Page!!!
+2023-11-23 11:55:27:000006 main INFO TC_CrudOperation_WST_AccountManagement:580 - Description Message Updated successfully!
+2023-11-23 11:55:31:000522 main INFO TC_CrudOperation_WST_AccountManagement:587 - //===============================APPROVE SCENARIO START===========================//
+2023-11-23 11:55:32:000032 main INFO TC_CrudOperation_WST_AccountManagement:590 - RightClick On AutoTestObject PASSED!!
+2023-11-23 11:55:35:000306 main INFO TC_CrudOperation_WST_AccountManagement:599 - Click On Approve AutoTestObject PASSED!!!
+2023-11-23 11:55:37:000897 main INFO TC_CrudOperation_WST_AccountManagement:607 - Clicked on Approve  Submit button on Approve Dialog
+2023-11-23 11:55:38:000231 main INFO TC_CrudOperation_WST_AccountManagement:610 - Progress Spinner...Center
+2023-11-23 11:55:41:000786 main INFO TC_CrudOperation_WST_AccountManagement:615 - Approved Successfully PASSED!
+2023-11-23 11:56:01:000204 main INFO TC_CrudOperation_WST_AccountManagement:627 - RightClick On AutoTestObject PASSED!!
+2023-11-23 11:56:02:000423 main INFO TC_CrudOperation_WST_AccountManagement:634 - //==================================EDIT SCENARIO START==================================//
+2023-11-23 12:03:32:000985 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 12:03:33:000000 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 12:03:33:000000 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 12:03:33:000000 main INFO BaseClass:133 - 1002
+2023-11-23 12:03:33:000001 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 12:03:33:000158 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 12:03:33:000325 main INFO BaseClass:138 - Entered Email
+2023-11-23 12:03:33:000438 main INFO BaseClass:140 - Entered Password
+2023-11-23 12:03:33:000513 main INFO BaseClass:142 - Click on Submit
+2023-11-23 12:03:33:000613 main INFO TC_CrudOperation_WST_AccountManagement:46 - Now In Home Page!
+2023-11-23 12:03:35:000710 main INFO TC_CrudOperation_WST_AccountManagement:51 - Clicked on AccountManagement is passed
+2023-11-23 12:03:39:000504 main INFO TC_CrudOperation_WST_AccountManagement:59 - Clicked on Sales Team
+2023-11-23 12:03:39:000988 main INFO TC_CrudOperation_WST_AccountManagement:67 - Right Click on Weighted_Sales_Team
+2023-11-23 12:03:40:000824 main INFO TC_CrudOperation_WST_AccountManagement:75 - Clicked on New WST Button
+2023-11-23 12:03:41:000841 main INFO TC_CrudOperation_WST_AccountManagement:77 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 12:03:41:000984 main INFO TC_CrudOperation_WST_AccountManagement:81 - Entered AutoTestName  PASSED!!
+2023-11-23 12:03:42:000534 main INFO TC_CrudOperation_WST_AccountManagement:90 - Entered in Description
+2023-11-23 12:03:42:000983 main INFO TC_CrudOperation_WST_AccountManagement:98 - Clicked on Save Button NewWST
+2023-11-23 12:03:43:000569 main INFO TC_CrudOperation_WST_AccountManagement:102 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 12:03:46:000580 main INFO TC_CrudOperation_WST_AccountManagement:106 - Click On RRTDropDown PASSED!!
+2023-11-23 12:03:49:000236 main INFO TC_CrudOperation_WST_AccountManagement:114 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:03:51:000327 main INFO TC_CrudOperation_WST_AccountManagement:123 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 12:03:53:000429 main INFO TC_CrudOperation_WST_AccountManagement:132 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 12:03:54:000564 main INFO TC_CrudOperation_WST_AccountManagement:140 - Display AutoTestObject Copy Deleted  PASSED!!!
+2023-11-23 12:03:54:000564 main INFO TC_CrudOperation_WST_AccountManagement:147 - Creating New Object After Deleting Old One!!!
+2023-11-23 12:04:04:000835 main INFO TC_CrudOperation_WST_AccountManagement:153 - Right Click on WST PASSED!!
+2023-11-23 12:04:08:000948 main INFO TC_CrudOperation_WST_AccountManagement:162 - Clicked on New WST PASSED!!
+2023-11-23 12:04:12:000113 main INFO TC_CrudOperation_WST_AccountManagement:172 - Entered Random Name PASSED!!
+2023-11-23 12:04:14:000390 main INFO TC_CrudOperation_WST_AccountManagement:182 - Entered in Description
+2023-11-23 12:04:16:000500 main INFO TC_CrudOperation_WST_AccountManagement:192 - Clicked on Save Btn AEtoSDR
+2023-11-23 12:04:22:000860 main INFO TC_CrudOperation_WST_AccountManagement:205 - Refreshing The Page!!
+2023-11-23 12:04:57:000977 main INFO TC_CrudOperation_WST_AccountManagement:235 - //-----------------------------First Time Drag And Drop SalesRep-------------------------------//
+2023-11-23 12:04:58:000687 main INFO TC_CrudOperation_WST_AccountManagement:238 - DND SalesRep_1
+2023-11-23 12:05:00:000832 main INFO TC_CrudOperation_WST_AccountManagement:247 - Click Inputbox1 on SalesRep PASSED! 
+2023-11-23 12:05:33:000053 main INFO TC_CrudOperation_WST_AccountManagement:266 - Select option SalesRep PASSED!!
+2023-11-23 12:05:33:000094 main INFO TC_CrudOperation_WST_AccountManagement:275 - Saving on Sales Rep is successfully!!
+2023-11-23 12:05:35:000468 main INFO TC_CrudOperation_WST_AccountManagement:285 - Input On Weight PASSED
+2023-11-23 12:05:38:000675 main INFO TC_CrudOperation_WST_AccountManagement:292 - //---------------------------------------Seconed Time Drag And Drop SalesRep------------------------------------//
+2023-11-23 12:05:39:000369 main INFO TC_CrudOperation_WST_AccountManagement:295 - DND SalesRep_2 PASSED!
+2023-11-23 12:05:45:000586 main INFO TC_CrudOperation_WST_AccountManagement:315 - Select option on Account Executive PASSED!
+2023-11-23 12:05:47:000487 main INFO TC_CrudOperation_WST_AccountManagement:324 - Input On Weight2 PASSED!
+2023-11-23 12:05:49:000500 main INFO TC_CrudOperation_WST_AccountManagement:332 - //=======================================ENTERING QUEUE MANAGEMENT PAGE============================//
+2023-11-23 12:05:55:000602 main INFO TC_CrudOperation_WST_AccountManagement:338 - Entering Queue management Page
+2023-11-23 12:05:59:000302 main INFO TC_CrudOperation_WST_AccountManagement:342 - Clicked on Radio
+2023-11-23 12:05:59:000303 main INFO TC_CrudOperation_WST_AccountManagement:343 - Clicked on Radio PASSED!!
+2023-11-23 12:06:00:000903 main INFO TC_CrudOperation_WST_AccountManagement:353 - Clicked on Assign Leads Radio Button
+2023-11-23 12:06:02:000521 main INFO TC_CrudOperation_WST_AccountManagement:357 - Clicked on CheckBox Passed
+2023-11-23 12:06:04:000127 main INFO TC_CrudOperation_WST_AccountManagement:364 - Clicked on Calendar Based Availabilty
+2023-11-23 12:06:04:000825 main INFO TC_CrudOperation_WST_AccountManagement:367 - Clicked on Makes Sales People Unavailable
+2023-11-23 12:06:05:000530 main INFO TC_CrudOperation_WST_AccountManagement:370 - Entered '10' on Before Metting
+2023-11-23 12:06:05:000650 main INFO TC_CrudOperation_WST_AccountManagement:372 - Entered '10' on After Metting
+2023-11-23 12:06:05:000746 main INFO TC_CrudOperation_WST_AccountManagement:375 - Clicked On Save
+2023-11-23 12:06:07:000815 main INFO TC_CrudOperation_WST_AccountManagement:380 - Success Message Display PASSED
+2023-11-23 12:06:09:000816 main INFO TC_CrudOperation_WST_AccountManagement:388 - //=====================================ENTERING ASSIGNMENT PAGE================================//
+2023-11-23 12:06:11:000055 main INFO TC_CrudOperation_WST_AccountManagement:393 - Entering Assignment Limit  Page
+2023-11-23 12:06:11:000767 main INFO TC_CrudOperation_WST_AccountManagement:397 - Clicked on Add Button
+2023-11-23 12:06:12:000895 main INFO TC_CrudOperation_WST_AccountManagement:405 -  Entered Input '20' on  TextArea
+2023-11-23 12:06:14:000009 main INFO TC_CrudOperation_WST_AccountManagement:408 - Entered '19' on Leads Every Input
+2023-11-23 12:06:14:000102 main INFO TC_CrudOperation_WST_AccountManagement:410 - Clicked on Select PASSED!!
+2023-11-23 12:06:15:000193 main INFO TC_CrudOperation_WST_AccountManagement:413 - Clicked on LeadsEvery Hours
+2023-11-23 12:06:15:000280 main INFO TC_CrudOperation_WST_AccountManagement:415 - Clicked on Select PASSED!!
+2023-11-23 12:06:16:000387 main INFO TC_CrudOperation_WST_AccountManagement:418 - Clicked on LeadsEvery Days
+2023-11-23 12:06:17:000467 main INFO TC_CrudOperation_WST_AccountManagement:421 - Clicked on Add Button_2
+2023-11-23 12:06:17:000578 main INFO TC_CrudOperation_WST_AccountManagement:423 -  Entered Input '20' on  TextArea
+2023-11-23 12:06:18:000689 main INFO TC_CrudOperation_WST_AccountManagement:426 - Entered '19' on Leads Every Input
+2023-11-23 12:06:18:000791 main INFO TC_CrudOperation_WST_AccountManagement:428 - Clicked on Select PASSED!!
+2023-11-23 12:06:19:000871 main INFO TC_CrudOperation_WST_AccountManagement:432 - Clicked on LeadsEvery Hours
+2023-11-23 12:06:20:000463 main INFO TC_CrudOperation_WST_AccountManagement:435 - Clicked on Select PASSED!!
+2023-11-23 12:06:21:000554 main INFO TC_CrudOperation_WST_AccountManagement:438 - Clicked on LeadsEvery Days
+2023-11-23 12:06:22:000687 main INFO TC_CrudOperation_WST_AccountManagement:442 -  Clicked on SaveBtn in Assignment Limit Page
+2023-11-23 12:06:22:000703 main INFO TC_CrudOperation_WST_AccountManagement:449 - Progress Spinner Center in Assignment Limit Page
+2023-11-23 12:06:23:000279 main INFO TC_CrudOperation_WST_AccountManagement:457 - Saved in Assignment Limit Page Successfully!!
+2023-11-23 12:06:23:000279 main INFO TC_CrudOperation_WST_AccountManagement:464 - //===================================ENTERING DETAILS PAGE==============================
+2023-11-23 12:06:25:000552 main INFO TC_CrudOperation_WST_AccountManagement:469 - Entering Details Page!!!
+2023-11-23 12:06:28:000129 main INFO TC_CrudOperation_WST_AccountManagement:478 - Clicked On Description Edit button
+2023-11-23 12:06:29:000957 main INFO TC_CrudOperation_WST_AccountManagement:487 - Input on Details TextArea passed
+2023-11-23 12:06:32:000459 main INFO TC_CrudOperation_WST_AccountManagement:497 - Clicked On Description Save buttonis passed
+2023-11-23 12:06:34:000105 main INFO TC_CrudOperation_WST_AccountManagement:505 - Clicked On Queue Owner
+2023-11-23 12:06:34:000194 main INFO TC_CrudOperation_WST_AccountManagement:507 - Select Queue Owner
+2023-11-23 12:06:35:000790 main INFO TC_CrudOperation_WST_AccountManagement:511 - ClickOnQueOwnerInDetailsPageCheckBox2 is Passed
+2023-11-23 12:06:37:000371 main INFO TC_CrudOperation_WST_AccountManagement:520 - ClockOnSaveButtonForQueOwnerInDetailsPage is Passed
+2023-11-23 12:06:38:000100 main INFO TC_CrudOperation_WST_AccountManagement:529 - DislaySuccessMessage is Passed
+2023-11-23 12:06:43:000545 main INFO TC_CrudOperation_WST_AccountManagement:538 - Refreshing The Page!!
+2023-11-23 12:06:44:000079 main INFO TC_CrudOperation_WST_AccountManagement:541 - Progressbar loading successfully PASSED!!
+2023-11-23 12:06:44:000090 main INFO TC_CrudOperation_WST_AccountManagement:550 - Progressbar loading for center successfully PASSED!!
+2023-11-23 12:06:44:000223 main INFO TC_CrudOperation_WST_AccountManagement:559 - Progressbar loading for Right successfully PASSED!!
+2023-11-23 12:06:48:000730 main INFO TC_CrudOperation_WST_AccountManagement:566 - //=========================ENTERING DETAILS PAGE AFTER REFRESHING PAGE===========================
+2023-11-23 12:06:53:000385 main INFO TC_CrudOperation_WST_AccountManagement:571 - Entering Details Page!!!
+2023-11-23 12:06:56:000637 main INFO TC_CrudOperation_WST_AccountManagement:580 - Description Message Updated successfully!
+2023-11-23 12:07:01:000139 main INFO TC_CrudOperation_WST_AccountManagement:587 - //===============================APPROVE SCENARIO START===========================//
+2023-11-23 12:07:01:000632 main INFO TC_CrudOperation_WST_AccountManagement:590 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:07:04:000915 main INFO TC_CrudOperation_WST_AccountManagement:599 - Click On Approve AutoTestObject PASSED!!!
+2023-11-23 12:07:07:000515 main INFO TC_CrudOperation_WST_AccountManagement:607 - Clicked on Approve  Submit button on Approve Dialog
+2023-11-23 12:07:07:000836 main INFO TC_CrudOperation_WST_AccountManagement:610 - Progress Spinner...Center
+2023-11-23 12:07:11:000389 main INFO TC_CrudOperation_WST_AccountManagement:615 - Approved Successfully PASSED!
+2023-11-23 12:07:20:000361 main INFO TC_CrudOperation_WST_AccountManagement:627 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:07:23:000876 main INFO TC_CrudOperation_WST_AccountManagement:634 - //==================================EDIT SCENARIO START==================================//
+2023-11-23 12:07:23:000998 main INFO TC_CrudOperation_WST_AccountManagement:638 - Click On Edit AutoTestAEtoSDR!!!
+2023-11-23 12:07:24:000028 main INFO TC_CrudOperation_WST_AccountManagement:647 - Progressbar loading successfully PASSED!!
+2023-11-23 12:07:24:000046 main INFO TC_CrudOperation_WST_AccountManagement:656 - Progressbar loading for center successfully PASSED!!
+2023-11-23 12:07:28:000677 main INFO TC_CrudOperation_WST_AccountManagement:665 - Input On Weight3
+2023-11-23 12:07:29:000296 main INFO TC_CrudOperation_WST_AccountManagement:668 - Click on Expand All
+2023-11-23 12:07:33:000207 main INFO TC_CrudOperation_WST_AccountManagement:671 - ==========================================RENAME SCENARIO START=================================
+2023-11-23 12:07:37:000263 main INFO TC_CrudOperation_WST_AccountManagement:676 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:07:38:000892 main INFO TC_CrudOperation_WST_AccountManagement:685 - Click On Rename AutoTestObject!!!
+2023-11-23 12:07:40:000134 main INFO TC_CrudOperation_WST_AccountManagement:694 - Input on Rename AutoTestObject!!!
+2023-11-23 12:07:41:000238 main INFO TC_CrudOperation_WST_AccountManagement:704 - Click on RenameBtn AutoTestObject PASSED!!!
+2023-11-23 12:07:47:000485 main INFO TC_CrudOperation_WST_AccountManagement:846 - Renaming AutoTestObject PASSED!!!
+2023-11-23 12:07:51:000000 main INFO TC_CrudOperation_WST_AccountManagement:855 - //=====================================CLONE SCENARIO START============================//
+2023-11-23 12:07:51:000471 main INFO TC_CrudOperation_WST_AccountManagement:858 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 12:07:52:000169 main INFO TC_CrudOperation_WST_AccountManagement:867 - Click On Clone in RenamedAutoTestObject PASSED!!!
+2023-11-23 12:07:53:000296 main INFO TC_CrudOperation_WST_AccountManagement:877 - Click On Clone Btn in RenamedAutoTestObject PASSED!!!
+2023-11-23 12:07:57:000274 main INFO TC_CrudOperation_WST_AccountManagement:885 - Cloning RenamedAutoTestObject PASSED!!!
+2023-11-23 12:08:01:000672 main INFO TC_CrudOperation_WST_AccountManagement:895 - RightClick On ClonedAutoTestObject PASSED!!!
+2023-11-23 12:08:01:000673 main INFO TC_CrudOperation_WST_AccountManagement:901 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+2023-11-23 12:08:01:000755 main INFO TC_CrudOperation_WST_AccountManagement:905 - Click On Delete Btn in CloneAutoTestAEtoSDR!!!
+2023-11-23 12:08:01:000885 main INFO TC_CrudOperation_WST_AccountManagement:913 - Click On Delete Btn in CloneAutoTestObject!!!
+2023-11-23 12:08:06:000029 main INFO TC_CrudOperation_WST_AccountManagement:923 -  Display ClonedAutoTestObject Deleted successfully PASSED!!!
+2023-11-23 12:08:17:000035 main INFO TC_CrudOperation_WST_AccountManagement:935 - RightClick On RenamedAutoTestObject!!!
+2023-11-23 12:08:17:000036 main INFO TC_CrudOperation_WST_AccountManagement:941 - //===============================MOVE OBJECT SCENARIO START========================================
+2023-11-23 12:08:27:000150 main INFO TC_CrudOperation_WST_AccountManagement:945 - Click On Move RenamedAutoTestObject!!!
+2023-11-23 12:08:33:000243 main INFO TC_CrudOperation_WST_AccountManagement:955 - Select Folder in MoveWST!!!
+2023-11-23 12:08:33:000303 main INFO TC_CrudOperation_WST_AccountManagement:993 - Select Folder in MoveWST!!!
+2023-11-23 12:08:33:000414 main INFO TC_CrudOperation_WST_AccountManagement:1001 - Click On MoveBtn!!!
+2023-11-23 12:08:38:000426 main INFO TC_CrudOperation_WST_AccountManagement:1009 - Waited 7 Seconds to Reload!!!
+2023-11-23 12:08:46:000415 main INFO TC_CrudOperation_WST_AccountManagement:1013 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 12:08:46:000415 main INFO TC_CrudOperation_WST_AccountManagement:1019 - //===============================DELETE OBJECT SCENARIO START========================================
+2023-11-23 12:08:53:000502 main INFO TC_CrudOperation_WST_AccountManagement:1023 - Click On Delete Btn in CloneAutoTestObject!!!
+2023-11-23 12:08:57:000101 main INFO TC_CrudOperation_WST_AccountManagement:1032 - Click On Delete Btn in CloneAutoTestObject!!!
+2023-11-23 12:08:58:000188 main INFO TC_CrudOperation_WST_AccountManagement:1041 - Display AutoTestObject Deleted  PASSED!!!
+2023-11-23 12:22:18:000457 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 12:22:18:000486 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 12:22:18:000486 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 12:22:18:000486 main INFO BaseClass:133 - 1002
+2023-11-23 12:22:18:000487 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 12:22:18:000657 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 12:22:18:000798 main INFO BaseClass:138 - Entered Email
+2023-11-23 12:22:18:000921 main INFO BaseClass:140 - Entered Password
+2023-11-23 12:22:18:000997 main INFO BaseClass:142 - Click on Submit
+2023-11-23 12:22:21:000280 main INFO TC_CrudOperation_AccountList_AccountManagement:37 - Clicked on AccountManagement is Passed
+2023-11-23 12:22:25:000281 main INFO TC_CrudOperation_AccountList_AccountManagement:46 - Clicked on Data Dictionary
+2023-11-23 12:22:27:000885 main INFO TC_CrudOperation_AccountList_AccountManagement:55 - Right Click on AccountList
+2023-11-23 12:22:29:000228 main INFO TC_CrudOperation_AccountList_AccountManagement:64 - Clicked on New Account list PASSED!!
+2023-11-23 12:22:30:000441 main INFO TC_CrudOperation_AccountList_AccountManagement:72 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 12:22:30:000594 main INFO TC_CrudOperation_AccountList_AccountManagement:75 - Entered AutoTestName PASSED!!
+2023-11-23 12:22:31:000823 main INFO TC_CrudOperation_AccountList_AccountManagement:84 - Entered in Description
+2023-11-23 12:22:32:000934 main INFO TC_CrudOperation_AccountList_AccountManagement:93 - Clicked on Save Button NewWST
+2023-11-23 12:22:40:000907 main INFO TC_CrudOperation_AccountList_AccountManagement:199 - Refreshing The Page!!
+2023-11-23 12:23:16:000404 main INFO TC_CrudOperation_AccountList_AccountManagement:233 - //================================================DND Operation===============================================
+2023-11-23 12:23:18:000623 main INFO TC_CrudOperation_AccountList_AccountManagement:237 - Clicked On AccountList Attr
+2023-11-23 12:23:20:000854 main INFO TC_CrudOperation_AccountList_AccountManagement:247 - AccountList_DND 
+2023-11-23 12:23:25:000030 main INFO TC_CrudOperation_AccountList_AccountManagement:259 - Select In in Account Name PASSED!!
+2023-11-23 12:23:26:000659 main INFO TC_CrudOperation_AccountList_AccountManagement:268 - Clicked on Add Button PASSED!!
+2023-11-23 12:23:28:000284 main INFO TC_CrudOperation_AccountList_AccountManagement:277 - Selected One Account PASSED!!
+2023-11-23 12:23:29:000902 main INFO TC_CrudOperation_AccountList_AccountManagement:285 - Clicked on Save button PASSED!!
+2023-11-23 12:23:32:000414 main INFO TC_CrudOperation_AccountList_AccountManagement:292 - //================================================ENTERING DETAILS PAGE===============================================
+2023-11-23 12:23:35:000066 main INFO TC_CrudOperation_AccountList_AccountManagement:297 - Entering Details Page!!!
+2023-11-23 12:23:35:000131 main INFO TC_CrudOperation_AccountList_AccountManagement:304 - Clicked On Description Edit button
+2023-11-23 12:23:35:000531 main INFO TC_CrudOperation_AccountList_AccountManagement:307 - Input on Details TextArea
+2023-11-23 12:23:35:000605 main INFO TC_CrudOperation_AccountList_AccountManagement:309 - Clicked On Description Save button
+2023-11-23 12:23:48:000392 main INFO TC_CrudOperation_AccountList_AccountManagement:318 - Entering Details Page!!!
+2023-11-23 12:23:48:000434 main INFO TC_CrudOperation_AccountList_AccountManagement:326 - Description Message Updated successfully!
+2023-11-23 12:23:51:000947 main INFO TC_CrudOperation_AccountList_AccountManagement:333 - //=======================================APPROVE SCENARIO START======================================//
+2023-11-23 12:23:52:000441 main INFO TC_CrudOperation_AccountList_AccountManagement:337 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:23:54:000033 main INFO TC_CrudOperation_AccountList_AccountManagement:347 - Click On ApproveBtn AutoTestObject PASSED!!
+2023-11-23 12:23:55:000114 main INFO TC_CrudOperation_AccountList_AccountManagement:355 - Clicked on Approve  Submit button on Approve Dialog
+2023-11-23 12:23:55:000137 main INFO TC_CrudOperation_AccountList_AccountManagement:357 - Progress Spinner...Center
+2023-11-23 12:23:56:000296 main INFO TC_CrudOperation_AccountList_AccountManagement:360 - Approved Successfully PASSED!
+2023-11-23 12:23:56:000296 main INFO TC_CrudOperation_AccountList_AccountManagement:366 - //========================================EDIT SCENARIO START=======================================
+2023-11-23 12:24:05:000153 main INFO TC_CrudOperation_AccountList_AccountManagement:372 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:24:08:000273 main INFO TC_CrudOperation_AccountList_AccountManagement:381 - Click On Edit AutoTestObject PASSED!!!
+2023-11-23 12:24:10:000595 main INFO TC_CrudOperation_AccountList_AccountManagement:391 - Clicked on Add Button is PASSED!!
+2023-11-23 12:24:11:000734 main INFO TC_CrudOperation_AccountList_AccountManagement:401 - Selected One Account is PASSED!!
+2023-11-23 12:24:12:000837 main INFO TC_CrudOperation_AccountList_AccountManagement:409 - Clicked on Save btn in FirstName In PASSED!!
+2023-11-23 12:24:16:000344 main INFO TC_CrudOperation_AccountList_AccountManagement:416 - =============================================RENAME SCENARIO START====================================
+2023-11-23 12:24:20:000314 main INFO TC_CrudOperation_AccountList_AccountManagement:420 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:24:21:000412 main INFO TC_CrudOperation_AccountList_AccountManagement:429 - Click On Rename AutoTestObject PASSED!!!
+2023-11-23 12:24:22:000640 main INFO TC_CrudOperation_AccountList_AccountManagement:438 - Input on Rename AutoTestObject!!!
+2023-11-23 12:24:23:000773 main INFO TC_CrudOperation_AccountList_AccountManagement:447 - Click on RenameBtn AutoTestObject PASSED!!!
+2023-11-23 12:24:30:000159 main INFO TC_CrudOperation_AccountList_AccountManagement:586 - Renaming AutoTestObject PASSED!!!
+2023-11-23 12:24:35:000133 main INFO TC_CrudOperation_AccountList_AccountManagement:596 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 12:24:35:000133 main INFO TC_CrudOperation_AccountList_AccountManagement:602 - //===============================CLONE SCENARIO START========================================
+2023-11-23 12:24:35:000320 main INFO TC_CrudOperation_AccountList_AccountManagement:605 - Click On Clone in Renamed AutoTestObject PASSED!!
+2023-11-23 12:24:35:000443 main INFO TC_CrudOperation_AccountList_AccountManagement:614 - Click On Clone Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 12:24:39:000306 main INFO TC_CrudOperation_AccountList_AccountManagement:622 - Cloning RenamedAutoTestObject PASSED!!!
+2023-11-23 12:24:43:000317 main INFO TC_CrudOperation_AccountList_AccountManagement:632 - RightClick On ClonedAutoTestObject PASSED!!!
+2023-11-23 12:24:43:000317 main INFO TC_CrudOperation_AccountList_AccountManagement:638 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+2023-11-23 12:24:43:000399 main INFO TC_CrudOperation_AccountList_AccountManagement:641 - Click On Delete Btn in Cloned AutoTestObject PASSED!!!
+2023-11-23 12:24:43:000504 main INFO TC_CrudOperation_AccountList_AccountManagement:649 - Click On Delete Btn in Cloned AutoTestObject PASSED!!!
+2023-11-23 12:24:45:000574 main INFO TC_CrudOperation_AccountList_AccountManagement:658 -  Display ClonedAutoTestObject Deleted successfully PASSED!!!
+2023-11-23 12:24:58:000069 main INFO TC_CrudOperation_AccountList_AccountManagement:669 - RightClick On RenamedAutoTestObject!!!
+2023-11-23 12:24:58:000070 main INFO TC_CrudOperation_AccountList_AccountManagement:676 - //===============================MOVE OBJECT SCENARIO START========================================
+2023-11-23 12:25:03:000374 main INFO TC_CrudOperation_AccountList_AccountManagement:681 - Click On Move Renamed AutoTestObject PASSED!!!
+2023-11-23 12:25:07:000948 main INFO TC_CrudOperation_AccountList_AccountManagement:691 - Select Folder in MoveAEtoSDR!!!
+2023-11-23 12:25:23:000085 main INFO TC_CrudOperation_AccountList_AccountManagement:730 - Click On MoveBtn!!!
+2023-11-23 12:25:28:000091 main INFO TC_CrudOperation_AccountList_AccountManagement:738 - Waited 5 Seconds to Reload!!!
+2023-11-23 12:25:37:000648 main INFO TC_CrudOperation_AccountList_AccountManagement:744 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 12:25:37:000648 main INFO TC_CrudOperation_AccountList_AccountManagement:750 - //===============================DELETE OBJECT SCENARIO START========================================
+2023-11-23 12:25:42:000532 main INFO TC_CrudOperation_AccountList_AccountManagement:754 - Click On Delete Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 12:25:46:000733 main INFO TC_CrudOperation_AccountList_AccountManagement:763 - Click On Delete Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 12:25:47:000497 main INFO TC_CrudOperation_AccountList_AccountManagement:772 - Display Renamed AutoTestObject Deleted  PASSED!!!
+2023-11-23 12:31:27:000574 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 12:31:27:000596 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 12:31:27:000597 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 12:31:27:000597 main INFO BaseClass:133 - 1002
+2023-11-23 12:31:27:000597 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 12:31:27:000754 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 12:31:27:000917 main INFO BaseClass:138 - Entered Email
+2023-11-23 12:31:28:000048 main INFO BaseClass:140 - Entered Password
+2023-11-23 12:31:28:000136 main INFO BaseClass:142 - Click on Submit
+2023-11-23 12:31:30:000441 main INFO TC_CrudOperation_AccountList_AccountManagement:37 - Clicked on AccountManagement is Passed
+2023-11-23 12:31:34:000440 main INFO TC_CrudOperation_AccountList_AccountManagement:46 - Clicked on Data Dictionary
+2023-11-23 12:31:37:000033 main INFO TC_CrudOperation_AccountList_AccountManagement:55 - Right Click on AccountList
+2023-11-23 12:31:38:000389 main INFO TC_CrudOperation_AccountList_AccountManagement:64 - Clicked on New Account list PASSED!!
+2023-11-23 12:31:39:000592 main INFO TC_CrudOperation_AccountList_AccountManagement:72 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 12:31:39:000748 main INFO TC_CrudOperation_AccountList_AccountManagement:75 - Entered AutoTestName PASSED!!
+2023-11-23 12:31:40:000989 main INFO TC_CrudOperation_AccountList_AccountManagement:84 - Entered in Description
+2023-11-23 12:31:42:000098 main INFO TC_CrudOperation_AccountList_AccountManagement:93 - Clicked on Save Button NewWST
+2023-11-23 12:31:42:000674 main INFO TC_CrudOperation_AccountList_AccountManagement:102 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 12:31:42:000857 main INFO TC_CrudOperation_AccountList_AccountManagement:106 - ClickOnAccountListDropDown passed
+2023-11-23 12:34:52:000134 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 12:34:52:000158 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 12:34:52:000158 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 12:34:52:000158 main INFO BaseClass:133 - 1002
+2023-11-23 12:34:52:000158 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 12:34:52:000312 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 12:34:52:000462 main INFO BaseClass:138 - Entered Email
+2023-11-23 12:34:52:000580 main INFO BaseClass:140 - Entered Password
+2023-11-23 12:34:52:000685 main INFO BaseClass:142 - Click on Submit
+2023-11-23 12:34:54:000952 main INFO TC_CrudOperation_AccountList_AccountManagement:37 - Clicked on AccountManagement is Passed
+2023-11-23 12:34:58:000945 main INFO TC_CrudOperation_AccountList_AccountManagement:46 - Clicked on Data Dictionary
+2023-11-23 12:35:01:000544 main INFO TC_CrudOperation_AccountList_AccountManagement:55 - Right Click on AccountList
+2023-11-23 12:35:02:000899 main INFO TC_CrudOperation_AccountList_AccountManagement:64 - Clicked on New Account list PASSED!!
+2023-11-23 12:35:04:000108 main INFO TC_CrudOperation_AccountList_AccountManagement:72 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 12:35:04:000244 main INFO TC_CrudOperation_AccountList_AccountManagement:75 - Entered AutoTestName PASSED!!
+2023-11-23 12:35:05:000549 main INFO TC_CrudOperation_AccountList_AccountManagement:84 - Entered in Description
+2023-11-23 12:35:06:000676 main INFO TC_CrudOperation_AccountList_AccountManagement:93 - Clicked on Save Button NewWST
+2023-11-23 12:35:07:000244 main INFO TC_CrudOperation_AccountList_AccountManagement:102 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 12:35:07:000430 main INFO TC_CrudOperation_AccountList_AccountManagement:106 - ClickOnAccountListDropDown passed
+2023-11-23 12:39:15:000487 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 12:39:15:000506 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 12:39:15:000509 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 12:39:15:000509 main INFO BaseClass:133 - 1002
+2023-11-23 12:39:15:000510 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 12:39:15:000655 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 12:39:15:000809 main INFO BaseClass:138 - Entered Email
+2023-11-23 12:39:15:000924 main INFO BaseClass:140 - Entered Password
+2023-11-23 12:39:16:000008 main INFO BaseClass:142 - Click on Submit
+2023-11-23 12:39:18:000284 main INFO TC_CrudOperation_AccountList_AccountManagement:37 - Clicked on AccountManagement is Passed
+2023-11-23 12:39:22:000238 main INFO TC_CrudOperation_AccountList_AccountManagement:46 - Clicked on Data Dictionary
+2023-11-23 12:39:24:000851 main INFO TC_CrudOperation_AccountList_AccountManagement:55 - Right Click on AccountList
+2023-11-23 12:39:26:000188 main INFO TC_CrudOperation_AccountList_AccountManagement:64 - Clicked on New Account list PASSED!!
+2023-11-23 12:39:27:000397 main INFO TC_CrudOperation_AccountList_AccountManagement:72 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 12:39:27:000558 main INFO TC_CrudOperation_AccountList_AccountManagement:75 - Entered AutoTestName PASSED!!
+2023-11-23 12:39:28:000807 main INFO TC_CrudOperation_AccountList_AccountManagement:84 - Entered in Description
+2023-11-23 12:39:29:000901 main INFO TC_CrudOperation_AccountList_AccountManagement:93 - Clicked on Save Button NewWST
+2023-11-23 12:39:30:000475 main INFO TC_CrudOperation_AccountList_AccountManagement:102 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 12:39:30:000661 main INFO TC_CrudOperation_AccountList_AccountManagement:106 - ClickOnAccountListDropDown passed
+2023-11-23 12:44:39:000828 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 12:44:39:000850 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 12:44:39:000851 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 12:44:39:000851 main INFO BaseClass:133 - 1002
+2023-11-23 12:44:39:000851 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 12:44:39:000988 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 12:44:40:000126 main INFO BaseClass:138 - Entered Email
+2023-11-23 12:44:40:000244 main INFO BaseClass:140 - Entered Password
+2023-11-23 12:44:40:000334 main INFO BaseClass:142 - Click on Submit
+2023-11-23 12:44:43:000021 main INFO TC_CrudOperation_AccountList_AccountManagement:37 - Clicked on AccountManagement is Passed
+2023-11-23 12:44:46:000698 main INFO TC_CrudOperation_AccountList_AccountManagement:46 - Clicked on Data Dictionary
+2023-11-23 12:44:49:000690 main INFO TC_CrudOperation_AccountList_AccountManagement:55 - Right Click on AccountList
+2023-11-23 12:44:52:000316 main INFO TC_CrudOperation_AccountList_AccountManagement:64 - Clicked on New Account list PASSED!!
+2023-11-23 12:44:54:000831 main INFO TC_CrudOperation_AccountList_AccountManagement:72 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 12:44:54:000961 main INFO TC_CrudOperation_AccountList_AccountManagement:75 - Entered AutoTestName PASSED!!
+2023-11-23 12:44:57:000727 main INFO TC_CrudOperation_AccountList_AccountManagement:84 - Entered in Description
+2023-11-23 12:45:00:000324 main INFO TC_CrudOperation_AccountList_AccountManagement:93 - Clicked on Save Button NewWST
+2023-11-23 12:45:00:000909 main INFO TC_CrudOperation_AccountList_AccountManagement:102 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 12:45:03:000581 main INFO TC_CrudOperation_AccountList_AccountManagement:106 - ClickOnAccountListDropDown passed
+2023-11-23 12:49:15:000038 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 12:49:15:000061 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 12:49:15:000061 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 12:49:15:000062 main INFO BaseClass:133 - 1002
+2023-11-23 12:49:15:000062 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 12:49:15:000206 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 12:49:15:000354 main INFO BaseClass:138 - Entered Email
+2023-11-23 12:49:15:000476 main INFO BaseClass:140 - Entered Password
+2023-11-23 12:49:15:000560 main INFO BaseClass:142 - Click on Submit
+2023-11-23 12:49:18:000271 main INFO TC_CrudOperation_AccountList_AccountManagement:37 - Clicked on AccountManagement is Passed
+2023-11-23 12:49:22:000530 main INFO TC_CrudOperation_AccountList_AccountManagement:46 - Clicked on Data Dictionary
+2023-11-23 12:49:25:000539 main INFO TC_CrudOperation_AccountList_AccountManagement:55 - Right Click on AccountList
+2023-11-23 12:49:28:000157 main INFO TC_CrudOperation_AccountList_AccountManagement:64 - Clicked on New Account list PASSED!!
+2023-11-23 12:49:30:000670 main INFO TC_CrudOperation_AccountList_AccountManagement:72 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 12:49:30:000820 main INFO TC_CrudOperation_AccountList_AccountManagement:75 - Entered AutoTestName PASSED!!
+2023-11-23 12:49:33:000557 main INFO TC_CrudOperation_AccountList_AccountManagement:84 - Entered in Description
+2023-11-23 12:49:36:000161 main INFO TC_CrudOperation_AccountList_AccountManagement:93 - Clicked on Save Button NewWST
+2023-11-23 12:49:36:000738 main INFO TC_CrudOperation_AccountList_AccountManagement:102 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 12:49:39:000416 main INFO TC_CrudOperation_AccountList_AccountManagement:106 - ClickOnAccountListDropDown passed
+2023-11-23 12:49:49:000047 main INFO TC_CrudOperation_AccountList_AccountManagement:117 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:49:51:000648 main INFO TC_CrudOperation_AccountList_AccountManagement:126 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 12:49:54:000251 main INFO TC_CrudOperation_AccountList_AccountManagement:135 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 12:49:55:000403 main INFO TC_CrudOperation_AccountList_AccountManagement:143 - Display AutoTestObject Copy Deleted  PASSED!!!
+2023-11-23 12:49:55:000403 main INFO TC_CrudOperation_AccountList_AccountManagement:150 - Creating New Object After Deleting Old One!!!
+2023-11-23 12:49:56:000679 main INFO TC_CrudOperation_AccountList_AccountManagement:152 - Refreshing The Page!!
+2023-11-23 12:50:03:000014 main INFO TC_CrudOperation_AccountList_AccountManagement:156 - Right Click on AccountList
+2023-11-23 12:50:05:000116 main INFO TC_CrudOperation_AccountList_AccountManagement:166 - Clicked on New Account list PASSED!!
+2023-11-23 12:50:06:000264 main INFO TC_CrudOperation_AccountList_AccountManagement:175 - Entered Random Name PASSED!!
+2023-11-23 12:50:06:000836 main INFO TC_CrudOperation_AccountList_AccountManagement:184 - Entered in Description
+2023-11-23 12:50:07:000260 main INFO TC_CrudOperation_AccountList_AccountManagement:193 - Clicked on Save Btn AEtoSDR
+2023-11-23 12:50:12:000119 main INFO TC_CrudOperation_AccountList_AccountManagement:207 - Refreshing The Page!!
+2023-11-23 12:50:47:000645 main INFO TC_CrudOperation_AccountList_AccountManagement:241 - //================================================DND Operation===============================================
+2023-11-23 12:50:49:000885 main INFO TC_CrudOperation_AccountList_AccountManagement:245 - Clicked On AccountList Attr
+2023-11-23 12:50:52:000072 main INFO TC_CrudOperation_AccountList_AccountManagement:255 - AccountList_DND 
+2023-11-23 12:50:56:000248 main INFO TC_CrudOperation_AccountList_AccountManagement:267 - Select In in Account Name PASSED!!
+2023-11-23 12:50:57:000872 main INFO TC_CrudOperation_AccountList_AccountManagement:276 - Clicked on Add Button PASSED!!
+2023-11-23 12:50:59:000494 main INFO TC_CrudOperation_AccountList_AccountManagement:285 - Selected One Account PASSED!!
+2023-11-23 12:51:01:000112 main INFO TC_CrudOperation_AccountList_AccountManagement:293 - Clicked on Save button PASSED!!
+2023-11-23 12:51:03:000625 main INFO TC_CrudOperation_AccountList_AccountManagement:300 - //================================================ENTERING DETAILS PAGE===============================================
+2023-11-23 12:51:06:000258 main INFO TC_CrudOperation_AccountList_AccountManagement:305 - Entering Details Page!!!
+2023-11-23 12:51:06:000334 main INFO TC_CrudOperation_AccountList_AccountManagement:312 - Clicked On Description Edit button
+2023-11-23 12:51:06:000710 main INFO TC_CrudOperation_AccountList_AccountManagement:315 - Input on Details TextArea
+2023-11-23 12:51:06:000803 main INFO TC_CrudOperation_AccountList_AccountManagement:317 - Clicked On Description Save button
+2023-11-23 12:51:20:000053 main INFO TC_CrudOperation_AccountList_AccountManagement:326 - Entering Details Page!!!
+2023-11-23 12:51:20:000080 main INFO TC_CrudOperation_AccountList_AccountManagement:334 - Description Message Updated successfully!
+2023-11-23 12:51:23:000603 main INFO TC_CrudOperation_AccountList_AccountManagement:341 - //=======================================APPROVE SCENARIO START======================================//
+2023-11-23 12:51:24:000088 main INFO TC_CrudOperation_AccountList_AccountManagement:345 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:51:25:000677 main INFO TC_CrudOperation_AccountList_AccountManagement:355 - Click On ApproveBtn AutoTestObject PASSED!!
+2023-11-23 12:51:26:000767 main INFO TC_CrudOperation_AccountList_AccountManagement:363 - Clicked on Approve  Submit button on Approve Dialog
+2023-11-23 12:51:26:000783 main INFO TC_CrudOperation_AccountList_AccountManagement:365 - Progress Spinner...Center
+2023-11-23 12:51:27:000921 main INFO TC_CrudOperation_AccountList_AccountManagement:368 - Approved Successfully PASSED!
+2023-11-23 12:51:27:000921 main INFO TC_CrudOperation_AccountList_AccountManagement:374 - //========================================EDIT SCENARIO START=======================================
+2023-11-23 12:51:36:000784 main INFO TC_CrudOperation_AccountList_AccountManagement:380 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:51:39:000914 main INFO TC_CrudOperation_AccountList_AccountManagement:389 - Click On Edit AutoTestObject PASSED!!!
+2023-11-23 12:51:42:000221 main INFO TC_CrudOperation_AccountList_AccountManagement:399 - Clicked on Add Button is PASSED!!
+2023-11-23 12:51:43:000339 main INFO TC_CrudOperation_AccountList_AccountManagement:409 - Selected One Account is PASSED!!
+2023-11-23 12:51:44:000464 main INFO TC_CrudOperation_AccountList_AccountManagement:417 - Clicked on Save btn in FirstName In PASSED!!
+2023-11-23 12:51:47:000985 main INFO TC_CrudOperation_AccountList_AccountManagement:424 - =============================================RENAME SCENARIO START====================================
+2023-11-23 12:51:51:000953 main INFO TC_CrudOperation_AccountList_AccountManagement:428 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:51:53:000048 main INFO TC_CrudOperation_AccountList_AccountManagement:437 - Click On Rename AutoTestObject PASSED!!!
+2023-11-23 12:51:54:000283 main INFO TC_CrudOperation_AccountList_AccountManagement:446 - Input on Rename AutoTestObject!!!
+2023-11-23 12:51:55:000393 main INFO TC_CrudOperation_AccountList_AccountManagement:455 - Click on RenameBtn AutoTestObject PASSED!!!
+2023-11-23 12:52:01:000558 main INFO TC_CrudOperation_AccountList_AccountManagement:594 - Renaming AutoTestObject PASSED!!!
+2023-11-23 12:52:06:000548 main INFO TC_CrudOperation_AccountList_AccountManagement:604 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 12:52:06:000548 main INFO TC_CrudOperation_AccountList_AccountManagement:610 - //===============================CLONE SCENARIO START========================================
+2023-11-23 12:52:06:000728 main INFO TC_CrudOperation_AccountList_AccountManagement:613 - Click On Clone in Renamed AutoTestObject PASSED!!
+2023-11-23 12:52:06:000840 main INFO TC_CrudOperation_AccountList_AccountManagement:622 - Click On Clone Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 12:52:10:000681 main INFO TC_CrudOperation_AccountList_AccountManagement:630 - Cloning RenamedAutoTestObject PASSED!!!
+2023-11-23 12:52:14:000641 main INFO TC_CrudOperation_AccountList_AccountManagement:640 - RightClick On ClonedAutoTestObject PASSED!!!
+2023-11-23 12:52:14:000641 main INFO TC_CrudOperation_AccountList_AccountManagement:646 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+2023-11-23 12:52:14:000718 main INFO TC_CrudOperation_AccountList_AccountManagement:649 - Click On Delete Btn in Cloned AutoTestObject PASSED!!!
+2023-11-23 12:52:14:000821 main INFO TC_CrudOperation_AccountList_AccountManagement:657 - Click On Delete Btn in Cloned AutoTestObject PASSED!!!
+2023-11-23 12:52:16:000904 main INFO TC_CrudOperation_AccountList_AccountManagement:666 -  Display ClonedAutoTestObject Deleted successfully PASSED!!!
+2023-11-23 12:52:29:000388 main INFO TC_CrudOperation_AccountList_AccountManagement:677 - RightClick On RenamedAutoTestObject!!!
+2023-11-23 12:52:29:000388 main INFO TC_CrudOperation_AccountList_AccountManagement:684 - //===============================MOVE OBJECT SCENARIO START========================================
+2023-11-23 12:52:34:000701 main INFO TC_CrudOperation_AccountList_AccountManagement:689 - Click On Move Renamed AutoTestObject PASSED!!!
+2023-11-23 12:52:39:000289 main INFO TC_CrudOperation_AccountList_AccountManagement:699 - Select Folder in MoveAEtoSDR!!!
+2023-11-23 12:52:54:000403 main INFO TC_CrudOperation_AccountList_AccountManagement:738 - Click On MoveBtn!!!
+2023-11-23 12:52:59:000418 main INFO TC_CrudOperation_AccountList_AccountManagement:746 - Waited 5 Seconds to Reload!!!
+2023-11-23 12:53:10:000142 main INFO TC_CrudOperation_AccountList_AccountManagement:752 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 12:53:10:000142 main INFO TC_CrudOperation_AccountList_AccountManagement:758 - //===============================DELETE OBJECT SCENARIO START========================================
+2023-11-23 12:53:15:000019 main INFO TC_CrudOperation_AccountList_AccountManagement:762 - Click On Delete Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 12:53:19:000238 main INFO TC_CrudOperation_AccountList_AccountManagement:771 - Click On Delete Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 12:53:20:000002 main INFO TC_CrudOperation_AccountList_AccountManagement:780 - Display Renamed AutoTestObject Deleted  PASSED!!!
+2023-11-23 12:55:53:000014 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 12:55:53:000035 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 12:55:53:000035 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 12:55:53:000035 main INFO BaseClass:133 - 1002
+2023-11-23 12:55:53:000035 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 12:55:53:000209 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 12:55:53:000381 main INFO BaseClass:138 - Entered Email
+2023-11-23 12:55:53:000516 main INFO BaseClass:140 - Entered Password
+2023-11-23 12:55:53:000611 main INFO BaseClass:142 - Click on Submit
+2023-11-23 12:55:55:000904 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:46 - Clicked on AccountManagement is Passed
+2023-11-23 12:55:56:000470 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:55 - Progressbar loading successfully PASSED!!
+2023-11-23 12:55:59:000780 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:65 - Clicked on Data Dictionary is Passed
+2023-11-23 12:56:00:000254 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:74 - Right Click on CRM Account Filter is Passed
+2023-11-23 12:56:01:000357 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:83 - Clicked on New CRM Account Filter is Passed
+2023-11-23 12:56:01:000358 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:89 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 12:56:01:000534 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:94 - Entered AutoTestName PASSED!!
+2023-11-23 12:56:02:000100 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:104 - Entered in Description
+2023-11-23 12:56:04:000200 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:114 - Clicked on Save Button NewCRM Account Filter is Passed
+2023-11-23 12:56:17:000138 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:231 - Refreshing The Page!!
+2023-11-23 12:56:58:000868 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:265 - Clicked on AccountAttr PASSED!!
+2023-11-23 12:56:58:000868 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:272 - ============================================ DRAG&DROP ACOUNT_NAME ATTRIBUTE================================//
+2023-11-23 12:57:02:000797 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:276 - AccountName_DND PASSED!!
+2023-11-23 12:57:07:000469 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:287 - Click on AccountName Starts With PASSED!!
+2023-11-23 12:57:09:000206 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:296 - Input on AccountName Starts With PASSED!!
+2023-11-23 12:57:11:000216 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:304 - //======================================= DRAG&DROP ANNUAL_REVENUE ATTRIBUTE===============================//
+2023-11-23 12:57:11:000955 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:307 - AnnualRevenue_ DND PASSED!!
+2023-11-23 12:57:14:000126 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:320 - Clicked On AnnualRevenue IsNotEmpty PASSED!!
+2023-11-23 12:57:14:000158 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:329 - Input in IsNotEmpty is ReadOnly PASSED!!
+2023-11-23 12:57:16:000677 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:337 - //====================================== DRAG&DROP CREATED_DATE ATTRIBUTE=================================//
+2023-11-23 12:57:16:000711 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:340 - Scrolling to CreatedDate
+2023-11-23 12:57:18:000916 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:345 - DragAndDrop CreatedDate is PASSED!!
+2023-11-23 12:57:23:000124 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:356 - Clicked On Created Date Before PASSED!!
+2023-11-23 12:57:24:000258 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:364 - Clicked On Calendar Button PASSED!!
+2023-11-23 12:57:24:000902 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:368 - Clicked On Date
+2023-11-23 12:57:24:000902 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:369 - //===========================================ENTERING DETAILS PAGE======================================
+2023-11-23 12:57:27:000679 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:375 - Entering Details Page!!!
+2023-11-23 12:57:29:000286 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:379 - Clicked On Description Edit button
+2023-11-23 12:57:29:000688 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:382 - Input on Details TextArea
+2023-11-23 12:57:29:000767 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:384 - Clicked On Description Save button
+2023-11-23 12:57:31:000940 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:387 - Page Refresh Successfully
+2023-11-23 12:57:32:000608 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:391 - Progressbar loading for Left Side successfully PASSED!!
+2023-11-23 12:57:32:000630 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:400 - Progressbar loading for center successfully PASSED!!
+2023-11-23 12:57:32:000659 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:409 - Progressbar loading for Right Side successfully PASSED!!
+2023-11-23 12:57:40:000345 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:420 - Entering Details Page!!!
+2023-11-23 12:57:45:000412 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:429 - Description Message Updated successfully!
+2023-11-23 12:57:51:000528 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:436 - //======================================APPROVE SCENARIO START===================================//
+2023-11-23 12:57:56:000640 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:441 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:57:59:000940 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:450 - Clicked on Approve Button PASSED!!
+2023-11-23 12:58:03:000234 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:459 - Clicked on Approve  Submit button on Approve Dialog PASSED!!
+2023-11-23 12:58:04:000394 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:467 - Approved Successfully PASSED!
+2023-11-23 12:58:04:000394 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:473 - //============================================EDIT SCENARIO START======================================
+2023-11-23 12:58:15:000557 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:479 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:58:19:000686 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:489 - Click On Edit AutoTestObject!!!
+2023-11-23 12:58:20:000144 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:499 - Progressbar loading for center successfully PASSED!!
+2023-11-23 12:58:28:000245 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:509 - Click on AccountName NotIn PASSED!!
+2023-11-23 12:58:36:000387 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:518 - Click on AccountName NotIn Add btn PASSED!!
+2023-11-23 12:58:36:000399 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:527 - Progressbar loading successfully PASSED!!
+2023-11-23 12:58:37:000636 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:537 - Clicked on AccountName Intro PASSED!!
+2023-11-23 12:58:38:000288 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:545 - Clicked on Save btn in AccountNameNotIn PASSED!!
+2023-11-23 12:58:39:000797 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:552 - //=======================================RENAME SCENARIO START================================//
+2023-11-23 12:58:40:000272 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:555 - RightClick On AutoTestObject PASSED!!
+2023-11-23 12:58:40:000991 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:564 - Click On Rename AutoTestObject PASSED!!!
+2023-11-23 12:58:42:000238 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:574 - Input on Rename AutoTestObject!!!
+2023-11-23 12:58:44:000360 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:584 - Click on RenameBtn AutoTestObject PASSED!!!
+2023-11-23 12:58:52:000518 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:726 - Renaming AutoTestObject PASSED!!!
+2023-11-23 12:58:57:000025 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:734 - //=============================================CLONE SCENARIO START==================================//
+2023-11-23 12:58:57:000499 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:737 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 12:59:01:000426 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:746 - Click On Clone in RenamedAutoTestObject PASSED!!!
+2023-11-23 12:59:06:000076 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:756 - Click On Clone Btn in RenamedAutoTestObject PASSED!!!
+2023-11-23 12:59:10:000633 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:766 - Cloning RenamedAutoTestObject PASSED!!!
+2023-11-23 12:59:15:000141 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:776 - RightClick On ClonedAutoTestObject PASSED!!!
+2023-11-23 12:59:15:000141 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:783 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+2023-11-23 12:59:15:000215 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:786 - Click On Delete Btn in Clone AutoTestObject!!!
+2023-11-23 12:59:15:000336 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:794 - Click On Delete Btn in Clone AutoTestObject!!!
+2023-11-23 12:59:16:000271 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:803 -  Display Cloned AutoTestObject Deleted successfully PASSED!!!
+2023-11-23 12:59:26:000753 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:816 - RightClick On RenamedAutoTestObject!!!
+2023-11-23 12:59:26:000754 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:823 - //===============================MOVE OBJECT SCENARIO START========================================
+2023-11-23 12:59:32:000957 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:827 - Click On Move Renamed AutoTestObject!!!
+2023-11-23 12:59:37:000047 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:836 - Select Folder in CRMaccountFilter!!!
+2023-11-23 12:59:38:000084 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:883 - Click On MoveBtn!!!
+2023-11-23 12:59:38:000285 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:894 - Progressbar loading for Right Side successfully PASSED!!
+2023-11-23 12:59:45:000394 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:901 - Waited 5 Seconds to Reload!!!
+2023-11-23 12:59:51:000097 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:906 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 12:59:51:000097 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:912 - //===============================DELETE OBJECT SCENARIO START========================================
+2023-11-23 12:59:56:000281 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:916 - Click On Delete Btn in Clone AutoTestObjectAutoTestWST!!!
+2023-11-23 13:00:00:000927 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:925 - Click On Delete Btn in Clone AutoTestObject!!!
+2023-11-23 13:00:01:000792 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:934 - Display AutoTestObject Deleted  PASSED!!!
+2023-11-23 13:02:15:000895 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 13:02:15:000916 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 13:02:15:000917 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 13:02:15:000917 main INFO BaseClass:133 - 1002
+2023-11-23 13:02:15:000917 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 13:02:16:000070 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 13:02:16:000228 main INFO BaseClass:138 - Entered Email
+2023-11-23 13:02:16:000345 main INFO BaseClass:140 - Entered Password
+2023-11-23 13:02:16:000439 main INFO BaseClass:142 - Click on Submit
+2023-11-23 13:02:18:000718 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:46 - Clicked on AccountManagement is Passed
+2023-11-23 13:02:19:000285 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:55 - Progressbar loading successfully PASSED!!
+2023-11-23 13:02:22:000597 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:65 - Clicked on Data Dictionary is Passed
+2023-11-23 13:02:23:000076 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:74 - Right Click on CRM Account Filter is Passed
+2023-11-23 13:02:24:000192 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:83 - Clicked on New CRM Account Filter is Passed
+2023-11-23 13:02:24:000193 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:89 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 13:02:24:000360 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:94 - Entered AutoTestName PASSED!!
+2023-11-23 13:02:24:000913 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:104 - Entered in Description
+2023-11-23 13:02:27:000010 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:114 - Clicked on Save Button NewCRM Account Filter is Passed
+2023-11-23 13:02:32:000078 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:125 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 13:02:34:000362 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:131 - Clicked on CRMaccountFilterDropDown passed
+2023-11-23 13:02:35:000883 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:142 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:02:39:000952 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:151 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 13:02:43:000087 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:160 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 13:02:47:000161 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:169 - Display AutoTestObject Copy Deleted  PASSED!!!
+2023-11-23 13:02:47:000161 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:176 - Creating New Object After Deleting Old One!!!
+2023-11-23 13:02:53:000442 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:181 - Right Click on CRM_AccFilter
+2023-11-23 13:02:58:000744 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:190 - Clicked on New CRM_AccFilter PASSED!!
+2023-11-23 13:03:03:000509 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:199 - Entered Random Name PASSED!!
+2023-11-23 13:03:06:000792 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:208 - Entered in Description
+2023-11-23 13:03:08:000907 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:217 - Clicked on Save Btn AEtoSDR
+2023-11-23 13:03:14:000016 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:231 - Refreshing The Page!!
+2023-11-23 13:03:55:000761 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:265 - Clicked on AccountAttr PASSED!!
+2023-11-23 13:03:55:000761 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:272 - ============================================ DRAG&DROP ACOUNT_NAME ATTRIBUTE================================//
+2023-11-23 13:03:59:000713 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:276 - AccountName_DND PASSED!!
+2023-11-23 13:04:04:000349 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:287 - Click on AccountName Starts With PASSED!!
+2023-11-23 13:04:06:000094 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:296 - Input on AccountName Starts With PASSED!!
+2023-11-23 13:04:08:000109 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:304 - //======================================= DRAG&DROP ANNUAL_REVENUE ATTRIBUTE===============================//
+2023-11-23 13:04:08:000869 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:307 - AnnualRevenue_ DND PASSED!!
+2023-11-23 13:04:11:000010 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:320 - Clicked On AnnualRevenue IsNotEmpty PASSED!!
+2023-11-23 13:04:11:000046 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:329 - Input in IsNotEmpty is ReadOnly PASSED!!
+2023-11-23 13:04:13:000557 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:337 - //====================================== DRAG&DROP CREATED_DATE ATTRIBUTE=================================//
+2023-11-23 13:04:13:000581 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:340 - Scrolling to CreatedDate
+2023-11-23 13:04:15:000784 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:345 - DragAndDrop CreatedDate is PASSED!!
+2023-11-23 13:04:19:000950 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:356 - Clicked On Created Date Before PASSED!!
+2023-11-23 13:04:21:000073 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:364 - Clicked On Calendar Button PASSED!!
+2023-11-23 13:04:21:000681 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:368 - Clicked On Date
+2023-11-23 13:04:21:000681 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:369 - //===========================================ENTERING DETAILS PAGE======================================
+2023-11-23 13:04:24:000452 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:375 - Entering Details Page!!!
+2023-11-23 13:04:26:000051 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:379 - Clicked On Description Edit button
+2023-11-23 13:04:26:000435 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:382 - Input on Details TextArea
+2023-11-23 13:04:26:000522 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:384 - Clicked On Description Save button
+2023-11-23 13:04:28:000710 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:387 - Page Refresh Successfully
+2023-11-23 13:04:29:000374 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:391 - Progressbar loading for Left Side successfully PASSED!!
+2023-11-23 13:04:29:000400 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:400 - Progressbar loading for center successfully PASSED!!
+2023-11-23 13:04:29:000417 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:409 - Progressbar loading for Right Side successfully PASSED!!
+2023-11-23 13:04:37:000088 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:420 - Entering Details Page!!!
+2023-11-23 13:04:42:000144 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:429 - Description Message Updated successfully!
+2023-11-23 13:04:48:000257 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:436 - //======================================APPROVE SCENARIO START===================================//
+2023-11-23 13:04:53:000330 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:441 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:04:56:000624 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:450 - Clicked on Approve Button PASSED!!
+2023-11-23 13:04:59:000904 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:459 - Clicked on Approve  Submit button on Approve Dialog PASSED!!
+2023-11-23 13:05:01:000077 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:467 - Approved Successfully PASSED!
+2023-11-23 13:05:01:000077 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:473 - //============================================EDIT SCENARIO START======================================
+2023-11-23 13:05:12:000265 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:479 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:05:16:000399 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:489 - Click On Edit AutoTestObject!!!
+2023-11-23 13:05:16:000855 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:499 - Progressbar loading for center successfully PASSED!!
+2023-11-23 13:05:24:000963 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:509 - Click on AccountName NotIn PASSED!!
+2023-11-23 13:05:33:000089 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:518 - Click on AccountName NotIn Add btn PASSED!!
+2023-11-23 13:05:33:000103 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:527 - Progressbar loading successfully PASSED!!
+2023-11-23 13:05:34:000307 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:537 - Clicked on AccountName Intro PASSED!!
+2023-11-23 13:05:34:000962 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:545 - Clicked on Save btn in AccountNameNotIn PASSED!!
+2023-11-23 13:05:36:000471 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:552 - //=======================================RENAME SCENARIO START================================//
+2023-11-23 13:05:36:000942 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:555 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:05:37:000644 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:564 - Click On Rename AutoTestObject PASSED!!!
+2023-11-23 13:05:38:000884 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:574 - Input on Rename AutoTestObject!!!
+2023-11-23 13:05:40:000996 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:584 - Click on RenameBtn AutoTestObject PASSED!!!
+2023-11-23 13:05:49:000187 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:726 - Renaming AutoTestObject PASSED!!!
+2023-11-23 13:05:53:000691 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:734 - //=============================================CLONE SCENARIO START==================================//
+2023-11-23 13:05:54:000153 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:737 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 13:05:58:000063 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:746 - Click On Clone in RenamedAutoTestObject PASSED!!!
+2023-11-23 13:06:02:000676 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:756 - Click On Clone Btn in RenamedAutoTestObject PASSED!!!
+2023-11-23 13:06:08:000895 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:766 - Cloning RenamedAutoTestObject PASSED!!!
+2023-11-23 13:06:13:000387 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:776 - RightClick On ClonedAutoTestObject PASSED!!!
+2023-11-23 13:06:13:000388 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:783 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+2023-11-23 13:06:13:000466 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:786 - Click On Delete Btn in Clone AutoTestObject!!!
+2023-11-23 13:06:13:000582 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:794 - Click On Delete Btn in Clone AutoTestObject!!!
+2023-11-23 13:06:14:000522 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:803 -  Display Cloned AutoTestObject Deleted successfully PASSED!!!
+2023-11-23 13:06:25:000020 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:816 - RightClick On RenamedAutoTestObject!!!
+2023-11-23 13:06:25:000022 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:823 - //===============================MOVE OBJECT SCENARIO START========================================
+2023-11-23 13:06:31:000235 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:827 - Click On Move Renamed AutoTestObject!!!
+2023-11-23 13:06:35:000330 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:836 - Select Folder in CRMaccountFilter!!!
+2023-11-23 13:06:36:000373 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:883 - Click On MoveBtn!!!
+2023-11-23 13:06:36:000564 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:894 - Progressbar loading for Right Side successfully PASSED!!
+2023-11-23 13:06:43:000678 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:901 - Waited 5 Seconds to Reload!!!
+2023-11-23 13:06:48:000160 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:906 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 13:06:48:000160 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:912 - //===============================DELETE OBJECT SCENARIO START========================================
+2023-11-23 13:06:53:000358 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:916 - Click On Delete Btn in Clone AutoTestObjectAutoTestWST!!!
+2023-11-23 13:06:58:000004 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:925 - Click On Delete Btn in Clone AutoTestObject!!!
+2023-11-23 13:06:58:000874 main INFO TC_CrudOperation_CRMaccountFilter_AccountManagement:934 - Display AutoTestObject Deleted  PASSED!!!
+2023-11-23 13:12:21:000989 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 13:12:22:000010 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 13:12:22:000010 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 13:12:22:000010 main INFO BaseClass:133 - 1002
+2023-11-23 13:12:22:000010 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 13:12:22:000163 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 13:12:22:000309 main INFO BaseClass:138 - Entered Email
+2023-11-23 13:12:22:000438 main INFO BaseClass:140 - Entered Password
+2023-11-23 13:12:22:000528 main INFO BaseClass:142 - Click on Submit
+2023-11-23 13:12:24:000791 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:37 - Clicked on AccountManagement is Passed12
+2023-11-23 13:12:28:000901 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:46 - RightClickOnAccountRoutingTerritory is Passed
+2023-11-23 13:12:29:000577 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:55 - Clicked on New Account list PASSED!!
+2023-11-23 13:12:30:000087 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:63 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 13:12:30:000297 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:66 - Entered AutoTestName PASSED!!
+2023-11-23 13:12:31:000523 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:75 - Entered in Description
+2023-11-23 13:12:32:000637 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:84 - Clicked on Save Button NewWST
+2023-11-23 13:12:41:000566 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:190 - Refreshing The Page!!
+2023-11-23 13:13:16:000606 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:225 - //================================================AccoutList_DND Operation===============================================
+2023-11-23 13:13:19:000217 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:229 - ClickOn DataDictionary is Passed
+2023-11-23 13:13:21:000462 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:238 - AccoutList_DND is Passed
+2023-11-23 13:13:25:000844 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:249 - SelectAccountListOption is Passed
+2023-11-23 13:13:26:000956 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:258 - SelectAccountListValueDropDown is Passed
+2023-11-23 13:13:29:000062 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:267 - SelectAccountListValueOption is Passed
+2023-11-23 13:13:29:000062 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:273 - //================================================CRMaccountFilter_DND Operation===============================================
+2023-11-23 13:13:33:000279 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:278 - CRMaccountFilter_DND is Passed
+2023-11-23 13:13:39:000028 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:289 - SelectCRMaccountFilterOption is Passed
+2023-11-23 13:13:41:000265 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:298 - SelectCRMaccountFilterValueDropDown is Passed
+2023-11-23 13:13:44:000168 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:307 - SelectCRMaccountFilterValueOption is Passed
+2023-11-23 13:13:46:000681 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:314 - //================================================ENTERING DETAILS PAGE===============================================
+2023-11-23 13:13:49:000334 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:319 - Entering Details Page!!!
+2023-11-23 13:13:49:000417 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:326 - Clicked On Description Edit button
+2023-11-23 13:13:49:000769 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:329 - Input on Details TextArea
+2023-11-23 13:13:49:000853 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:331 - Clicked On Description Save button
+2023-11-23 13:14:02:000547 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:340 - Entering Details Page!!!
+2023-11-23 13:14:02:000586 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:348 - Description Message Updated successfully!
+2023-11-23 13:14:06:000094 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:355 - //=======================================APPROVE SCENARIO START======================================//
+2023-11-23 13:14:06:000589 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:359 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:14:08:000180 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:369 - Click On ApproveBtn AutoTestObject PASSED!!
+2023-11-23 13:14:09:000256 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:377 - Clicked on Approve  Submit button on Approve Dialog
+2023-11-23 13:14:09:000272 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:379 - Progress Spinner...Center
+2023-11-23 13:14:10:000401 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:382 - Approved Successfully PASSED!
+2023-11-23 13:14:10:000401 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:388 - //========================================EDIT SCENARIO START=======================================
+2023-11-23 13:14:19:000258 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:394 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:14:22:000375 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:403 - Click On Edit AutoTestObject PASSED!!!
+2023-11-23 13:14:23:000480 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:413 - EditSelectAccountListOption is Passed
+2023-11-23 13:14:24:000600 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:422 - EditSelectAccountListValueDropDown is Passed
+2023-11-23 13:14:25:000694 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:431 - EditSelectAccountListValueOption is Passed
+2023-11-23 13:14:25:000694 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:437 - //=======================================APPROVE SCENARIO START======================================//
+2023-11-23 13:14:35:000246 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:443 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:14:36:000836 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:453 - Click On ApproveBtn AutoTestObject PASSED!!
+2023-11-23 13:14:37:000908 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:461 - Clicked on Approve  Submit button on Approve Dialog
+2023-11-23 13:14:37:000925 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:463 - Progress Spinner...Center
+2023-11-23 13:14:39:000507 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:467 - Approved Successfully PASSED!
+2023-11-23 13:14:39:000507 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:474 - =============================================RENAME SCENARIO START====================================
+2023-11-23 13:14:40:000587 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:489 - Click On Rename AutoTestObject PASSED!!!
+2023-11-23 13:14:41:000812 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:498 - Input on Rename AutoTestObject!!!
+2023-11-23 13:14:42:000914 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:507 - Click on RenameBtn AutoTestObject PASSED!!!
+2023-11-23 13:15:04:000819 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:646 - Renaming AutoTestObject PASSED!!!
+2023-11-23 13:15:18:000605 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:658 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 13:15:18:000605 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:664 - //======================================CLONE SCENARIO START============================================
+2023-11-23 13:15:18:000788 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:667 - Click On Clone in Renamed AutoTestObject PASSED!!
+2023-11-23 13:15:18:000893 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:676 - Click On Clone Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 13:15:23:000760 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:684 - Cloning RenamedAutoTestObject PASSED!!!
+2023-11-23 13:15:27:000743 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:694 - RightClick On ClonedAutoTestObject PASSED!!!
+2023-11-23 13:15:27:000743 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:700 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+2023-11-23 13:15:27:000811 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:703 - Click On Delete Btn in Cloned AutoTestObject PASSED!!!
+2023-11-23 13:15:27:000920 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:711 - Click On Delete Btn in Cloned AutoTestObject PASSED!!!
+2023-11-23 13:15:30:000040 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:720 -  Display ClonedAutoTestObject Deleted successfully PASSED!!!
+2023-11-23 13:15:42:000523 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:731 - RightClick On RenamedAutoTestObject!!!
+2023-11-23 13:15:42:000523 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:738 - //===============================MOVE OBJECT SCENARIO START========================================
+2023-11-23 13:15:52:000630 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:743 - Click On Move Renamed AutoTestObject PASSED!!!
+2023-11-23 13:15:57:000227 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:753 - Select Folder in MoveAEtoSDR!!!
+2023-11-23 13:16:12:000346 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:792 - Click On MoveBtn!!!
+2023-11-23 13:16:17:000356 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:800 - Waited 5 Seconds to Reload!!!
+2023-11-23 13:16:26:000903 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:806 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 13:16:26:000903 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:812 - //===============================DELETE OBJECT SCENARIO START========================================
+2023-11-23 13:16:31:000789 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:816 - Click On Delete Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 13:16:35:000970 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:825 - Click On Delete Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 13:16:36:000716 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:834 - Display Renamed AutoTestObject Deleted  PASSED!!!
+2023-11-23 13:19:22:000460 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+2023-11-23 13:19:22:000490 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+2023-11-23 13:19:22:000491 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+2023-11-23 13:19:22:000491 main INFO BaseClass:133 - 1002
+2023-11-23 13:19:22:000493 main INFO BaseClass:134 - ganesh@leadangel.com
+2023-11-23 13:19:22:000640 main INFO BaseClass:136 - Entered ClientID
+2023-11-23 13:19:22:000804 main INFO BaseClass:138 - Entered Email
+2023-11-23 13:19:22:000926 main INFO BaseClass:140 - Entered Password
+2023-11-23 13:19:23:000004 main INFO BaseClass:142 - Click on Submit
+2023-11-23 13:19:25:000253 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:37 - Clicked on AccountManagement is Passed12
+2023-11-23 13:19:29:000896 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:46 - RightClickOnAccountRoutingTerritory is Passed
+2023-11-23 13:19:30:000566 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:55 - Clicked on New Account list PASSED!!
+2023-11-23 13:19:31:000081 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:63 - //===============================CREATE OBJECT SCENARIO START========================================!
+2023-11-23 13:19:31:000283 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:66 - Entered AutoTestName PASSED!!
+2023-11-23 13:19:32:000522 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:75 - Entered in Description
+2023-11-23 13:19:33:000635 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:84 - Clicked on Save Button NewWST
+2023-11-23 13:19:34:000221 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:93 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+2023-11-23 13:19:34:000370 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:97 - Clicked on AccountRoutingTerritoryDropDown passed
+2023-11-23 13:19:38:000723 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:106 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:19:38:000808 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:109 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 13:19:39:000227 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:118 - Click On Delete Btn in AutoTestObject!!!
+2023-11-23 13:19:40:000396 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:126 - Display AutoTestObject Copy Deleted  PASSED!!!
+2023-11-23 13:19:40:000396 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:133 - Creating New Object After Deleting Old One!!!
+2023-11-23 13:19:49:000387 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:140 - RightClickOnAccountRoutingTerritory is Passed
+2023-11-23 13:19:51:000501 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:150 - Clicked on New Account list PASSED!!
+2023-11-23 13:19:52:000632 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:159 - Entered Random Name PASSED!!
+2023-11-23 13:19:53:000192 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:168 - Entered in Description
+2023-11-23 13:19:53:000633 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:177 - Clicked on Save Btn AEtoSDR
+2023-11-23 13:19:58:000487 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:190 - Refreshing The Page!!
+2023-11-23 13:20:34:000030 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:225 - //================================================AccoutList_DND Operation===============================================
+2023-11-23 13:20:36:000653 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:229 - ClickOn DataDictionary is Passed
+2023-11-23 13:20:38:000871 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:238 - AccoutList_DND is Passed
+2023-11-23 13:20:43:000251 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:249 - SelectAccountListOption is Passed
+2023-11-23 13:20:44:000363 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:258 - SelectAccountListValueDropDown is Passed
+2023-11-23 13:20:46:000467 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:267 - SelectAccountListValueOption is Passed
+2023-11-23 13:20:46:000467 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:273 - //================================================CRMaccountFilter_DND Operation===============================================
+2023-11-23 13:20:50:000703 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:278 - CRMaccountFilter_DND is Passed
+2023-11-23 13:20:56:000467 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:289 - SelectCRMaccountFilterOption is Passed
+2023-11-23 13:20:58:000758 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:298 - SelectCRMaccountFilterValueDropDown is Passed
+2023-11-23 13:21:01:000660 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:307 - SelectCRMaccountFilterValueOption is Passed
+2023-11-23 13:21:04:000171 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:314 - //================================================ENTERING DETAILS PAGE===============================================
+2023-11-23 13:21:06:000824 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:319 - Entering Details Page!!!
+2023-11-23 13:21:06:000880 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:326 - Clicked On Description Edit button
+2023-11-23 13:21:07:000229 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:329 - Input on Details TextArea
+2023-11-23 13:21:07:000315 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:331 - Clicked On Description Save button
+2023-11-23 13:21:20:000037 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:340 - Entering Details Page!!!
+2023-11-23 13:21:20:000075 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:348 - Description Message Updated successfully!
+2023-11-23 13:21:23:000585 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:355 - //=======================================APPROVE SCENARIO START======================================//
+2023-11-23 13:21:24:000072 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:359 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:21:25:000651 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:369 - Click On ApproveBtn AutoTestObject PASSED!!
+2023-11-23 13:21:26:000737 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:377 - Clicked on Approve  Submit button on Approve Dialog
+2023-11-23 13:21:26:000750 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:379 - Progress Spinner...Center
+2023-11-23 13:21:27:000893 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:382 - Approved Successfully PASSED!
+2023-11-23 13:21:27:000893 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:388 - //========================================EDIT SCENARIO START=======================================
+2023-11-23 13:21:36:000739 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:394 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:21:39:000891 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:403 - Click On Edit AutoTestObject PASSED!!!
+2023-11-23 13:21:41:000005 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:413 - EditSelectAccountListOption is Passed
+2023-11-23 13:21:42:000123 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:422 - EditSelectAccountListValueDropDown is Passed
+2023-11-23 13:21:43:000214 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:431 - EditSelectAccountListValueOption is Passed
+2023-11-23 13:21:43:000214 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:437 - //=======================================APPROVE SCENARIO START======================================//
+2023-11-23 13:21:52:000788 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:443 - RightClick On AutoTestObject PASSED!!
+2023-11-23 13:21:54:000363 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:453 - Click On ApproveBtn AutoTestObject PASSED!!
+2023-11-23 13:21:55:000448 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:461 - Clicked on Approve  Submit button on Approve Dialog
+2023-11-23 13:21:55:000461 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:463 - Progress Spinner...Center
+2023-11-23 13:21:57:000036 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:467 - Approved Successfully PASSED!
+2023-11-23 13:21:57:000036 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:474 - =============================================RENAME SCENARIO START====================================
+2023-11-23 13:21:58:000139 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:489 - Click On Rename AutoTestObject PASSED!!!
+2023-11-23 13:21:59:000433 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:498 - Input on Rename AutoTestObject!!!
+2023-11-23 13:22:00:000523 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:507 - Click on RenameBtn AutoTestObject PASSED!!!
+2023-11-23 13:22:06:000866 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:646 - Renaming AutoTestObject PASSED!!!
+2023-11-23 13:22:16:000383 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:658 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 13:22:16:000390 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:664 - //======================================CLONE SCENARIO START============================================
+2023-11-23 13:22:16:000564 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:667 - Click On Clone in Renamed AutoTestObject PASSED!!
+2023-11-23 13:22:16:000669 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:676 - Click On Clone Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 13:22:20:000465 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:684 - Cloning RenamedAutoTestObject PASSED!!!
+2023-11-23 13:22:24:000429 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:694 - RightClick On ClonedAutoTestObject PASSED!!!
+2023-11-23 13:22:24:000429 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:700 - //===============================DELETE CLONED OBJECT SCENARIO START========================================!
+2023-11-23 13:22:24:000499 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:703 - Click On Delete Btn in Cloned AutoTestObject PASSED!!!
+2023-11-23 13:22:24:000598 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:711 - Click On Delete Btn in Cloned AutoTestObject PASSED!!!
+2023-11-23 13:22:26:000676 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:720 -  Display ClonedAutoTestObject Deleted successfully PASSED!!!
+2023-11-23 13:22:39:000145 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:731 - RightClick On RenamedAutoTestObject!!!
+2023-11-23 13:22:39:000146 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:738 - //===============================MOVE OBJECT SCENARIO START========================================
+2023-11-23 13:22:49:000264 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:743 - Click On Move Renamed AutoTestObject PASSED!!!
+2023-11-23 13:22:53:000865 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:753 - Select Folder in MoveAEtoSDR!!!
+2023-11-23 13:23:08:000968 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:792 - Click On MoveBtn!!!
+2023-11-23 13:23:13:000972 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:800 - Waited 5 Seconds to Reload!!!
+2023-11-23 13:23:23:000527 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:806 - RightClick On RenamedAutoTestObject PASSED!!!
+2023-11-23 13:23:23:000527 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:812 - //===============================DELETE OBJECT SCENARIO START========================================
+2023-11-23 13:23:28:000406 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:816 - Click On Delete Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 13:23:32:000602 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:825 - Click On Delete Btn in Renamed AutoTestObject PASSED!!!
+2023-11-23 13:23:33:000891 main INFO TC_CrudOperation_accountRoutingTeritorry_AccountManagement:834 - Display Renamed AutoTestObject Deleted  PASSED!!!

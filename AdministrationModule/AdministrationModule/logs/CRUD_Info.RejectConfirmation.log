@@ -1,0 +1,120 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:39 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:48 - Click on Notifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:57 - Click On OTSnotifications DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:66 - Click On RejectConfirmation is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:73 - =========================================  LeadRejectConfirmationTab Operation ======================================
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:77 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:86 - Click inside message body is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:96 - Bydefault texts are perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:163 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:167 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:176 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:213 - Select Lead is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:222 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:231 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:240 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:191 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:200 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:213 - Select Lead Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:222 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:231 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:240 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:250 - Enter Text Inside RejectConfirmation Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:263 - Selected all the text from the RejectConfirmation Message body
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:265 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:269 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:278 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:288 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:297 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:307 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:316 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:326 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:335 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:346 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:355 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:365 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:374 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:384 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:393 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:403 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:412 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:422 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:431 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:441 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:450 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:461 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:470 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:480 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:489 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:496 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:500 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:509 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:516 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:520 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:530 - Click inside message body is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:540 - Bydefault texts are perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:555 - Displayed hasPopup is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:108 - =========================================  ContactRejectConfirmationTab Operation=========================================
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:114 - Click on ContactRejectConfirmationTab is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:119 - Click On ContactRejctConfirmation Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:128 - Click On Continue Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:137 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:146 - Click inside message body is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:156 - Bydefault texts are perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:163 - ******************************************* snippet operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:167 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:176 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:213 - Select Contact is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:222 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:231 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:240 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:191 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:200 - Click On Select Object DropDown For Insert Value is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:213 - Select Contact Owner is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:222 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:231 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:240 - Click On Incert Button is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:250 - Enter Text Inside RejectConfirmation Message body is PASSED!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:263 - Selected all the text from the RejectConfirmation Message body
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:265 - ******************************************* Toolbar operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:269 - Click On Bold Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:278 - Displayed Selected Text Is Bold is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:288 - Click On Italic Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:297 - Displayed Selected Text Is Italic is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:307 - Click On Underline Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:316 - Displayed Selected Text Is Underlined is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:326 - Click On OrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:335 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:346 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:355 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:365 - Click On Indent Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:374 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:384 - Click On AlignJustify Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:393 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:403 - Click On AlignCenter Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:412 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:422 - Click On AlignLeft Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:431 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:441 - Click On AlignRight Button is PASSED
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:450 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:461 - Font size has been changed for all text is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:470 - Displayed Selected Text Font Size Has Been Changed to 7 is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:480 - Click On Undo Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:489 - The font size of the selected text reverted to the default size, So the undo operation is successfully completed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:496 - ******************************************* Save operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:500 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:509 - Displayed Success message is Passed!!
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:516 - ******************************************* Restore operation ***************************************
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:520 - Click On RestoreDefault Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:530 - Click inside message body is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:540 - Bydefault texts are perfrctly located in center of the Message Body is Passed
+Administration-2024-09-14 INFO TC_Sanity_RejectConfirmation_Administration:555 - Displayed hasPopup is Passed

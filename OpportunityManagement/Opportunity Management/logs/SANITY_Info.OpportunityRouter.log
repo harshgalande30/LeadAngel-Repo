@@ -1,0 +1,542 @@
+OpportunityManagement-2024-09-12 main INFO BaseClass:124 - ======================================= INFORMATION ======================================
+OpportunityManagement-2024-09-12 main INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+OpportunityManagement-2024-09-12 main INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+OpportunityManagement-2024-09-12 main INFO BaseClass:133 - 1667
+OpportunityManagement-2024-09-12 main INFO BaseClass:134 - ganesh@leadangel.com
+OpportunityManagement-2024-09-12 main INFO BaseClass:136 - Entered ClientID
+OpportunityManagement-2024-09-12 main INFO BaseClass:138 - Entered Email
+OpportunityManagement-2024-09-12 main INFO BaseClass:140 - Entered Password
+OpportunityManagement-2024-09-12 main INFO BaseClass:142 - Click on Submit
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:52 - Click on OpportunityManagement is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:61 - RightClick On OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:70 - Click on New OpportunityRouter is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:76 - //===============================CREATE OBJECT SCENARIO START========================================!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:80 - Enter AutoTestObject Name is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:89 - Enter Description is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:98 - Click on Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:243 - Refreshing The Page!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:276 - Click On DNDdiagram DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:285 - Minimize the Panner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:292 - *************************************** Decision Block DND ****************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:296 - Drag And Drop Decision block is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:305 - Connect StartBlock To DecisionBlock is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:312 - *************************************** Action Block DND ****************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:316 - Drag And Drop ActionBlock is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:325 - Connect DecisionBlock(No) To Action Block is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:332 - ********************************************* Update Data Value DND ****************************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:336 - Drag And Drop Update Data Value is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:345 - Connect ActionBlock To UpdateDataValue Block is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:352 - *************************************** UpdateToCRM DND ****************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:356 - Drag And Drop UpdateToCRM is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:365 - Connect Update Data Value Block To Update To CRM Block is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:372 - *************************************** Assignment Block DND And Random Split DND ****************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:376 - Drag And Drop AssignmentBlock is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:385 - Drag And Drop RandomSplit is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:395 - Connect UpdateToCRM To RandomSplit is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:404 - Connect RandomSlitA To AssignmentBlock is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:413 - Connect RandomSlitB To ActionBlock is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:422 - ConnectionRandomSlitC_To_UpdateDataValue is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:431 - Connect DecisionBlock(YES) To AssignmentBlock is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:438 - ***************************************Decision block Operation***************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:442 - Double Click On DecisionBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:451 - Enter Description is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:460 - Click On Data dictionary option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:469 - Click On AddButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:478 - Click On CustomFilter is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:487 - Enter CustomFilter is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:497 - Object Name Before Click NewTab Link: Test@18May24
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:501 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:517 - Object Name After Click NewTab Link: Test@18May24
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:521 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:535 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:545 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:554 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:555 - Decision Block Border Color is Verified and Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:563 - *********************************************ActionBlock Operation********************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:567 - Double Click On Action Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:576 - Enter Description is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:585 - Select On Call Webhook Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:594 - Select On Second ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:603 - Object Name Before Click NewTab Link: Webhook-oppo
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:607 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:623 - Object Name After Click NewTab Link: Webhook-oppo
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:627 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:641 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:651 - Click On Continue Processing radio button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:660 - Click On Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:669 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:670 - Action Block Border Color is Verified and Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:680 - Double Click On Action Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:689 - Click On StopProcessing radio button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:699 - Click On Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:708 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:709 - Action Block Border Color is Verified and Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:719 - Double Click On Action Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:728 - Select On Wait Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:737 - Select the Second ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:746 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:750 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:766 - Object Name After Click NewTab Link: AutoTestObject_Rename
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:770 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:784 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:794 - Click On Save Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:803 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:804 - Action Block Border Color is Verified and Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:813 - *********************************************Update Data Value  Operation****************************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:817 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:826 - Enter Description is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:835 - Click On AddField Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:847 - First ListBox Dropdown is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:859 - Select Amount option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Set to (Text/Number/Date) is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:917 - Enter Number For Amount is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:926 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:935 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:936 - UpdateDataValue BorderColor is Verified and Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:946 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select  is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Lookup with Account is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Account ID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Account Type is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1072 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1081 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1082 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1092 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Lookup with Opportunity Owner is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select ID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Company Name is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1072 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1081 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1082 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1092 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Use Formula to Update is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1126 - Select Account In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1137 - Select Opportunity In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1148 - Select OpportunityOwner In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:847 - First ListBox Dropdown is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:870 - Select AccountID option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Set to (Text/Number/Date) is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:957 - Enter Number For AccountID is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:966 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:975 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:976 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:986 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Lookup with Opportunity is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Opportunity ID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Opportunity Type is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1072 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1081 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1082 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1092 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select  is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select  is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Use Formula to Update is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1126 - Select Account In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1137 - Select Opportunity In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1148 - Select OpportunityOwner In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:847 - First ListBox Dropdown is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:881 - Select CreatedDate option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Set to (Text/Number/Date) is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:997 - Click On CreatedDate Calendar Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1006 - Click On Date is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1015 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1024 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1025 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1035 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Lookup with Opportunity is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Opportunity ID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Opportunity Type is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1072 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1081 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1082 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1092 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Lookup with Account is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Account ID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Account Type is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1072 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1081 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1082 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1092 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Lookup with Opportunity Owner is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select ID is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1049 - Click On Third ListBox dropdown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1062 - Select Company Name is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1072 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1081 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1082 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1092 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:893 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:905 - Select Use Formula to Update is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1126 - Select Account In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1137 - Select Opportunity In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1106 - Click On Insert Button Third ListBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1115 - Click On Select Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1148 - Select OpportunityOwner In Object DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1158 - Click On SelectField DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1167 - Click User Name In SelectField is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1176 - Click On Incert Button for Incert Value Popup is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1185 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1194 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1195 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1205 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:847 - First ListBox Dropdown is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1220 - Select Deleted is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1229 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1238 - Select True For Deleted Option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1247 - Select Second ListBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1256 - Select False For Deleted Option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1265 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1274 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1275 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1285 - Double Click On UpdateDataValue Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1296 - Click on CollapseAll is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1305 - Click on ExpandAll is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1314 - Click On Save Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1323 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1324 - UpdateDataValue BorderColor is Verified and  Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1332 - ********************************************* Assignment block Operation ****************************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1336 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1345 - Enter Description of Assignment block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1354 - Click RouteToLatestOwnerInTheCustomGroup CheckBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1363 - Displayed Route To Latest Owner In The Custom Group CheckBox Is Checked!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1373 - Click TriggerProcessOrFlowBuilder CheckBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1382 - Displayed Trigger Process Or Flow Builder CheckBox Is Checked!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1392 - Enter TextTriggerProcessOrFlowBuilder is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1401 - Click Send Notification Email CheckBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1410 - Displayed Send Notification Email CheckBox Is Checked!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1420 - Click SendNotificationEmail DropDown is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1429 - Object Name Before Click NewTab Link: FOpportunity
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1433 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1450 - Click On Detail Page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1458 - Object Name After Click NewTab Link: Opportunity: FOpportunity
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1476 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1487 - Click Slack Notification CheckBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1496 - Displayed Slack Notification CheckBox Is Checked!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1506 - Click Slack Notification Dropdown is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1515 - Object Name Before Click NewTab Link: OpportunityTest
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1519 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1536 - Click On Detail Page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1544 - Object Name After Click NewTab Link: Opportunity: OpportunityTest
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1562 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1573 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1610 - Select Assign to Sales Rep is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1706 - Click on main second Select DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1715 - Slect Option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1724 - Click Assign To AE mapped SDR instead CheckBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1733 - Click on AEtoSDR DropDown is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1742 - Object Name Before Click NewTab Link: AEtoSDR-1
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1746 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1762 - Object Name After Click NewTab Link: AEtoSDR-1
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1766 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1780 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1790 - Click AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1799 - Displayed AssignOnlyToUsersIfAvailableOnIntegratedCalendar CheckBox Is Checked is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1815 - Click Add Data Update Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1826 - Description DropDown For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1835 - Click On Description Option For AddDataUpdate is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1847 - Click On Select Box For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1857 - Select SetToText For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1866 - Enter Text For SetToText Option ForAddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1875 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1884 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1885 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1895 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1847 - Click On Select Box For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1906 - Select SetToAccountOwner For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1915 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1924 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1925 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1935 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1847 - Click On Select Box For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1946 - Select SetToOpportunityOwner For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1955 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1964 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1965 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1975 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1847 - Click On Select Box For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1986 - Select Set ToOwner Mapped SDR's ID For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1995 - Click On Select Box2 For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2004 - Select Option For AddDataUpdate is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2013 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2022 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2023 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2033 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1815 - Click Add Data Update Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2047 - Deleted DropDown For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2056 - Click On Deleted Option For AddDataUpdate is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2065 - Click On Select Box for Deleted In AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2074 - Select True For Deleted Option UpdateDataValue is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2083 - Click On Select Box for Deleted In AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2092 - Select False For Deleted Option UpdateDataValue is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2101 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2110 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2111 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2121 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1815 - Click Add Data Update Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2133 - Amount DropDown For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2142 - Click On Amount Option For AddDataUpdate is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2151 - Enter Number For Amount UpdateDataValue is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2160 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2169 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2170 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2180 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2259 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2268 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2269 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1588 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1597 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1610 - Select Assign to Sales Team is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1624 - Click on main second Select DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1633 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1637 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1653 - Object Name After Click NewTab Link: AutoTestObject_Rename
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1657 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1671 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1683 - Click AssignToPeopleWithCurrentlyActiveWorkingHours CheckBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1692 - Click IfNoOneIsAvailableHoldTheOpportunity CheckBox is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2259 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2268 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2269 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1588 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1597 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1610 - Select Assign to Weighted Sales Team is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1624 - Click on main second Select DropDown is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1633 - Object Name Before Click NewTab Link: AutoTestObject_Rename
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1637 - Click On Open In New Tab Link is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1653 - Object Name After Click NewTab Link: AutoTestObject_Rename
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1657 - Open in New tab link is properly redirected is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1671 - Swicth back to parent window is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2259 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2268 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2269 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1588 - Double Click On Assignment Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1597 - Click On DropDown AssignmentBlock is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:1610 - Select Do Not Assign is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2202 - Click On Cross Mark Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2211 - Click Add Data Update Button is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2220 - CreatedDate DropDown For AddDataUpdateButton is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2229 - Click On Created date Option For AddDataUpdate is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2238 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2247 - Click On Date is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2259 - Click On Save Button For AssignmentBlock is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2268 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2269 - AssignmentBlock Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2278 - *********************************************UpdateToCRM Operation********************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2282 - Double Click On UpdateToCRM Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2291 - Click On Description Of UpdateToCRM Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2300 - Click On SaveBtton Of UpdateToCRM Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2309 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2310 - UpdateToCRM Block Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2319 - *********************************************RandomSplit Operation****************************************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2323 - Double Click On RandomSplit Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2332 - Click On Description Of Random Split Block is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2341 - Write Value Inside PercentageAllocation For A is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2350 - Write Value Inside PercentageAllocation For B is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2359 - Write Value Inside PercentageAllocation For C is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2368 - Click On Save Button For RandomSplit is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2377 - true
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2378 - Display Random Split Border Colour is Verified and Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2390 - Click On Maximize Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2399 - Maximize the Panner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2408 - Move Blocks In Console is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2417 - Click On Manimize Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2425 - //========================================ENTERING DETAILS PAGE======================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2428 - Enter Details Page!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2432 - Click On Opportunity Router Feeder DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2441 - Select Opportunity Router Feeder Option is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2450 - Check Box For Opportunity Router Feeder is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2459 - Display Success For Opportunity Router Feeder is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2468 - Default Opportunity Owner DropDown is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2477 - Select Default Opportunity Owner Option is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2486 - CheckBox For Default Opportunity Owner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2495 - Display Success For Default Opportunity Owner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2504 - Data value update when routed to Default Opportunity Owner AddButton is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2515 - Data value update when routed to Default Opportunity Owner DropDown1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2526 - Click On Account option Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2537 - Click On AccountID Second List Box DropDown Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2547 - Select SetToText For Data value update in Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2556 - Enter Text For SetToText Option For Data value update in Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2565 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2574 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2537 - Click On AccountID Second List Box DropDown Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2585 - Select SetToAccountOwner For Data value update in Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2594 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2603 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2537 - Click On AccountID Second List Box DropDown Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2614 - Select SetToOpportunityOwner For Data value update in Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2623 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2632 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2537 - Click On AccountID Second List Box DropDown Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2643 - Select Set ToOwner Mapped SDR's ID For Data value update in Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2652 - Click On Select Box3 For Data value update in Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2661 - Select Option is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2670 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2679 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2515 - Data value update when routed to Default Opportunity Owner DropDown1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2693 - Click On Deleted option Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2702 - Click On SecondListBox DropDown Deleted Option DetailsPage is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2711 - Select True For Deleted Option Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2720 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2729 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2738 - Click On SecondListBox DropDown Deleted Option DetailsPage is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2747 - Select False For Deleted Option Details page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2756 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2765 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2515 - Data value update when routed to Default Opportunity Owner DropDown1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2777 - Click On Amount Option Details Page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2786 - Enter Number For Amount Details Page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2795 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2804 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2515 - Data value update when routed to Default Opportunity Owner DropDown1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2816 - Click On CreatedDate Option Details Page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2825 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2834 - Click On Date is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2843 - Click On Refresh Button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2852 - Displayed Previuos Selected Option is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2862 - Data value update when routed to Default Opportunity Owner DropDown1 is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2871 - Click On CreatedDate Option Details Page is Passed !!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2880 - Click On CreatedDate Calendar Button Box1 is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2889 - Click On Date is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2898 - Click on CheckBox For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2907 - Display Success For DataValueUpdateWhenRoutedToDefaultOpportunityOwner is Passed!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2918 - Click On Description Edit button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2921 - Enter text in TextArea is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2924 - Click On Description Save button is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2928 - Click On Copy Button is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2937 - Displayed Copied Success Message is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2946 - //==================================== OverView Page Opeartion Before approve  ==================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2950 - Click On Opportunity Router Feature is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2959 - Display OpportunityRouter OverView Page is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2969 - ***************** Column Header Check Box Operation ******************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2970 - Displayed Column Header Checkbox Is Not Disabled 
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2975 - Click On ColumnHeader CheckBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2984 - Displayed ColumnHeader CheckBox Is Checked is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:2995 - Displayed AutTestObject CheckBox Is Checked is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3008 - Displayed Delete Button is Enabled is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3018 - Uncheck the ColumnHeader CheckBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3028 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3041 - Displayed Delete Button is Disable is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3048 - ********************** Filter Operation *************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3052 - Enter Text In FilterBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3061 - Displayed AutoTestObject is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3070 - Displayed AutoTestObject CheckBox
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3073 - Displayed AutoTestObject Is Not Used is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3095 - Clear Test From The FilterBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3168 - ==================================== Approve ==================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3172 - Click on OpportunityRouter DropDown is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3181 - Click On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3190 - Click on Approve Button After EDIT is passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3193 - Click Again Approve button is passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3197 - Display Approved button is PASSED!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3204 - //========================================Delete Craft scenario=======================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3208 - RightClick On AutoTestObject is PASSED!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3217 - Click On Edit AutoTestObject is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3226 - Click On DeleteCraft buton is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3236 - Dispalying Verified Sign is PASSED!!!
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3243 - //==================================== OverView Page Opeartion After approved  ==================================
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3247 - Click On Opportunity Router Feature is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3256 - Display OpportunityRouter OverView Page is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3264 - *****************Verifying Column Header Check Is Disabled******************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3268 - Displayed Column Header Checkbox Is Disabled is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3276 - ********************** Filter Operation *************************
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3281 - Enter Text In FilterBox is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3290 - Displayed AutoTestObject is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3311 - Displayed AutoTestObject Is Used is Passed
+OpportunityManagement-2024-09-12 main INFO TC_Sanity_OpportunityRouter_OpportunityManagement:3322 - Clear Test From The FilterBox is Passed

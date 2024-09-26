@@ -1,0 +1,47 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:37 - Formatted Date and Time: 'Sep 14, 2024, 12:17'
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:42 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:51 - Click On AuditLog Fearure is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:58 - ************ Calender Operation *************
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:62 - Click On CalendarButton is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:71 - Click On Search Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:78 - ************ Search Operation *************
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:82 - Enter Login Date&Time in Search field is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:90 - ************ Verification Login Date and Time *************
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:95 - Fetch LoginTime from AuditLog is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:104 - Login date&Time: Sep 14, 2024, 12:17
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:105 - Fetched Login date&Time from AuditLog: Sep 14, 2024, 12:17:08 PM
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:106 - The date and time are matched
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:115 - ************ Login status Verification *************
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:119 - Displayed Login status is True
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:129 - Login status is :TRUE
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:136 - ************ Login Email Verification *************
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:141 - Click On Visibility Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:151 - Fetch EmailId From ActionsPopup is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:160 - Login EmailId :ganesh@leadangel.com
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:161 - Fetch EmailId From ActionsPopup :"emailaddress": "ganesh@leadangel.com"
+}
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:162 - Login EmailId is matched
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:171 - Click On Close Button From ActionsPopup is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:180 - Click On Close Icon from Search Field is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:187 - ************ Enteries PerPage Verification *************
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:191 - Click On Entries Per Page DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:221 - Select 10 is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:231 - 10 range label is matched
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:207 - Click On Items Per Page DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:221 - Select 20 is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:240 - 20 range label is matched
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:207 - Click On Items Per Page DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:221 - Select 50 is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:248 - 50 range label is matched
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:207 - Click On Items Per Page DropDown is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:221 - Select 100 is Passed
+Administration-2024-09-14 INFO TC_Sanity_AuditLog_Administration:256 - 100 range label is matched

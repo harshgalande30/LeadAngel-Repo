@@ -1,0 +1,46 @@
+Administration-2024-09-14 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-14 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-14 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-14 INFO BaseClass:132 - 1667
+Administration-2024-09-14 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-14 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-14 INFO BaseClass:137 - Entered Email
+Administration-2024-09-14 INFO BaseClass:139 - Entered Password
+Administration-2024-09-14 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:32 - Click on Administration is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:41 - Click On Preference is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:50 - Displyed Company Preference Icon is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:60 - Click On Company Preference is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:69 - Displayed Company Prefernce In Tabs Row is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:79 - Displayed Company Prefernce In Left Side Menu is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:87 - //***************************  Upload Logo Imagen  ***********************
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:93 - Click On Upload Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:102 - Displyed File Upload Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:115 - Displayed Company Logo ToolTip is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:124 - //********************************  Enter Company/Client Name ************************
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:128 - Enter Company/Client Name is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:138 - Displayed Company/client Name ToolTip is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:148 - //*********************************** Select TimeZone ************************
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:153 - Clear Selected TimeZone Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:165 - Click On Time Zone Drodown is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:174 - Select Time Zone Option is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:181 - //*******************************Edit Logo Image ************************
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:185 - Click On Edit Button For EditLogo is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:211 - Click On Upload Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:220 - Displyed File Upload Success Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:231 - Click On Save Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:240 - Displyed Updated Successfully Message is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:248 - Page is Refreshed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:251 - //*******************************Verification Company name ************************
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:255 - Click On Profile is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:263 - Company name Which we have Enter: Vyakar Technologies Private Limited India3
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:267 - Company name is matched
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:268 - Fetch company name from profile: Vyakar Technologies Private Limited India3
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:279 - Click On Domain Icon is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:286 - //*******************************Detail Tab ************************
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:290 - Click On Detail Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:322 - Click On CompanyPrefernce Tab is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:328 - //*******************************Delete Logo Image ************************
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:332 - Click On Delete Button is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:341 - Click On Delete Again is Passed
+Administration-2024-09-14 INFO TC_Sanity_CompanyPreference_Administration:350 - Displyed File Deleted Success Message is Passed

@@ -1,0 +1,109 @@
+PartnerLead-2024-09-14 INFO BaseClass:124 - ======================================= INFORMATION ======================================
+PartnerLead-2024-09-14 INFO BaseClass:131 - Login Scenario Started for ADMIN-USER
+PartnerLead-2024-09-14 INFO BaseClass:132 - https://app.leadangel.com/index.html#/
+PartnerLead-2024-09-14 INFO BaseClass:133 - 1002
+PartnerLead-2024-09-14 INFO BaseClass:134 - ganesh@leadangel.com
+PartnerLead-2024-09-14 INFO BaseClass:136 - Entered ClientID
+PartnerLead-2024-09-14 INFO BaseClass:138 - Entered Email
+PartnerLead-2024-09-14 INFO BaseClass:140 - Entered Password
+PartnerLead-2024-09-14 INFO BaseClass:142 - Click on Submit
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:45 - Click on PartnerLeadManagement is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:54 - Click on PartnerLeadRouting DropDown is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:62 - Right Click on Wait Condition is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:65 - Click on New Wait Condition is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:69 - Enter AutoTestObject Name is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:78 - Enter Description is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:86 - Click on Save Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:227 - Refreshing The Page!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:232 - Display WaitCondition Overview passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:236 - Click on WaitCondition DropDown is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:245 - Click On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:258 - Clicked on Wait Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:265 - //====================================== DRAG&DROP WAIT_FOR ATTRIBUTE===================================//
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:269 - Drag And Drop Wait For is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:278 - Input on WaitFor is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:287 - Displayed Input Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:304 - Select Minutes is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:313 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:304 - Select Hours is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:313 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:304 - Select Days is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:313 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:322 - //========================================= DRAG&DROP WAIT TILL  ATTRIBUTE================================//
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:326 - Drag and Drop WaitTill is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:335 - Click on CalendarButton is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:344 - Click On Date is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:353 - Displayed Input Box1 is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:363 - Click on Select Time is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:372 - Click On Time is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:381 - Click On Ok button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:390 - Displayed Input Box2 is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:398 - //====================================== DRAG&DROP WAIT FILTER ATTRIBUTE===============================//
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:402 - Drag And Drop WAIT FILTER is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:416 - Click On WaitFilter DropDown is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:428 - Select Wait filter returns true is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:437 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:447 - Click On WaitFilterSelect is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:458 - Object Name Before Click NewTab Link: 15/9WF_ReName
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:462 - Click On Open In New Tab Link is Passed !!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:478 - Object Name After Click NewTab Link: 15/9WF_ReName
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:482 - Open in New tab link is properly redirected is Passed !!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:496 - Swicth back to parent window is Passed !!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:519 - Displayed NgSelect Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:416 - Click On WaitFilter DropDown is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:428 - Select Wait filter returns false is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:437 - Displayed Select Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:447 - Click On WaitFilterSelect is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:509 - Click On WaitFilterOption is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:519 - Displayed NgSelect Box is not red
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:527 - *********************** Search Box and refresh Button Operation **************************
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:532 - Get Text from first drag and drop box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:541 - Enter Text in search box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:550 - Displayed text in toolist, which is entered in search box is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:559 - Click On Close Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:568 - Click On Refresh Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:577 - Click on Wait Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:587 - Click on DefaultFilter Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:596 - Select Custom FilterOption is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:605 - Input For CutomFilter Wait Condition is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:614 - Click on CollapseAll is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:623 - Click on ExpandAll is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:630 - //========================================ENTERING DETAILS PAGE======================================
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:633 - Click on Details Button is Passed!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:636 - Click On Description Edit button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:639 - Enter Description is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:642 - Click On Description Save button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:646 - Click On Copy Button is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:655 - Displayed Copied Success Message is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:663 - ==================================== Approve ==================================
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:667 - Click On draftbox is PASSED!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:675 - Click on Approve Button After EDIT is passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:678 - Click Again Approve button is passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:682 - Display Approved button is PASSED!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:689 - //========================================Delete Craft scenario=======================================
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:693 - RightClick On AutoTestObject is PASSED!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:702 - Click On Edit AutoTestObject is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:711 - Click On DeleteCraft buton is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:721 - Dispalying Verified Sign is PASSED!!!
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:730 - //==================================== OverView Page Opeartion  ==================================
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:734 - Click On WaitCondition Feature is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:743 - Display WaitCondition OverView Page is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:751 - ***************** Column Header Check Box Operation ******************
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:755 - Click On ColumnHeader CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:764 - Displayed ColumnHeader CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:775 - Displayed AutTestObject CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:788 - Displayed Delete Button is Enabled is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:798 - Click On ColumnHeader CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:808 - Displayed AutTestObject CheckBox Is Not Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:821 - Displayed Delete Button is Disable is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:829 - ********************** Filter Operation *************************
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:833 - Enter Text In FilterBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:842 - Displayed AutoTestObject is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:853 - Displayed AutoTestObject is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:874 - Clear Test From The FilterBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:883 - ********************** Delete AutoTestObject Operation *************************
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:887 - Click On AutTestObject CheckBox is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:896 - Displayed AutTestObject CheckBox Is Checked is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:906 - Click On Delete Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:915 - Click Again Delete Button is Passed
+PartnerLead-2024-09-14 INFO TC_Sanity_WaitCondition_PartnerLeadManagement:924 - Display Deleted success message is Passed

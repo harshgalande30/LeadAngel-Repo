@@ -1,0 +1,394 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:47 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:56 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:62 - //===============================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:66 - Right click on Email is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:75 - Click on New Email is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:84 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:93 - Select Router Type is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:102 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:248 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:256 - ===================================================Recipient_TO_  Operation===================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:257 - *************************************LeadOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:261 - Click On CheckBox For_Recipient_TO_LeadOwner is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:267 - ************************************* AccountOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:271 - Click On CheckBox For_Recipient_TO_AccountOwner is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:278 - *************************************LeadOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:283 - Click On CheckBox For_Recipient_TO_LeadOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:292 - Click Select DropDown For_Recipient_TO_LeadOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:301 - Object Name Before Click NewTab Link: test45
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:305 - Click On Open In New Tab Link is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:321 - Object Name After Click NewTab Link: test45
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:325 - Open in New tab link is properly redirected is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:339 - Swicth back to parent window is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:346 - *************************************AccountOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:350 - Click On CheckBox For_Recipient_TO_AccountOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:359 - Click Select DropDown For_Recipient_TO_AccountOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:368 - Object Name Before Click NewTab Link: test45
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:372 - Click On Open In New Tab Link is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:388 - Object Name After Click NewTab Link: test45
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:392 - Open in New tab link is properly redirected is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:406 - Swicth back to parent window is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:413 - ********************************************AccountTeam **********************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:417 - Click On CheckBox For_Recipient_TO_AccountTeam is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:426 - Click Select DropDown For_Recipient_TO_AccountTeam is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:435 - Select First Option For AccountTeam And NotifyBasedLookUpField is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:441 - *************************************Notify Based On The Lookup Field On Account ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:445 - Click On CheckBox For_Recipient_TO_NotifyBasedOnTheLookupFieldOnAccount is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:454 - Click Select DropDown For_Recipient_TO_NotifyBasedOnTheLookupFieldOnAccount is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:463 - Select First Option For Account Team And NotifyBasedLookUpField is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:470 - ************************************* OTS Broadcast Notification Recipients ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:474 - Check Box For_Recipient_TO_OTSBroadcastNotificationRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:483 - Enter EmailId For_Recipient_TO_OTSBroadcastNotificationRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:490 - *************************************Additional Recipients ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:494 - Click On Check Box For_Recipient_TO_AdditionalRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:503 - Enter MailID For_Recipient_TO_AdditionalRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:510 - ===================================================Recipient_CC_ Operation===================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:514 - Click On RecipientCC_DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:521 - *************************************LeadOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:525 - Click On CheckBox For_Recipient_CC_LeadOwner is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:532 - *************************************AccountOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:536 - Click On Check Box For_Recipient_CC_AccountOwner is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:542 - *************************************LeadOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:546 - Click On Check Box For_Recipient_CC_LeadOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:555 - Click Select DropDown For_Recipient_CC_LeadOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:564 - Select First Option For_Recipient_CC_LeadOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:571 - *************************************AccountOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:575 - Click On CheckBox For_Recipient_CC_AccountOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:584 - Click SelectDropDown For_Recipient_CC_AccountOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:593 - Select First Option For_Recipient_CC_AccountOwnerMappedSDR is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:599 - *************************************AccountTeam ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:603 - Click On CheckBox For_Recipient_CC_AccountTeam is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:612 - Click Select DropDown For_Recipient_CC_AccountTeam is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:621 - Select First Option For_Recipient_CC_AccountTeam is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:628 - *************************************Notify Based On The Lookup Field On Account ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:632 - Click On CheckBox For_Recipient_CC_NotifyBasedOnTheLookupField On Account is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:641 - Click Select DropDown For_Recipient_CC_NotifyBasedOnTheLookupField On Account is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:650 - Select First Option For_Recipient_CC_NotifyBasedOnTheLookupField On Account is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:657 - *************************************Additional Recipients ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:661 - Click On CheckBox For_Recipient_CC_AdditionalRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:670 - Enter MailID For_Recipient_CC_AdditionalRecipients is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:676 - =======================================================Subject====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:680 - Enter Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:689 - Click On Insert Snippet Button For Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:698 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:734 - Select Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:743 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:752 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:761 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:712 - Click On Insert Snippet Button For Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:721 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:734 - Select Account Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:743 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:752 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:761 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:712 - Click On Insert Snippet Button For Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:721 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:734 - Select Latest Campaign is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:743 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:752 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:761 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:712 - Click On Insert Snippet Button For Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:721 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:734 - Select Latest Campaign Member is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:743 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:752 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:761 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:712 - Click On Insert Snippet Button For Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:721 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:734 - Select Lead is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:743 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:752 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:761 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:712 - Click On Insert Snippet Button For Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:721 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:734 - Select Lead Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:743 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:752 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:761 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:712 - Click On Insert Snippet Button For Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:721 - Click On Select Object DropDown For Insert Value In Subject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:734 - Select URL is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:743 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:752 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:761 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:771 - =======================================================EmailBody====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:775 - Enter Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:784 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:794 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:830 - Select Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:839 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:848 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:857 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:808 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:817 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:830 - Select Account Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:839 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:848 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:857 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:808 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:817 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:830 - Select Latest Campaign is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:839 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:848 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:857 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:808 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:817 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:830 - Select Latest Campaign Member is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:839 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:848 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:857 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:808 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:817 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:830 - Select Lead is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:839 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:848 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:857 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:808 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:817 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:830 - Select Lead Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:839 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:848 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:857 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:808 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:817 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:830 - Select URL is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:839 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:848 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:857 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:866 - =======================================================Save====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:870 - Save Button For Email is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:879 - Displayed Saving Verification Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:888 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:891 - ====================================================Verification of Recipient_TO_ Operation==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:894 - *************************************Verification LeadOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:897 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:898 - Veryfy CheckBox For_Recipient_TO_LeadOwner is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:906 - *************************************Verification AccountOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:910 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:911 - Verify CheckBox For_Recipient_TO_AccountOwner is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:918 - *************************************Verification LeadOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:922 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:923 - Verify CheckBox For_Recipient_TO_LeadOwnerMappedSDR  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:933 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:934 - Verification Of Select TextBox Border For_Recipient_TO_LeadOwnerMappedSDR  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:941 - *************************************Verification AccountOwnerMappedSDR ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:945 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:946 - Verify CheckBox For_Recipient_TO_AccountOwnerMappedSDR  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:956 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:957 - Verification Of Select TextBox Border For_Recipient_TO_AccountOwnerMappedSDR  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:964 - *************************************Verification AccountTeam ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:968 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:969 - Verify CheckBox For_Recipient_TO_AccountTeam  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:979 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:980 - Verification Of Select TextBox Border For_Recipient_TO_AccountTeam  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:987 - *************************************Verification OTS Broadcast Notification Recipients****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:991 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:992 - Verify Check Box For_Recipient_TO_OTSBroadcastNotificationRecipients  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1002 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1003 - Verification Of Select TextBox Border For_Recipient_TO_OTSBroadcastNotificationRecipients  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1011 - *************************************Verification AdditionalRecipients****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1015 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1016 - Verify CheckBox For_Recipient_TO_AdditionalRecipients  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1026 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1027 - Verification Of Select TextBox Border For_Recipient_TO_AdditionalRecipients  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1035 - *************************************Verification NotifyBasedOnTheLookupFieldOnAccount****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1039 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1040 - Verify CheckBox For_Recipient_TO_NotifyBasedOnTheLookupField On Account  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1050 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1051 - Verification of Select TextBox Border For_Recipient_TO_NotifyBasedOnTheLookupField On Account  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1058 - ====================================================Verification of Recipient_CC_ Operation==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1062 - Click On RecipientCC_DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1069 - *************************************Verification LeadOwner ****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1072 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1073 - Verify CheckBox For_Recipient_CC_LeadOwner is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1080 - *************************************Verification AccountOwner****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1084 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1085 - Verify CheckBox For_Recipient_CC_AccountOwner is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1092 - *************************************Verification LeadOwnerMappedSDR****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1096 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1097 - Verify CheckBox For_Recipient_CC_LeadOwnerMappedSDR is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1107 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1108 - Verification Of Select TextBox BorderFor_Recipient_CC_LeadOwnerMappedSDR is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1115 - *************************************Verification AccountOwnerMappedSDR****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1119 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1120 - Verify CheckBox For_Recipient_CC_AccountOwnerMappedSDR is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1130 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1131 - Verification Of Select Text BoxBorder For_Recipient_CC_AccountOwnerMappedSDR is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1138 - *************************************Verification AccountTeam****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1142 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1143 - Verify CheckBox For_Recipient_CC_AccountTeam  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1153 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1154 - Verification Of SelectText BoxBorder For_Recipient_CC_AccountTeam is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1161 - *************************************Verification NotifyBasedOnTheLookupFieldOnAccount****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1165 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1166 - Verify CheckBox For_Recipient_CC_NotifyBasedOnTheLookupField On Account  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1176 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1177 - Verificatin Of Select TextBox Border For_Recipient_CC_NotifyBasedOnTheLookupField On Account is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1184 - *************************************Verification AdditionalRecipients****************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1188 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1189 - Verify CheckBox For_Recipient_CC_AdditionalRecipients is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1199 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1200 - Verification Of Select Text Box Border For_Recipient_CC_AdditionalRecipients  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1207 - ====================================================Verification of Subject==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1211 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1212 - Verification Of Subject TextBox Border For Subject  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1219 - ====================================================Verification of Email Body==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1223 - true
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1224 - Verification Of EmailBody TextBox Border For EmailBody  Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1231 - //*********************************************** Detail Tab *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1237 - Click On Detail Tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1246 - Click On Copy Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1255 - Displayed 'Id copied to clipboard' maessage is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1270 - Not showing 'Undefined' for Last Updated
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1281 - Not showing 'Undefined' for Last Updated By
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1288 - Display 'No Record Found' is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1296 - //==================================== OverView Page Opeartion Before Used  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1300 - Click On Email Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1309 - Display Email OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1319 - ***************** Column Header Check Box Operation ******************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1320 - Displayed Column Header Checkbox Is Not Disabled 
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1325 - Click On ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1334 - Displayed ColumnHeader CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1343 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1346 - Displayed LeadAutTestObject CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1359 - Displayed Delete Button is Enabled is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1369 - Uncheck the ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1377 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1380 - Displayed LeadAutTestObject CheckBox Is Not Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1393 - Displayed Delete Button is Disable is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1400 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1404 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1413 - Displayed LeadAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1422 - Displayed LeadAutoTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1425 - Displayed LeadAutoTestObject Is Not Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1447 - Clear Test From The FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1524 - //*********************************************** Make Use of this Object In OTS Router(LeadManagement) *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1528 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1537 - Click On LeadManagement from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1546 - Click On dropdown for lead Routing is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1555 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1564 - Click on New OTSrouter is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1573 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1582 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1591 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1600 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1604 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1613 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1622 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1631 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1687 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1696 - Click on New OTS Router is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1705 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1714 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1723 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1736 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1741 - Display OTS router Overview
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1745 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1754 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1768 - Click On DNDdiagram DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1774 - ******************** Decision Block DND************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1778 - Drag And Drop Decision Block is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1787 - Connect StartBlock_To_DecisionBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1796 - Double Click On DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1805 - Click On NewCustomerAccountListOption is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1814 - Click On AddButton is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1823 - Click On Save Button For DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1829 - ******************** OTS Assignment Block DND ***************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1833 - Drag And Drop AssignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1842 - Connect RandomSlitA_To_OTSassignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1851 - Double Click On OTS Assignment Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1861 - Click On Assignment Type DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1870 - Select LiveClaim Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1879 - Click On Assignment Option DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1888 - Select Option From Assignment Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1897 - Click On Email Notification CheckBox is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1906 - Click On Email Notification DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1915 - Select AutoTestEmailObject is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1924 - Click On Save Button For AssignmentBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1930 - *********************** Details Page ************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1934 - Enter Details Page is passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1943 - Default Lead Owner DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1952 - SelectDefaultLeadOwnerOption is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1961 - Click On Save Button For details Page OTS is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1970 - Display Success is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1977 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1981 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1990 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:1999 - Click again Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2008 - Displayed Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2014 - ********************* Go back to Email Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2018 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2027 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2036 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2045 - Click on Email DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2054 - Click On AutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2063 - Click On Detail Tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2073 - Click On UsedBy Dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2082 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2091 - Click On Delete Button from the detail tab	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2100 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2109 - Get Text From Error Message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2118 - Displayed 'Cannot delete,It is Used' Error message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2127 - ===================== Used By Operation in Details Page =====================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2133 - Fetch used by router name is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2140 - ********* Verify that the 'Used By' object module name and the left menu title are Same Or Not, Once clicking the 'Used By' Router name ************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2148 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2157 - Click Used By Router Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2167 - Get Menu Title From Left tree Menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2190 - Get Object Name From Details tab : AutoTestObject
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2199 - AutoTest Object Name matched with the name from Details tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2207 - ********************* Go back to Email Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2211 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2220 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2229 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2238 - Click on Email DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2245 - ====================================================Crud operation==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2246 - ====================================================Rename Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2250 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2259 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2268 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2277 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2286 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2290 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2299 - Click On Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2308 - Click again Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2319 - Displayed 'Cannot Delete' Error Message
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2323 - Right Click On LeadRenameAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2332 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2343 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2352 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2363 - *******************************************Rename*********************************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2367 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2376 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2385 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2394 - Click on Rename button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2405 - ====================================================Clone Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2491 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2500 - Click On Clone option is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2509 - Click On Clone button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2518 - Displayed Cloned LeadRenameAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2525 - =======================================================Save CLONED OBJECT====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2529 - Save Button For Email is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2538 - Displayed Saving Verification Message is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2545 - ********************************DELETE CLONED OBJECT SCENARIO*********************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2549 - Click On Delete Button from the detail tab	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2558 - Click On Delete Button	is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2567 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2577 - //==================================== OverView Page Opeartion After approved  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2581 - Click On Email Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2590 - Display Email OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2599 - *****************Verifying Column Header Check Is Disabled******************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2611 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2616 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2625 - Displayed LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2647 - Displayed LeadAutoTestObjectRename Is Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_Email_Administration:2658 - Clear Test From The FilterBox is Passed

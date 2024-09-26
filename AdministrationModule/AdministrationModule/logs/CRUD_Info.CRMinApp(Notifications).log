@@ -1,0 +1,211 @@
+Administration-2024-09-13 INFO BaseClass:123 - ======================================= INFORMATION ======================================
+Administration-2024-09-13 INFO BaseClass:130 - Login Scenario Started for ADMIN-USER
+Administration-2024-09-13 INFO BaseClass:131 - https://app.leadangel.com/index.html#/
+Administration-2024-09-13 INFO BaseClass:132 - 1667
+Administration-2024-09-13 INFO BaseClass:133 - ganesh@leadangel.com
+Administration-2024-09-13 INFO BaseClass:135 - Entered ClientID
+Administration-2024-09-13 INFO BaseClass:137 - Entered Email
+Administration-2024-09-13 INFO BaseClass:139 - Entered Password
+Administration-2024-09-13 INFO BaseClass:141 - Click on Submit
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:51 - Click on Administration is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:60 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:66 - //===============================CREATE OBJECT SCENARIO START========================================!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:70 - RightClick on CRMinApp is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:79 - Click on NewCRMInApp is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:88 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:97 - Select Router Type Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:106 - Click On Save Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:253 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:260 - =======================================================Message Body====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:264 - Enter Message Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:273 - Click On Insert Snippet Button For Message Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:283 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:319 - Select Account is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:328 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:337 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:346 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:297 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:306 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:319 - Select Account Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:328 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:337 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:346 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:297 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:306 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:319 - Select Latest Campaign is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:328 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:337 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:346 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:297 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:306 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:319 - Select Latest Campaign Member is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:328 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:337 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:346 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:297 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:306 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:319 - Select Lead is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:328 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:337 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:346 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:297 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:306 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:319 - Select Lead Owner is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:328 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:337 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:346 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:297 - Click On Insert Snippet Button For Email Body is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:306 - Click On Select Object DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:319 - Select URL is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:328 - Click On Insert Value Select Field DropDown is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:337 - Click On Insert Value Select Field Option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:346 - Click On Incert Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:361 - Selected all the text from the message body input box
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:365 - Click On Bold Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:384 - Click On Italic Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:403 - Click On Underline Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:422 - Click On OrderedList Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:431 - Displayed Selected Text Is OrderedList is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:442 - Click On UnOrderedList Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:451 - Displayed Selected Text Is UnOrderedList is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:461 - Click On Indent Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:470 - Displayed Selected Text Is Indent is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:480 - Click On AlignJustify Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:489 - Displayed Selected Text Is AlignJustify is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:499 - Click On AlignCenter Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:508 - Displayed Selected Text Is AlignCenter is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:518 - Click On AlignLeft Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:527 - Displayed Selected Text Is AlignLeft is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:537 - Click On AlignRight Button is PASSED
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:546 - Displayed Selected Text Is AlignRight is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:557 - Font size has been changed for all text is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:576 - Click On Undo Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:595 - Click On Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:604 - Displayed Success message is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:613 - //==================================== OverView Page Opeartion  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:617 - Click On CRMinApp Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:626 - Display CRMinApp OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:636 - ***************** Column Header Check Box Operation ******************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:637 - Displayed Column Header Checkbox Is Not Disabled 
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:642 - Click On ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:651 - Displayed ColumnHeader CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:660 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:663 - Displayed LeadAutTestObject CheckBox Is Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:676 - Displayed Delete Button is Enabled is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:686 - Uncheck the ColumnHeader CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:694 - Displayed LeadAutTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:697 - Displayed LeadAutTestObject CheckBox Is Not Checked is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:710 - Displayed Delete Button is Disable is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:717 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:721 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:730 - Displayed LeadAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:739 - Displayed LeadAutoTestObject CheckBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:742 - Displayed LeadAutoTestObject Is Not Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:764 - Clear Test From The FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:841 - //*********************************************** Make Use of this Object In OTS Router(LeadManagement) *******************************************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:845 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:854 - Click On LeadManagement from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:863 - Click On dropdown for lead Routing is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:872 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:881 - Click on New OTSrouter is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:890 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:899 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:908 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:917 - Duplicate Object Found, Try to delete the Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:921 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:930 - RightClick On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:939 - Click On Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:948 - Click Again Delete button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1004 - Right Click on OTSrouter is passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1013 - Click on New OTS Router is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1022 - Enter AutoTestObject Name is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1031 - Enter Description is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1040 - Click on Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1053 - Refreshing The Page!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1058 - Display OTS router Overview
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1062 - Click on OTSrouter DropDown is passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1071 - Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1085 - Click On DNDdiagram DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1091 - ******************** Decision Block DND************************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1095 - Drag And Drop Decision Block is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1104 - Connect StartBlock_To_DecisionBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1113 - Double Click On DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1122 - Click On NewCustomerAccountListOption is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1131 - Click On AddButton is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1140 - Click On Save Button For DecisionBlock is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1146 - ******************** OTS Assignment Block DND ***************************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1150 - Drag And Drop AssignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1159 - Connect RandomSlitA_To_OTSassignmentBlock is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1168 - Double Click On OTS Assignment Block is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1178 - Click On Assignment Type DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1187 - Select LiveClaim Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1196 - Click On Assignment Option DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1205 - Select Option From Assignment Option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1214 - Click On CRMInApp Notification CheckBox is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1223 - Click On CRMInApp Notification DropDown is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1232 - Select AutoTestObject option is Passed !!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1241 - Click On Save Button For AssignmentBlock is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1250 - Enter Details Page is passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1259 - Default Lead Owner DropDown is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1268 - SelectDefaultLeadOwnerOption is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1277 - Click On Save Button For details Page OTS is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1286 - Display Success is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1293 - //===============================================APPROVE SCENARIO START========================================//
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1297 - Right Click On AutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1306 - Click on Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1315 - Click again Approve Button is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1324 - Displayed Approved button is PASSED!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1330 - ********************* Go back to CRMinApp Object In Administartion ********************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1334 - Click On DropDown For Menu tab is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1343 - Click On Administration from menu is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1352 - Click on Notifications DropDown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1361 - Click on CRMinApp Dropdown is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1368 - ========================================DELETE Operation after used in OTS router(Lead management)========================================
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1374 - RightClick On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1383 - Click On Delete Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1392 - Click again Delete Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1401 - Get Text From Error Message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1410 - Displayed 'Cannot delete,It is Used' Error message is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1419 - ====================================================Crud operation==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1420 - ====================================================Rename Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1424 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1433 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1442 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1451 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1460 - Duplicate Object Found, Deleting Object NOW!!! then Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1464 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1473 - Click On Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1482 - Click again Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1493 - Displayed 'Cannot Delete' Error Message
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1497 - Right Click On LeadRenameAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1506 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1517 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1526 - Click Rename Button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1538 - Creating New Object!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1540 - *******************************************Rename*********************************************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1544 - Right Click On LeadAutoTestObject is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1553 - Click on Rename option is PASSED!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1562 - Enter Rename is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1571 - Click on Rename button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1582 - ====================================================Clone Scenario==================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1668 - Right Click On LeadRenamedAutoTestObject is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1677 - Click On Clone option is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1686 - Click On Clone button is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1695 - Displayed Cloned LeadRenameAutoTestObject is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1702 - =======================================================Save CLONED OBJECT====================================================================
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1706 - Click On Save Button is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1715 - Displayed Success message is Passed!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1722 - ********************************DELETE CLONED OBJECT SCENARIO*********************************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1726 - Right Click On LeadAutoTestObjectRenameCopy Object is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1735 - Click On Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1744 - Click again Delete Button is Passed!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1753 - Display Cloned AutoTestObject Deleted successfully is PASSED!!!
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1763 - //==================================== OverView Page Opeartion After approved  ==================================
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1768 - Click On CRMinApp Feature is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1777 - Display CRMinApp OverView Page is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1786 - *****************Verifying Column Header Check Is Disabled******************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1798 - ********************** Filter Operation *************************
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1803 - Enter Text In FilterBox is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1812 - Displayed LeadAutoTestObjectRename is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1834 - Displayed LeadAutoTestObjectRename Is Used is Passed
+Administration-2024-09-13 INFO TC_CrudOperation_CRMinApp_Administration:1845 - Clear Test From The FilterBox is Passed
